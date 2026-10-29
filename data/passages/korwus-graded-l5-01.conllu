@@ -1,0 +1,301 @@
+# sent_id = korwus-graded-l5-01-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# newpar
+# text = 我在一家银行工作了八年，收入稳定，福利也不错。
+# translation = I worked at a bank for eight years, with a stable income and decent benefits.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	在	_	ADP	IN	_	5	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	一	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+4	家	_	NOUN	NNB	_	3	clf	_	Pinyin=jiā|Gloss=home|HanViet=gia
+5	银行	_	NOUN	NN	_	6	obl	_	Pinyin=yínháng|Gloss=bank|HanViet=ngân hàng,hạng|Trad=銀行
+6	工作	_	VERB	VV	_	0	root	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	八	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=bā|Gloss=eight|HanViet=bát
+9	年	_	NOUN	NNB	_	6	obl	_	Pinyin=nián|Gloss=year|HanViet=niên
+10	，	_	PUNCT	,	_	12	punct	_	_
+11	收入	_	NOUN	NN	_	12	nsubj	_	Pinyin=shōurù|Gloss=to take in|HanViet=thu nhập
+12	稳定	_	ADJ	JJ	_	6	parataxis	_	Pinyin=wěndìng|Gloss=steady|HanViet=ổn định|Trad=穩定
+13	，	_	PUNCT	,	_	16	punct	_	_
+14	福利	_	NOUN	NN	_	16	nsubj	_	Pinyin=fúlì|Gloss=benefit (provided by an employer or organization)|HanViet=phúc lợi
+15	也	_	SCONJ	RB	_	16	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+16	不错	_	ADJ	JJ	_	6	parataxis	_	Pinyin=bùcuò|Gloss=correct|HanViet=bất thác|Trad=不錯
+17	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l5-01-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 可是每天面对数字和表格，我越来越觉得自己的生活缺少意义。
+# translation = But facing numbers and spreadsheets every day, I increasingly felt that my life lacked meaning.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	可是	_	SCONJ	RB	_	10	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+2	每天	_	DET	DT	_	3	nsubj	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+3	面对	_	VERB	VV	_	10	advcl	_	Pinyin=miànduì|Gloss=to face; to confront|HanViet=diện đối|Trad=面對
+4	数字	_	NOUN	NN	_	3	obj	_	Pinyin=shùzì|Gloss=numeral|HanViet=số tự|Trad=數字
+5	和	_	CCONJ	CC	_	6	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+6	表格	_	NOUN	NN	_	4	conj	_	Pinyin=biǎogé|Gloss=form; table|HanViet=biểu cách
+7	，	_	PUNCT	,	_	3	punct	_	_
+8	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	越来越	_	ADV	RB	_	10	advmod	_	Pinyin=yuèláiyuè|Gloss=more and more|HanViet=việt lai việt|Trad=越來越
+10	觉得	_	VERB	VV	_	0	root	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+11	自己	_	PRON	PRD	_	13	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+12	的	_	PART	DEC	Case=Gen	11	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	生活	_	NOUN	NN	_	14	nsubj	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+14	缺少	_	VERB	VV	_	10	ccomp	_	Pinyin=quēshǎo|Gloss=lack|HanViet=khuyết thiểu
+15	意义	_	NOUN	NN	_	14	obj	_	Pinyin=yìyì|Gloss=sense|HanViet=ý nghĩa|Trad=意義
+16	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l5-01-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 三十五岁那年，我做了一个让家人吃惊的决定：辞职去学做面包。
+# translation = The year I turned thirty-five, I made a decision that surprised my family: I quit to learn how to make bread.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	三十五	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=sānshíwǔ|Gloss=三十 thirty + 五 five|GlossFrom=parts|HanViet=tam thập ngũ
+2	岁	_	NOUN	NNB	_	6	nmod:tmod	_	Pinyin=suì|Gloss=years old|HanViet=tuế|Trad=歲
+3	那年	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=nànián|Gloss=那 (specifier) that; the; those (colloquial pr. [nei4]) + 年 year|GlossFrom=parts|HanViet=na niên
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	做	_	VERB	VV	_	0	root	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	一	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+9	个	_	NOUN	NNB	_	8	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	让	_	VERB	VV	Voice=Cau	14	acl:relcl	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+11	家人	_	NOUN	NN	_	12	nsubj	_	Pinyin=jiārén|Gloss=family member|HanViet=gia nhân
+12	吃惊	_	ADJ	JJ	_	10	ccomp	_	Pinyin=chījīng|Gloss=to be startled|HanViet=cật kinh|Trad=吃驚
+13	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	决定	_	NOUN	NN	_	6	obj	_	Pinyin=juédìng|Gloss=to decide; to determine; to make up one's mind|HanViet=quyết định|Trad=決定
+15	：	_	PUNCT	:	_	16	punct	_	_
+16	辞职	_	VERB	VV	_	6	parataxis	_	Pinyin=cízhí|Gloss=to resign|HanViet=từ chức|Trad=辭職
+17	去学	_	VERB	VV	_	16	xcomp	_	Pinyin=qùxué|Gloss=去 to go + 学 to learn|GlossFrom=parts|HanViet=khứ,khử học|Trad=去學
+18	做	_	VERB	VV	_	17	xcomp	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+19	面包	_	NOUN	NN	_	18	obj	_	Pinyin=miànbāo|Gloss=bread|HanViet=miến bao|Trad=麵包
+20	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l5-01-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# newpar
+# text = 刚开始的时候，困难比我想象的多得多。
+# translation = At the beginning, the difficulties were far greater than I had imagined.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	刚	_	ADV	RB	_	2	advmod	_	Pinyin=gāng|Gloss=(literary) hard; firm; strong|HanViet=cương|Trad=剛
+2	开始	_	VERB	VV	_	4	acl:relcl	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	时候	_	NOUN	NN	_	10	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	困难	_	ADJ	JJ	_	8	advmod	_	Pinyin=kùnnán|Gloss=difficult|HanViet=khốn nan|Trad=困難
+7	比我	_	ADV	RB	_	8	advmod	_	Pinyin=bǐwǒ|Gloss=比 Belgium + 我 I; me; my|GlossFrom=parts|HanViet=tỷ,bỉ ngã
+8	想象	_	VERB	VV	_	10	csubj	_	Pinyin=xiǎngxiàng|Gloss=to imagine; to envision|HanViet=tưởng tượng
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	多得多	_	ADJ	JJ	_	0	root	_	Pinyin=duōdéduō|Gloss=多 many; much; more; a lot of + 得 to obtain + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=đa đắc đa
+11	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l5-01-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 我的手不够灵活，烤出来的面包不是太硬就是太软。
+# translation = My hands weren't nimble enough, and the bread I baked was either too hard or too soft.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	3	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	手	_	NOUN	NN	_	5	nsubj	_	Pinyin=shǒu|Gloss=hand|HanViet=thủ
+4	不够	_	ADV	RB	Polarity=Neg	5	advmod	_	Pinyin=bùgòu|Gloss=not enough|HanViet=bất cú|Trad=不夠
+5	灵活	_	ADJ	JJ	_	0	root	_	Pinyin=línghuó|Gloss=flexible|HanViet=linh hoạt|Trad=靈活
+6	，	_	PUNCT	,	_	14	punct	_	_
+7	烤	_	VERB	VV	_	10	acl:relcl	_	Pinyin=kǎo|Gloss=to roast; to grill; to broil; to bake; to toast (bread)|HanViet=khảo
+8	出来	_	VERB	VV	_	7	mark	_	Pinyin=chūlái|Gloss=to come out|HanViet=xuất lai|Trad=出來
+9	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	面包	_	NOUN	NN	_	14	nsubj	_	Pinyin=miànbāo|Gloss=bread|HanViet=miến bao|Trad=麵包
+11	不是	_	AUX	VC	Polarity=Neg	12	cop	_	Pinyin=búshì|Gloss=no|HanViet=_ thị
+12	太硬	_	ADJ	JJ	_	14	acl	_	Pinyin=tàiyìng|Gloss=太 highest + 硬 hard; stiff; solid|GlossFrom=parts|HanViet=thái ngạnh
+13	就是	_	AUX	VC	_	14	cop	_	Pinyin=jiùshì|Gloss=exactly; precisely|HanViet=tựu thị
+14	太软	_	ADJ	JJ	_	5	parataxis	_	Pinyin=tàiruǎn|Gloss=太 highest + 软 soft|GlossFrom=parts|HanViet=thái nhuyễn|Trad=太軟
+15	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l5-01-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 师傅比我小十岁，但他非常耐心，总是鼓励我不要放弃。
+# translation = My master was ten years younger than me, but he was very patient and always encouraged me not to give up.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	师傅	_	NOUN	NN	_	4	nsubj	_	Pinyin=shīfù|Gloss=master|HanViet=sư phó,phụ|Trad=師傅
+2	比	_	ADP	IN	_	3	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+3	我	_	PRON	PRP	Person=1	4	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	小	_	ADJ	JJ	_	0	root	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+5	十	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=shí|Gloss=ten|HanViet=thập
+6	岁	_	NOUN	NNB	_	4	obl	_	Pinyin=suì|Gloss=years old|HanViet=tuế|Trad=歲
+7	，	_	PUNCT	,	_	13	punct	_	_
+8	但	_	SCONJ	RB	_	11	mark	_	Pinyin=dàn|Gloss=but; yet; however; still|HanViet=đãn
+9	他	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+10	非常	_	ADV	RB	_	11	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+11	耐心	_	ADJ	JJ	_	13	advcl	_	Pinyin=nàixīn|Gloss=to be patient|HanViet=nại tâm
+12	，	_	PUNCT	,	_	11	punct	_	_
+13	总是	_	VERB	VC	_	4	parataxis	_	Pinyin=zǒngshì|Gloss=always|HanViet=tổng thị|Trad=總是
+14	鼓励	_	VERB	VV	_	13	xcomp	_	Pinyin=gǔlì|Gloss=to encourage|HanViet=cổ lệ|Trad=鼓勵
+15	我	_	PRON	PRP	Person=1	17	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+16	不要	_	AUX	MD	Polarity=Neg	17	aux	_	Pinyin=búyào|Gloss=don't!; must not|HanViet=_ yếu
+17	放弃	_	VERB	VV	_	14	ccomp	_	Pinyin=fàngqì|Gloss=to renounce; to abandon; to give up|HanViet=phóng khí|Trad=放棄
+18	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l5-01-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 为了提高技术，我每天早上四点就起床，反复练习。
+# translation = To improve my skills, I got up at four in the morning every day and practiced over and over.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	为了	_	ADP	IN	_	2	case	_	Pinyin=wèile|Gloss=for; for the purpose of; in order to|HanViet=vị,vì liễu|Trad=為了
+2	提高	_	VERB	VV	_	14	xcomp	_	Pinyin=tígāo|Gloss=to raise|HanViet=đề cao
+3	技术	_	NOUN	NN	_	2	obj	_	Pinyin=jìshù|Gloss=technology; technique; skill|HanViet=kỹ thuật|Trad=技術
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	我	_	PRON	PRP	Person=1	14	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	每天	_	DET	DT	_	9	det	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+7	早上	_	NOUN	NN	_	9	nmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+8	四	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=sì|Gloss=four|HanViet=tứ
+9	点	_	NOUN	NNB	_	11	obl	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+10	就	_	SCONJ	RB	_	11	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+11	起床	_	VERB	VV	_	14	advcl	_	Pinyin=qǐchuáng|Gloss=to get out of bed; to get up|HanViet=khởi sàng
+12	，	_	PUNCT	,	_	11	punct	_	_
+13	反复	_	ADV	RB	_	14	advmod	_	Pinyin=fǎnfù|Gloss=repeatedly|HanViet=phản phúc|Trad=反覆
+14	练习	_	VERB	VV	_	0	root	_	Pinyin=liànxí|Gloss=to practice|HanViet=luyện tập|Trad=練習
+15	。	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = korwus-graded-l5-01-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 经过两年的努力，我终于在小区附近开了一家面包店。
+# translation = After two years of hard work, I finally opened a bakery near my neighborhood.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	经过	_	ADP	IN	_	5	case	_	Pinyin=jīngguò|Gloss=to pass|HanViet=kinh quá,qua|Trad=經過
+2	两	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+3	年	_	NOUN	NNB	_	5	nmod	_	Pinyin=nián|Gloss=year|HanViet=niên
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	努力	_	NOUN	NN	_	12	obl	_	Pinyin=nǔlì|Gloss=to make an effort; to try hard; to strive|HanViet=nỗ lực
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	终于	_	ADV	RB	_	12	advmod	_	Pinyin=zhōngyú|Gloss=at last|HanViet=chung ư|Trad=終於
+9	在	_	VERB	VV	_	12	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+10	小区	_	NOUN	NN	_	11	nmod	_	Pinyin=xiǎoqū|Gloss=housing estate; community; neighborhood|HanViet=tiểu khu|Trad=小區
+11	附近	_	NOUN	NN	_	9	obj	_	Pinyin=fùjìn|Gloss=nearby; neighboring|HanViet=phụ cận
+12	开	_	VERB	VV	_	0	root	_	Pinyin=kāi|Gloss=to open (transitive or intransitive)|HanViet=khai|Trad=開
+13	了	_	AUX	AS	Aspect=Perf	12	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+14	一	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+15	家	_	NOUN	NNB	_	17	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+16	面包	_	NOUN	NN	_	17	compound	_	Pinyin=miànbāo|Gloss=bread|HanViet=miến bao|Trad=麵包
+17	店	_	PART	SFN	_	12	obj	_	Pinyin=diàn|Gloss=inn; old-style hotel (CL:家[jia1])|HanViet=điếm
+18	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l5-01-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 虽然现在的收入不如以前，但是我每天都过得很充实。
+# translation = Although my income now isn't as good as before, every day feels full and meaningful.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	虽然	_	ADP	IN	_	5	case	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+2	现在	_	NOUN	NN	_	4	nmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	收入	_	NOUN	NN	_	5	nsubj	_	Pinyin=shōurù|Gloss=to take in|HanViet=thu nhập
+5	不如	_	VERB	VV	Polarity=Neg	12	ccomp	_	Pinyin=bùrú|Gloss=not equal to; not as good as; inferior to|HanViet=bất như
+6	以前	_	NOUN	NN	_	5	obj	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+7	，	_	PUNCT	,	_	5	punct	_	_
+8	但是	_	SCONJ	RB	_	12	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+9	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	每天	_	DET	DT	_	12	nmod:tmod	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+11	都	_	SCONJ	RB	_	12	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+12	过	_	VERB	VV	_	0	root	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+13	得	_	PART	DEV	_	12	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+14	很	_	ADV	RB	_	15	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+15	充实	_	ADJ	JJ	_	12	xcomp	_	Pinyin=chōngshí|Gloss=rich|HanViet=sung thực|Trad=充實
+16	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l5-01-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 看到顾客满意的笑容，我觉得当初的选择是值得的。
+# translation = Seeing my customers' satisfied smiles, I feel that the choice I made back then was worth it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	看到	_	VERB	VV	_	0	root	_	Pinyin=kàndào|Gloss=to see|HanViet=khán đáo
+2	顾客	_	NOUN	NN	_	3	nsubj	_	Pinyin=gùkè|Gloss=customer; client|HanViet=cố khách|Trad=顧客
+3	满意	_	ADJ	JJ	_	5	amod	_	Pinyin=mǎnyì|Gloss=satisfied|HanViet=mãn ý|Trad=滿意
+4	的	_	SCONJ	DEC	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	笑容	_	NOUN	NN	_	1	obj	_	Pinyin=xiàoróng|Gloss=smile|HanViet=tiếu dung
+6	，	_	PUNCT	,	_	8	punct	_	_
+7	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	觉得	_	VERB	VV	_	1	parataxis	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+9	当初	_	NOUN	NN	_	11	nmod	_	Pinyin=dāngchū|Gloss=at that time|HanViet=đương,đang sơ|Trad=當初
+10	的	_	PART	DEC	Case=Gen	9	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	选择	_	NOUN	NN	_	12	nsubj	_	Pinyin=xuǎnzé|Gloss=to select; to pick|HanViet=tuyển trạch|Trad=選擇
+12	是	_	VERB	VC	_	8	ccomp	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+13	值得	_	VERB	VV	_	12	xcomp	_	Pinyin=zhíde|Gloss=worth the money|HanViet=trị đắc
+14	的	_	PART	UH	_	12	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l5-01-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 我想告诉那些犹豫的朋友，只要有勇气，改变永远不会太晚。
+# translation = I want to tell friends who are hesitating that as long as you have courage, it is never too late to change.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	想	_	AUX	MD	_	3	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+3	告诉	_	VERB	VV	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+4	那些	_	DET	DT	_	7	det	_	Pinyin=nàxiē|Gloss=those|HanViet=na ta
+5	犹豫	_	ADJ	JJ	_	7	amod	_	Pinyin=yóuyù|Gloss=to hesitate|HanViet=do dự|Trad=猶豫
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	朋友	_	NOUN	NN	_	3	obj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+8	，	_	PUNCT	,	_	13	punct	_	_
+9	只要	_	ADP	IN	_	10	case	_	Pinyin=zhǐyào|Gloss=so long as; provided; if|HanViet=chỉ yếu
+10	有	_	VERB	VV	_	13	xcomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+11	勇气	_	NOUN	NN	_	10	obj	_	Pinyin=yǒngqì|Gloss=courage|HanViet=dũng khí|Trad=勇氣
+12	，	_	PUNCT	,	_	10	punct	_	_
+13	改变	_	VERB	VV	_	3	parataxis	_	Pinyin=gǎibiàn|Gloss=to change|HanViet=cải biến|Trad=改變
+14	永远	_	ADV	RB	_	16	advmod	_	Pinyin=yǒngyuǎn|Gloss=forever|HanViet=vĩnh viễn|Trad=永遠
+15	不会	_	AUX	MD	Polarity=Neg	16	aux	_	Pinyin=búhuì|Gloss=improbable|HanViet=_ hội|Trad=不會
+16	太晚	_	ADJ	JJ	_	13	xcomp	_	Pinyin=tàiwǎn|Gloss=太 highest + 晚 evening|GlossFrom=parts|HanViet=thái vãn
+17	。	_	PUNCT	.	_	3	punct	_	_

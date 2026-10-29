@@ -1,0 +1,185 @@
+# sent_id = korwus-graded-l2-u11-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 昨天晚上，我的牙非常疼，晚饭都没有吃。
+# translation = Last night my tooth hurt a lot, and I didn't even eat dinner.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	昨天	_	NOUN	NN	_	2	nmod	_	Pinyin=zuótiān|Gloss=yesterday|HanViet=tạc thiên
+2	晚上	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	我	_	PRON	PRP	Person=1	6	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	牙	_	NOUN	NN	_	8	nsubj	_	Pinyin=yá|Gloss=tooth|HanViet=nha
+7	非常	_	ADV	RB	_	8	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+8	疼	_	ADJ	JJ	_	0	root	_	Pinyin=téng|Gloss=(it) hurts; sore|HanViet=đông
+9	，	_	PUNCT	,	_	12	punct	_	_
+10	晚饭	_	NOUN	NN	_	12	nsubj	_	Pinyin=wǎnfàn|Gloss=evening meal|HanViet=vãn phạn|Trad=晚飯
+11	都	_	SCONJ	RB	_	12	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+12	没有	_	VERB	VV	Polarity=Neg	8	parataxis	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+13	吃	_	VERB	VV	_	12	xcomp	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+14	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l2-u11-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我从小就不喜欢去医院。
+# translation = Ever since I was little, I haven't liked going to the hospital.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	从小	_	ADV	RB	_	5	advmod	_	Pinyin=cóngxiǎo|Gloss=from childhood; from a young age|HanViet=tòng,tùng tiểu|Trad=從小
+3	就	_	SCONJ	RB	_	5	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+4	不	_	ADV	RB	Polarity=Neg	5	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+5	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+6	去	_	VERB	VV	_	5	xcomp	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+7	医院	_	NOUN	NN	_	6	obj	_	Pinyin=yīyuàn|Gloss=hospital|HanViet=y viện|Trad=醫院
+8	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l2-u11-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我上网看了一下，想知道是什么问题。
+# translation = I looked online, wanting to know what the problem was.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	上网	_	VERB	VV	_	3	advcl	_	Pinyin=shàngwǎng|Gloss=to go online|HanViet=thượng võng|Trad=上網
+3	看	_	VERB	VV	_	8	advcl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+4	了	_	AUX	AS	Aspect=Perf	3	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	一下	_	ADJ	JJ	_	3	xcomp	_	Pinyin=yīxià|Gloss=(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)|HanViet=nhất hạ
+6	，	_	PUNCT	,	_	3	punct	_	_
+7	想	_	AUX	MD	_	8	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+8	知道	_	VERB	VV	_	0	root	_	Pinyin=zhīdào|Gloss=to know; to become aware of|HanViet=tri đạo
+9	是	_	AUX	VC	_	11	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+10	什么	_	PRON	WP	_	11	det	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+11	问题	_	NOUN	NN	_	8	xcomp	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+12	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l2-u11-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 第二天早上，我还是去医院了。
+# translation = The next morning, I went to the hospital anyway.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	第二	_	NUM	CD	NumType=Ord	3	nummod	_	Pinyin=dìèr|Gloss=second|HanViet=đệ nhị
+2	天	_	NOUN	NNB	_	1	clf	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+3	早上	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	还是	_	SCONJ	RB	_	7	mark	_	Pinyin=háishì|Gloss=still (as before)|HanViet=hoàn thị|Trad=還是
+7	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+8	医院	_	NOUN	NN	_	7	obj	_	Pinyin=yīyuàn|Gloss=hospital|HanViet=y viện|Trad=醫院
+9	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l2-u11-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我等了一会儿，医生就来了。
+# translation = I waited a while, and then the doctor came.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	等	_	VERB	VV	_	0	root	_	Pinyin=děng|Gloss=to wait for; to await|HanViet=đẳng
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	一会儿	_	NOUN	NN	_	2	obj	_	Pinyin=yīhuìr|Gloss=a moment|HanViet=nhất hội nhi|Trad=一會兒
+5	，	_	PUNCT	,	_	8	punct	_	_
+6	医生	_	NOUN	NN	_	8	nsubj	_	Pinyin=yīshēng|Gloss=doctor; medical practitioner|HanViet=y sinh|Trad=醫生
+7	就	_	SCONJ	RB	_	8	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+8	来	_	VERB	VV	_	2	parataxis	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+9	了	_	PART	UH	_	8	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l2-u11-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他看了一下我左边的牙，说没有大问题。
+# translation = He looked at my teeth on the left side and said it wasn't a big problem.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	一下	_	PRON	WP	_	8	det	_	Pinyin=yīxià|Gloss=(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)|HanViet=nhất hạ
+5	我	_	PRON	PRP	Person=1	8	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	左边	_	NOUN	NN	_	8	nmod	_	Pinyin=zuǒbiān|Gloss=left|HanViet=tả biên|Trad=左邊
+7	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	牙	_	NOUN	NN	_	2	obj	_	Pinyin=yá|Gloss=tooth|HanViet=nha
+9	，	_	PUNCT	,	_	8	punct	_	_
+10	说	_	VERB	VV	_	2	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+11	没有	_	VERB	VV	Polarity=Neg	10	xcomp	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+12	大	_	PART	PFA	_	13	case	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+13	问题	_	NOUN	NN	_	11	obj	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+14	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l2-u11-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 他给了我一些药，让我吃东西的时候慢一些。
+# translation = He gave me some medicine and told me to eat more slowly.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	8	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	给	_	VERB	VV	_	8	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	我	_	PRON	PRP	Person=1	6	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	一些	_	ADJ	JJ	_	6	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+6	药	_	NOUN	NN	_	2	obj	_	Pinyin=yào|Gloss=leaf of the iris|HanViet=dược|Trad=藥
+7	，	_	PUNCT	,	_	2	punct	_	_
+8	让	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+9	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	吃	_	VERB	VV	_	13	acl:relcl	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+11	东西	_	NOUN	NN	_	10	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+12	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	时候	_	NOUN	NN	_	14	nmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+14	慢	_	ADJ	JJ	_	8	ccomp	_	Pinyin=màn|Gloss=slow|HanViet=mạn
+15	一些	_	ADJ	JJ	_	14	xcomp	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+16	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l2-u11-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 快过年了，我希望过年的时候已经好了。
+# translation = It's almost New Year, and I hope I'll be better by then.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	快	_	ADV	RB	_	2	advmod	_	Pinyin=kuài|Gloss=rapid|HanViet=khoái
+2	过年	_	VERB	VV	_	11	advcl	_	Pinyin=guònián|Gloss=to celebrate the Chinese New Year|HanViet=quá,qua niên|Trad=過年
+3	了	_	PART	UH	_	2	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	希望	_	VERB	VV	_	11	advcl	_	Pinyin=xīwàng|Gloss=to hope|HanViet=hy vọng
+7	过年	_	VERB	VV	_	9	acl:relcl	_	Pinyin=guònián|Gloss=to celebrate the Chinese New Year|HanViet=quá,qua niên|Trad=過年
+8	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	时候	_	NOUN	NN	_	11	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+10	已经	_	ADV	RB	_	11	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+11	好	_	ADJ	JJ	_	0	root	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+12	了	_	PART	UH	_	11	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	。	_	PUNCT	.	_	11	punct	_	_

@@ -1,0 +1,358 @@
+# sent_id = korwus-graded-l4-06-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# newpar
+# text = 从上中学开始，我就养成了写日记的习惯，到现在已经坚持了十年。
+# translation = I got into the habit of keeping a diary when I started middle school, and I have kept it up for ten years now.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	从	_	ADP	IN	_	3	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+2	上	_	NOUN	NN	_	3	nmod	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+3	中学	_	NOUN	NN	_	4	obl	_	Pinyin=zhōngxué|Gloss=middle school|HanViet=trung học|Trad=中學
+4	开始	_	VERB	VV	_	18	ccomp	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	我	_	PRON	PRP	Person=1	18	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	就	_	SCONJ	RB	_	8	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+8	养成	_	VERB	VV	_	18	advcl	_	Pinyin=yǎngchéng|Gloss=to cultivate|HanViet=dưỡng thành|Trad=養成
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	写	_	VERB	VV	_	13	acl:relcl	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+11	日记	_	NOUN	NN	_	10	obj	_	Pinyin=rìjì|Gloss=diary|HanViet=nhật ký|Trad=日記
+12	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	习惯	_	NOUN	NN	_	8	obj	_	Pinyin=xíguàn|Gloss=habit|HanViet=tập quán|Trad=習慣
+14	，	_	PUNCT	,	_	8	punct	_	_
+15	到	_	ADP	IN	_	16	case	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+16	现在	_	NOUN	NN	_	18	obl	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+17	已经	_	ADV	RB	_	18	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+18	坚持	_	VERB	VV	_	0	root	_	Pinyin=jiānchí|Gloss=to persevere with|HanViet=kiên trì|Trad=堅持
+19	了	_	AUX	AS	Aspect=Perf	18	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+20	十	_	NUM	CD	NumType=Card	21	nummod	_	Pinyin=shí|Gloss=ten|HanViet=thập
+21	年	_	NOUN	NNB	_	18	obj	_	Pinyin=nián|Gloss=year|HanViet=niên
+22	。	_	PUNCT	.	_	18	punct	_	_
+
+# sent_id = korwus-graded-l4-06-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 一开始是因为老师要求我们每天写一篇日记，用来练习写文章。
+# translation = At first it was because our teacher required us to write a diary entry every day to practice writing essays.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	一	_	NUM	CD	NumType=Card	2	obl	_	Pinyin=yī|Gloss=one|HanViet=nhất
+2	开始	_	VERB	VV	_	3	csubj	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+3	是	_	VERB	VC	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	因为	_	ADP	IN	_	3	xcomp	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+5	老师	_	NOUN	NN	_	6	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+6	要求	_	VERB	VV	Voice=Cau	14	ccomp	_	Pinyin=yāoqiú|Gloss=to request|HanViet=yêu cầu
+7	我们	_	PRON	PRP	Number=Plur|Person=1	9	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+8	每天	_	DET	DT	_	9	nmod:tmod	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+9	写	_	VERB	VV	_	6	ccomp	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+10	一	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+11	篇	_	NOUN	NNB	_	10	clf	_	Pinyin=piān|Gloss=sheet|HanViet=thiên
+12	日记	_	NOUN	NN	_	9	obj	_	Pinyin=rìjì|Gloss=diary|HanViet=nhật ký|Trad=日記
+13	，	_	PUNCT	,	_	9	punct	_	_
+14	用来	_	VERB	VV	_	3	ccomp	_	Pinyin=yònglái|Gloss=to be used for|HanViet=dụng lai|Trad=用來
+15	练习	_	VERB	VV	_	14	xcomp	_	Pinyin=liànxí|Gloss=to practice|HanViet=luyện tập|Trad=練習
+16	写	_	VERB	VV	_	15	xcomp	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+17	文章	_	NOUN	NN	_	16	obj	_	Pinyin=wénzhāng|Gloss=article|HanViet=văn chương
+18	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l4-06-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 后来，即使老师不再检查，我也一直写了下去。
+# translation = Later, even when the teacher stopped checking, I kept on writing.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	后来	_	NOUN	NN	_	12	nmod:tmod	_	Pinyin=hòulái|Gloss=afterwards; later|HanViet=hậu lai|Trad=後來
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	即使	_	ADP	IN	_	7	case	_	Pinyin=jíshǐ|Gloss=even if; even though|HanViet=tức sử,sứ
+4	老师	_	NOUN	NN	_	7	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+5	不	_	ADV	RB	Polarity=Neg	7	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+6	再	_	ADV	RB	_	7	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+7	检查	_	VERB	VV	_	12	ccomp	_	Pinyin=jiǎnchá|Gloss=inspection|HanViet=kiểm tra|Trad=檢查
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	也	_	SCONJ	RB	_	12	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+11	一直	_	ADV	RB	_	12	advmod	_	Pinyin=yìzhí|Gloss=straight (in a straight line)|HanViet=nhất trực
+12	写	_	VERB	VV	_	0	root	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+13	了	_	AUX	AS	Aspect=Perf	12	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+14	下去	_	VERB	VV	_	12	mark	_	Pinyin=xiàqù|Gloss=to go down|HanViet=hạ khứ,khử
+15	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l4-06-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 我的日记内容很简单，主要写每天发生的事情和自己的心情。
+# translation = My diary is simple: it mainly records what happens each day and how I feel.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	日记	_	NOUN	NN	_	4	nmod	_	Pinyin=rìjì|Gloss=diary|HanViet=nhật ký|Trad=日記
+4	内容	_	NOUN	NN	_	6	nsubj	_	Pinyin=nèiróng|Gloss=content; substance; details|HanViet=nội dung|Trad=內容
+5	很	_	ADV	RB	_	6	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+6	简单	_	ADJ	JJ	_	0	root	_	Pinyin=jiǎndān|Gloss=simple; not complicated|HanViet=giản đơn,đan|Trad=簡單
+7	，	_	PUNCT	,	_	9	punct	_	_
+8	主要	_	ADV	RB	_	9	advmod	_	Pinyin=zhǔyào|Gloss=main; principal; major; primary|HanViet=chủ,chúa yếu
+9	写	_	VERB	VV	_	6	parataxis	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+10	每天	_	DET	DT	_	11	obl	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+11	发生	_	VERB	VV	_	13	acl:relcl	_	Pinyin=fāshēng|Gloss=to happen; to occur; to take place; to arise (e.g. 發生問題/发生问题[fa1 sheng1 wen4 ti2] "a problem arises")|HanViet=phát sinh|Trad=發生
+12	的	_	SCONJ	DEC	_	11	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	事情	_	NOUN	NN	_	9	obj	_	Pinyin=shìqíng|Gloss=affair; matter; thing; business|HanViet=sự tình
+14	和	_	CCONJ	CC	_	17	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+15	自己	_	PRON	PRD	_	17	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+16	的	_	PART	DEC	Case=Gen	15	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	心情	_	NOUN	NN	_	13	conj	_	Pinyin=xīnqíng|Gloss=mood; frame of mind|HanViet=tâm tình
+18	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l4-06-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 有时候是一次有趣的旅行，有时候是和朋友之间的误会。
+# translation = Sometimes it's an interesting trip, sometimes a misunderstanding with a friend.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	有	_	VERB	VV	_	10	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+2	时候	_	NOUN	NN	_	1	obj	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+3	是	_	AUX	VC	_	8	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+5	次	_	NOUN	NNB	_	4	clf	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+6	有趣	_	ADJ	JJ	_	8	amod	_	Pinyin=yǒuqù|Gloss=interesting; fascinating; amusing|HanViet=hữu thú
+7	的	_	SCONJ	DEC	_	6	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	旅行	_	NOUN	NN	_	10	advcl	_	Pinyin=lǚxíng|Gloss=to travel|HanViet=lữ hành,hạnh
+9	，	_	PUNCT	,	_	8	punct	_	_
+10	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+11	时候	_	NOUN	NN	_	17	nmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+12	是	_	AUX	VC	_	17	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+13	和	_	ADP	IN	_	14	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+14	朋友	_	NOUN	NN	_	17	nmod	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+15	之间	_	ADP	IN	_	17	case	_	Pinyin=zhījiān|Gloss=(after a noun) between; among; amid|HanViet=chi gian|Trad=之間
+16	的	_	PART	DEC	Case=Gen	17	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	误会	_	NOUN	NN	_	10	obj	_	Pinyin=wùhuì|Gloss=to misunderstand|HanViet=ngộ hội|Trad=誤會
+18	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l4-06-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 遇到烦恼的时候，把它写下来，心情就会轻松很多。
+# translation = When something is bothering me, writing it down makes me feel much more relaxed.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	遇到	_	VERB	VV	_	4	acl:relcl	_	Pinyin=yùdào|Gloss=to meet; to run into; to come across|HanViet=ngộ đáo
+2	烦恼	_	NOUN	NN	_	1	obj	_	Pinyin=fánnǎo|Gloss=to be worried|HanViet=phiền não|Trad=煩惱
+3	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	时候	_	NOUN	NN	_	15	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	把	_	ADP	BB	_	7	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+7	它	_	PRON	PRP	Person=3	8	obl:patient	_	Pinyin=tā|Gloss=it|HanViet=tha
+8	写	_	VERB	VV	_	15	ccomp	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+9	下来	_	VERB	VV	_	8	mark	_	Pinyin=xiàlái|Gloss=to come down|HanViet=hạ lai|Trad=下來
+10	，	_	PUNCT	,	_	8	punct	_	_
+11	心情	_	NOUN	NN	_	15	nsubj	_	Pinyin=xīnqíng|Gloss=mood; frame of mind|HanViet=tâm tình
+12	就	_	SCONJ	RB	_	15	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+13	会	_	AUX	MD	_	15	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+14	轻松	_	ADJ	JJ	_	15	amod	_	Pinyin=qīngsōng|Gloss=light|HanViet=khinh tông|Trad=輕鬆
+15	很多	_	ADJ	JJ	_	0	root	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+16	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = korwus-graded-l4-06-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 写日记还能帮助我整理自己的想法，让我更了解自己。
+# translation = Keeping a diary also helps me sort out my thoughts and understand myself better.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	写	_	VERB	VV	_	5	advcl	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+2	日记	_	NOUN	NN	_	1	obj	_	Pinyin=rìjì|Gloss=diary|HanViet=nhật ký|Trad=日記
+3	还	_	SCONJ	RB	_	5	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+4	能	_	AUX	MD	_	5	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+5	帮助	_	VERB	VV	_	0	root	_	Pinyin=bāngzhù|Gloss=assistance; aid|HanViet=bang trợ|Trad=幫助
+6	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	整理	_	VERB	VV	_	5	ccomp	_	Pinyin=zhěnglǐ|Gloss=to arrange|HanViet=chỉnh lý
+8	自己	_	PRON	PRD	_	10	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	想法	_	NOUN	NN	_	7	obj	_	Pinyin=xiǎngfǎ|Gloss=way of thinking; opinion; notion|HanViet=tưởng pháp
+11	，	_	PUNCT	,	_	5	punct	_	_
+12	让	_	VERB	VV	Voice=Cau	5	parataxis	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+13	我	_	PRON	PRP	Person=1	15	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+14	更	_	ADV	RB	_	15	advmod	_	Pinyin=gèng|Gloss=more|HanViet=càng,cánh
+15	了解	_	VERB	VV	_	12	ccomp	_	Pinyin=liǎojiě|Gloss=to understand; to know about|HanViet=liễu giải|Trad=瞭解
+16	自己	_	PRON	PRD	_	15	obj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+17	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l4-06-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 有一次，我在整理书架的时候看到了五年前的日记。
+# translation = Once, while tidying my bookshelf, I came across my diary from five years earlier.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+2	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+3	次	_	NOUN	NNB	_	1	obj	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	在	_	ADP	IN	_	10	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+7	整理	_	VERB	VV	_	10	acl:relcl	_	Pinyin=zhěnglǐ|Gloss=to arrange|HanViet=chỉnh lý
+8	书架	_	NOUN	NN	_	7	obj	_	Pinyin=shūjià|Gloss=bookshelf|HanViet=thư giá|Trad=書架
+9	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	时候	_	NOUN	NN	_	11	obl	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+11	看到	_	VERB	VV	_	1	ccomp	_	Pinyin=kàndào|Gloss=to see|HanViet=khán đáo
+12	了	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	五	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=wǔ|Gloss=five|HanViet=ngũ
+14	年	_	NOUN	NNB	_	17	nmod	_	Pinyin=nián|Gloss=year|HanViet=niên
+15	前	_	ADP	IN	_	14	case	_	Pinyin=qián|Gloss=front|HanViet=tiền
+16	的	_	PART	DEC	Case=Gen	14	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	日记	_	NOUN	NN	_	11	obj	_	Pinyin=rìjì|Gloss=diary|HanViet=nhật ký|Trad=日記
+18	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l4-06-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 那时候我正在为考试紧张，觉得那是世界上最重要的事。
+# translation = At that time I was nervous about an exam and thought it was the most important thing in the world.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那	_	DET	DT	_	2	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	时候	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+3	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	正在	_	ADV	RB	_	7	advmod	_	Pinyin=zhèngzài|Gloss=to be in the process of (doing sth); to be currently ...-ing|HanViet=chính,chánh tại
+5	为	_	ADP	IN	_	6	case	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+6	考试	_	NOUN	NN	_	7	nmod	_	Pinyin=kǎoshì|Gloss=to take an exam|HanViet=khảo thí|Trad=考試
+7	紧张	_	ADJ	JJ	_	9	advcl	_	Pinyin=jǐnzhāng|Gloss=nervous|HanViet=khẩn trương|Trad=緊張
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	觉得	_	VERB	VV	_	0	root	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+10	那	_	PRON	PRD	_	17	nsubj	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+11	是	_	AUX	VC	_	17	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+12	世界	_	NOUN	NN	_	15	obl	_	Pinyin=shìjiè|Gloss=world|HanViet=thế giới
+13	上	_	ADP	IN	_	12	case	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+14	最	_	ADV	RB	_	15	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+15	重要	_	ADJ	JJ	_	17	amod	_	Pinyin=zhòngyào|Gloss=important; significant; major|HanViet=trọng yếu
+16	的	_	SCONJ	DEC	_	15	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	事	_	NOUN	NN	_	9	ccomp	_	Pinyin=shì|Gloss=matter|HanViet=sự
+18	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l4-06-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 现在再看，我才发现当时的担心其实是多余的。
+# translation = Looking at it now, I realize that my worry back then was actually unnecessary.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	再	_	ADV	RB	_	3	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+3	看	_	VERB	VV	_	7	advcl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	才	_	SCONJ	RB	_	7	mark	_	Pinyin=cái|Gloss=ability; talent|HanViet=tài
+7	发现	_	VERB	VV	_	0	root	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+8	当时	_	NOUN	NN	_	10	nmod	_	Pinyin=dāngshí|Gloss=then; at that time|HanViet=đương,đang thời|Trad=當時
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	担心	_	NOUN	NN	_	13	nsubj	_	Pinyin=dānxīn|Gloss=anxious|HanViet=đảm,đam tâm|Trad=擔心
+11	其实	_	ADV	RB	_	13	advmod	_	Pinyin=qíshí|Gloss=actually; in fact; really|HanViet=kỳ thực|Trad=其實
+12	是	_	AUX	VC	_	13	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+13	多余	_	ADJ	JJ	_	7	ccomp	_	Pinyin=duōyú|Gloss=superfluous|HanViet=đa dư|Trad=多餘
+14	的	_	PART	UH	_	13	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l4-06-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 看着以前的自己，我笑了起来。
+# translation = Looking at my former self, I started laughing.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	看	_	VERB	VV	_	7	advcl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+2	着	_	AUX	AS	Aspect=Prog	1	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+3	以前	_	NOUN	NN	_	5	nmod	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	自己	_	PRON	PRD	_	1	obj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+6	，	_	PUNCT	,	_	1	punct	_	_
+7	我笑	_	VERB	VV	_	0	root	_	Pinyin=wǒxiào|Gloss=我 I; me; my + 笑 to laugh; to smile|GlossFrom=parts|HanViet=ngã tiếu
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	起来	_	VERB	VV	_	7	mark	_	Pinyin=qǐlái|Gloss=to stand up; to get up|HanViet=khởi lai|Trad=起來
+10	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l4-06-12
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 我相信，日记就像镜子，能让我们看到自己的变化。
+# translation = I believe a diary is like a mirror that lets us see how we have changed.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	相信	_	VERB	VV	_	0	root	_	Pinyin=xiāngxìn|Gloss=to believe; to be convinced; to accept as true|HanViet=tương tín
+3	，	_	PUNCT	,	_	10	punct	_	_
+4	日记	_	NOUN	NN	_	10	nsubj	_	Pinyin=rìjì|Gloss=diary|HanViet=nhật ký|Trad=日記
+5	就	_	SCONJ	RB	_	10	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+6	像	_	ADP	IN	_	7	case	_	Pinyin=xiàng|Gloss=to resemble|HanViet=tượng
+7	镜子	_	NOUN	NN	_	10	obl	_	Pinyin=jìngzi|Gloss=mirror|HanViet=kính tử|Trad=鏡子
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	能	_	AUX	MD	_	10	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+10	让	_	VERB	VV	Voice=Cau	2	ccomp	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+11	我们	_	PRON	PRP	Number=Plur|Person=1	12	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+12	看到	_	VERB	VV	_	10	ccomp	_	Pinyin=kàndào|Gloss=to see|HanViet=khán đáo
+13	自己	_	PRON	PRD	_	15	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+14	的	_	PART	DEC	Case=Gen	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	变化	_	NOUN	NN	_	12	obj	_	Pinyin=biànhuà|Gloss=(intransitive) to change; to vary|HanViet=biến hoá|Trad=變化
+16	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l4-06-13
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 所以我打算一直写下去，等老了以后再慢慢地读。
+# translation = So I plan to keep writing, and read it all slowly when I'm old.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	所以	_	SCONJ	RB	_	3	mark	_	Pinyin=suǒyǐ|Gloss=therefore|HanViet=sở dĩ
+2	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	打算	_	VERB	VV	_	0	root	_	Pinyin=dǎsuàn|Gloss=to plan|HanViet=đả toán
+4	一直	_	ADV	RB	_	5	advmod	_	Pinyin=yìzhí|Gloss=straight (in a straight line)|HanViet=nhất trực
+5	写	_	VERB	VV	_	3	xcomp	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+6	下去	_	VERB	VV	_	5	mark	_	Pinyin=xiàqù|Gloss=to go down|HanViet=hạ khứ,khử
+7	，	_	PUNCT	,	_	13	punct	_	_
+8	等	_	VERB	VV	_	13	advcl	_	Pinyin=děng|Gloss=to wait for; to await|HanViet=đẳng
+9	老了	_	VERB	VV	_	13	advcl	_	Pinyin=lǎole|Gloss=老 prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity + 了 (completed action marker)|GlossFrom=parts|HanViet=lão liễu
+10	以后	_	ADP	IN	_	9	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+11	再	_	ADV	RB	_	13	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+12	慢慢	_	ADV	RB	_	13	advmod	_	Pinyin=mànmàn|Gloss=slowly; gradually|HanViet=mạn mạn
+13	地读	_	VERB	VV	_	3	xcomp	_	Pinyin=dìdú|Gloss=地 -ly + 读 comma|GlossFrom=parts|HanViet=địa đọc,độc|Trad=地讀
+14	。	_	PUNCT	.	_	3	punct	_	_

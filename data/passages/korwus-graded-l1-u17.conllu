@@ -1,0 +1,156 @@
+# sent_id = korwus-graded-l1-u17-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 我是大学生。
+# translation = I'm a college student.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	是	_	AUX	VC	_	4	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	大	_	PART	PFA	_	4	case	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+4	学生	_	NOUN	NN	_	0	root	_	Pinyin=xuéshēng|Gloss=student|HanViet=học sinh|Trad=學生
+5	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l1-u17-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 昨天下了课，我和女朋友去书店。
+# translation = Yesterday after class, my girlfriend and I went to a bookstore.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	昨天	_	NOUN	NN	_	2	obl	_	Pinyin=zuótiān|Gloss=yesterday|HanViet=tạc thiên
+2	下	_	VERB	VV	_	10	advcl	_	Pinyin=xià|Gloss=down|HanViet=hạ
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	课	_	NOUN	NN	_	2	obj	_	Pinyin=kè|Gloss=subject|HanViet=khoá|Trad=課
+5	，	_	PUNCT	,	_	2	punct	_	_
+6	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	和	_	ADP	IN	_	9	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+8	女	_	NOUN	NN	_	9	nmod	_	Pinyin=nǚ|Gloss=female|HanViet=nữ
+9	朋友	_	NOUN	NN	_	10	obl	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+10	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+11	书店	_	NOUN	NN	_	10	obj	_	Pinyin=shūdiàn|Gloss=bookstore|HanViet=thư điếm|Trad=書店
+12	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l1-u17-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 书店里的歌很好听，还有很多好看的书。
+# translation = The music in the bookstore sounded great, and there were lots of nice-looking books.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	书店	_	NOUN	NN	_	4	nmod	_	Pinyin=shūdiàn|Gloss=bookstore|HanViet=thư điếm|Trad=書店
+2	里	_	ADP	IN	_	1	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+3	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	歌	_	NOUN	NN	_	6	nsubj	_	Pinyin=gē|Gloss=song (CL:首[shou3],支[zhi1])|HanViet=ca
+5	很	_	ADV	RB	_	6	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+6	好听	_	ADJ	JJ	_	0	root	_	Pinyin=hǎotīng|Gloss=pleasant to hear|HanViet=hảo thính|Trad=好聽
+7	，	_	PUNCT	,	_	9	punct	_	_
+8	还	_	SCONJ	RB	_	9	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+9	有	_	VERB	VV	_	6	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+10	很多	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+11	好看	_	ADJ	JJ	_	13	amod	_	Pinyin=hǎokàn|Gloss=good-looking; nice-looking|HanViet=hảo khán
+12	的	_	SCONJ	DEC	_	11	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	书	_	NOUN	NN	_	9	obj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+14	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l1-u17-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 女朋友问我想买哪些书。
+# translation = My girlfriend asked me which books I wanted to buy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	女	_	NOUN	NN	_	2	nmod	_	Pinyin=nǚ|Gloss=female|HanViet=nữ
+2	朋友	_	NOUN	NN	_	3	nsubj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+3	问	_	VERB	VV	_	0	root	_	Pinyin=wèn|Gloss=to ask; to inquire|HanViet=vấn|Trad=問
+4	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	想	_	AUX	MD	_	6	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+6	买	_	VERB	VV	_	3	ccomp	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+7	哪些	_	DET	DT	_	8	det	_	Pinyin=nǎxiē|Gloss=which ones?|HanViet=nả,na ta
+8	书	_	NOUN	NN	_	6	obj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+9	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u17-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 那些书都不便宜，我没有买。
+# translation = None of those books were cheap, so I didn't buy any.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那些	_	DET	DT	_	2	det	_	Pinyin=nàxiē|Gloss=those|HanViet=na ta
+2	书	_	NOUN	NN	_	5	nsubj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+3	都	_	SCONJ	RB	_	5	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+4	不	_	ADV	RB	Polarity=Neg	5	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+5	便宜	_	ADJ	JJ	_	0	root	_	Pinyin=biànyí|Gloss=convenient|HanViet=tiện nghi
+6	，	_	PUNCT	,	_	8	punct	_	_
+7	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	没有	_	VERB	VV	Polarity=Neg	5	parataxis	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+9	买	_	VERB	VV	_	8	xcomp	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+10	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l1-u17-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 女朋友的妹妹上小学，她给妹妹买了两本书。
+# translation = My girlfriend's little sister is in elementary school, and she bought her two books.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	女	_	NOUN	NN	_	2	nmod	_	Pinyin=nǚ|Gloss=female|HanViet=nữ
+2	朋友	_	NOUN	NN	_	4	nmod	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	妹妹	_	NOUN	NN	_	5	nsubj	_	Pinyin=mèimèi|Gloss=younger sister|HanViet=muội muội
+5	上	_	VERB	VV	_	0	root	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+6	小学	_	NOUN	NN	_	5	obj	_	Pinyin=xiǎoxué|Gloss=elementary school; primary school|HanViet=tiểu học|Trad=小學
+7	，	_	PUNCT	,	_	11	punct	_	_
+8	她	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+9	给	_	VERB	VV	_	11	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+10	妹妹	_	NOUN	NN	_	9	obj	_	Pinyin=mèimèi|Gloss=younger sister|HanViet=muội muội
+11	买	_	VERB	VV	_	5	parataxis	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+12	了	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	两	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+14	本	_	NOUN	NNB	_	13	clf	_	Pinyin=běn|Gloss=(bound form) root; stem|HanViet=bản
+15	书	_	NOUN	NN	_	11	obj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+16	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l1-u17-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 中午书店里人多了，我们去外边吃饺子。
+# translation = At noon the bookstore got crowded, so we went out to eat dumplings.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	中午	_	NOUN	NN	_	2	nmod	_	Pinyin=zhōngwǔ|Gloss=noon|HanViet=trung ngọ
+2	书店	_	NOUN	NN	_	5	nsubj	_	Pinyin=shūdiàn|Gloss=bookstore|HanViet=thư điếm|Trad=書店
+3	里	_	ADP	IN	_	2	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+4	人	_	NOUN	NN	_	5	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+5	多	_	ADJ	JJ	_	0	root	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+6	了	_	PART	UH	_	5	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	，	_	PUNCT	,	_	11	punct	_	_
+8	我们	_	PRON	PRP	Number=Plur|Person=1	11	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+9	去	_	VERB	VV	_	11	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+10	外边	_	NOUN	NN	_	9	obj	_	Pinyin=wàibiān|Gloss=outside|HanViet=ngoại biên|Trad=外邊
+11	吃	_	VERB	VV	_	5	parataxis	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+12	饺子	_	NOUN	NN	_	11	obj	_	Pinyin=jiǎozi|Gloss=dumpling|HanViet=cảo tử|Trad=餃子
+13	。	_	PUNCT	.	_	5	punct	_	_

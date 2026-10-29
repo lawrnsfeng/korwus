@@ -1,0 +1,280 @@
+# sent_id = korwus-graded-l3-u28-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 平时我工作忙，没有时间和儿子一起玩。
+# translation = I'm usually busy with work and don't have time to play with my son.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	平时	_	NOUN	NN	_	11	nmod:tmod	_	Pinyin=píngshí|Gloss=ordinarily|HanViet=bình thời|Trad=平時
+2	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	工作	_	VERB	VV	_	11	advcl	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+4	忙	_	ADJ	JJ	_	3	xcomp	_	Pinyin=máng|Gloss=busy|HanViet=mang
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	没有	_	VERB	VV	Polarity=Neg	11	advcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+7	时间	_	NOUN	NN	_	6	obj	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+8	和	_	ADP	IN	_	9	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+9	儿子	_	NOUN	NN	_	11	obl	_	Pinyin=érzi|Gloss=son|HanViet=nhi tử|Trad=兒子
+10	一起	_	NOUN	NN	_	11	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+11	玩	_	VERB	VV	_	0	root	_	Pinyin=wán|Gloss=to play|HanViet=ngoạn
+12	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l3-u28-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我们城市的动物园去年搬家了，现在就在我家附近。
+# translation = Our city's zoo moved last year, and now it's right near my home.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	2	nmod	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	城市	_	NOUN	NN	_	5	nmod	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	动物	_	NOUN	NN	_	5	compound	_	Pinyin=dòngwù|Gloss=animal|HanViet=động vật|Trad=動物
+5	园	_	PART	SFN	_	7	nsubj	_	Pinyin=yuán|Gloss=land used for growing plants|HanViet=viên|Trad=園
+6	去年	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=qùnián|Gloss=last year|HanViet=khứ,khử niên
+7	搬家	_	VERB	VV	_	12	advcl	_	Pinyin=bānjiā|Gloss=to move house; to relocate|HanViet=ban gia
+8	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	，	_	PUNCT	,	_	7	punct	_	_
+10	现在	_	NOUN	NN	_	12	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+11	就	_	SCONJ	RB	_	12	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+12	在	_	VERB	VV	_	0	root	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+13	我	_	PRON	PRP	Person=1	14	compound	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+14	家	_	PART	SFN	_	15	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+15	附近	_	NOUN	NN	_	12	obj	_	Pinyin=fùjìn|Gloss=nearby; neighboring|HanViet=phụ cận
+16	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l3-u28-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 这个星期六天气很凉快，我穿了一件新上衣，带儿子去动物园。
+# translation = This Saturday the weather was nice and cool, so I put on a new top and took my son to the zoo.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	星期	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+4	六	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+5	天气	_	NOUN	NN	_	7	nsubj	_	Pinyin=tiānqì|Gloss=weather|HanViet=thiên khí|Trad=天氣
+6	很	_	ADV	RB	_	7	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+7	凉快	_	ADJ	JJ	_	0	root	_	Pinyin=liángkuài|Gloss=pleasantly cool (weather etc)|HanViet=lương khoái|Trad=涼快
+8	，	_	PUNCT	,	_	19	punct	_	_
+9	我	_	PRON	PRP	Person=1	19	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	穿	_	VERB	VV	_	19	advcl	_	Pinyin=chuān|Gloss=to bore through; to pierce; to perforate|HanViet=xuyên
+11	了	_	AUX	AS	Aspect=Perf	10	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	一	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+13	件	_	NOUN	NNB	_	12	clf	_	Pinyin=jiàn|Gloss=item|HanViet=kiện
+14	新	_	PART	PFA	_	15	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+15	上衣	_	NOUN	NN	_	10	obj	_	Pinyin=shàngyī|Gloss=jacket|HanViet=thượng y
+16	，	_	PUNCT	,	_	10	punct	_	_
+17	带	_	VERB	VV	_	19	advcl	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+18	儿子	_	NOUN	NN	_	17	obj	_	Pinyin=érzi|Gloss=son|HanViet=nhi tử|Trad=兒子
+19	去	_	VERB	VV	_	7	parataxis	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+20	动物	_	NOUN	NN	_	21	compound	_	Pinyin=dòngwù|Gloss=animal|HanViet=động vật|Trad=動物
+21	园	_	PART	SFN	_	19	obj	_	Pinyin=yuán|Gloss=land used for growing plants|HanViet=viên|Trad=園
+22	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u28-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 这一天我把手机关机了，只和儿子在一起。
+# translation = That day I turned my phone off and spent the time with just my son.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+3	天	_	NOUN	NNB	_	7	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+4	我	_	PRON	PRP	Person=1	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	把	_	ADP	BB	_	6	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+6	手机	_	NOUN	NN	_	7	obl:patient	_	Pinyin=shǒujī|Gloss=cell phone; mobile phone|HanViet=thủ cơ|Trad=手機
+7	关机	_	VERB	VV	_	13	advcl	_	Pinyin=guānjī|Gloss=to turn off (a machine or device)|HanViet=quan cơ|Trad=關機
+8	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	，	_	PUNCT	,	_	7	punct	_	_
+10	只	_	ADV	RB	_	13	advmod	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+11	和	_	ADP	IN	_	12	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+12	儿子	_	NOUN	NN	_	13	obl	_	Pinyin=érzi|Gloss=son|HanViet=nhi tử|Trad=兒子
+13	在	_	VERB	VV	_	0	root	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+14	一起	_	NOUN	NN	_	13	obj	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+15	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l3-u28-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我们八点多就到了，路边的树都开花了，非常漂亮。
+# translation = We got there a little after eight; the trees along the road were all in bloom, which was very pretty.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	3	nmod	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	八	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=bā|Gloss=eight|HanViet=bát
+3	点	_	NOUN	NNB	_	6	nsubj	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+4	多	_	ADV	RB	_	6	advmod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+5	就	_	SCONJ	RB	_	6	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+6	到	_	VERB	VV	_	0	root	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	，	_	PUNCT	,	_	17	punct	_	_
+9	路边	_	NOUN	NN	_	11	nmod	_	Pinyin=lùbiān|Gloss=curb; roadside; wayside|HanViet=lộ biên|Trad=路邊
+10	的	_	PART	DEC	Case=Gen	9	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	树	_	NOUN	NN	_	13	nsubj	_	Pinyin=shù|Gloss=tree|HanViet=thụ|Trad=樹
+12	都	_	SCONJ	RB	_	13	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+13	开花	_	VERB	VV	_	17	advcl	_	Pinyin=kāihuā|Gloss=to bloom; to blossom; to flower|HanViet=khai hoa|Trad=開花
+14	了	_	PART	UH	_	13	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+15	，	_	PUNCT	,	_	13	punct	_	_
+16	非常	_	ADV	RB	_	17	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+17	漂亮	_	ADJ	JJ	_	6	parataxis	_	Pinyin=piàoliàng|Gloss=pretty; beautiful|HanViet=phiếu lượng
+18	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u28-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 这里有很多外国的动物，四季都有人来看。
+# translation = There are many animals from other countries here, and people come to see them in every season.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这里	_	PRON	PRD	_	2	nsubj	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+2	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+3	很多	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+4	外国	_	NOUN	NN	_	6	nmod	_	Pinyin=wàiguó|Gloss=foreign country|HanViet=ngoại quốc|Trad=外國
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	动物	_	NOUN	NN	_	2	obj	_	Pinyin=dòngwù|Gloss=animal|HanViet=động vật|Trad=動物
+7	，	_	PUNCT	,	_	10	punct	_	_
+8	四季	_	NOUN	NN	_	10	nsubj	_	Pinyin=sìjì|Gloss=four seasons, namely: spring 春[chun1], summer 夏[xia4], autumn 秋[qiu1] and winter 冬[dong1]|HanViet=tứ quý
+9	都	_	SCONJ	RB	_	10	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+10	有	_	VERB	VV	_	2	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+11	人	_	NOUN	NN	_	13	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+12	来	_	SCONJ	RB	_	13	mark	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+13	看	_	VERB	VV	_	10	ccomp	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+14	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u28-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 儿子最喜欢看那些鸟，他在那里看了半天，别的动物都不看了。
+# translation = My son likes the birds best; he watched them for a long time and didn't look at any other animals after that.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	儿子	_	NOUN	NN	_	3	nsubj	_	Pinyin=érzi|Gloss=son|HanViet=nhi tử|Trad=兒子
+2	最	_	ADV	RB	_	3	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+3	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+4	看	_	VERB	VV	_	3	xcomp	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+5	那些	_	DET	DT	_	6	det	_	Pinyin=nàxiē|Gloss=those|HanViet=na ta
+6	鸟	_	NOUN	NN	_	4	obj	_	Pinyin=niǎo|Gloss=bird|HanViet=điểu|Trad=鳥
+7	，	_	PUNCT	,	_	11	punct	_	_
+8	他	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+9	在	_	VERB	VV	_	11	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+10	那里	_	PRON	PRD	_	9	obj	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+11	看	_	VERB	VV	_	3	parataxis	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+12	了	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	半天	_	NOUN	NN	_	11	obj	_	Pinyin=bàntiān|Gloss=half of the day|HanViet=bán thiên
+14	，	_	PUNCT	,	_	20	punct	_	_
+15	别	_	ADJ	JJ	_	17	amod	_	Pinyin=bié|Gloss=to leave; to part (from)|HanViet=biệt|Trad=別
+16	的	_	PART	DEC	Case=Gen	15	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	动物	_	NOUN	NN	_	20	nsubj	_	Pinyin=dòngwù|Gloss=animal|HanViet=động vật|Trad=動物
+18	都	_	SCONJ	RB	_	20	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+19	不	_	ADV	RB	Polarity=Neg	20	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+20	看	_	VERB	VV	_	3	parataxis	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+21	了	_	PART	UH	_	20	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+22	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u28-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 中午我们在动物园的饭馆吃了饭，我们一边吃一边聊天儿，我还让儿子尝了一种新水果。
+# translation = At noon we ate at the zoo's restaurant and chatted while we ate, and I let my son try a new fruit.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	中午	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=zhōngwǔ|Gloss=noon|HanViet=trung ngọ
+2	我们	_	PRON	PRP	Number=Plur|Person=1	8	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+3	在	_	VERB	VV	_	8	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	动物	_	NOUN	NN	_	5	compound	_	Pinyin=dòngwù|Gloss=animal|HanViet=động vật|Trad=動物
+5	园	_	PART	SFN	_	7	nmod	_	Pinyin=yuán|Gloss=land used for growing plants|HanViet=viên|Trad=園
+6	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	饭馆	_	NOUN	NN	_	3	obj	_	Pinyin=fànguǎn|Gloss=restaurant|HanViet=phạn quán|Trad=飯館
+8	吃	_	VERB	VV	_	0	root	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	饭	_	NOUN	NN	_	8	obj	_	Pinyin=fàn|Gloss=cooked rice|HanViet=phạn|Trad=飯
+11	，	_	PUNCT	,	_	14	punct	_	_
+12	我们	_	PRON	PRP	Number=Plur|Person=1	14	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+13	一边	_	ADV	RB	_	14	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+14	吃	_	VERB	VV	_	8	parataxis	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+15	一边	_	ADV	RB	_	16	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+16	聊天儿	_	VERB	VV	_	14	xcomp	_	Pinyin=liáotiānr|Gloss=erhua variant of 聊天[liao2 tian1]|HanViet=liêu thiên nhi|Trad=聊天兒
+17	，	_	PUNCT	,	_	20	punct	_	_
+18	我	_	PRON	PRP	Person=1	20	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+19	还	_	SCONJ	RB	_	20	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+20	让	_	VERB	VV	Voice=Cau	8	parataxis	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+21	儿子	_	NOUN	NN	_	22	nsubj	_	Pinyin=érzi|Gloss=son|HanViet=nhi tử|Trad=兒子
+22	尝	_	VERB	VV	_	20	ccomp	_	Pinyin=cháng|Gloss=to taste; to try (food)|HanViet=thường|Trad=嘗
+23	了	_	AUX	AS	Aspect=Perf	22	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+24	一	_	NUM	CD	NumType=Card	27	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+25	种	_	NOUN	NNB	_	24	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+26	新	_	PART	PFA	_	27	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+27	水果	_	NOUN	NN	_	22	obj	_	Pinyin=shuǐguǒ|Gloss=fruit|HanViet=thuỷ quả
+28	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u28-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 到了下午，儿子累了，我们就回去了。
+# translation = By the afternoon my son was tired, so we went back.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	到	_	VERB	VV	_	11	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+2	了	_	AUX	AS	Aspect=Perf	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	下午	_	NOUN	NN	_	1	obj	_	Pinyin=xiàwǔ|Gloss=afternoon|HanViet=hạ ngọ
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	儿子	_	NOUN	NN	_	6	nsubj	_	Pinyin=érzi|Gloss=son|HanViet=nhi tử|Trad=兒子
+6	累	_	ADJ	JJ	_	11	advcl	_	Pinyin=lèi|Gloss=tired|HanViet=luỵ
+7	了	_	PART	UH	_	6	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	，	_	PUNCT	,	_	6	punct	_	_
+9	我们	_	PRON	PRP	Number=Plur|Person=1	11	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+10	就	_	SCONJ	RB	_	11	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+11	回去	_	VERB	VV	_	0	root	_	Pinyin=huíqù|Gloss=to return|HanViet=hồi khứ,khử
+12	了	_	PART	UH	_	11	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u28-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 儿子说，下个周末还要来。
+# translation = My son said he wants to come again next weekend.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	儿子	_	NOUN	NN	_	2	nsubj	_	Pinyin=érzi|Gloss=son|HanViet=nhi tử|Trad=兒子
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	9	punct	_	_
+4	下	_	DET	DT	_	6	det	_	Pinyin=xià|Gloss=down|HanViet=hạ
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	周末	_	NOUN	NN	_	9	nsubj	_	Pinyin=zhōumò|Gloss=weekend|HanViet=chu mạt|Trad=週末
+7	还	_	SCONJ	RB	_	9	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+8	要	_	AUX	MD	_	9	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+9	来	_	VERB	VV	_	2	ccomp	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+10	。	_	PUNCT	.	_	2	punct	_	_

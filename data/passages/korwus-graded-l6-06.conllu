@@ -1,0 +1,304 @@
+# sent_id = korwus-graded-l6-06-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# newpar
+# text = 人到中年，常常会忍不住怀念过去。
+# translation = In middle age, people often can't help longing for the past.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	人	_	NOUN	NN	_	9	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+2	到	_	VERB	VV	_	9	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+3	中年	_	NOUN	NN	_	2	obj	_	Pinyin=zhōngnián|Gloss=middle age|HanViet=trung niên
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	常常	_	ADV	RB	_	9	advmod	_	Pinyin=chángcháng|Gloss=frequently; often|HanViet=thường thường
+6	会	_	AUX	MD	_	9	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+7	忍	_	VERB	VV	_	9	advcl	_	Pinyin=rěn|Gloss=to bear|HanViet=nhẫn
+8	不住	_	VERB	VV	Polarity=Neg	7	mark	_	Pinyin=búzhù|Gloss=(verb complement) unable to firmly or securely (grasp, recall etc)|HanViet=_ trú,trụ
+9	怀念	_	VERB	VV	_	0	root	_	Pinyin=huáiniàn|Gloss=to cherish the memory of|HanViet=hoài niệm|Trad=懷念
+10	过去	_	NOUN	NN	_	9	obj	_	Pinyin=guòqù|Gloss=(in the) past; former; previous|HanViet=quá,qua khứ,khử|Trad=過去
+11	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l6-06-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 一首老歌、一种熟悉的气味，都可能瞬间引起多年前的回忆。
+# translation = An old song or a familiar smell can instantly bring back memories from many years ago.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+2	首	_	NOUN	NNB	_	1	clf	_	Pinyin=shǒu|Gloss=head|HanViet=thủ,thú
+3	老歌	_	NOUN	NN	_	14	nsubj	_	Pinyin=lǎogē|Gloss=oldie (song)|HanViet=lão ca
+4	、	_	PUNCT	EC	_	9	punct	_	_
+5	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+6	种	_	NOUN	NNB	_	5	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+7	熟悉	_	ADJ	JJ	_	9	amod	_	Pinyin=shúxī|Gloss=to be familiar with; to know well|HanViet=thục tất
+8	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	气味	_	NOUN	NN	_	3	conj	_	Pinyin=qìwèi|Gloss=odor; scent|HanViet=khí vị|Trad=氣味
+10	，	_	PUNCT	,	_	3	punct	_	_
+11	都	_	SCONJ	RB	_	14	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+12	可能	_	AUX	MD	_	14	aux	_	Pinyin=kěnéng|Gloss=might (happen)|HanViet=khả năng
+13	瞬间	_	ADV	RB	_	14	advmod	_	Pinyin=shùnjiān|Gloss=in an instant; in a flash|HanViet=thuấn gian|Trad=瞬間
+14	引起	_	VERB	VV	_	0	root	_	Pinyin=yǐnqǐ|Gloss=to give rise to; to lead to; to cause; to arouse|HanViet=dẫn khởi
+15	多	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+16	年	_	NOUN	NNB	_	19	nmod	_	Pinyin=nián|Gloss=year|HanViet=niên
+17	前	_	ADP	IN	_	16	case	_	Pinyin=qián|Gloss=front|HanViet=tiền
+18	的	_	PART	DEC	Case=Gen	16	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	回忆	_	NOUN	NN	_	14	obj	_	Pinyin=huíyì|Gloss=to recall|HanViet=hồi ức|Trad=回憶
+20	。	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = korwus-graded-l6-06-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 心理学家发现，记忆并不像录像那样准确地保存过去的事，而是在每次回忆时被重新建立。
+# translation = Psychologists have found that memory does not store past events accurately like a video recording; instead, it is rebuilt each time we recall it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	心理	_	NOUN	NN	_	2	compound	_	Pinyin=xīnlǐ|Gloss=psychology; mentality|HanViet=tâm lý
+2	学	_	PART	SFN	_	3	compound	_	Pinyin=xué|Gloss=to learn|HanViet=học|Trad=學
+3	家	_	PART	SFN	_	4	nsubj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+4	发现	_	VERB	VV	_	0	root	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+5	，	_	PUNCT	,	_	25	punct	_	_
+6	记忆	_	NOUN	NN	_	8	nsubj	_	Pinyin=jìyì|Gloss=to remember; to recall|HanViet=ký ức|Trad=記憶
+7	并	_	SCONJ	RB	_	8	mark	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+8	不像	_	VERB	VV	Polarity=Neg	25	advcl	_	Pinyin=bùxiàng|Gloss=不 no; not so + 像 to resemble|GlossFrom=parts|HanViet=bất tượng
+9	录像	_	NOUN	NN	_	13	nsubj	_	Pinyin=lùxiàng|Gloss=to videotape|HanViet=lục tượng|Trad=錄像
+10	那样	_	ADV	RB	_	13	advmod	_	Pinyin=nàyàng|Gloss=that kind|HanViet=na dạng|Trad=那樣
+11	准确	_	ADJ	JJ	_	13	advmod	_	Pinyin=zhǔnquè|Gloss=accurate; exact; precise|HanViet=chuẩn xác|Trad=準確
+12	地	_	SCONJ	DEV	_	11	mark:adv	_	Pinyin=dì|Gloss=earth|HanViet=địa
+13	保存	_	VERB	VV	_	8	ccomp	_	Pinyin=bǎocún|Gloss=to conserve; to preserve; to keep; to store; (computing) to save (a file etc)|HanViet=bảo tồn
+14	过去	_	NOUN	NN	_	16	nmod	_	Pinyin=guòqù|Gloss=(in the) past; former; previous|HanViet=quá,qua khứ,khử|Trad=過去
+15	的	_	PART	DEC	Case=Gen	14	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	事	_	NOUN	NN	_	13	obj	_	Pinyin=shì|Gloss=matter|HanViet=sự
+17	，	_	PUNCT	,	_	8	punct	_	_
+18	而是	_	SCONJ	RB	_	25	mark	_	Pinyin=érshì|Gloss=rather|HanViet=nhi thị
+19	在	_	ADP	IN	_	21	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+20	每次	_	DET	DT	_	21	obl	_	Pinyin=měicì|Gloss=each time; every time|HanViet=mỗi thứ
+21	回忆	_	VERB	VV	_	25	xcomp	_	Pinyin=huíyì|Gloss=to recall|HanViet=hồi ức|Trad=回憶
+22	时	_	ADP	IN	_	21	mark	_	Pinyin=shí|Gloss=o'clock|HanViet=thời|Trad=時
+23	被	_	AUX	BB	Voice=Pass	25	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+24	重新	_	ADV	RB	_	25	advmod	_	Pinyin=chóngxīn|Gloss=again; once more; re-|HanViet=trùng tân
+25	建立	_	VERB	VV	_	4	ccomp	_	Pinyin=jiànlì|Gloss=to establish|HanViet=kiến lập
+26	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l6-06-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 因此，我们记得的童年，往往比真实的童年更加美好。
+# translation = So the childhood we remember is often better than the childhood we actually had.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	因	_	ADP	IN	_	2	case	_	Pinyin=yīn|Gloss=cause|HanViet=nhân
+2	此	_	PRON	PRD	_	15	nmod	_	Pinyin=cǐ|Gloss=this; these|HanViet=thử
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	我们	_	PRON	PRP	Number=Plur|Person=1	5	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	记得	_	VERB	VV	_	7	acl:relcl	_	Pinyin=jìde|Gloss=to remember|HanViet=ký đắc|Trad=記得
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	童年	_	NOUN	NN	_	15	nsubj	_	Pinyin=tóngnián|Gloss=childhood|HanViet=đồng niên
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	往往	_	ADV	RB	_	15	advmod	_	Pinyin=wǎngwǎng|Gloss=usually|HanViet=vãng vãng
+10	比	_	ADP	IN	_	13	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+11	真实	_	ADJ	JJ	_	13	amod	_	Pinyin=zhēnshí|Gloss=true; real|HanViet=chân thực|Trad=真實
+12	的	_	SCONJ	DEC	_	11	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	童年	_	NOUN	NN	_	15	nmod	_	Pinyin=tóngnián|Gloss=childhood|HanViet=đồng niên
+14	更加	_	ADV	RB	_	15	advmod	_	Pinyin=gèngjiā|Gloss=more (than sth else)|HanViet=càng,cánh gia
+15	美好	_	ADJ	JJ	_	0	root	_	Pinyin=měihǎo|Gloss=beautiful|HanViet=mỹ hảo
+16	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = korwus-graded-l6-06-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 那些艰苦的细节逐渐模糊，温暖的画面却被不断放大。
+# translation = The hard details gradually blur, while the warm scenes keep being magnified.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那些	_	DET	DT	_	4	det	_	Pinyin=nàxiē|Gloss=those|HanViet=na ta
+2	艰苦	_	ADJ	JJ	_	4	amod	_	Pinyin=jiānkǔ|Gloss=difficult|HanViet=gian khổ|Trad=艱苦
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	细节	_	NOUN	NN	_	6	nsubj	_	Pinyin=xìjié|Gloss=details; particulars|HanViet=tế tiết|Trad=細節
+5	逐渐	_	ADV	RB	_	6	advmod	_	Pinyin=zhújiàn|Gloss=gradually|HanViet=trục tiệm|Trad=逐漸
+6	模糊	_	ADJ	JJ	_	0	root	_	Pinyin=móhú|Gloss=vague; indistinct; fuzzy|HanViet=mô hồ
+7	，	_	PUNCT	,	_	14	punct	_	_
+8	温暖	_	ADJ	JJ	_	10	amod	_	Pinyin=wēnnuǎn|Gloss=warm|HanViet=ôn noãn|Trad=溫暖
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	画面	_	NOUN	NN	_	14	nsubj:pass	_	Pinyin=huàmiàn|Gloss=scene|HanViet=hoạ,hoạch diện|Trad=畫面
+11	却	_	SCONJ	RB	_	14	mark	_	Pinyin=què|Gloss=but|HanViet=khước|Trad=卻
+12	被	_	AUX	BB	Voice=Pass	14	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+13	不断	_	ADV	RB	_	14	advmod	_	Pinyin=bùduàn|Gloss=unceasing|HanViet=bất đoạn,đoán|Trad=不斷
+14	放大	_	VERB	VV	_	6	parataxis	_	Pinyin=fàngdà|Gloss=to enlarge|HanViet=phóng đại
+15	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l6-06-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 这种怀念过去的情感曾经被视为一种消极的情绪，甚至被当作疾病来对待。
+# translation = This longing for the past was once seen as a negative emotion and was even treated as an illness.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	6	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	种	_	NOUN	NNB	_	1	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+3	怀念	_	VERB	VV	_	6	acl:relcl	_	Pinyin=huáiniàn|Gloss=to cherish the memory of|HanViet=hoài niệm|Trad=懷念
+4	过去	_	NOUN	NN	_	6	nmod	_	Pinyin=guòqù|Gloss=(in the) past; former; previous|HanViet=quá,qua khứ,khử|Trad=過去
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	情感	_	NOUN	NN	_	9	nsubj:pass	_	Pinyin=qínggǎn|Gloss=feeling|HanViet=tình cảm
+7	曾经	_	ADV	RB	_	9	advmod	_	Pinyin=céngjīng|Gloss=once|HanViet=từng kinh|Trad=曾經
+8	被	_	AUX	BB	Voice=Pass	9	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+9	视	_	VERB	VV	_	22	advcl	_	Pinyin=shì|Gloss=(literary, or bound form) to look at|HanViet=thị|Trad=視
+10	为	_	VERB	VC	_	9	mark	_	Pinyin=wéi|Gloss=as (in the capacity of)|HanViet=vị,vì|Trad=為
+11	一	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+12	种	_	NOUN	NNB	_	11	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+13	消极	_	ADJ	JJ	_	15	amod	_	Pinyin=xiāojí|Gloss=negative|HanViet=tiêu cực|Trad=消極
+14	的	_	SCONJ	DEC	_	13	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	情绪	_	NOUN	NN	_	9	obj	_	Pinyin=qíngxù|Gloss=mood|HanViet=tình tự|Trad=情緒
+16	，	_	PUNCT	,	_	9	punct	_	_
+17	甚至	_	SCONJ	RB	_	22	mark	_	Pinyin=shènzhì|Gloss=even; so much so that|HanViet=thậm chí
+18	被	_	AUX	BB	Voice=Pass	22	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+19	当作	_	VERB	VV	_	22	advcl	_	Pinyin=dàngzuò|Gloss=to treat as|HanViet=đáng tác|Trad=當作
+20	疾病	_	NOUN	NN	_	19	obj	_	Pinyin=jíbìng|Gloss=disease; sickness; ailment|HanViet=tật bệnh
+21	来	_	SCONJ	RB	_	22	mark	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+22	对待	_	VERB	VV	_	0	root	_	Pinyin=duìdài|Gloss=to treat|HanViet=đối đãi|Trad=對待
+23	。	_	PUNCT	.	_	22	punct	_	_
+
+# sent_id = korwus-graded-l6-06-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 但近年来的研究表明，适度的怀念能够缓解孤独，增强人们对生活的意义感。
+# translation = But research in recent years shows that a moderate amount of nostalgia can ease loneliness and strengthen people's sense of meaning in life.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	但	_	SCONJ	RB	_	6	mark	_	Pinyin=dàn|Gloss=but; yet; however; still|HanViet=đãn
+2	近年	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=jìnnián|Gloss=recent year(s)|HanViet=cận niên
+3	来	_	ADP	IN	_	2	case	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+4	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	研究	_	NOUN	NN	_	6	nsubj	_	Pinyin=yánjiū|Gloss=research|HanViet=nghiên cứu
+6	表明	_	VERB	VV	_	0	root	_	Pinyin=biǎomíng|Gloss=to make clear|HanViet=biểu minh
+7	，	_	PUNCT	,	_	15	punct	_	_
+8	适度	_	ADJ	JJ	_	10	amod	_	Pinyin=shìdù|Gloss=moderately|HanViet=thích độ|Trad=適度
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	怀念	_	NOUN	NN	_	15	nsubj	_	Pinyin=huáiniàn|Gloss=to cherish the memory of|HanViet=hoài niệm|Trad=懷念
+11	能够	_	AUX	MD	_	12	aux	_	Pinyin=nénggòu|Gloss=to be capable of|HanViet=năng cú|Trad=能夠
+12	缓解	_	VERB	VV	_	15	advcl	_	Pinyin=huǎnjiě|Gloss=to bring relief|HanViet=hoãn giải|Trad=緩解
+13	孤独	_	NOUN	NN	_	12	obj	_	Pinyin=gūdú|Gloss=lonely|HanViet=cô độc|Trad=孤獨
+14	，	_	PUNCT	,	_	12	punct	_	_
+15	增强	_	VERB	VV	_	6	ccomp	_	Pinyin=zēngqiáng|Gloss=to increase|HanViet=tăng cường|Trad=增強
+16	人们	_	NOUN	NN	Number=Plur	21	nmod	_	Pinyin=rénmen|Gloss=people|HanViet=nhân môn|Trad=人們
+17	对	_	ADP	IN	_	21	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+18	生活	_	NOUN	NN	_	21	nmod	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+19	的	_	PART	DEC	Case=Gen	21	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+20	意义	_	NOUN	NN	_	21	compound	_	Pinyin=yìyì|Gloss=sense|HanViet=ý nghĩa|Trad=意義
+21	感	_	PART	SFN	_	15	obj	_	Pinyin=gǎn|Gloss=to feel|HanViet=cảm
+22	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l6-06-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 当我们面临挫折时，想起曾经被关爱的时刻，内心会获得一种安慰和力量。
+# translation = When we face setbacks, recalling moments when we were cared for gives us comfort and strength.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	当	_	ADP	IN	_	3	case	_	Pinyin=dāng|Gloss=(onom.) dong|HanViet=đương,đang|Trad=當
+2	我们	_	PRON	PRP	Number=Plur|Person=1	3	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+3	面临	_	VERB	VV	_	16	ccomp	_	Pinyin=miànlín|Gloss=to face sth; to be confronted with|HanViet=diện lâm|Trad=面臨
+4	挫折	_	NOUN	NN	_	3	obj	_	Pinyin=cuòzhé|Gloss=setback|HanViet=toả chiết
+5	时	_	ADP	IN	_	3	mark	_	Pinyin=shí|Gloss=o'clock|HanViet=thời|Trad=時
+6	，	_	PUNCT	,	_	3	punct	_	_
+7	想起	_	VERB	VV	_	12	acl:relcl	_	Pinyin=xiǎngqǐ|Gloss=to recall|HanViet=tưởng khởi
+8	曾经	_	ADV	RB	_	10	advmod	_	Pinyin=céngjīng|Gloss=once|HanViet=từng kinh|Trad=曾經
+9	被	_	AUX	BB	Voice=Pass	10	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+10	关爱	_	VERB	VV	_	12	acl:relcl	_	Pinyin=guānài|Gloss=to show concern and care for|HanViet=quan ái|Trad=關愛
+11	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	时刻	_	NOUN	NN	_	16	obl	_	Pinyin=shíkè|Gloss=time|HanViet=thời khắc|Trad=時刻
+13	，	_	PUNCT	,	_	12	punct	_	_
+14	内心	_	NOUN	NN	_	16	nsubj	_	Pinyin=nèixīn|Gloss=heart; innermost being|HanViet=nội tâm|Trad=內心
+15	会	_	AUX	MD	_	16	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+16	获得	_	VERB	VV	_	0	root	_	Pinyin=huòdé|Gloss=to obtain; to receive; to get|HanViet=hoạch đắc|Trad=獲得
+17	一	_	NUM	CD	NumType=Card	19	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+18	种	_	NOUN	NNB	_	17	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+19	安慰	_	NOUN	NN	_	16	obj	_	Pinyin=ānwèi|Gloss=to comfort; to console|HanViet=an uỷ,uý
+20	和	_	CCONJ	CC	_	21	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+21	力量	_	NOUN	NN	_	19	conj	_	Pinyin=lìliàng|Gloss=power; force; strength|HanViet=lực lượng
+22	。	_	PUNCT	.	_	16	punct	_	_
+
+# sent_id = korwus-graded-l6-06-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 当然，如果总是停留在过去，拒绝接受眼前的变化，怀念就可能成为前进的障碍。
+# translation = Of course, if we always linger in the past and refuse to accept the changes in front of us, nostalgia can become an obstacle to moving forward.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	当然	_	ADV	RB	_	18	advmod	_	Pinyin=dāngrán|Gloss=only natural|HanViet=đương,đang nhiên|Trad=當然
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	如果	_	ADP	IN	_	5	case	_	Pinyin=rúguǒ|Gloss=if; in case; in the event that|HanViet=như quả
+4	总是	_	ADV	RB	_	5	advmod	_	Pinyin=zǒngshì|Gloss=always|HanViet=tổng thị|Trad=總是
+5	停留	_	VERB	VV	_	9	advcl	_	Pinyin=tíngliú|Gloss=to stay for a time; to stop; to remain|HanViet=đình lưu
+6	在	_	ADP	IN	_	7	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+7	过去	_	NOUN	NN	_	5	obl	_	Pinyin=guòqù|Gloss=(in the) past; former; previous|HanViet=quá,qua khứ,khử|Trad=過去
+8	，	_	PUNCT	,	_	5	punct	_	_
+9	拒绝	_	VERB	VV	_	18	ccomp	_	Pinyin=jùjué|Gloss=to refuse; to decline; to reject|HanViet=cự tuyệt|Trad=拒絕
+10	接受	_	VERB	VV	_	9	xcomp	_	Pinyin=jiēshòu|Gloss=to accept (a suggestion, punishment, bribe etc); to acquiesce|HanViet=tiếp thọ
+11	眼前	_	NOUN	NN	_	13	nmod	_	Pinyin=yǎnqián|Gloss=before one's eyes|HanViet=nhãn tiền
+12	的	_	PART	DEC	Case=Gen	11	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	变化	_	NOUN	NN	_	10	obj	_	Pinyin=biànhuà|Gloss=(intransitive) to change; to vary|HanViet=biến hoá|Trad=變化
+14	，	_	PUNCT	,	_	9	punct	_	_
+15	怀念	_	NOUN	NN	_	18	nsubj	_	Pinyin=huáiniàn|Gloss=to cherish the memory of|HanViet=hoài niệm|Trad=懷念
+16	就	_	SCONJ	RB	_	18	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+17	可能	_	AUX	MD	_	18	aux	_	Pinyin=kěnéng|Gloss=might (happen)|HanViet=khả năng
+18	成	_	VERB	VV	_	0	root	_	Pinyin=chéng|Gloss=short name for Chengdu 成都[Cheng2 du1]|HanViet=thành
+19	为	_	VERB	VC	_	18	mark	_	Pinyin=wéi|Gloss=as (in the capacity of)|HanViet=vị,vì|Trad=為
+20	前进	_	VERB	VV	_	22	acl:relcl	_	Pinyin=qiánjìn|Gloss=to go forward|HanViet=tiền tiến|Trad=前進
+21	的	_	PART	DEC	Case=Gen	20	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+22	障碍	_	NOUN	NN	_	18	obj	_	Pinyin=zhàngài|Gloss=barrier|HanViet=chướng ngại|Trad=障礙
+23	。	_	PUNCT	.	_	18	punct	_	_
+
+# sent_id = korwus-graded-l6-06-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 也许，最理想的态度是珍惜回忆，同时勇敢地面对未来。
+# translation = Perhaps the ideal attitude is to cherish our memories while bravely facing the future.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	也许	_	ADV	RB	_	7	advmod	_	Pinyin=yěxǔ|Gloss=perhaps; maybe|HanViet=dã hứa|Trad=也許
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	最	_	ADV	RB	_	4	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+4	理想	_	ADJ	JJ	_	6	amod	_	Pinyin=lǐxiǎng|Gloss=an ideal|HanViet=lý tưởng
+5	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	态度	_	NOUN	NN	_	7	nsubj	_	Pinyin=tàidù|Gloss=manner|HanViet=thái độ|Trad=態度
+7	是	_	VERB	VC	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+8	珍惜	_	VERB	VV	_	7	xcomp	_	Pinyin=zhēnxī|Gloss=to treasure|HanViet=trân tích
+9	回忆	_	VERB	VV	_	8	xcomp	_	Pinyin=huíyì|Gloss=to recall|HanViet=hồi ức|Trad=回憶
+10	，	_	PUNCT	,	_	7	punct	_	_
+11	同时	_	NOUN	NN	_	12	nmod:tmod	_	Pinyin=tóngshí|Gloss=at the same time; simultaneously|HanViet=đồng thời|Trad=同時
+12	勇敢	_	ADJ	JJ	_	13	amod	_	Pinyin=yǒnggǎn|Gloss=brave; courageous|HanViet=dũng cảm
+13	地面	_	NOUN	NN	_	7	obl	_	Pinyin=dìmiàn|Gloss=floor|HanViet=địa diện
+14	对	_	ADP	IN	_	15	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+15	未来	_	NOUN	NN	_	13	conj	_	Pinyin=wèilái|Gloss=future|HanViet=vị,mùi lai|Trad=未來
+16	。	_	PUNCT	.	_	7	punct	_	_

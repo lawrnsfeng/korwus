@@ -1,0 +1,237 @@
+# sent_id = korwus-graded-l3-u01-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 我们都生活在这个世界上。
+# translation = We all live in this world.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	3	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	都	_	SCONJ	RB	_	3	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+3	生活	_	VERB	VV	_	0	root	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+4	在	_	ADP	IN	_	7	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	这	_	DET	DT	_	7	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+6	个	_	NOUN	NNB	_	5	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	世界	_	NOUN	NN	_	3	obl	_	Pinyin=shìjiè|Gloss=world|HanViet=thế giới
+8	上	_	ADP	IN	_	7	case	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+9	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u01-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 现在很多国家的天气比过去热，有的国家几个月都不下雨，有的国家又经常下大雨。
+# translation = Now the weather in many countries is hotter than in the past; some countries get no rain for months, while others often get heavy rain.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	很多	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+3	国家	_	NOUN	NN	_	5	nmod	_	Pinyin=guójiā|Gloss=country; nation; state|HanViet=quốc gia|Trad=國家
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	天气	_	NOUN	NN	_	8	nsubj	_	Pinyin=tiānqì|Gloss=weather|HanViet=thiên khí|Trad=天氣
+6	比	_	ADP	IN	_	7	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+7	过去	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=guòqù|Gloss=(in the) past; former; previous|HanViet=quá,qua khứ,khử|Trad=過去
+8	热	_	ADJ	JJ	_	17	advcl	_	Pinyin=rè|Gloss=to warm up|HanViet=nhiệt|Trad=熱
+9	，	_	PUNCT	,	_	8	punct	_	_
+10	有的	_	DET	DT	_	11	det	_	Pinyin=yǒude|Gloss=(there are) some (who are...)|HanViet=hữu đích
+11	国家	_	NOUN	NN	_	14	nmod	_	Pinyin=guójiā|Gloss=country; nation; state|HanViet=quốc gia|Trad=國家
+12	几	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+13	个	_	NOUN	NNB	_	12	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+14	月	_	NOUN	NN	_	17	nsubj	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+15	都	_	SCONJ	RB	_	17	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+16	不	_	ADV	RB	Polarity=Neg	17	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+17	下雨	_	VERB	VV	_	0	root	_	Pinyin=xiàyǔ|Gloss=to rain|HanViet=hạ vũ
+18	，	_	PUNCT	,	_	23	punct	_	_
+19	有的	_	DET	DT	_	20	det	_	Pinyin=yǒude|Gloss=(there are) some (who are...)|HanViet=hữu đích
+20	国家	_	NOUN	NN	_	23	nsubj	_	Pinyin=guójiā|Gloss=country; nation; state|HanViet=quốc gia|Trad=國家
+21	又	_	SCONJ	RB	_	23	mark	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+22	经常	_	ADV	RB	_	23	advmod	_	Pinyin=jīngcháng|Gloss=frequently; constantly; regularly; often|HanViet=kinh thường|Trad=經常
+23	下	_	VERB	VV	_	17	parataxis	_	Pinyin=xià|Gloss=down|HanViet=hạ
+24	大雨	_	NOUN	NN	_	23	obj	_	Pinyin=dàyǔ|Gloss=heavy rain|HanViet=đại vũ
+25	。	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = korwus-graded-l3-u01-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 很多人认为，这些事情会发生，是因为我们用了非常多的东西。
+# translation = Many people think these things happen because we use so much stuff.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	很多	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+2	人	_	NOUN	NN	_	3	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+3	认为	_	VERB	VV	_	0	root	_	Pinyin=rènwéi|Gloss=to believe; to think; to consider; to feel|HanViet=nhận vi|Trad=認為
+4	，	_	PUNCT	,	_	10	punct	_	_
+5	这些	_	DET	DT	_	6	det	_	Pinyin=zhèxiē|Gloss=these|HanViet=giá ta|Trad=這些
+6	事情	_	NOUN	NN	_	8	nsubj	_	Pinyin=shìqíng|Gloss=affair; matter; thing; business|HanViet=sự tình
+7	会	_	AUX	MD	_	8	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+8	发生	_	VERB	VV	_	10	csubj	_	Pinyin=fāshēng|Gloss=to happen; to occur; to take place; to arise (e.g. 發生問題/发生问题[fa1 sheng1 wen4 ti2] "a problem arises")|HanViet=phát sinh|Trad=發生
+9	，	_	PUNCT	,	_	8	punct	_	_
+10	是	_	VERB	VC	_	3	ccomp	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+11	因为	_	ADP	IN	_	10	xcomp	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+12	我们	_	PRON	PRP	Number=Plur|Person=1	13	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+13	用	_	VERB	VV	_	11	ccomp	_	Pinyin=yòng|Gloss=to use; to make use of; to employ|HanViet=dụng
+14	了	_	AUX	AS	Aspect=Perf	13	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+15	非常	_	ADV	RB	_	16	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+16	多	_	ADJ	JJ	_	18	amod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+17	的	_	SCONJ	DEC	_	16	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	东西	_	NOUN	NN	_	13	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+19	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u01-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我觉得每一个人都应该为这个世界做一些事。
+# translation = I think every person should do something for this world.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	觉得	_	VERB	VV	_	0	root	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+3	每	_	DET	DT	_	5	det	_	Pinyin=měi|Gloss=each|HanViet=mỗi
+4	一	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+5	个	_	NOUN	NNB	_	6	nmod	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	人	_	NOUN	NN	_	13	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+7	都	_	SCONJ	RB	_	13	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+8	应该	_	AUX	MD	_	13	aux	_	Pinyin=yīnggāi|Gloss=ought to; should; must|HanViet=ưng cai|Trad=應該
+9	为	_	ADP	IN	_	12	case	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+10	这	_	DET	DT	_	12	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+11	个	_	NOUN	NNB	_	10	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+12	世界	_	NOUN	NN	_	13	obl	_	Pinyin=shìjiè|Gloss=world|HanViet=thế giới
+13	做	_	VERB	VV	_	2	ccomp	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+14	一些	_	ADJ	JJ	_	15	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+15	事	_	NOUN	NN	_	13	obj	_	Pinyin=shì|Gloss=matter|HanViet=sự
+16	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u01-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 出门的时候，我们可以走路，也可以坐地铁，少开车。
+# translation = When we go out, we can walk or take the subway and drive less.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	出门	_	VERB	VV	_	3	acl:relcl	_	Pinyin=chūmén|Gloss=to go out|HanViet=xuất môn|Trad=出門
+2	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	时候	_	NOUN	NN	_	15	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我们	_	PRON	PRP	Number=Plur|Person=1	15	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+6	可以	_	AUX	MD	_	7	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+7	走路	_	VERB	VV	_	15	advcl	_	Pinyin=zǒulù|Gloss=to walk; to go on foot|HanViet=tẩu lộ
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	也	_	SCONJ	RB	_	11	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+10	可以	_	AUX	MD	_	11	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+11	坐	_	VERB	VV	_	15	advcl	_	Pinyin=zuò|Gloss=to sit|HanViet=toạ
+12	地铁	_	NOUN	NN	_	11	obj	_	Pinyin=dìtiě|Gloss=underground railway; subway|HanViet=địa thiết|Trad=地鐵
+13	，	_	PUNCT	,	_	11	punct	_	_
+14	少	_	ADV	RB	_	15	advmod	_	Pinyin=shǎo|Gloss=few|HanViet=thiểu
+15	开车	_	VERB	VV	_	0	root	_	Pinyin=kāichē|Gloss=to drive a car (or train etc)|HanViet=khai xa|Trad=開車
+16	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = korwus-graded-l3-u01-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 买东西的时候，我们不要买自己不需要的东西。
+# translation = When we shop, we shouldn't buy things we don't need.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	买	_	VERB	VV	_	4	acl:relcl	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+2	东西	_	NOUN	NN	_	1	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+3	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	时候	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	我们	_	PRON	PRP	Number=Plur|Person=1	8	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+7	不要	_	AUX	MD	Polarity=Neg	8	aux	_	Pinyin=búyào|Gloss=don't!; must not|HanViet=_ yếu
+8	买	_	VERB	VV	_	0	root	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+9	自己	_	PRON	PRD	_	11	nsubj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+10	不	_	ADV	RB	Polarity=Neg	11	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+11	需要	_	VERB	VV	_	13	acl:relcl	_	Pinyin=xūyào|Gloss=to need; to want; to demand; to require|HanViet=nhu yếu
+12	的	_	SCONJ	DEC	_	11	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	东西	_	NOUN	NN	_	8	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+14	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u01-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 在饭馆吃不了的菜，我们可以拿回家。
+# translation = Food we can't finish at a restaurant, we can take home.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	VERB	VV	_	10	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	饭馆	_	NOUN	NN	_	1	obj	_	Pinyin=fànguǎn|Gloss=restaurant|HanViet=phạn quán|Trad=飯館
+3	吃	_	VERB	VV	_	6	acl:relcl	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+4	不了	_	ADJ	JJ	_	6	amod	_	Pinyin=bùliǎo|Gloss=(as a resultative verb suffix) unable to (do sth)|HanViet=bất liễu
+5	的	_	SCONJ	DEC	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	菜	_	NOUN	NN	_	1	obj	_	Pinyin=cài|Gloss=vegetable; greens (CL:棵[ke1])|HanViet=thái
+7	，	_	PUNCT	,	_	1	punct	_	_
+8	我们	_	PRON	PRP	Number=Plur|Person=1	10	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+9	可以	_	AUX	MD	_	10	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+10	拿回	_	VERB	VV	_	0	root	_	Pinyin=náhuí|Gloss=拿 to hold + 回 Hui ethnic group (Chinese Muslims)|GlossFrom=parts|HanViet=nã hồi
+11	家	_	NOUN	NN	_	10	obj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+12	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l3-u01-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 如果每一个人都做一些，我们的世界就会更漂亮。
+# translation = If every person does something, our world will be more beautiful.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	如果	_	ADP	IN	_	7	case	_	Pinyin=rúguǒ|Gloss=if; in case; in the event that|HanViet=như quả
+2	每	_	DET	DT	_	4	det	_	Pinyin=měi|Gloss=each|HanViet=mỗi
+3	一	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+4	个	_	NOUN	NNB	_	5	nmod	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	人	_	NOUN	NN	_	7	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+6	都	_	SCONJ	RB	_	7	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+7	做	_	VERB	VV	_	16	ccomp	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+8	一些	_	ADJ	JJ	_	7	xcomp	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+9	，	_	PUNCT	,	_	7	punct	_	_
+10	我们	_	PRON	PRP	Number=Plur|Person=1	12	det	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	世界	_	NOUN	NN	_	16	nsubj	_	Pinyin=shìjiè|Gloss=world|HanViet=thế giới
+13	就	_	SCONJ	RB	_	16	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+14	会	_	AUX	MD	_	16	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+15	更	_	ADV	RB	_	16	advmod	_	Pinyin=gèng|Gloss=more|HanViet=càng,cánh
+16	漂亮	_	ADJ	JJ	_	0	root	_	Pinyin=piàoliàng|Gloss=pretty; beautiful|HanViet=phiếu lượng
+17	。	_	PUNCT	.	_	16	punct	_	_
+
+# sent_id = korwus-graded-l3-u01-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我们必须从今天开始，从自己开始。
+# translation = We must start today, and start with ourselves.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	9	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	必须	_	AUX	MD	_	9	aux	_	Pinyin=bìxū|Gloss=must; to have to|HanViet=tất tu|Trad=必須
+3	从	_	ADP	IN	_	4	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+4	今天	_	NOUN	NN	_	5	obl	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+5	开始	_	VERB	VV	_	9	advcl	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	从	_	ADP	IN	_	8	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+8	自己	_	PRON	PRD	_	9	obl	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+9	开始	_	VERB	VV	_	0	root	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+10	。	_	PUNCT	.	_	9	punct	_	_

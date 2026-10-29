@@ -1,0 +1,315 @@
+# sent_id = korwus-graded-l6-03-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# newpar
+# text = 人的一生大约有三分之一的时间是在睡眠中度过的。
+# translation = Roughly a third of a person's life is spent asleep.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	人	_	NOUN	NN	_	4	nmod	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	一	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+4	生	_	NOUN	NN	_	6	nsubj	_	Pinyin=shēng|Gloss=to grow; to give birth; to produce; to be born|HanViet=sinh
+5	大约	_	ADV	RB	_	6	advmod	_	Pinyin=dàyuē|Gloss=approximately|HanViet=đại ước|Trad=大約
+6	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+7	三分之一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=sānfēnzhīyī|Gloss=one third|HanViet=tam phân chi nhất
+8	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	时间	_	NOUN	NN	_	10	nsubj	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+10	是	_	VERB	VC	_	6	ccomp	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+11	在	_	ADP	IN	_	12	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+12	睡眠	_	NOUN	NN	_	14	nmod	_	Pinyin=shuìmián|Gloss=sleep|HanViet=thuỵ miên
+13	中度	_	ADP	IN	_	12	case	_	Pinyin=zhōngdù|Gloss=中 (bound form) China; Chinese + 度 to pass|GlossFrom=parts|HanViet=trung độ
+14	过	_	AUX	AS	Aspect=Perf	10	xcomp	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+15	的	_	PART	UH	_	10	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l6-03-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 过去，人们普遍认为睡觉只是让身体休息，大脑也随之停止工作。
+# translation = In the past, people generally believed that sleep merely rested the body and that the brain stopped working along with it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	过去	_	NOUN	NN	_	5	nmod:tmod	_	Pinyin=guòqù|Gloss=(in the) past; former; previous|HanViet=quá,qua khứ,khử|Trad=過去
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	人们	_	NOUN	NN	Number=Plur	5	nsubj	_	Pinyin=rénmen|Gloss=people|HanViet=nhân môn|Trad=人們
+4	普遍	_	ADV	RB	_	5	advmod	_	Pinyin=pǔbiàn|Gloss=universal|HanViet=phổ biến
+5	认为	_	VERB	VV	_	0	root	_	Pinyin=rènwéi|Gloss=to believe; to think; to consider; to feel|HanViet=nhận vi|Trad=認為
+6	睡觉	_	VERB	VV	_	8	csubj	_	Pinyin=shuìjiào|Gloss=to go to bed|HanViet=thuỵ giáo|Trad=睡覺
+7	只	_	ADV	RB	_	8	advmod	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+8	是	_	VERB	VC	_	5	ccomp	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+9	让	_	VERB	VV	Voice=Cau	8	xcomp	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+10	身体	_	NOUN	NN	_	11	nsubj	_	Pinyin=shēntǐ|Gloss=the body|HanViet=thân thể|Trad=身體
+11	休息	_	VERB	VV	_	9	ccomp	_	Pinyin=xiūxī|Gloss=rest|HanViet=hưu tức
+12	，	_	PUNCT	,	_	17	punct	_	_
+13	大脑	_	NOUN	NN	_	17	nsubj	_	Pinyin=dànǎo|Gloss=brain|HanViet=đại não|Trad=大腦
+14	也	_	SCONJ	RB	_	17	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+15	随	_	VERB	VV	_	17	advcl	_	Pinyin=suí|Gloss=to follow|HanViet=tuỳ|Trad=隨
+16	之	_	PRON	PRD	_	15	obj	_	Pinyin=zhī|Gloss=(possessive particle, literary equivalent of 的[de5])|HanViet=chi
+17	停止	_	VERB	VV	_	5	parataxis	_	Pinyin=tíngzhǐ|Gloss=to stop; to halt; to cease|HanViet=đình chỉ
+18	工作	_	VERB	VV	_	17	xcomp	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+19	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l6-03-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 然而，现代研究表明，睡眠时大脑依然相当活跃。
+# translation = However, modern research shows that the brain remains quite active during sleep.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	然而	_	SCONJ	RB	_	5	mark	_	Pinyin=ránér|Gloss=however; but; yet|HanViet=nhiên nhi
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	现代	_	NOUN	NN	_	4	nmod	_	Pinyin=xiàndài|Gloss=Hyundai, South Korean company|HanViet=hiện đại|Trad=現代
+4	研究	_	NOUN	NN	_	5	nsubj	_	Pinyin=yánjiū|Gloss=research|HanViet=nghiên cứu
+5	表明	_	VERB	VV	_	0	root	_	Pinyin=biǎomíng|Gloss=to make clear|HanViet=biểu minh
+6	，	_	PUNCT	,	_	12	punct	_	_
+7	睡眠	_	VERB	VV	_	9	acl:relcl	_	Pinyin=shuìmián|Gloss=sleep|HanViet=thuỵ miên
+8	时	_	ADP	IN	_	7	mark	_	Pinyin=shí|Gloss=o'clock|HanViet=thời|Trad=時
+9	大脑	_	NOUN	NN	_	12	nsubj	_	Pinyin=dànǎo|Gloss=brain|HanViet=đại não|Trad=大腦
+10	依然	_	ADV	RB	_	12	advmod	_	Pinyin=yīrán|Gloss=still; as before|HanViet=y nhiên
+11	相当	_	ADV	RB	_	12	advmod	_	Pinyin=xiāngdāng|Gloss=equivalent to|HanViet=tương đương,đang|Trad=相當
+12	活跃	_	ADJ	JJ	_	5	ccomp	_	Pinyin=huóyuè|Gloss=active|HanViet=hoạt dược|Trad=活躍
+13	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l6-03-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 在深度睡眠阶段，大脑会清理白天积累的有害物质，并巩固新学到的知识。
+# translation = In the deep sleep stage, the brain clears away harmful substances built up during the day and consolidates newly learned knowledge.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	ADP	IN	_	4	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	深度	_	NOUN	NN	_	4	nmod	_	Pinyin=shēndù|Gloss=depth|HanViet=thâm độ
+3	睡眠	_	NOUN	NN	_	4	nmod	_	Pinyin=shuìmián|Gloss=sleep|HanViet=thuỵ miên
+4	阶段	_	NOUN	NN	_	16	obl	_	Pinyin=jiēduàn|Gloss=stage|HanViet=giai đoạn|Trad=階段
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	大脑	_	NOUN	NN	_	16	nsubj	_	Pinyin=dànǎo|Gloss=brain|HanViet=đại não|Trad=大腦
+7	会	_	AUX	MD	_	8	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+8	清理	_	VERB	VV	_	16	advcl	_	Pinyin=qīnglǐ|Gloss=to clear up|HanViet=thanh lý
+9	白天	_	NOUN	NN	_	10	obl	_	Pinyin=báitiān|Gloss=daytime|HanViet=bạch thiên
+10	积累	_	VERB	VV	_	13	acl:relcl	_	Pinyin=jīlěi|Gloss=to accumulate|HanViet=tích luỵ,luỹ|Trad=積累
+11	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	有害	_	ADJ	JJ	_	13	amod	_	Pinyin=yǒuhài|Gloss=destructive|HanViet=hữu hại
+13	物质	_	NOUN	NN	_	8	obj	_	Pinyin=wùzhì|Gloss=matter|HanViet=vật chất|Trad=物質
+14	，	_	PUNCT	,	_	8	punct	_	_
+15	并	_	SCONJ	RB	_	16	mark	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+16	巩固	_	VERB	VV	_	0	root	_	Pinyin=gǒnggù|Gloss=to consolidate; to strengthen|HanViet=củng cố|Trad=鞏固
+17	新	_	ADV	RB	_	18	advmod	_	Pinyin=xīn|Gloss=new|HanViet=tân
+18	学到	_	VERB	VV	_	20	acl:relcl	_	Pinyin=xuédào|Gloss=to learn (sth); to learn about|HanViet=học đáo|Trad=學到
+19	的	_	SCONJ	DEC	_	18	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+20	知识	_	NOUN	NN	_	16	obj	_	Pinyin=zhīshí|Gloss=knowledge|HanViet=tri thức|Trad=知識
+21	。	_	PUNCT	.	_	16	punct	_	_
+
+# sent_id = korwus-graded-l6-03-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 而在做梦较多的阶段，情绪记忆得到整理，这有助于我们调节心理状态。
+# translation = In the stage with more dreaming, emotional memories are sorted, which helps us regulate our mental state.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	而	_	SCONJ	RB	_	10	mark	_	Pinyin=ér|Gloss=and|HanViet=nhi
+2	在	_	ADP	IN	_	6	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	做梦	_	VERB	VV	_	6	acl:relcl	_	Pinyin=zuòmèng|Gloss=to dream; to have a dream; (fig.) to indulge in wishful thinking|HanViet=tố mộng|Trad=做夢
+4	较多	_	ADJ	JJ	_	3	xcomp	_	Pinyin=jiàoduō|Gloss=较 (bound form) to compare + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=giảo đa|Trad=較多
+5	的	_	SCONJ	DEC	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	阶段	_	NOUN	NN	_	10	obl	_	Pinyin=jiēduàn|Gloss=stage|HanViet=giai đoạn|Trad=階段
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	情绪	_	NOUN	NN	_	9	nmod	_	Pinyin=qíngxù|Gloss=mood|HanViet=tình tự|Trad=情緒
+9	记忆	_	NOUN	NN	_	10	nsubj	_	Pinyin=jìyì|Gloss=to remember; to recall|HanViet=ký ức|Trad=記憶
+10	得到	_	VERB	VV	_	0	root	_	Pinyin=dédào|Gloss=to get; to obtain; to receive|HanViet=đắc đáo
+11	整理	_	NOUN	NN	_	10	obj	_	Pinyin=zhěnglǐ|Gloss=to arrange|HanViet=chỉnh lý
+12	，	_	PUNCT	,	_	14	punct	_	_
+13	这	_	PRON	PRD	_	14	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+14	有助	_	VERB	VV	_	10	parataxis	_	Pinyin=yǒuzhù|Gloss=helpful|HanViet=hữu trợ
+15	于	_	VERB	VV	_	14	mark	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+16	我们	_	PRON	PRP	Number=Plur|Person=1	17	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+17	调节	_	VERB	VV	_	14	ccomp	_	Pinyin=tiáojié|Gloss=to adjust|HanViet=điều tiết|Trad=調節
+18	心理	_	NOUN	NN	_	19	nmod	_	Pinyin=xīnlǐ|Gloss=psychology; mentality|HanViet=tâm lý
+19	状态	_	NOUN	NN	_	17	obj	_	Pinyin=zhuàngtài|Gloss=condition; state; state of affairs|HanViet=trạng thái|Trad=狀態
+20	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l6-03-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 长期睡眠不足的危害不能忽视，它会降低免疫力，导致注意力下降，甚至增加患病的风险。
+# translation = The harm of long-term sleep deprivation cannot be ignored: it lowers immunity, weakens concentration, and even raises the risk of illness.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	长期	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=chángqī|Gloss=long-term; for a protracted period|HanViet=trường kỳ|Trad=長期
+2	睡眠	_	NOUN	NN	_	3	nsubj	_	Pinyin=shuìmián|Gloss=sleep|HanViet=thuỵ miên
+3	不足	_	ADJ	JJ	_	5	acl:relcl	_	Pinyin=bùzú|Gloss=insufficient|HanViet=bất túc
+4	的	_	SCONJ	DEC	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	危害	_	NOUN	NN	_	7	nsubj	_	Pinyin=wēihài|Gloss=to harm; to jeopardize; to endanger|HanViet=nguy hại
+6	不能	_	AUX	MD	Polarity=Neg	7	aux	_	Pinyin=bùnéng|Gloss=cannot|HanViet=bất năng
+7	忽视	_	VERB	VV	_	0	root	_	Pinyin=hūshì|Gloss=to neglect; to overlook; to disregard; to ignore|HanViet=hốt thị|Trad=忽視
+8	，	_	PUNCT	,	_	21	punct	_	_
+9	它	_	PRON	PRP	Person=3	21	nsubj	_	Pinyin=tā|Gloss=it|HanViet=tha
+10	会	_	AUX	MD	_	11	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+11	降低	_	VERB	VV	_	21	advcl	_	Pinyin=jiàngdī|Gloss=to reduce; to lower; to bring down|HanViet=giáng đê
+12	免疫	_	VERB	VV	_	13	compound	_	Pinyin=miǎnyì|Gloss=immunity (to disease)|HanViet=miễn dịch
+13	力	_	PART	SFN	_	11	obj	_	Pinyin=lì|Gloss=power|HanViet=lực
+14	，	_	PUNCT	,	_	11	punct	_	_
+15	导致	_	VERB	VV	_	21	advcl	_	Pinyin=dǎozhì|Gloss=to lead to; to create; to cause; to bring about|HanViet=đạo trí|Trad=導致
+16	注意	_	VERB	VV	_	17	compound	_	Pinyin=zhùyì|Gloss=to take note of; to pay attention to|HanViet=chú ý
+17	力	_	PART	SFN	_	18	nsubj	_	Pinyin=lì|Gloss=power|HanViet=lực
+18	下降	_	VERB	VV	_	15	ccomp	_	Pinyin=xiàjiàng|Gloss=to decline|HanViet=hạ giáng
+19	，	_	PUNCT	,	_	15	punct	_	_
+20	甚至	_	SCONJ	RB	_	21	mark	_	Pinyin=shènzhì|Gloss=even; so much so that|HanViet=thậm chí
+21	增加	_	VERB	VV	_	7	parataxis	_	Pinyin=zēngjiā|Gloss=to raise; to increase|HanViet=tăng gia
+22	患病	_	VERB	VV	_	24	acl:relcl	_	Pinyin=huànbìng|Gloss=to fall ill|HanViet=hoạn bệnh
+23	的	_	SCONJ	DEC	_	22	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+24	风险	_	NOUN	NN	_	21	obj	_	Pinyin=fēngxiǎn|Gloss=risk; hazard|HanViet=phong hiểm|Trad=風險
+25	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l6-03-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 可是在快节奏的社会里，熬夜对许多年轻人来说已经是家常便饭。
+# translation = Yet in a fast-paced society, staying up late has become an everyday thing for many young people.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	可是	_	SCONJ	RB	_	19	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+2	在	_	ADP	IN	_	6	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	快	_	PART	PFA	_	4	case	_	Pinyin=kuài|Gloss=rapid|HanViet=khoái
+4	节奏	_	NOUN	NN	_	6	nmod	_	Pinyin=jiézòu|Gloss=rhythm|HanViet=tiết tấu|Trad=節奏
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	社会	_	NOUN	NN	_	15	obl	_	Pinyin=shèhuì|Gloss=society|HanViet=xã hội|Trad=社會
+7	里	_	ADP	IN	_	6	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+8	，	_	PUNCT	,	_	6	punct	_	_
+9	熬夜	_	VERB	VV	_	15	advcl	_	Pinyin=áoyè|Gloss=to stay up late or all night|HanViet=ngao dạ
+10	对	_	ADP	IN	_	13	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+11	许多	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=xǔduō|Gloss=many|HanViet=hứa đa|Trad=許多
+12	年轻	_	ADJ	JJ	_	13	compound	_	Pinyin=niánqīng|Gloss=young|HanViet=niên khinh|Trad=年輕
+13	人	_	PART	SFN	_	15	obl	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+14	来	_	SCONJ	RB	_	15	mark	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+15	说	_	VERB	VV	_	19	acl	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+16	已经	_	ADV	RB	_	19	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+17	是	_	AUX	VC	_	19	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+18	家常	_	ADJ	JJ	_	19	amod	_	Pinyin=jiācháng|Gloss=the daily life of a family|HanViet=gia thường
+19	便饭	_	NOUN	NN	_	0	root	_	Pinyin=biànfàn|Gloss=an ordinary meal|HanViet=tiện phạn|Trad=便飯
+20	。	_	PUNCT	.	_	19	punct	_	_
+
+# sent_id = korwus-graded-l6-03-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 睡前长时间看手机，屏幕发出的光线会抑制身体的自然节奏，使人难以入睡。
+# translation = When people look at their phones for a long time before bed, the light from the screen disrupts the body's natural rhythm, making it hard to fall asleep.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	睡	_	VERB	VV	_	5	advcl	_	Pinyin=shuì|Gloss=to sleep|HanViet=thuỵ
+2	前	_	ADP	IN	_	1	mark	_	Pinyin=qián|Gloss=front|HanViet=tiền
+3	长	_	PART	PFA	_	4	case	_	Pinyin=zhǎng|Gloss=chief|HanViet=trưởng|Trad=長
+4	时间	_	NOUN	NN	_	5	nsubj	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+5	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+6	手机	_	NOUN	NN	_	5	obj	_	Pinyin=shǒujī|Gloss=cell phone; mobile phone|HanViet=thủ cơ|Trad=手機
+7	，	_	PUNCT	,	_	19	punct	_	_
+8	屏幕	_	NOUN	NN	_	9	nsubj	_	Pinyin=píngmù|Gloss=screen (TV, computer or movie)|HanViet=bình,bính màn,mạc
+9	发出	_	VERB	VV	_	11	acl:relcl	_	Pinyin=fāchū|Gloss=to issue (an order, decree etc); to send out; to dispatch|HanViet=phát xuất|Trad=發出
+10	的	_	SCONJ	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	光线	_	NOUN	NN	_	13	nsubj	_	Pinyin=guāngxiàn|Gloss=light ray|HanViet=quang tuyến|Trad=光線
+12	会	_	AUX	MD	_	13	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+13	抑制	_	VERB	VV	_	19	csubj	_	Pinyin=yìzhì|Gloss=to inhibit|HanViet=ức chế
+14	身体	_	NOUN	NN	_	17	nmod	_	Pinyin=shēntǐ|Gloss=the body|HanViet=thân thể|Trad=身體
+15	的	_	PART	DEC	Case=Gen	14	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	自然	_	NOUN	NN	_	17	nmod	_	Pinyin=zìrán|Gloss=nature|HanViet=tự nhiên
+17	节奏	_	NOUN	NN	_	13	obj	_	Pinyin=jiézòu|Gloss=rhythm|HanViet=tiết tấu|Trad=節奏
+18	，	_	PUNCT	,	_	13	punct	_	_
+19	使	_	VERB	VV	Voice=Cau	5	parataxis	_	Pinyin=shǐ|Gloss=to make|HanViet=sử,sứ
+20	人	_	NOUN	NN	_	23	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+21	难	_	ADJ	JJ	_	23	advmod	_	Pinyin=nán|Gloss=difficult (to...)|HanViet=nan|Trad=難
+22	以	_	SCONJ	RB	_	23	mark	_	Pinyin=yǐ|Gloss=to use|HanViet=dĩ
+23	入睡	_	VERB	VV	_	19	ccomp	_	Pinyin=rùshuì|Gloss=to fall asleep|HanViet=nhập thuỵ
+24	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l6-03-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 专家建议，保持有规律的生活，避免在晚上摄入咖啡因，并为卧室创造安静、光线柔和的环境。
+# translation = Experts advise keeping a regular routine, avoiding caffeine in the evening, and creating a quiet, softly lit environment in the bedroom.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	专家	_	NOUN	NN	_	2	nsubj	_	Pinyin=zhuānjiā|Gloss=expert; specialist|HanViet=chuyên gia|Trad=專家
+2	建议	_	VERB	VV	_	0	root	_	Pinyin=jiànyì|Gloss=to propose; to suggest; to recommend|HanViet=kiến nghị|Trad=建議
+3	，	_	PUNCT	,	_	4	punct	_	_
+4	保持	_	VERB	VV	_	10	advcl	_	Pinyin=bǎochí|Gloss=to keep|HanViet=bảo trì
+5	有	_	VERB	VV	_	8	acl:relcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+6	规律	_	NOUN	NN	_	5	obj	_	Pinyin=guīlǜ|Gloss=rule (e.g. of science)|HanViet=quy luật|Trad=規律
+7	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	生活	_	NOUN	NN	_	4	obj	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+9	，	_	PUNCT	,	_	4	punct	_	_
+10	避免	_	VERB	VV	_	20	advcl	_	Pinyin=bìmiǎn|Gloss=to avert|HanViet=tị miễn
+11	在	_	ADP	IN	_	12	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+12	晚上	_	NOUN	NN	_	13	obl	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+13	摄入	_	VERB	VV	_	10	xcomp	_	Pinyin=shèrù|Gloss=to take in|HanViet=nhiếp nhập|Trad=攝入
+14	咖啡	_	NOUN	NN	_	13	obj	_	Pinyin=kāfēi|Gloss=(loanword) coffee|HanViet=ca phê
+15	因	_	ADP	IN	_	13	mark	_	Pinyin=yīn|Gloss=cause|HanViet=nhân
+16	，	_	PUNCT	,	_	13	punct	_	_
+17	并	_	SCONJ	RB	_	20	mark	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+18	为	_	ADP	IN	_	19	case	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+19	卧室	_	NOUN	NN	_	20	obl	_	Pinyin=wòshì|Gloss=bedroom|HanViet=ngoạ thất|Trad=臥室
+20	创造	_	VERB	VV	_	2	ccomp	_	Pinyin=chuàngzào|Gloss=to create|HanViet=sáng tạo|Trad=創造
+21	安静	_	ADJ	JJ	_	26	amod	_	Pinyin=ānjìng|Gloss=quiet|HanViet=an tĩnh|Trad=安靜
+22	、	_	PUNCT	EC	_	24	punct	_	_
+23	光线	_	NOUN	NN	_	24	nsubj	_	Pinyin=guāngxiàn|Gloss=light ray|HanViet=quang tuyến|Trad=光線
+24	柔和	_	ADJ	JJ	_	21	conj	_	Pinyin=róuhé|Gloss=gentle|HanViet=nhu hoà
+25	的	_	SCONJ	DEC	_	21	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+26	环境	_	NOUN	NN	_	20	obj	_	Pinyin=huánjìng|Gloss=environment|HanViet=hoàn cảnh|Trad=環境
+27	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l6-03-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 与其事后弥补，不如从现在起把睡眠当作一项值得投资的健康习惯。
+# translation = Rather than making up for it afterward, it is better to start now and treat sleep as a healthy habit worth investing in.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	与	_	ADP	IN	_	2	case	_	Pinyin=yǔ|Gloss=(formal) and; together with (linking parallel nouns, verbs, or phrases)|HanViet=dữ|Trad=與
+2	其	_	PRON	PRP	Person=3	4	obl	_	Pinyin=qí|Gloss=his|HanViet=kỳ
+3	事后	_	NOUN	NN	_	4	obl	_	Pinyin=shìhòu|Gloss=after the event|HanViet=sự hậu|Trad=事後
+4	弥补	_	VERB	VV	_	6	advcl	_	Pinyin=míbǔ|Gloss=to complement|HanViet=di bổ|Trad=彌補
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	不如	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=bùrú|Gloss=not equal to; not as good as; inferior to|HanViet=bất như
+7	从	_	ADP	IN	_	8	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+8	现在	_	NOUN	NN	_	9	obl	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+9	起	_	VERB	VV	_	12	advcl	_	Pinyin=qǐ|Gloss=to rise|HanViet=khởi
+10	把	_	ADP	BB	_	11	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+11	睡眠	_	NOUN	NN	_	12	obl:patient	_	Pinyin=shuìmián|Gloss=sleep|HanViet=thuỵ miên
+12	当作	_	VERB	VV	_	6	xcomp	_	Pinyin=dàngzuò|Gloss=to treat as|HanViet=đáng tác|Trad=當作
+13	一	_	NUM	CD	NumType=Card	19	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+14	项	_	NOUN	NNB	_	13	clf	_	Pinyin=xiàng|Gloss=back of neck|HanViet=hạng|Trad=項
+15	值得	_	VERB	VV	_	19	acl:relcl	_	Pinyin=zhíde|Gloss=worth the money|HanViet=trị đắc
+16	投资	_	VERB	VV	_	15	xcomp	_	Pinyin=tóuzī|Gloss=investment|HanViet=đầu tư|Trad=投資
+17	的	_	SCONJ	DEC	_	15	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	健康	_	ADJ	JJ	_	19	amod	_	Pinyin=jiànkāng|Gloss=health|HanViet=kiện khang
+19	习惯	_	NOUN	NN	_	12	iobj	_	Pinyin=xíguàn|Gloss=habit|HanViet=tập quán|Trad=習慣
+20	。	_	PUNCT	.	_	12	punct	_	_

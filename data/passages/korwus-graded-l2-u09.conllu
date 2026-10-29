@@ -1,0 +1,206 @@
+# sent_id = korwus-graded-l2-u09-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# newpar
+# text = 我快要出国学习了，所以这个星期去爷爷奶奶家看他们。
+# translation = I'm about to go abroad to study, so this week I went to see my grandparents.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	快要	_	ADV	RB	_	4	advmod	_	Pinyin=kuàiyào|Gloss=nearly at the point of (doing sth); about to (do sth)|HanViet=khoái yếu
+3	出国	_	VERB	VV	_	4	advcl	_	Pinyin=chūguó|Gloss=to go abroad; to leave the country|HanViet=xuất quốc|Trad=出國
+4	学习	_	VERB	VV	_	0	root	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+5	了	_	PART	UH	_	4	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	，	_	PUNCT	,	_	15	punct	_	_
+7	所以	_	SCONJ	RB	_	15	mark	_	Pinyin=suǒyǐ|Gloss=therefore|HanViet=sở dĩ
+8	这	_	DET	DT	_	10	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+9	个	_	NOUN	NNB	_	8	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	星期	_	NOUN	NN	_	15	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+11	去	_	VERB	VV	_	15	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+12	爷爷	_	NOUN	NN	_	14	nmod	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+13	奶奶	_	NOUN	NN	_	14	compound	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+14	家	_	PART	SFN	_	11	obj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+15	看	_	VERB	VV	_	4	parataxis	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+16	他们	_	PRON	PRP	Number=Plur|Person=3	15	obj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+17	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l2-u09-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 他们家的门是绿色的，门口有很多花。
+# translation = Their door is green, and there are lots of flowers by the door.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他们	_	PRON	PRP	Number=Plur|Person=3	2	det	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+2	家	_	NOUN	NN	_	4	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	门	_	NOUN	NN	_	6	nsubj	_	Pinyin=mén|Gloss=gate; door; doorway; gateway; opening (CL:扇[shan4])|HanViet=môn|Trad=門
+5	是	_	AUX	VC	_	6	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+6	绿色	_	NOUN	NN	_	0	root	_	Pinyin=lǜsè|Gloss=green|HanViet=lục sắc|Trad=綠色
+7	的	_	PART	UH	_	6	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	，	_	PUNCT	,	_	10	punct	_	_
+9	门口	_	NOUN	NN	_	10	nsubj	_	Pinyin=ménkǒu|Gloss=doorway|HanViet=môn khẩu|Trad=門口
+10	有	_	VERB	VV	_	6	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+11	很多	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+12	花	_	NOUN	NN	_	10	obj	_	Pinyin=huā|Gloss=flower|HanViet=hoa
+13	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l2-u09-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 爷爷非常喜欢鸟，他有两只鸟。
+# translation = Grandpa really likes birds; he has two of them.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	爷爷	_	NOUN	NN	_	3	nsubj	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+2	非常	_	ADV	RB	_	3	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+3	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+4	鸟	_	NOUN	NN	_	3	obj	_	Pinyin=niǎo|Gloss=bird|HanViet=điểu|Trad=鳥
+5	，	_	PUNCT	,	_	7	punct	_	_
+6	他	_	PRON	PRP	Person=3	7	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+7	有	_	VERB	VV	_	3	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+8	两	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+9	只	_	NOUN	NNB	_	8	clf	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+10	鸟	_	NOUN	NN	_	7	obj	_	Pinyin=niǎo|Gloss=bird|HanViet=điểu|Trad=鳥
+11	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l2-u09-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 它们有时在房间里飞，有时站在爷爷的头上。
+# translation = Sometimes they fly around the room, and sometimes they stand on Grandpa's head.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	它们	_	PRON	PRP	Number=Plur|Person=3	9	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=它們
+2	有时	_	ADV	RB	_	6	advmod	_	Pinyin=yǒushí|Gloss=sometimes; now and then|HanViet=hữu thời|Trad=有時
+3	在	_	VERB	VV	_	6	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	房间	_	NOUN	NN	_	3	obj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+5	里	_	ADP	IN	_	4	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+6	飞	_	VERB	VV	_	9	advcl	_	Pinyin=fēi|Gloss=to fly|HanViet=phi|Trad=飛
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	有时	_	ADV	RB	_	9	advmod	_	Pinyin=yǒushí|Gloss=sometimes; now and then|HanViet=hữu thời|Trad=有時
+9	站	_	VERB	VV	_	0	root	_	Pinyin=zhàn|Gloss=station|HanViet=trạm
+10	在	_	VERB	VV	_	9	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+11	爷爷	_	NOUN	NN	_	13	nmod	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+12	的	_	PART	DEC	Case=Gen	11	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	头上	_	NOUN	NN	_	9	obj	_	Pinyin=tóushàng|Gloss=overhead|HanViet=đầu thượng|Trad=頭上
+14	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l2-u09-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 奶奶做的菜比饭馆的菜还好吃。
+# translation = The food Grandma makes is even better than restaurant food.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	奶奶	_	NOUN	NN	_	2	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+2	做	_	VERB	VV	_	4	acl:relcl	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	菜	_	NOUN	NN	_	10	nsubj	_	Pinyin=cài|Gloss=vegetable; greens (CL:棵[ke1])|HanViet=thái
+5	比	_	ADP	IN	_	8	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+6	饭馆	_	NOUN	NN	_	8	nmod	_	Pinyin=fànguǎn|Gloss=restaurant|HanViet=phạn quán|Trad=飯館
+7	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	菜	_	NOUN	NN	_	10	nmod	_	Pinyin=cài|Gloss=vegetable; greens (CL:棵[ke1])|HanViet=thái
+9	还	_	SCONJ	RB	_	10	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+10	好吃	_	ADJ	JJ	_	0	root	_	Pinyin=hǎochī|Gloss=tasty; delicious|HanViet=hảo cật
+11	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l2-u09-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 晚上，我看见床上面有一件新衣服，是奶奶给我的。
+# translation = In the evening, I saw a new piece of clothing on the bed; it was from Grandma.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	看见	_	VERB	VV	_	0	root	_	Pinyin=kànjiàn|Gloss=to see; to catch sight of|HanViet=khán kiến|Trad=看見
+5	床	_	NOUN	NN	_	6	nmod	_	Pinyin=chuáng|Gloss=bed; couch (furniture that one can lie down on) (CL:張/张[zhang1])|HanViet=sàng
+6	上面	_	NOUN	NN	_	7	nsubj	_	Pinyin=shàngmiàn|Gloss=on top of|HanViet=thượng diện
+7	有	_	VERB	VV	_	4	ccomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+8	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+9	件	_	NOUN	NNB	_	8	clf	_	Pinyin=jiàn|Gloss=item|HanViet=kiện
+10	新	_	PART	PFA	_	11	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+11	衣服	_	NOUN	NN	_	7	obj	_	Pinyin=yīfú|Gloss=clothes|HanViet=y phục
+12	，	_	PUNCT	,	_	11	punct	_	_
+13	是	_	AUX	VC	_	15	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+14	奶奶	_	NOUN	NN	_	15	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+15	给	_	VERB	VV	_	7	ccomp	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+16	我	_	PRON	PRP	Person=1	15	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+17	的	_	PART	UH	_	15	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l2-u09-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 爷爷说，到了外国，要经常在网上给他们打电话。
+# translation = Grandpa said that once I'm abroad, I should call them online often.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	爷爷	_	NOUN	NN	_	2	nsubj	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	14	punct	_	_
+4	到	_	VERB	VV	_	14	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	外国	_	NOUN	NN	_	4	obj	_	Pinyin=wàiguó|Gloss=foreign country|HanViet=ngoại quốc|Trad=外國
+7	，	_	PUNCT	,	_	4	punct	_	_
+8	要	_	AUX	MD	_	14	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+9	经常	_	ADV	RB	_	14	advmod	_	Pinyin=jīngcháng|Gloss=frequently; constantly; regularly; often|HanViet=kinh thường|Trad=經常
+10	在	_	ADP	IN	_	11	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+11	网上	_	NOUN	NN	_	14	obl	_	Pinyin=wǎngshàng|Gloss=online|HanViet=võng thượng|Trad=網上
+12	给	_	VERB	VV	_	14	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+13	他们	_	PRON	PRP	Number=Plur|Person=3	12	obj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+14	打	_	VERB	VV	_	2	ccomp	_	Pinyin=dǎ|Gloss=to hit; to strike|HanViet=đả
+15	电话	_	NOUN	NN	_	14	obj	_	Pinyin=diànhuà|Gloss=telephone|HanViet=điện thoại|Trad=電話
+16	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l2-u09-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我笑着说：“好的，我每星期都给你们打。”
+# translation = I smiled and said, "OK, I'll call you every week."
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	笑	_	VERB	VV	_	4	advcl	_	Pinyin=xiào|Gloss=to laugh; to smile|HanViet=tiếu
+3	着	_	AUX	AS	Aspect=Prog	2	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+4	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+5	：	_	PUNCT	:	_	16	punct	_	_
+6	“	_	PUNCT	``	_	16	punct	_	_
+7	好	_	ADJ	JJ	_	16	advcl	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+8	的	_	PART	UH	_	7	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	，	_	PUNCT	,	_	7	punct	_	_
+10	我	_	PRON	PRP	Person=1	16	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+11	每	_	DET	DT	_	12	det	_	Pinyin=měi|Gloss=each|HanViet=mỗi
+12	星期	_	NOUN	NN	_	16	obl	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+13	都	_	SCONJ	RB	_	16	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+14	给	_	VERB	VV	_	16	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+15	你们	_	PRON	PRP	Person=2	14	obj	_	Pinyin=nǐmen|Gloss=you (plural)|HanViet=nễ môn|Trad=你們
+16	打	_	VERB	VV	_	4	ccomp	_	Pinyin=dǎ|Gloss=to hit; to strike|HanViet=đả
+17	。	_	PUNCT	.	_	16	punct	_	_
+18	”	_	PUNCT	''	_	16	punct	_	_

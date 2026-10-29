@@ -1,0 +1,288 @@
+# sent_id = korwus-graded-l3-u03-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# newpar
+# text = 我家旁边住着一位爷爷，他今年八十多岁了。
+# translation = A grandpa lives next door to us; he is over eighty this year.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	compound	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	家	_	PART	SFN	_	3	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+3	旁边	_	NOUN	NN	_	4	nsubj	_	Pinyin=pángbiān|Gloss=side; adjacent place|HanViet=bàng biên|Trad=旁邊
+4	住	_	VERB	VV	_	0	root	_	Pinyin=zhù|Gloss=to live; to reside; to stay|HanViet=trú,trụ
+5	着	_	AUX	AS	Aspect=Prog	4	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+6	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+7	位	_	NOUN	NNB	_	6	clf	_	Pinyin=wèi|Gloss=position|HanViet=vị
+8	爷爷	_	NOUN	NN	_	4	obj	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+9	，	_	PUNCT	,	_	13	punct	_	_
+10	他	_	PRON	PRP	Person=3	13	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+11	今年	_	NOUN	NN	_	13	nmod:tmod	_	Pinyin=jīnnián|Gloss=this year|HanViet=kim niên
+12	八十多	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=bāshíduō|Gloss=八十 eighty + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=bát thập đa
+13	岁	_	NOUN	NNB	_	4	parataxis	_	Pinyin=suì|Gloss=years old|HanViet=tuế|Trad=歲
+14	了	_	PART	UH	_	13	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+15	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u03-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他年轻的时候给公司开车，去过很多地方。
+# translation = When he was young he drove for a company and went to many places.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	年轻	_	ADJ	JJ	_	4	amod	_	Pinyin=niánqīng|Gloss=young|HanViet=niên khinh|Trad=年輕
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	时候	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+5	给	_	VERB	VV	_	9	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+6	公司	_	NOUN	NN	_	5	obj	_	Pinyin=gōngsī|Gloss=company; firm; corporation|HanViet=công ti,tư
+7	开车	_	VERB	VV	_	9	advcl	_	Pinyin=kāichē|Gloss=to drive a car (or train etc)|HanViet=khai xa|Trad=開車
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+10	过	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+11	很多	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+12	地方	_	NOUN	NN	_	9	obj	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+13	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u03-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他总是跟我们说以前的故事。
+# translation = He always tells us stories about the past.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	总是	_	VERB	VC	_	0	root	_	Pinyin=zǒngshì|Gloss=always|HanViet=tổng thị|Trad=總是
+3	跟	_	ADP	IN	_	4	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+4	我们	_	PRON	PRP	Number=Plur|Person=1	5	obl	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	说	_	VERB	VV	_	2	xcomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+6	以前	_	NOUN	NN	_	8	nmod	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+7	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	故事	_	NOUN	NN	_	5	obj	_	Pinyin=gùshì|Gloss=old practice|HanViet=cố sự
+9	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u03-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他说，以前这里没有地铁，也没有这么多楼，路上也没有多少车。
+# translation = He says that in the past there was no subway here, not this many buildings, and not many cars on the road.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	17	punct	_	_
+4	以前	_	NOUN	NN	_	10	nmod:tmod	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+5	这里	_	PRON	PRD	_	6	nsubj	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+6	没有	_	VERB	VV	Polarity=Neg	10	advcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+7	地铁	_	NOUN	NN	_	6	obj	_	Pinyin=dìtiě|Gloss=underground railway; subway|HanViet=địa thiết|Trad=地鐵
+8	，	_	PUNCT	,	_	6	punct	_	_
+9	也	_	SCONJ	RB	_	10	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+10	没有	_	VERB	VV	Polarity=Neg	17	advcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+11	这么	_	ADV	RB	_	12	advmod	_	Pinyin=zhème|Gloss=so much|HanViet=giá ma|Trad=這麼
+12	多	_	ADJ	JJ	_	13	amod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+13	楼	_	NOUN	NN	_	10	obj	_	Pinyin=lóu|Gloss=house with more than 1 story|HanViet=lâu|Trad=樓
+14	，	_	PUNCT	,	_	10	punct	_	_
+15	路上	_	NOUN	NN	_	17	nsubj	_	Pinyin=lùshàng|Gloss=on the road|HanViet=lộ thượng
+16	也	_	SCONJ	RB	_	17	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+17	没有	_	VERB	VV	Polarity=Neg	2	ccomp	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+18	多少	_	NUM	CD	NumType=Card	19	nummod	_	Pinyin=duōshǎo|Gloss=number; amount|HanViet=đa thiểu
+19	车	_	NOUN	NN	_	17	obj	_	Pinyin=chē|Gloss=car|HanViet=xa|Trad=車
+20	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u03-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 那时候他工作很努力，但是生活不太容易。
+# translation = Back then he worked very hard, but life was not easy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那	_	DET	DT	_	2	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	时候	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+3	他	_	PRON	PRP	Person=3	4	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	工作	_	VERB	VV	_	0	root	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+5	很	_	ADV	RB	_	6	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+6	努力	_	ADJ	JJ	_	4	xcomp	_	Pinyin=nǔlì|Gloss=to make an effort; to try hard; to strive|HanViet=nỗ lực
+7	，	_	PUNCT	,	_	12	punct	_	_
+8	但是	_	SCONJ	RB	_	12	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+9	生活	_	NOUN	NN	_	12	nsubj	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+10	不	_	ADV	RB	Polarity=Neg	12	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+11	太	_	ADV	RB	_	12	advmod	_	Pinyin=tài|Gloss=highest|HanViet=thái
+12	容易	_	ADJ	JJ	_	4	parataxis	_	Pinyin=róngyì|Gloss=easy; straightforward|HanViet=dung dịch,dị
+13	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u03-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他喜欢音乐，也喜欢动物，他有一只猫和一只狗。
+# translation = He likes music and animals too, and he has a cat and a dog.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	6	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	喜欢	_	VERB	VV	_	6	advcl	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+3	音乐	_	NOUN	NN	_	2	obj	_	Pinyin=yīnyuè|Gloss=music|HanViet=âm nhạc|Trad=音樂
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	也	_	SCONJ	RB	_	6	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+6	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+7	动物	_	NOUN	NN	_	6	obj	_	Pinyin=dòngwù|Gloss=animal|HanViet=động vật|Trad=動物
+8	，	_	PUNCT	,	_	10	punct	_	_
+9	他	_	PRON	PRP	Person=3	10	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+10	有	_	VERB	VV	_	6	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+11	一	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+12	只	_	NOUN	NNB	_	11	clf	_	Pinyin=zhī|Gloss=grain that has begun to ripen|HanViet=chỉ
+13	猫	_	NOUN	NN	_	10	obj	_	Pinyin=māo|Gloss=cat (CL:隻/只[zhi1])|HanViet=miêu|Trad=貓
+14	和	_	CCONJ	CC	_	17	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+15	一	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+16	只	_	NOUN	NNB	_	15	clf	_	Pinyin=zhī|Gloss=grain that has begun to ripen|HanViet=chỉ
+17	狗	_	NOUN	NN	_	13	conj	_	Pinyin=gǒu|Gloss=dog|HanViet=cẩu
+18	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u03-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 每天早上，他都会带着他的狗去公园走一走。
+# translation = Every morning he takes his dog for a walk in the park.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	每天	_	DET	DT	_	2	det	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+2	早上	_	NOUN	NN	_	16	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	他	_	PRON	PRP	Person=3	16	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+5	都	_	SCONJ	RB	_	16	mark	_	Pinyin=dū|Gloss=capital city|HanViet=đô
+6	会	_	AUX	MD	_	14	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+7	带	_	VERB	VV	_	14	advcl	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+8	着	_	AUX	AS	Aspect=Prog	7	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+9	他	_	PRON	PRP	Person=3	11	det	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+10	的	_	PART	DEC	Case=Gen	9	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	狗	_	NOUN	NN	_	7	obj	_	Pinyin=gǒu|Gloss=dog|HanViet=cẩu
+12	去	_	VERB	VV	_	14	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+13	公园	_	NOUN	NN	_	12	obj	_	Pinyin=gōngyuán|Gloss=park (for public recreation)|HanViet=công viên|Trad=公園
+14	走	_	VERB	VV	_	16	advcl	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+15	一	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+16	走	_	VERB	VV	_	0	root	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+17	。	_	PUNCT	.	_	16	punct	_	_
+
+# sent_id = korwus-graded-l3-u03-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 有一次，我看见他在门口帮助一个不知道怎么回去的小朋友。
+# translation = Once I saw him at the door helping a child who didn't know how to get home.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	有	_	VERB	VV	_	6	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+2	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+3	次	_	NOUN	NNB	_	1	obj	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	看见	_	VERB	VV	_	0	root	_	Pinyin=kànjiàn|Gloss=to see; to catch sight of|HanViet=khán kiến|Trad=看見
+7	他	_	PRON	PRP	Person=3	10	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+8	在	_	VERB	VV	_	10	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+9	门口	_	NOUN	NN	_	8	obj	_	Pinyin=ménkǒu|Gloss=doorway|HanViet=môn khẩu|Trad=門口
+10	帮助	_	VERB	VV	_	6	ccomp	_	Pinyin=bāngzhù|Gloss=assistance; aid|HanViet=bang trợ|Trad=幫助
+11	一	_	NUM	CD	NumType=Card	19	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+12	个	_	NOUN	NNB	_	11	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+13	不	_	ADV	RB	Polarity=Neg	14	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+14	知道	_	VERB	VV	_	19	acl:relcl	_	Pinyin=zhīdào|Gloss=to know; to become aware of|HanViet=tri đạo
+15	怎么	_	ADV	RB	_	16	advmod	_	Pinyin=zěnme|Gloss=how?|HanViet=chẩm ma|Trad=怎麼
+16	回去	_	VERB	VV	_	14	xcomp	_	Pinyin=huíqù|Gloss=to return|HanViet=hồi khứ,khử
+17	的	_	SCONJ	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	小	_	PART	PFA	_	19	case	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+19	朋友	_	NOUN	NN	_	10	obj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+20	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u03-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他说，能帮助人，他就感到很快乐。
+# translation = He says that being able to help people makes him feel very happy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	10	punct	_	_
+4	能	_	AUX	MD	_	5	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+5	帮助	_	VERB	VV	_	10	xcomp	_	Pinyin=bāngzhù|Gloss=assistance; aid|HanViet=bang trợ|Trad=幫助
+6	人	_	NOUN	NN	_	5	obj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+7	，	_	PUNCT	,	_	5	punct	_	_
+8	他	_	PRON	PRP	Person=3	10	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+9	就	_	SCONJ	RB	_	10	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+10	感到	_	VERB	VV	_	2	ccomp	_	Pinyin=gǎndào|Gloss=to feel; to sense; to perceive|HanViet=cảm đáo
+11	很	_	ADV	RB	_	12	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+12	快乐	_	ADJ	JJ	_	10	xcomp	_	Pinyin=kuàilè|Gloss=happy; joyful|HanViet=khoái lạc|Trad=快樂
+13	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u03-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他还告诉我，年轻的时候要努力学习，也要经常运动。
+# translation = He also told me that when you're young you should study hard and exercise often.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	3	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	还	_	SCONJ	RB	_	3	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+3	告诉	_	VERB	VV	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+4	我	_	PRON	PRP	Person=1	3	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	，	_	PUNCT	,	_	11	punct	_	_
+6	年轻	_	ADJ	JJ	_	8	amod	_	Pinyin=niánqīng|Gloss=young|HanViet=niên khinh|Trad=年輕
+7	的	_	SCONJ	DEC	_	6	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	时候	_	NOUN	NN	_	11	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+9	要	_	AUX	MD	_	11	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+10	努力	_	ADV	RB	_	11	advmod	_	Pinyin=nǔlì|Gloss=to make an effort; to try hard; to strive|HanViet=nỗ lực
+11	学习	_	VERB	VV	_	3	ccomp	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+12	，	_	PUNCT	,	_	16	punct	_	_
+13	也	_	CCONJ	CC	_	16	cc	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+14	要	_	AUX	MD	_	16	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+15	经常	_	ADV	RB	_	16	advmod	_	Pinyin=jīngcháng|Gloss=frequently; constantly; regularly; often|HanViet=kinh thường|Trad=經常
+16	运动	_	VERB	VV	_	11	conj	_	Pinyin=yùndòng|Gloss=to move|HanViet=vận động|Trad=運動
+17	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u03-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我觉得他的故事比历史课还有意思。
+# translation = I think his stories are even more interesting than history class.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	觉得	_	VERB	VV	_	0	root	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+3	他	_	PRON	PRP	Person=3	5	det	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	故事	_	NOUN	NN	_	10	nsubj	_	Pinyin=gùshì|Gloss=old practice|HanViet=cố sự
+6	比	_	ADP	IN	_	8	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+7	历史	_	NOUN	NN	_	8	compound	_	Pinyin=lìshǐ|Gloss=history|HanViet=lịch sử|Trad=歷史
+8	课	_	PART	SFN	_	10	obl	_	Pinyin=kè|Gloss=subject|HanViet=khoá|Trad=課
+9	还	_	SCONJ	RB	_	10	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+10	有	_	VERB	VV	_	2	ccomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+11	意思	_	NOUN	NN	_	10	obj	_	Pinyin=yìsi|Gloss=idea|HanViet=ý tư,tứ
+12	。	_	PUNCT	.	_	2	punct	_	_

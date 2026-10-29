@@ -1,0 +1,358 @@
+# sent_id = hsk1-01
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 1
+# grammar = 是 copula: A 是 B
+# text = 我是学生。
+# translation = I am a student.
+# grammar_points = gf0025-5:0-0;gf0025-36:1-1
+1	我	_	PRON	_	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	是	_	AUX	_	_	3	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	学生	_	NOUN	_	_	0	root	_	Pinyin=xuéshēng|Gloss=student|HanViet=học sinh|Trad=學生
+4	。	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = hsk1-02
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 1
+# grammar = Subject-verb-object, yes/no question with 吗
+# text = 你喝茶吗？
+# translation = Do you drink tea?
+# grammar_points = gf0025-5:0-0;gf0025-22:3-3;gf0025-33:0-3;gf0025-45:3-3
+1	你	_	PRON	_	Person=2	2	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+2	喝	_	VERB	_	_	0	root	_	Pinyin=hē|Gloss=to drink|HanViet=hát
+3	茶	_	NOUN	_	_	2	obj	_	Pinyin=chá|Gloss=tea|HanViet=trà
+4	吗	_	PART	_	_	2	discourse:sp	_	Pinyin=ma|Gloss=(question particle for "yes-no" questions)|HanViet=ma|Trad=嗎
+5	？	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = hsk1-03
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 1
+# grammar = Number + measure word + noun
+# text = 我有三本书。
+# translation = I have three books.
+# grammar_points = gf0025-5:0-0;gf0025-7:2-2;gf0025-8:3-3;gf0025-23:2-3;gf0025-37:1-1;gf0025-103:1-2
+1	我	_	PRON	_	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	有	_	VERB	_	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+3	三	_	NUM	_	_	5	nummod	_	Pinyin=sān|Gloss=three|HanViet=tam
+4	本	_	NOUN	_	_	5	clf	_	Pinyin=běn|Gloss=(bound form) root; stem|HanViet=bản
+5	书	_	NOUN	_	_	2	obj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+6	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = hsk2-01
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 1
+# grammar = Time word before the verb, completed action with 了
+# text = 他昨天去了北京。
+# translation = He went to Beijing yesterday.
+# grammar_points = gf0025-5:0-0;gf0025-21:3-3;gf0025-41:3-3
+1	他	_	PRON	_	Person=3	3	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	昨天	_	NOUN	_	_	3	obl:tmod	_	Pinyin=zuótiān|Gloss=yesterday|HanViet=tạc thiên
+3	去	_	VERB	_	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+4	了	_	AUX	_	Aspect=Perf	3	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	北京	_	PROPN	_	_	3	obj	_	Pinyin=běijīng|Gloss=Beijing municipality, capital of the People's Republic of China (short name 京[Jing1])|HanViet=bắc kinh
+6	。	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = hsk2-02
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 1
+# grammar = Place phrase 在 + place before the verb
+# text = 我在学校学习汉语。
+# translation = I study Chinese at school.
+# grammar_points = gf0025-5:0-0;gf0025-16:1-1
+1	我	_	PRON	_	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	在	_	ADP	_	_	3	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	学校	_	NOUN	_	_	4	obl	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+4	学习	_	VERB	_	_	0	root	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+5	汉语	_	PROPN	_	_	4	obj	_	Pinyin=hànyǔ|Gloss=Chinese language|HanViet=hán ngữ|Trad=漢語
+6	。	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = hsk2-03
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 2
+# grammar = Degree complement: verb 得 adjective
+# text = 他跑得很快。
+# translation = He runs fast.
+# grammar_points = gf0025-5:0-0;gf0025-9:3-3;gf0025-79:2-2;gf0025-179:1-3
+1	他	_	PRON	_	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	跑	_	VERB	_	_	0	root	_	Pinyin=pǎo|Gloss=to run|HanViet=bào
+3	得	_	PART	_	_	5	mark	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+4	很	_	ADV	_	_	5	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+5	快	_	ADJ	_	_	2	xcomp	_	Pinyin=kuài|Gloss=rapid|HanViet=khoái
+6	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = hsk3-01
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 3
+# grammar = 把 sentence with a result complement
+# text = 我把作业做完了。
+# translation = I finished my homework.
+# grammar_points = gf0025-5:0-0;gf0025-22:5-5;gf0025-40:5-5;gf0025-97:3-4;gf0025-157:1-1;gf0025-184:1-3;gf0025-302:4-5
+1	我	_	PRON	_	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	把	_	ADP	_	_	3	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+3	作业	_	NOUN	_	_	4	obl:patient	_	Pinyin=zuòyè|Gloss=school assignment|HanViet=tác nghiệp|Trad=作業
+4	做	_	VERB	_	_	0	root	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+5	完	_	VERB	_	_	4	compound:vv	_	Pinyin=wán|Gloss=to finish|HanViet=hoàn
+6	了	_	AUX	_	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	。	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = hsk3-02
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 2
+# grammar = Comparison: A 比 B adjective
+# text = 他比我高一点儿。
+# translation = He is a little taller than me.
+# grammar_points = gf0025-5:0-0;gf0025-5:2-2;gf0025-18:1-1;gf0025-30:0-3;gf0025-38:1-3;gf0025-101:3-4;gf0025-106:1-3;gf0025-188:1-3
+1	他	_	PRON	_	Person=3	4	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	比	_	ADP	_	_	3	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+3	我	_	PRON	_	Person=1	4	obl	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	高	_	ADJ	_	_	0	root	_	Pinyin=gāo|Gloss=high|HanViet=cao
+5	一点儿	_	ADV	_	_	4	advmod	_	Pinyin=yīdiǎnr|Gloss=erhua variant of 一點/一点[yi1 dian3]|HanViet=nhất điểm nhi|Trad=一點兒
+6	。	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = hsk3-03
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 3
+# grammar = Past experience with 过
+# text = 我去过很多国家。
+# translation = I have been to many countries.
+# grammar_points = gf0025-5:0-0;gf0025-9:3-3;gf0025-80:2-2;gf0025-119:1-2;gf0025-132:5-5
+1	我	_	PRON	_	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	去	_	VERB	_	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+3	过	_	AUX	_	Aspect=Perf	2	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+4	很	_	ADV	_	_	5	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+5	多	_	ADJ	_	_	6	amod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+6	国家	_	NOUN	_	_	2	obj	_	Pinyin=guójiā|Gloss=country; nation; state|HanViet=quốc gia|Trad=國家
+7	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = hsk4-01
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 4
+# grammar = 被 passive, possessive 的
+# text = 我的手机被弟弟弄坏了。
+# translation = My phone was broken by my little brother.
+# grammar_points = gf0025-5:0-0;gf0025-20:1-1;gf0025-22:7-7;gf0025-40:7-7;gf0025-82:1-1;gf0025-157:3-3;gf0025-185:3-5
+1	我	_	PRON	_	Person=1	3	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	的	_	PART	_	_	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	手机	_	NOUN	_	_	6	nsubj:pass	_	Pinyin=shǒujī|Gloss=cell phone; mobile phone|HanViet=thủ cơ|Trad=手機
+4	被	_	AUX	_	Voice=Pass	6	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+5	弟弟	_	NOUN	_	_	6	obl:agent	_	Pinyin=dìdi|Gloss=younger brother|HanViet=đệ đệ
+6	弄	_	VERB	_	_	0	root	_	Pinyin=nòng|Gloss=to do|HanViet=lộng
+7	坏	_	VERB	_	_	6	compound:vv	_	Pinyin=huài|Gloss=bad|HanViet=hoại|Trad=壞
+8	了	_	AUX	_	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	。	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = hsk4-02
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 2
+# grammar = Adverbial 地, direction complement
+# text = 他慢慢地走进了教室。
+# translation = He slowly walked into the classroom.
+# grammar_points = gf0025-5:0-0;gf0025-20:2-2;gf0025-21:5-5;gf0025-41:5-5;gf0025-56:1-1;gf0025-98:3-4
+1	他	_	PRON	_	Person=3	4	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	慢慢	_	ADV	_	_	4	advmod	_	Pinyin=mànmàn|Gloss=slowly; gradually|HanViet=mạn mạn
+3	地	_	PART	_	_	2	mark:adv	_	Pinyin=dì|Gloss=earth|HanViet=địa
+4	走	_	VERB	_	_	0	root	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+5	进	_	VERB	_	_	4	compound:dir	_	Pinyin=jìn|Gloss=to go forward|HanViet=tiến|Trad=進
+6	了	_	AUX	_	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	教室	_	NOUN	_	_	4	obj	_	Pinyin=jiàoshì|Gloss=classroom|HanViet=giáo thất
+8	。	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = hsk4-03
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 3
+# grammar = Cause and effect: 因为…所以…
+# text = 因为下雨，所以我们没有去公园。
+# translation = Because it rained, we didn't go to the park.
+# grammar_points = gf0025-5:4-4;gf0025-14:5-5;gf0025-116:0-3;gf0025-132:4-4;gf0025-201:3-3
+1	因为	_	SCONJ	_	_	2	mark	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+2	下雨	_	VERB	_	_	7	advcl	_	Pinyin=xiàyǔ|Gloss=to rain|HanViet=hạ vũ
+3	，	_	PUNCT	_	_	2	punct	_	_
+4	所以	_	ADV	_	_	7	advmod	_	Pinyin=suǒyǐ|Gloss=therefore|HanViet=sở dĩ
+5	我们	_	PRON	_	Person=1|Number=Plur	7	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+6	没有	_	ADV	_	Polarity=Neg	7	advmod	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+7	去	_	VERB	_	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+8	公园	_	NOUN	_	_	7	obj	_	Pinyin=gōngyuán|Gloss=park (for public recreation)|HanViet=công viên|Trad=公園
+9	。	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = hsk5-01
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 2
+# grammar = Relative clause: clause 的 noun
+# text = 我昨天买的那本书非常有意思。
+# translation = The book I bought yesterday is very interesting.
+# grammar_points = gf0025-5:0-0;gf0025-6:4-4;gf0025-8:5-5;gf0025-9:7-7;gf0025-20:3-3;gf0025-30:6-8;gf0025-82:3-3
+1	我	_	PRON	_	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	昨天	_	NOUN	_	_	3	obl:tmod	_	Pinyin=zuótiān|Gloss=yesterday|HanViet=tạc thiên
+3	买	_	VERB	_	_	7	acl:relcl	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+4	的	_	PART	_	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	那	_	DET	_	_	7	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+6	本	_	NOUN	_	_	7	clf	_	Pinyin=běn|Gloss=(bound form) root; stem|HanViet=bản
+7	书	_	NOUN	_	_	9	nsubj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+8	非常	_	ADV	_	_	9	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+9	有意思	_	ADJ	_	_	0	root	_	Pinyin=yǒuyìsi|Gloss=interesting|HanViet=hữu ý tư,tứ
+10	。	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = hsk5-02
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 4
+# grammar = Concession: 虽然…但是…
+# text = 虽然这个问题很复杂，但是他还是解决了。
+# translation = Although this problem is complicated, he still solved it.
+# grammar_points = gf0025-5:8-8;gf0025-6:1-1;gf0025-8:2-2;gf0025-9:4-4;gf0025-19:9-9;gf0025-22:11-11;gf0025-40:11-11;gf0025-78:0-0;gf0025-78:7-7;gf0025-113:0-7
+1	虽然	_	SCONJ	_	_	6	mark	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+2	这	_	DET	_	_	4	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+3	个	_	NOUN	_	_	4	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+4	问题	_	NOUN	_	_	6	nsubj	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+5	很	_	ADV	_	_	6	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+6	复杂	_	ADJ	_	_	11	advcl	_	Pinyin=fùzá|Gloss=complicated; complex|HanViet=phức tạp|Trad=複雜
+7	，	_	PUNCT	_	_	6	punct	_	_
+8	但是	_	CCONJ	_	_	11	cc	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+9	他	_	PRON	_	Person=3	11	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+10	还是	_	ADV	_	_	11	advmod	_	Pinyin=háishì|Gloss=still (as before)|HanViet=hoàn thị|Trad=還是
+11	解决	_	VERB	_	_	0	root	_	Pinyin=jiějué|Gloss=to solve; to resolve; to settle (a problem)|HanViet=giải quyết|Trad=解決
+12	了	_	AUX	_	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	。	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = hsk5-03
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 3
+# grammar = Simultaneous actions: 一边…一边…
+# text = 他一边听音乐，一边做作业。
+# translation = He listens to music while doing his homework.
+# grammar_points = gf0025-5:0-0;gf0025-39:1-5
+1	他	_	PRON	_	Person=3	3	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	一边	_	ADV	_	_	3	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+3	听	_	VERB	_	_	0	root	_	Pinyin=tīng|Gloss=to listen to; to hear|HanViet=thính|Trad=聽
+4	音乐	_	NOUN	_	_	3	obj	_	Pinyin=yīnyuè|Gloss=music|HanViet=âm nhạc|Trad=音樂
+5	，	_	PUNCT	_	_	7	punct	_	_
+6	一边	_	ADV	_	_	7	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+7	做	_	VERB	_	_	3	conj	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+8	作业	_	NOUN	_	_	7	obj	_	Pinyin=zuòyè|Gloss=school assignment|HanViet=tác nghiệp|Trad=作業
+9	。	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = hsk6-01
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# grammar = Long sentence: 随着 phrase, verb chain, two 的 modifiers
+# text = 随着经济的快速发展，越来越多的年轻人选择离开家乡，到大城市寻找更好的工作机会。
+# translation = As the economy develops rapidly, more and more young people choose to leave home and look for better jobs in big cities.
+# grammar_points = gf0025-20:2-2;gf0025-20:8-8;gf0025-20:20-20;gf0025-61:18-18;gf0025-82:2-2;gf0025-82:8-8;gf0025-82:20-20;gf0025-92:6-6;gf0025-136:11-11;gf0025-269:19-19;gf0025-296:0-0
+1	随着	_	ADP	_	_	5	case	_	Pinyin=suízhe|Gloss=along with|HanViet=tuỳ trước|Trad=隨著
+2	经济	_	NOUN	_	_	5	nmod	_	Pinyin=jīngjì|Gloss=economy|HanViet=kinh tế|Trad=經濟
+3	的	_	PART	_	_	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	快速	_	ADJ	_	_	5	amod	_	Pinyin=kuàisù|Gloss=fast; high-speed; rapid|HanViet=khoái tốc
+5	发展	_	NOUN	_	_	11	obl	_	Pinyin=fāzhǎn|Gloss=development|HanViet=phát triển|Trad=發展
+6	，	_	PUNCT	_	_	5	punct	_	_
+7	越来越	_	ADV	_	_	8	advmod	_	Pinyin=yuèláiyuè|Gloss=more and more|HanViet=việt lai việt|Trad=越來越
+8	多	_	ADJ	_	_	10	amod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+9	的	_	PART	_	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	年轻人	_	NOUN	_	_	11	nsubj	_	Pinyin=niánqīngrén|Gloss=young people|HanViet=niên khinh nhân|Trad=年輕人
+11	选择	_	VERB	_	_	0	root	_	Pinyin=xuǎnzé|Gloss=to select; to pick|HanViet=tuyển trạch|Trad=選擇
+12	离开	_	VERB	_	_	11	xcomp	_	Pinyin=líkāi|Gloss=to depart; to leave|HanViet=ly khai|Trad=離開
+13	家乡	_	NOUN	_	_	12	obj	_	Pinyin=jiāxiāng|Gloss=hometown|HanViet=gia hương|Trad=家鄉
+14	，	_	PUNCT	_	_	18	punct	_	_
+15	到	_	ADP	_	_	17	case	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+16	大	_	ADJ	_	_	17	amod	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+17	城市	_	NOUN	_	_	18	obl	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+18	寻找	_	VERB	_	_	12	conj	_	Pinyin=xúnzhǎo|Gloss=to seek; to look for|HanViet=tầm trảo|Trad=尋找
+19	更	_	ADV	_	_	20	advmod	_	Pinyin=gèng|Gloss=more|HanViet=càng,cánh
+20	好	_	ADJ	_	_	23	amod	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+21	的	_	PART	_	_	20	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+22	工作	_	NOUN	_	_	23	compound	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+23	机会	_	NOUN	_	_	18	obj	_	Pinyin=jīhuì|Gloss=opportunity|HanViet=cơ hội|Trad=機會
+24	。	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = hsk6-02
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 4
+# grammar = Emphasis 连…都, contrast 却, embedded clause
+# text = 他连一句中文都不会说，却说自己在中国生活了十年。
+# translation = He can't say even one sentence of Chinese, yet he says he has lived in China for ten years.
+# grammar_points = gf0025-2:7-7;gf0025-5:0-0;gf0025-7:2-2;gf0025-7:17-17;gf0025-10:5-5;gf0025-14:6-6;gf0025-16:13-13;gf0025-21:16-16;gf0025-23:2-3;gf0025-23:17-18;gf0025-41:16-16;gf0025-44:17-18;gf0025-54:12-12;gf0025-60:18-18;gf0025-68:5-5;gf0025-171:2-6;gf0025-181:15-18;gf0025-182:15-18;gf0025-209:5-16;gf0025-220:10-10
+1	他	_	PRON	_	Person=3	9	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	连	_	ADP	_	_	5	case	_	Pinyin=lián|Gloss=to link|HanViet=liên|Trad=連
+3	一	_	NUM	_	_	5	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+4	句	_	NOUN	_	_	5	clf	_	Pinyin=jù|Gloss=sentence|HanViet=câu,cú
+5	中文	_	PROPN	_	_	9	obl	_	Pinyin=zhōngwén|Gloss=Chinese language|HanViet=trung văn
+6	都	_	ADV	_	_	9	advmod	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+7	不	_	ADV	_	Polarity=Neg	8	advmod	_	Pinyin=bú|Gloss=no; not so|HanViet=bất
+8	会	_	AUX	_	_	9	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+9	说	_	VERB	_	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+10	，	_	PUNCT	_	_	12	punct	_	_
+11	却	_	ADV	_	_	12	advmod	_	Pinyin=què|Gloss=but|HanViet=khước|Trad=卻
+12	说	_	VERB	_	_	9	conj	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+13	自己	_	PRON	_	_	16	nsubj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+14	在	_	ADP	_	_	15	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+15	中国	_	PROPN	_	_	16	obl	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+16	生活	_	VERB	_	_	12	ccomp	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+17	了	_	AUX	_	Aspect=Perf	16	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+18	十	_	NUM	_	_	19	nummod	_	Pinyin=shí|Gloss=ten|HanViet=thập
+19	年	_	NOUN	_	_	16	obl:tmod	_	Pinyin=nián|Gloss=year|HanViet=niên
+20	。	_	PUNCT	_	_	9	punct	_	_

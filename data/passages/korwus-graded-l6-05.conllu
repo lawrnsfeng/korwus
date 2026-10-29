@@ -1,0 +1,318 @@
+# sent_id = korwus-graded-l6-05-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# newpar
+# text = 广告是现代商业不可缺少的一部分，它帮助消费者了解产品，也推动了市场的繁荣。
+# translation = Advertising is an indispensable part of modern commerce; it helps consumers learn about products and also drives market prosperity.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	广告	_	NOUN	NN	_	9	nsubj	_	Pinyin=guǎnggào|Gloss=to advertise|HanViet=quảng cáo|Trad=廣告
+2	是	_	AUX	VC	_	9	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	现代	_	NOUN	NN	_	4	nmod	_	Pinyin=xiàndài|Gloss=Hyundai, South Korean company|HanViet=hiện đại|Trad=現代
+4	商业	_	NOUN	NN	_	6	nsubj	_	Pinyin=shāngyè|Gloss=business|HanViet=thương nghiệp|Trad=商業
+5	不可	_	AUX	MD	Polarity=Neg	6	aux	_	Pinyin=bùkě|Gloss=cannot; should not; must not|HanViet=bất khả
+6	缺少	_	VERB	VV	_	9	acl:relcl	_	Pinyin=quēshǎo|Gloss=lack|HanViet=khuyết thiểu
+7	的	_	SCONJ	DEC	_	6	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+9	部分	_	NOUN	NN	_	0	root	_	Pinyin=bùfèn|Gloss=part; portion; piece|HanViet=bộ phận,phần
+10	，	_	PUNCT	,	_	19	punct	_	_
+11	它	_	PRON	PRP	Person=3	19	nsubj	_	Pinyin=tā|Gloss=it|HanViet=tha
+12	帮助	_	VERB	VV	_	19	advcl	_	Pinyin=bāngzhù|Gloss=assistance; aid|HanViet=bang trợ|Trad=幫助
+13	消费	_	VERB	VV	_	14	compound	_	Pinyin=xiāofèi|Gloss=to consume (goods and services, resources etc)|HanViet=tiêu phí|Trad=消費
+14	者	_	PART	SFN	_	15	nsubj	_	Pinyin=zhě|Gloss=(after a verb or adjective) one who (is) ...|HanViet=giả
+15	了解	_	VERB	VV	_	12	ccomp	_	Pinyin=liǎojiě|Gloss=to understand; to know about|HanViet=liễu giải|Trad=瞭解
+16	产品	_	NOUN	NN	_	15	obj	_	Pinyin=chǎnpǐn|Gloss=goods|HanViet=sản phẩm|Trad=產品
+17	，	_	PUNCT	,	_	12	punct	_	_
+18	也	_	SCONJ	RB	_	19	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+19	推动	_	VERB	VV	_	9	parataxis	_	Pinyin=tuīdòng|Gloss=to push (e.g. for acceptance of a plan); to promote; to give impetus to|HanViet=suy động|Trad=推動
+20	了	_	AUX	AS	Aspect=Perf	19	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+21	市场	_	NOUN	NN	_	23	nmod	_	Pinyin=shìchǎng|Gloss=marketplace; market; bazaar|HanViet=thị trường|Trad=市場
+22	的	_	PART	DEC	Case=Gen	21	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+23	繁荣	_	NOUN	NN	_	19	obj	_	Pinyin=fánróng|Gloss=prosperous; booming|HanViet=phồn vinh|Trad=繁榮
+24	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l6-05-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 然而，并不是所有广告都遵守诚信的原则。
+# translation = However, not all advertising follows the principle of honesty.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	然而	_	SCONJ	RB	_	8	mark	_	Pinyin=ránér|Gloss=however; but; yet|HanViet=nhiên nhi
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	并	_	SCONJ	RB	_	8	mark	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+4	不是	_	AUX	VC	Polarity=Neg	6	cop	_	Pinyin=búshì|Gloss=no|HanViet=_ thị
+5	所有	_	DET	DT	_	6	det	_	Pinyin=suǒyǒu|Gloss=all|HanViet=sở hữu
+6	广告	_	NOUN	NN	_	8	advcl	_	Pinyin=guǎnggào|Gloss=to advertise|HanViet=quảng cáo|Trad=廣告
+7	都	_	SCONJ	RB	_	8	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+8	遵守	_	VERB	VV	_	0	root	_	Pinyin=zūnshǒu|Gloss=to comply with; to abide by; to respect (an agreement)|HanViet=tuân thủ
+9	诚信	_	NOUN	NN	_	11	nmod	_	Pinyin=chéngxìn|Gloss=honesty; trustworthiness; good faith|HanViet=thành tín|Trad=誠信
+10	的	_	SCONJ	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	原则	_	NOUN	NN	_	8	obj	_	Pinyin=yuánzé|Gloss=principle|HanViet=nguyên tắc|Trad=原則
+12	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l6-05-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 有些商家为了追求利润，故意夸张产品的效果，甚至隐藏可能带来的危害。
+# translation = Some merchants, in pursuit of profit, deliberately exaggerate what their products can do and even hide the harm they may cause.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	有些	_	VERB	VV	_	0	root	_	Pinyin=yǒuxiē|Gloss=some|HanViet=hữu ta
+2	商家	_	NOUN	NN	_	14	nsubj	_	Pinyin=shāngjiā|Gloss=merchant|HanViet=thương gia
+3	为了	_	ADP	IN	_	4	case	_	Pinyin=wèile|Gloss=for; for the purpose of; in order to|HanViet=vị,vì liễu|Trad=為了
+4	追求	_	VERB	VV	_	14	xcomp	_	Pinyin=zhuīqiú|Gloss=to pursue (a goal etc) stubbornly|HanViet=truy cầu
+5	利润	_	NOUN	NN	_	4	obj	_	Pinyin=lìrùn|Gloss=profits|HanViet=lợi nhuận|Trad=利潤
+6	，	_	PUNCT	,	_	4	punct	_	_
+7	故意	_	ADV	RB	_	14	advcl	_	Pinyin=gùyì|Gloss=deliberately; on purpose|HanViet=cố ý
+8	夸张	_	ADJ	JJ	_	9	amod	_	Pinyin=kuāzhāng|Gloss=to exaggerate|HanViet=khoa trương|Trad=誇張
+9	产品	_	NOUN	NN	_	11	nmod	_	Pinyin=chǎnpǐn|Gloss=goods|HanViet=sản phẩm|Trad=產品
+10	的	_	PART	DEC	Case=Gen	9	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	效果	_	NOUN	NN	_	4	obj	_	Pinyin=xiàoguǒ|Gloss=result|HanViet=hiệu quả
+12	，	_	PUNCT	,	_	4	punct	_	_
+13	甚至	_	SCONJ	RB	_	14	mark	_	Pinyin=shènzhì|Gloss=even; so much so that|HanViet=thậm chí
+14	隐藏	_	VERB	VV	_	1	ccomp	_	Pinyin=yǐncáng|Gloss=to hide|HanViet=ẩn tàng|Trad=隱藏
+15	可能	_	AUX	MD	_	16	aux	_	Pinyin=kěnéng|Gloss=might (happen)|HanViet=khả năng
+16	带来	_	VERB	VV	_	18	acl:relcl	_	Pinyin=dàilái|Gloss=to bring|HanViet=đới lai|Trad=帶來
+17	的	_	SCONJ	DEC	_	16	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	危害	_	NOUN	NN	_	14	obj	_	Pinyin=wēihài|Gloss=to harm; to jeopardize; to endanger|HanViet=nguy hại
+19	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l6-05-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 还有一些广告利用人们的焦虑心理，暗示不购买某种商品就会落后于他人。
+# translation = Other ads exploit people's anxiety, implying that if you don't buy a certain product you will fall behind others.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	还	_	SCONJ	RB	_	2	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+2	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+3	一些	_	ADJ	JJ	_	4	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+4	广告	_	NOUN	NN	_	11	nsubj	_	Pinyin=guǎnggào|Gloss=to advertise|HanViet=quảng cáo|Trad=廣告
+5	利用	_	VERB	VV	_	11	advcl	_	Pinyin=lìyòng|Gloss=to exploit|HanViet=lợi dụng
+6	人们	_	NOUN	NN	Number=Plur	9	nmod	_	Pinyin=rénmen|Gloss=people|HanViet=nhân môn|Trad=人們
+7	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	焦虑	_	NOUN	NN	_	9	nmod	_	Pinyin=jiāolǜ|Gloss=anxious|HanViet=tiêu lự|Trad=焦慮
+9	心理	_	NOUN	NN	_	5	obj	_	Pinyin=xīnlǐ|Gloss=psychology; mentality|HanViet=tâm lý
+10	，	_	PUNCT	,	_	5	punct	_	_
+11	暗示	_	VERB	VV	_	2	ccomp	_	Pinyin=ànshì|Gloss=to hint; to suggest|HanViet=ám thị
+12	不	_	ADV	RB	Polarity=Neg	13	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+13	购买	_	VERB	VV	_	11	xcomp	_	Pinyin=gòumǎi|Gloss=to purchase; to buy|HanViet=cấu mãi|Trad=購買
+14	某种	_	DET	DT	_	15	det	_	Pinyin=mǒuzhǒng|Gloss=some kind (of)|HanViet=mỗ chủng|Trad=某種
+15	商品	_	NOUN	NN	_	13	obj	_	Pinyin=shāngpǐn|Gloss=commodity; goods; merchandise|HanViet=thương phẩm
+16	就	_	SCONJ	RB	_	18	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+17	会	_	AUX	MD	_	18	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+18	落后	_	VERB	VV	_	2	ccomp	_	Pinyin=luòhòu|Gloss=to fall behind|HanViet=lạc hậu|Trad=落後
+19	于	_	VERB	VV	_	18	mark	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+20	他人	_	NOUN	NN	_	18	obj	_	Pinyin=tārén|Gloss=another person; sb else; other people|HanViet=tha nhân
+21	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l6-05-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 这种做法虽然短期内能够刺激销量，却在不知不觉中损害了公众的信任。
+# translation = Although this approach can boost sales in the short term, it quietly erodes public trust.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	种	_	NOUN	NNB	_	1	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+3	做法	_	NOUN	NN	_	15	nsubj	_	Pinyin=zuòfǎ|Gloss=way of handling sth|HanViet=tố pháp
+4	虽然	_	ADP	IN	_	8	case	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+5	短期	_	NOUN	NN	_	8	obl	_	Pinyin=duǎnqī|Gloss=short-term|HanViet=đoản kỳ
+6	内	_	ADP	IN	_	5	case	_	Pinyin=nèi|Gloss=inside|HanViet=nội|Trad=內
+7	能够	_	AUX	MD	_	8	aux	_	Pinyin=nénggòu|Gloss=to be capable of|HanViet=năng cú|Trad=能夠
+8	刺激	_	VERB	VV	_	15	xcomp	_	Pinyin=cìjī|Gloss=to provoke; to irritate; to upset; to stimulate; to excite|HanViet=thích,thứ kích
+9	销量	_	NOUN	NN	_	8	obj	_	Pinyin=xiāoliàng|Gloss=sales volume|HanViet=tiêu lượng|Trad=銷量
+10	，	_	PUNCT	,	_	8	punct	_	_
+11	却	_	SCONJ	RB	_	15	mark	_	Pinyin=què|Gloss=but|HanViet=khước|Trad=卻
+12	在	_	ADP	IN	_	13	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+13	不知不觉	_	NOUN	NN	_	15	obl	_	Pinyin=bùzhībùjué|Gloss=(idiom) unconsciously; unwittingly|HanViet=bất tri bất giác|Trad=不知不覺
+14	中	_	ADP	IN	_	13	case	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+15	损害	_	VERB	VV	_	0	root	_	Pinyin=sǔnhài|Gloss=harm|HanViet=tổn hại|Trad=損害
+16	了	_	AUX	AS	Aspect=Perf	15	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+17	公众	_	NOUN	NN	_	19	nmod	_	Pinyin=gōngzhòng|Gloss=public|HanViet=công chúng|Trad=公眾
+18	的	_	PART	DEC	Case=Gen	17	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	信任	_	NOUN	NN	_	15	obj	_	Pinyin=xìnrèn|Gloss=to trust|HanViet=tín nhiệm
+20	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = korwus-graded-l6-05-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 儿童尤其容易受到广告的影响，因为他们缺乏判断真假的能力。
+# translation = Children are especially easily influenced by advertising, because they lack the ability to judge what is true and what is false.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	儿童	_	NOUN	NN	_	4	nsubj	_	Pinyin=értóng|Gloss=child|HanViet=nhi đồng|Trad=兒童
+2	尤其	_	ADV	RB	_	4	advmod	_	Pinyin=yóuqí|Gloss=especially; particularly|HanViet=vưu kỳ
+3	容易	_	ADV	RB	_	4	advmod	_	Pinyin=róngyì|Gloss=easy; straightforward|HanViet=dung dịch,dị
+4	受到	_	VERB	VV	_	0	root	_	Pinyin=shòudào|Gloss=to receive (praise, an education, punishment etc); to be ...ed (praised, educated, punished etc)|HanViet=thọ đáo
+5	广告	_	NOUN	NN	_	7	nmod	_	Pinyin=guǎnggào|Gloss=to advertise|HanViet=quảng cáo|Trad=廣告
+6	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	影响	_	NOUN	NN	_	4	obj	_	Pinyin=yǐngxiǎng|Gloss=influence|HanViet=ảnh hưởng|Trad=影響
+8	，	_	PUNCT	,	_	11	punct	_	_
+9	因为	_	ADP	IN	_	11	case	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+10	他们	_	PRON	PRP	Number=Plur|Person=3	11	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+11	缺乏	_	VERB	VV	_	4	ccomp	_	Pinyin=quēfá|Gloss=to lack; to be short of|HanViet=khuyết phạp
+12	判断	_	VERB	VV	_	15	acl:relcl	_	Pinyin=pànduàn|Gloss=to judge; to determine; judgment|HanViet=phán đoạn,đoán|Trad=判斷
+13	真假	_	NOUN	NN	_	12	obj	_	Pinyin=zhēnjiǎ|Gloss=genuine or fake|HanViet=chân giả
+14	的	_	SCONJ	DEC	_	12	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	能力	_	NOUN	NN	_	11	obj	_	Pinyin=nénglì|Gloss=capability|HanViet=năng lực
+16	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l6-05-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 因此，许多国家对面向儿童的广告制定了严格的规定。
+# translation = For this reason, many countries have set strict rules for advertising aimed at children.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	因	_	ADP	IN	_	2	case	_	Pinyin=yīn|Gloss=cause|HanViet=nhân
+2	此	_	PRON	PRD	_	11	obl	_	Pinyin=cǐ|Gloss=this; these|HanViet=thử
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	许多	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=xǔduō|Gloss=many|HanViet=hứa đa|Trad=許多
+5	国家	_	NOUN	NN	_	6	nmod	_	Pinyin=guójiā|Gloss=country; nation; state|HanViet=quốc gia|Trad=國家
+6	对面	_	NOUN	NN	_	11	nsubj	_	Pinyin=duìmiàn|Gloss=opposite; across (the street etc)|HanViet=đối diện|Trad=對面
+7	向	_	ADP	IN	_	10	case	_	Pinyin=xiàng|Gloss=towards|HanViet=hướng
+8	儿童	_	NOUN	NN	_	10	nmod	_	Pinyin=értóng|Gloss=child|HanViet=nhi đồng|Trad=兒童
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	广告	_	NOUN	NN	_	11	obl	_	Pinyin=guǎnggào|Gloss=to advertise|HanViet=quảng cáo|Trad=廣告
+11	制定	_	VERB	VV	_	0	root	_	Pinyin=zhìdìng|Gloss=to draw up; to formulate|HanViet=chế định
+12	了	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	严格	_	ADJ	JJ	_	15	amod	_	Pinyin=yángé|Gloss=strict; stringent; tight; rigorous|HanViet=nghiêm cách|Trad=嚴格
+14	的	_	SCONJ	DEC	_	13	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	规定	_	NOUN	NN	_	11	obj	_	Pinyin=guīdìng|Gloss=to stipulate; to specify; to prescribe; to fix (a price); to set (a quota)|HanViet=quy định|Trad=規定
+16	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l6-05-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 在网络时代，问题变得更加复杂。
+# translation = In the internet age, the problem has become even more complicated.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	ADP	IN	_	3	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	网络	_	NOUN	NN	_	3	nmod	_	Pinyin=wǎngluò|Gloss=network|HanViet=võng lạc|Trad=網絡
+3	时代	_	NOUN	NN	_	6	obl	_	Pinyin=shídài|Gloss=Time, US weekly news magazine|HanViet=thời đại|Trad=時代
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	问题	_	NOUN	NN	_	6	nsubj	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+6	变得	_	VERB	VV	_	0	root	_	Pinyin=biàndé|Gloss=to become|HanViet=biến đắc|Trad=變得
+7	更加	_	ADV	RB	_	8	advmod	_	Pinyin=gèngjiā|Gloss=more (than sth else)|HanViet=càng,cánh gia
+8	复杂	_	ADJ	JJ	_	6	xcomp	_	Pinyin=fùzá|Gloss=complicated; complex|HanViet=phức tạp|Trad=複雜
+9	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l6-05-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 平台通过收集用户的数据准确推送广告，这在一定程度上威胁到了个人隐私。
+# translation = Platforms collect users' data to push precisely targeted ads, which to some extent threatens personal privacy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	平台	_	NOUN	NN	_	8	nsubj	_	Pinyin=píngtái|Gloss=platform|HanViet=bình đài|Trad=平臺
+2	通过	_	ADP	IN	_	3	case	_	Pinyin=tōngguò|Gloss=to pass through; to get through|HanViet=thông quá,qua|Trad=通過
+3	收集	_	VERB	VV	_	8	xcomp	_	Pinyin=shōují|Gloss=to gather|HanViet=thu tập
+4	用户	_	NOUN	NN	_	6	nmod	_	Pinyin=yònghù|Gloss=user|HanViet=dụng hộ|Trad=用戶
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	数据	_	NOUN	NN	_	3	obj	_	Pinyin=shùjù|Gloss=data|HanViet=số cứ|Trad=數據
+7	准确	_	ADV	RB	_	8	advmod	_	Pinyin=zhǔnquè|Gloss=accurate; exact; precise|HanViet=chuẩn xác|Trad=準確
+8	推送	_	VERB	VV	_	0	root	_	Pinyin=tuīsòng|Gloss=(computing) server push|HanViet=suy tống
+9	广告	_	NOUN	NN	_	8	obj	_	Pinyin=guǎnggào|Gloss=to advertise|HanViet=quảng cáo|Trad=廣告
+10	，	_	PUNCT	,	_	16	punct	_	_
+11	这	_	PRON	PRD	_	16	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+12	在	_	ADP	IN	_	14	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+13	一定	_	ADJ	JJ	_	14	amod	_	Pinyin=yídìng|Gloss=surely; certainly; definitely|HanViet=nhất định
+14	程度	_	NOUN	NN	_	16	obl	_	Pinyin=chéngdù|Gloss=degree; level; extent|HanViet=trình độ
+15	上	_	ADP	IN	_	14	case	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+16	威胁	_	VERB	VV	_	8	parataxis	_	Pinyin=wēixié|Gloss=to threaten; to menace|HanViet=uy hiếp|Trad=威脅
+17	到	_	VERB	VV	_	16	mark	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+18	了	_	AUX	AS	Aspect=Perf	16	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+19	个人	_	NOUN	NN	_	20	nmod	_	Pinyin=gèrén|Gloss=an individual; oneself; (attributive) personal; one's own|HanViet=cá nhân|Trad=個人
+20	隐私	_	NOUN	NN	_	16	obj	_	Pinyin=yǐnsī|Gloss=secrets|HanViet=ẩn tư|Trad=隱私
+21	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l6-05-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 作为消费者，我们应当保持理性，不要轻易被漂亮的宣传所欺骗。
+# translation = As consumers, we should stay rational and not be easily fooled by attractive promotion.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	作	_	VERB	VV	_	0	root	_	Pinyin=zuò|Gloss=to do; to engage in|HanViet=tác
+2	为	_	VERB	VC	_	1	mark	_	Pinyin=wéi|Gloss=as (in the capacity of)|HanViet=vị,vì|Trad=為
+3	消费	_	VERB	VV	_	4	compound	_	Pinyin=xiāofèi|Gloss=to consume (goods and services, resources etc)|HanViet=tiêu phí|Trad=消費
+4	者	_	PART	SFN	_	1	obj	_	Pinyin=zhě|Gloss=(after a verb or adjective) one who (is) ...|HanViet=giả
+5	，	_	PUNCT	,	_	18	punct	_	_
+6	我们	_	PRON	PRP	Number=Plur|Person=1	18	nsubj:pass	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+7	应当	_	AUX	MD	_	8	aux	_	Pinyin=yīngdāng|Gloss=should; ought to|HanViet=ưng đương,đang|Trad=應當
+8	保持	_	VERB	VV	_	18	advcl	_	Pinyin=bǎochí|Gloss=to keep|HanViet=bảo trì
+9	理性	_	NOUN	NN	_	8	obj	_	Pinyin=lǐxìng|Gloss=reason|HanViet=lý tính
+10	，	_	PUNCT	,	_	8	punct	_	_
+11	不要	_	AUX	MD	Polarity=Neg	18	aux	_	Pinyin=búyào|Gloss=don't!; must not|HanViet=_ yếu
+12	轻易	_	ADV	RB	_	18	advmod	_	Pinyin=qīngyì|Gloss=easy; simple|HanViet=khinh dịch,dị|Trad=輕易
+13	被	_	AUX	BB	Voice=Pass	18	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+14	漂亮	_	ADJ	JJ	_	16	amod	_	Pinyin=piàoliàng|Gloss=pretty; beautiful|HanViet=phiếu lượng
+15	的	_	SCONJ	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	宣传	_	NOUN	NN	_	18	obl:agent	_	Pinyin=xuānchuán|Gloss=to disseminate|HanViet=tuyên truyền|Trad=宣傳
+17	所	_	SCONJ	RB	_	18	mark	_	Pinyin=suǒ|Gloss=actually|HanViet=sở
+18	欺骗	_	VERB	VV	_	1	parataxis	_	Pinyin=qīpiàn|Gloss=to deceive; to cheat|HanViet=khi phiến|Trad=欺騙
+19	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l6-05-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 而企业也应当明白，真正持久的品牌，是建立在诚实与责任之上的。
+# translation = And companies should also understand that a truly lasting brand is built on honesty and responsibility.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	而	_	SCONJ	RB	_	5	mark	_	Pinyin=ér|Gloss=and|HanViet=nhi
+2	企业	_	NOUN	NN	_	5	nsubj	_	Pinyin=qǐyè|Gloss=company; firm; enterprise; corporation|HanViet=xí nghiệp|Trad=企業
+3	也	_	SCONJ	RB	_	5	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+4	应当	_	AUX	MD	_	5	aux	_	Pinyin=yīngdāng|Gloss=should; ought to|HanViet=ưng đương,đang|Trad=應當
+5	明白	_	VERB	VV	_	0	root	_	Pinyin=míngbái|Gloss=clear; obvious; unequivocal|HanViet=minh bạch
+6	，	_	PUNCT	,	_	12	punct	_	_
+7	真正	_	ADV	RB	_	8	advmod	_	Pinyin=zhēnzhèng|Gloss=genuine; real; true|HanViet=chân chính,chánh
+8	持久	_	ADJ	JJ	_	10	amod	_	Pinyin=chíjiǔ|Gloss=lasting|HanViet=trì cửu
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	品牌	_	NOUN	NN	_	12	nsubj	_	Pinyin=pǐnpái|Gloss=brand; brand name|HanViet=phẩm bài
+11	，	_	PUNCT	,	_	10	punct	_	_
+12	是	_	VERB	VC	_	5	ccomp	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+13	建立	_	VERB	VV	_	12	xcomp	_	Pinyin=jiànlì|Gloss=to establish|HanViet=kiến lập
+14	在	_	VERB	VV	_	13	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+15	诚实	_	NOUN	NN	_	13	obj	_	Pinyin=chéngshí|Gloss=honest|HanViet=thành thực|Trad=誠實
+16	与	_	CCONJ	CC	_	17	cc	_	Pinyin=yǔ|Gloss=(formal) and; together with (linking parallel nouns, verbs, or phrases)|HanViet=dữ|Trad=與
+17	责任	_	NOUN	NN	_	15	conj	_	Pinyin=zérèn|Gloss=responsibility; duty; liability|HanViet=trách nhiệm|Trad=責任
+18	之上	_	ADP	IN	_	15	case	_	Pinyin=zhīshàng|Gloss=above|HanViet=chi thượng
+19	的	_	PART	UH	_	12	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+20	。	_	PUNCT	.	_	5	punct	_	_

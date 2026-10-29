@@ -1,0 +1,225 @@
+# sent_id = korwus-graded-l3-u21-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 上个星期，我们公司来了一个新同事。
+# translation = Last week, a new colleague joined our company.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	上	_	DET	DT	_	3	det	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	星期	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我们	_	PRON	PRP	Number=Plur|Person=1	6	det	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+6	公司	_	NOUN	NN	_	7	nsubj	_	Pinyin=gōngsī|Gloss=company; firm; corporation|HanViet=công ti,tư
+7	来	_	VERB	VV	_	0	root	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	一	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+10	个	_	NOUN	NNB	_	9	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+11	新	_	PART	PFA	_	12	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+12	同事	_	NOUN	NN	_	7	obj	_	Pinyin=tóngshì|Gloss=colleague; co-worker|HanViet=đồng sự
+13	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u21-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他是从西北来的，不但很热情，而且工作也很认真。
+# translation = He's from the northwest, and he's not only very friendly but also very serious about his work.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	是	_	VERB	VC	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	从	_	ADP	IN	_	4	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+4	西北	_	NOUN	NN	_	5	obl	_	Pinyin=xīběi|Gloss=Northwest China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang)|HanViet=tây bắc
+5	来	_	VERB	VV	_	2	xcomp	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+6	的	_	PART	UH	_	2	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	，	_	PUNCT	,	_	16	punct	_	_
+8	不但	_	ADP	IN	_	10	case	_	Pinyin=bùdàn|Gloss=not only (... but also ...)|HanViet=bất đãn
+9	很	_	ADV	RB	_	10	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+10	热情	_	ADJ	JJ	_	16	xcomp	_	Pinyin=rèqíng|Gloss=cordial|HanViet=nhiệt tình|Trad=熱情
+11	，	_	PUNCT	,	_	10	punct	_	_
+12	而且	_	SCONJ	RB	_	16	mark	_	Pinyin=érqiě|Gloss=(not only ...) but also|HanViet=nhi thả
+13	工作	_	VERB	VV	_	16	csubj	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+14	也	_	SCONJ	RB	_	16	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+15	很	_	ADV	RB	_	16	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+16	认真	_	ADJ	JJ	_	2	parataxis	_	Pinyin=rènzhēn|Gloss=conscientious|HanViet=nhận chân|Trad=認真
+17	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u21-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他喜欢拍照，我常常在公司里遇见他拿着相机到处拍照。
+# translation = He loves taking photos, and I often run into him around the office with a camera, taking pictures everywhere.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+3	拍照	_	VERB	VV	_	2	xcomp	_	Pinyin=pāizhào|Gloss=to take a picture|HanViet=phách chiếu
+4	，	_	PUNCT	,	_	10	punct	_	_
+5	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	常常	_	ADV	RB	_	10	advmod	_	Pinyin=chángcháng|Gloss=frequently; often|HanViet=thường thường
+7	在	_	ADP	IN	_	8	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+8	公司	_	NOUN	NN	_	10	obl	_	Pinyin=gōngsī|Gloss=company; firm; corporation|HanViet=công ti,tư
+9	里	_	ADP	IN	_	8	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+10	遇见	_	VERB	VV	_	2	parataxis	_	Pinyin=yùjiàn|Gloss=to meet|HanViet=ngộ kiến|Trad=遇見
+11	他	_	PRON	PRP	Person=3	15	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+12	拿	_	VERB	VV	_	15	advcl	_	Pinyin=ná|Gloss=to hold|HanViet=nã
+13	着	_	AUX	AS	Aspect=Prog	12	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+14	相机	_	NOUN	NN	_	12	obj	_	Pinyin=xiàngjī|Gloss=camera (abbr. for 照相機/照相机[zhao4 xiang4 ji1])|HanViet=tướng cơ|Trad=相機
+15	到处	_	VERB	VV	_	10	ccomp	_	Pinyin=dàochù|Gloss=everywhere|HanViet=đáo xứ|Trad=到處
+16	拍照	_	VERB	VV	_	15	xcomp	_	Pinyin=pāizhào|Gloss=to take a picture|HanViet=phách chiếu
+17	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u21-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他说他的家在一个小城市，那里风特别大，冬天也特别冷。
+# translation = He said his home is in a small city where the wind is especially strong and the winters are especially cold.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	他	_	PRON	PRP	Person=3	5	det	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	家	_	NOUN	NN	_	6	nsubj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+6	在	_	VERB	VV	_	2	ccomp	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+7	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+8	个	_	NOUN	NNB	_	7	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+9	小	_	PART	PFA	_	10	case	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+10	城市	_	NOUN	NN	_	6	obj	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+11	，	_	PUNCT	,	_	14	punct	_	_
+12	那里风	_	PROPN	NNP	_	14	nsubj	_	Pinyin=nàlǐfēng|Gloss=那里 there; that place + 风 wind|GlossFrom=parts|HanViet=na lý phong|Trad=那裡風
+13	特别	_	ADV	RB	_	14	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+14	大	_	ADJ	JJ	_	2	parataxis	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+15	，	_	PUNCT	,	_	19	punct	_	_
+16	冬天	_	NOUN	NN	_	19	nmod:tmod	_	Pinyin=dōngtiān|Gloss=winter|HanViet=đông thiên
+17	也	_	SCONJ	RB	_	19	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+18	特别	_	ADV	RB	_	19	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+19	冷	_	ADJ	JJ	_	2	ccomp	_	Pinyin=lěng|Gloss=cold|HanViet=lạnh
+20	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u21-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 来公司的第一天，他看了一遍同事们的名单，第二天就记得大家的名字了。
+# translation = On his first day, he read through the list of colleagues once, and by the next day he remembered everyone's name.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	来	_	VERB	VV	_	5	acl:relcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+2	公司	_	NOUN	NN	_	1	obj	_	Pinyin=gōngsī|Gloss=company; firm; corporation|HanViet=công ti,tư
+3	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	第一	_	NUM	CD	NumType=Ord	5	nummod	_	Pinyin=dìyī|Gloss=first|HanViet=đệ nhất
+5	天	_	NOUN	NNB	_	8	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	他	_	PRON	PRP	Person=3	8	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+8	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+11	遍	_	NOUN	NNB	_	13	nmod	_	Pinyin=biàn|Gloss=everywhere|HanViet=biến
+12	同事	_	NOUN	NN	_	13	compound	_	Pinyin=tóngshì|Gloss=colleague; co-worker|HanViet=đồng sự
+13	们	_	PART	SFN	Number=Plur	15	nmod	_	Pinyin=men|Gloss=plural marker for pronouns, and nouns referring to individuals|HanViet=môn|Trad=們
+14	的	_	PART	DEC	Case=Gen	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	名单	_	NOUN	NN	_	8	obj	_	Pinyin=míngdān|Gloss=list of names|HanViet=danh đơn,đan|Trad=名單
+16	，	_	PUNCT	,	_	20	punct	_	_
+17	第二	_	NUM	CD	NumType=Ord	18	nummod	_	Pinyin=dìèr|Gloss=second|HanViet=đệ nhị
+18	天	_	NOUN	NNB	_	20	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+19	就	_	SCONJ	RB	_	20	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+20	记得	_	VERB	VV	_	8	parataxis	_	Pinyin=jìde|Gloss=to remember|HanViet=ký đắc|Trad=記得
+21	大家	_	PRON	PRD	_	23	det	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+22	的	_	PART	DEC	Case=Gen	21	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+23	名字	_	NOUN	NN	_	20	obj	_	Pinyin=míngzì|Gloss=name (of a person or thing)|HanViet=danh tự
+24	了	_	PART	UH	_	20	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+25	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u21-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 才过了几天，我们就觉得他像一个老朋友了。
+# translation = After just a few days, he already felt like an old friend to us.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	才	_	SCONJ	RB	_	9	mark	_	Pinyin=cái|Gloss=ability; talent|HanViet=tài
+2	过	_	VERB	VV	_	9	advcl	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	几	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+5	天	_	NOUN	NNB	_	2	obj	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+6	，	_	PUNCT	,	_	2	punct	_	_
+7	我们	_	PRON	PRP	Number=Plur|Person=1	9	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+8	就	_	SCONJ	RB	_	9	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+9	觉得	_	VERB	VV	_	0	root	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+10	他	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+11	像	_	VERB	VV	_	9	ccomp	_	Pinyin=xiàng|Gloss=to resemble|HanViet=tượng
+12	一	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+13	个	_	NOUN	NNB	_	12	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+14	老	_	PART	PFN	_	15	case	_	Pinyin=lǎo|Gloss=prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity|HanViet=lão
+15	朋友	_	NOUN	NN	_	11	obj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+16	了	_	PART	UH	_	11	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+17	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u21-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 有一次，他给每一个同事都买了水果。
+# translation = Once, he bought fruit for every one of his colleagues.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+2	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+3	次	_	NOUN	NNB	_	1	obj	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	他	_	PRON	PRP	Person=3	12	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+6	给	_	VERB	VV	_	12	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+7	每	_	DET	DT	_	9	det	_	Pinyin=měi|Gloss=each|HanViet=mỗi
+8	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+9	个	_	NOUN	NNB	_	10	nmod	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	同事	_	NOUN	NN	_	6	obj	_	Pinyin=tóngshì|Gloss=colleague; co-worker|HanViet=đồng sự
+11	都	_	SCONJ	RB	_	12	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+12	买	_	VERB	VV	_	1	parataxis	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+13	了	_	AUX	AS	Aspect=Perf	12	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+14	水果	_	NOUN	NN	_	12	obj	_	Pinyin=shuǐguǒ|Gloss=fruit|HanViet=thuỷ quả
+15	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l3-u21-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 有这样的同事在身边，上班也快乐多了。
+# translation = With a colleague like him around, going to work is a lot more fun.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+2	这样	_	PRON	PRD	_	4	det	_	Pinyin=zhèyàng|Gloss=this way; like this; so|HanViet=giá dạng|Trad=這樣
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	同事	_	NOUN	NN	_	5	nsubj	_	Pinyin=tóngshì|Gloss=colleague; co-worker|HanViet=đồng sự
+5	在	_	VERB	VV	_	1	ccomp	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+6	身边	_	NOUN	NN	_	5	obj	_	Pinyin=shēnbiān|Gloss=at one's side|HanViet=thân biên|Trad=身邊
+7	，	_	PUNCT	,	_	1	punct	_	_
+8	上班	_	VERB	VV	_	11	csubj	_	Pinyin=shàngbān|Gloss=to go to work|HanViet=thượng ban
+9	也	_	SCONJ	RB	_	11	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+10	快乐	_	ADJ	JJ	_	11	amod	_	Pinyin=kuàilè|Gloss=happy; joyful|HanViet=khoái lạc|Trad=快樂
+11	多	_	ADJ	JJ	_	1	parataxis	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+12	了	_	PART	UH	_	11	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	。	_	PUNCT	.	_	1	punct	_	_

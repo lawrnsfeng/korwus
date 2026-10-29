@@ -1,0 +1,229 @@
+# sent_id = korwus-graded-l2-u06-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# newpar
+# text = 去年十月，我和丈夫去外国旅游了一周。
+# translation = Last October my husband and I took a one-week trip abroad.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	去年	_	NOUN	NN	_	3	nmod	_	Pinyin=qùnián|Gloss=last year|HanViet=khứ,khử niên
+2	十	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=shí|Gloss=ten|HanViet=thập
+3	月	_	NOUN	NNB	_	10	nmod:tmod	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	和	_	ADP	IN	_	7	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+7	丈夫	_	NOUN	NN	_	10	obl	_	Pinyin=zhàngfū|Gloss=husband|HanViet=trượng phu
+8	去	_	VERB	VV	_	10	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+9	外国	_	NOUN	NN	_	8	obj	_	Pinyin=wàiguó|Gloss=foreign country|HanViet=ngoại quốc|Trad=外國
+10	旅游	_	VERB	VV	_	0	root	_	Pinyin=lǚyóu|Gloss=trip|HanViet=lữ du|Trad=旅遊
+11	了	_	AUX	AS	Aspect=Perf	10	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	一	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+13	周	_	NOUN	NNB	_	10	obj	_	Pinyin=zhōu|Gloss=Zhou Dynasty (1046–256 BC)|HanViet=chu
+14	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l2-u06-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我们住的饭店离车站只有五分钟的路。
+# translation = Our hotel was only a five-minute walk from the station.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	2	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	住	_	VERB	VV	_	4	acl:relcl	_	Pinyin=zhù|Gloss=to live; to reside; to stay|HanViet=trú,trụ
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	饭店	_	NOUN	NN	_	8	nsubj	_	Pinyin=fàndiàn|Gloss=restaurant|HanViet=phạn điếm|Trad=飯店
+5	离	_	ADP	IN	_	6	case	_	Pinyin=lí|Gloss=to leave|HanViet=ly|Trad=離
+6	车站	_	NOUN	NN	_	8	obl	_	Pinyin=chēzhàn|Gloss=rail station|HanViet=xa trạm|Trad=車站
+7	只	_	ADV	RB	_	8	advmod	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+8	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+9	五	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=wǔ|Gloss=five|HanViet=ngũ
+10	分钟	_	NOUN	NNB	_	12	nmod	_	Pinyin=fēnzhōng|Gloss=minute|HanViet=phân chung|Trad=分鐘
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	路	_	NOUN	NN	_	8	obj	_	Pinyin=lù|Gloss=road (CL:條/条[tiao2])|HanViet=lộ
+13	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l2-u06-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 第一天我们坐错了车，不知道自己在哪儿。
+# translation = On the first day we took the wrong bus and didn't know where we were.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	第一	_	NUM	CD	NumType=Ord	2	nummod	_	Pinyin=dìyī|Gloss=first|HanViet=đệ nhất
+2	天	_	NOUN	NNB	_	9	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+3	我们	_	PRON	PRP	Number=Plur|Person=1	9	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+4	坐错	_	VERB	VV	_	9	advcl	_	Pinyin=zuòcuò|Gloss=坐 to sit + 错 mistake|GlossFrom=parts|HanViet=toạ thác|Trad=坐錯
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	车	_	NOUN	NN	_	4	obj	_	Pinyin=chē|Gloss=car|HanViet=xa|Trad=車
+7	，	_	PUNCT	,	_	4	punct	_	_
+8	不	_	ADV	RB	Polarity=Neg	9	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+9	知道	_	VERB	VV	_	0	root	_	Pinyin=zhīdào|Gloss=to know; to become aware of|HanViet=tri đạo
+10	自己	_	PRON	PRD	_	11	nsubj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+11	在	_	VERB	VV	_	9	ccomp	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+12	哪儿	_	PRON	WP	_	11	obj	_	Pinyin=nǎr|Gloss=where?|HanViet=nả,na nhi|Trad=哪兒
+13	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l2-u06-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 一位先生走过来帮忙，告诉我们怎么走。
+# translation = A man came over to help and told us which way to go.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+2	位	_	NOUN	NNB	_	1	clf	_	Pinyin=wèi|Gloss=position|HanViet=vị
+3	先生	_	NOUN	NN	_	8	nsubj	_	Pinyin=xiānshēng|Gloss=teacher|HanViet=tiên sinh
+4	走	_	VERB	VV	_	6	advcl	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+5	过来	_	VERB	VV	_	4	mark	_	Pinyin=guòlái|Gloss=to come over|HanViet=quá,qua lai|Trad=過來
+6	帮忙	_	VERB	VV	_	8	advcl	_	Pinyin=bāngmáng|Gloss=to help|HanViet=bang mang|Trad=幫忙
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	告诉	_	VERB	VV	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+9	我们	_	PRON	PRP	Number=Plur|Person=1	11	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+10	怎么	_	ADV	RB	_	11	advmod	_	Pinyin=zěnme|Gloss=how?|HanViet=chẩm ma|Trad=怎麼
+11	走	_	VERB	VV	_	8	ccomp	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+12	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l2-u06-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 那里的鱼非常好吃，我们吃了很多次。
+# translation = The fish there was really delicious, and we had it many times.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那里	_	PRON	PRD	_	3	det	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	鱼	_	NOUN	NN	_	5	nsubj	_	Pinyin=yú|Gloss=fish (CL:條/条[tiao2],尾[wei3])|HanViet=ngư|Trad=魚
+4	非常	_	ADV	RB	_	5	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+5	好吃	_	ADJ	JJ	_	0	root	_	Pinyin=hǎochī|Gloss=tasty; delicious|HanViet=hảo cật
+6	，	_	PUNCT	,	_	8	punct	_	_
+7	我们	_	PRON	PRP	Number=Plur|Person=1	8	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+8	吃	_	VERB	VV	_	5	parataxis	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	很多	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+11	次	_	NOUN	NNB	_	8	obj	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+12	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l2-u06-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我丈夫很喜欢画，看见颜色漂亮的东西就画下来。
+# translation = My husband loves to draw, and whenever he sees something with beautiful colors, he draws it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	丈夫	_	NOUN	NN	_	4	nsubj	_	Pinyin=zhàngfū|Gloss=husband|HanViet=trượng phu
+3	很	_	ADV	RB	_	4	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+4	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+5	画	_	VERB	VV	_	4	xcomp	_	Pinyin=huà|Gloss=to draw; to paint|HanViet=hoạ,hoạch|Trad=畫
+6	，	_	PUNCT	,	_	13	punct	_	_
+7	看见	_	VERB	VV	_	13	advcl	_	Pinyin=kànjiàn|Gloss=to see; to catch sight of|HanViet=khán kiến|Trad=看見
+8	颜色	_	NOUN	NN	_	9	nsubj	_	Pinyin=yánsè|Gloss=color|HanViet=nhan sắc|Trad=顏色
+9	漂亮	_	ADJ	JJ	_	11	amod	_	Pinyin=piàoliàng|Gloss=pretty; beautiful|HanViet=phiếu lượng
+10	的	_	SCONJ	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	东西	_	NOUN	NN	_	7	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+12	就	_	SCONJ	RB	_	13	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+13	画	_	VERB	VV	_	4	parataxis	_	Pinyin=huà|Gloss=to draw; to paint|HanViet=hoạ,hoạch|Trad=畫
+14	下来	_	VERB	VV	_	13	mark	_	Pinyin=xiàlái|Gloss=to come down|HanViet=hạ lai|Trad=下來
+15	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l2-u06-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 有一天下午下雨了，我们回了饭店，打开包，里面也进了水。
+# translation = One afternoon it rained; we went back to the hotel, opened our bag, and water had gotten inside it too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+2	一	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+3	天	_	NOUN	NNB	_	2	clf	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+4	下午	_	NOUN	NN	_	5	nmod:tmod	_	Pinyin=xiàwǔ|Gloss=afternoon|HanViet=hạ ngọ
+5	下雨	_	VERB	VV	_	1	ccomp	_	Pinyin=xiàyǔ|Gloss=to rain|HanViet=hạ vũ
+6	了	_	PART	UH	_	5	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	，	_	PUNCT	,	_	5	punct	_	_
+8	我们	_	PRON	PRP	Number=Plur|Person=1	13	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+9	回	_	VERB	VV	_	13	advcl	_	Pinyin=huí|Gloss=Hui ethnic group (Chinese Muslims)|HanViet=hồi
+10	了	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	饭店	_	NOUN	NN	_	9	obj	_	Pinyin=fàndiàn|Gloss=restaurant|HanViet=phạn điếm|Trad=飯店
+12	，	_	PUNCT	,	_	9	punct	_	_
+13	打开	_	VERB	VV	_	1	ccomp	_	Pinyin=dǎkāi|Gloss=to open|HanViet=đả khai|Trad=打開
+14	包	_	NOUN	NN	_	13	obj	_	Pinyin=bāo|Gloss=to cover|HanViet=bao
+15	，	_	PUNCT	,	_	18	punct	_	_
+16	里面	_	NOUN	NN	_	18	nsubj	_	Pinyin=lǐmiàn|Gloss=inside|HanViet=lý diện|Trad=裡面
+17	也	_	SCONJ	RB	_	18	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+18	进	_	VERB	VV	_	13	parataxis	_	Pinyin=jìn|Gloss=to go forward|HanViet=tiến|Trad=進
+19	了	_	AUX	AS	Aspect=Perf	18	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+20	水	_	NOUN	NN	_	18	obj	_	Pinyin=shuǐ|Gloss=Shui ethnic group|HanViet=thuỷ
+21	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l2-u06-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 那天晚上我们洗了很多衣服，我的手机也坏了。
+# translation = That night we washed a lot of clothes, and my phone broke as well.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那	_	DET	DT	_	3	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	天	_	NOUN	NNB	_	1	clf	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+3	晚上	_	NOUN	NN	_	5	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+4	我们	_	PRON	PRP	Number=Plur|Person=1	5	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	洗	_	VERB	VV	_	0	root	_	Pinyin=xǐ|Gloss=to wash; to bathe|HanViet=tẩy
+6	了	_	AUX	AS	Aspect=Perf	5	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	很多	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+8	衣服	_	NOUN	NN	_	5	obj	_	Pinyin=yīfú|Gloss=clothes|HanViet=y phục
+9	，	_	PUNCT	,	_	14	punct	_	_
+10	我	_	PRON	PRP	Person=1	12	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	手机	_	NOUN	NN	_	14	nsubj	_	Pinyin=shǒujī|Gloss=cell phone; mobile phone|HanViet=thủ cơ|Trad=手機
+13	也	_	SCONJ	RB	_	14	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+14	坏	_	ADJ	JJ	_	5	parataxis	_	Pinyin=huài|Gloss=bad|HanViet=hoại|Trad=壞
+15	了	_	PART	UH	_	14	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+16	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l2-u06-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 虽然出了一些问题，但是这次旅游还是很不错。
+# translation = Although a few things went wrong, it was still a great trip.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	虽然	_	ADP	IN	_	2	case	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+2	出	_	VERB	VV	_	13	xcomp	_	Pinyin=chū|Gloss=to go out; to come out|HanViet=xuất
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	一些	_	ADJ	JJ	_	5	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+5	问题	_	NOUN	NN	_	2	obj	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+6	，	_	PUNCT	,	_	2	punct	_	_
+7	但是	_	SCONJ	RB	_	13	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+8	这	_	DET	DT	_	10	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+9	次	_	NOUN	NNB	_	8	clf	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+10	旅游	_	NOUN	NN	_	13	nsubj	_	Pinyin=lǚyóu|Gloss=trip|HanViet=lữ du|Trad=旅遊
+11	还是	_	SCONJ	RB	_	13	mark	_	Pinyin=háishì|Gloss=still (as before)|HanViet=hoàn thị|Trad=還是
+12	很	_	ADV	RB	_	13	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+13	不错	_	ADJ	JJ	_	0	root	_	Pinyin=búcuò|Gloss=correct|HanViet=bất thác|Trad=不錯
+14	。	_	PUNCT	.	_	13	punct	_	_

@@ -1,0 +1,329 @@
+# sent_id = korwus-graded-l5-06-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# newpar
+# text = 我们小区门口有一家小小的水果店，老板是一位五十多岁的阿姨。
+# translation = At the entrance to our neighborhood there is a small fruit shop, and the owner is a woman in her fifties.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	3	nmod	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	小区	_	NOUN	NN	_	3	nmod	_	Pinyin=xiǎoqū|Gloss=housing estate; community; neighborhood|HanViet=tiểu khu|Trad=小區
+3	门口	_	NOUN	NN	_	4	nsubj	_	Pinyin=ménkǒu|Gloss=doorway|HanViet=môn khẩu|Trad=門口
+4	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+5	一	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+6	家	_	NOUN	NNB	_	10	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+7	小小	_	ADJ	JJ	_	10	amod	_	Pinyin=xiǎoxiǎo|Gloss=very small|HanViet=tiểu tiểu
+8	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	水果	_	NOUN	NN	_	10	compound	_	Pinyin=shuǐguǒ|Gloss=fruit|HanViet=thuỷ quả
+10	店	_	PART	SFN	_	4	obj	_	Pinyin=diàn|Gloss=inn; old-style hotel (CL:家[jia1])|HanViet=điếm
+11	，	_	PUNCT	,	_	19	punct	_	_
+12	老板	_	NOUN	NN	_	19	nsubj	_	Pinyin=lǎobǎn|Gloss=Robam (brand)|HanViet=lão bản|Trad=老闆
+13	是	_	AUX	VC	_	19	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+14	一	_	NUM	CD	NumType=Card	19	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+15	位	_	NOUN	NNB	_	14	clf	_	Pinyin=wèi|Gloss=position|HanViet=vị
+16	五十多	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=wǔshíduō|Gloss=五十 fifty + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngũ thập đa
+17	岁	_	NOUN	NNB	_	19	nmod	_	Pinyin=suì|Gloss=years old|HanViet=tuế|Trad=歲
+18	的	_	PART	DEC	Case=Gen	17	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	阿姨	_	NOUN	NN	_	4	parataxis	_	Pinyin=āyí|Gloss=maternal aunt|HanViet=a di
+20	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l5-06-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 她每天早上五点就去批发市场进货，挑选最新鲜的水果。
+# translation = Every morning at five she goes to the wholesale market to stock up and pick out the freshest fruit.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	12	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	每天	_	DET	DT	_	5	det	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+3	早上	_	NOUN	NN	_	5	nmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+4	五	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=wǔ|Gloss=five|HanViet=ngũ
+5	点	_	NOUN	NNB	_	7	obl	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+6	就	_	SCONJ	RB	_	7	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+7	去	_	VERB	VV	_	12	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+8	批发	_	VERB	VV	_	10	advcl	_	Pinyin=pīfā|Gloss=wholesale|HanViet=phê phát|Trad=批發
+9	市场	_	NOUN	NN	_	8	obj	_	Pinyin=shìchǎng|Gloss=marketplace; market; bazaar|HanViet=thị trường|Trad=市場
+10	进货	_	VERB	VV	_	7	xcomp	_	Pinyin=jìnhuò|Gloss=to acquire stock|HanViet=tiến hoá|Trad=進貨
+11	，	_	PUNCT	,	_	7	punct	_	_
+12	挑选	_	VERB	VV	_	0	root	_	Pinyin=tiāoxuǎn|Gloss=to choose|HanViet=khiêu,thao,thêu tuyển|Trad=挑選
+13	最	_	ADV	RB	_	14	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+14	新鲜	_	ADJ	JJ	_	16	amod	_	Pinyin=xīnxiān|Gloss=fresh (experience, food etc)|HanViet=tân tiên|Trad=新鮮
+15	的	_	SCONJ	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	水果	_	NOUN	NN	_	12	obj	_	Pinyin=shuǐguǒ|Gloss=fruit|HanViet=thuỷ quả
+17	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l5-06-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 她的店面虽然不大，但是收拾得干干净净，水果摆得整整齐齐。
+# translation = Her shop isn't big, but it is kept spotless, and the fruit is laid out neatly.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	3	det	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	店面	_	NOUN	NN	_	8	nsubj	_	Pinyin=diànmiàn|Gloss=shop front|HanViet=điếm diện
+4	虽然	_	ADP	IN	_	5	case	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+5	不大	_	ADJ	JJ	_	8	xcomp	_	Pinyin=bùdà|Gloss=not very (clear, far away etc); not too|HanViet=bất đại
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	但是	_	SCONJ	RB	_	8	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+8	收拾	_	VERB	VV	_	0	root	_	Pinyin=shōushí|Gloss=to put in order|HanViet=thu thập
+9	得	_	PART	DEV	_	8	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+10	干干净净	_	ADJ	JJ	_	8	xcomp	_	Pinyin=gāngānjìngjìng|Gloss=干 dry + 干净 clean + 净 clean|GlossFrom=parts|HanViet=can can tịnh tịnh|Trad=乾乾淨淨
+11	，	_	PUNCT	,	_	13	punct	_	_
+12	水果	_	NOUN	NN	_	13	nsubj	_	Pinyin=shuǐguǒ|Gloss=fruit|HanViet=thuỷ quả
+13	摆得	_	VERB	VV	_	8	parataxis	_	Pinyin=bǎidé|Gloss=摆 to arrange + 得 to obtain|GlossFrom=parts|HanViet=bài đắc|Trad=擺得
+14	整整	_	ADV	RB	_	15	advmod	_	Pinyin=zhěngzhěng|Gloss=whole|HanViet=chỉnh chỉnh
+15	齐齐	_	ADJ	JJ	_	13	xcomp	_	Pinyin=qíqí|Gloss=齐 (name of states and dynasties at several different periods) + 齐 (name of states and dynasties at several different periods)|GlossFrom=parts|HanViet=tề tề|Trad=齊齊
+16	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l5-06-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# newpar
+# text = 阿姨做生意很讲诚信。
+# translation = She runs her business with great honesty.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	阿姨	_	NOUN	NN	_	5	nsubj	_	Pinyin=āyí|Gloss=maternal aunt|HanViet=a di
+2	做	_	VERB	VV	_	5	advcl	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+3	生意	_	NOUN	NN	_	2	obj	_	Pinyin=shēngyì|Gloss=life force|HanViet=sinh ý
+4	很	_	ADV	RB	_	5	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+5	讲	_	VERB	VV	_	0	root	_	Pinyin=jiǎng|Gloss=to speak|HanViet=giảng|Trad=講
+6	诚信	_	NOUN	NN	_	5	obj	_	Pinyin=chéngxìn|Gloss=honesty; trustworthiness; good faith|HanViet=thành tín|Trad=誠信
+7	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l5-06-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 如果水果有一点坏，她会主动告诉顾客，或者便宜一些卖。
+# translation = If a piece of fruit is a little bad, she tells the customer on her own or sells it cheaper.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	如果	_	ADP	IN	_	5	case	_	Pinyin=rúguǒ|Gloss=if; in case; in the event that|HanViet=như quả
+2	水果	_	NOUN	NN	_	5	nsubj	_	Pinyin=shuǐguǒ|Gloss=fruit|HanViet=thuỷ quả
+3	有一	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=yǒuyì|Gloss=有 to have; there is + 一 one|GlossFrom=parts|HanViet=hữu nhất
+4	点	_	NOUN	NNB	_	5	nsubj	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+5	坏	_	ADJ	JJ	_	10	ccomp	_	Pinyin=huài|Gloss=bad|HanViet=hoại|Trad=壞
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	她	_	PRON	PRP	Person=3	10	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+8	会	_	AUX	MD	_	10	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+9	主动	_	ADV	RB	_	10	advmod	_	Pinyin=zhǔdòng|Gloss=to take the initiative|HanViet=chủ,chúa động|Trad=主動
+10	告诉	_	VERB	VV	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+11	顾客	_	NOUN	NN	_	10	obj	_	Pinyin=gùkè|Gloss=customer; client|HanViet=cố khách|Trad=顧客
+12	，	_	PUNCT	,	_	16	punct	_	_
+13	或者	_	CCONJ	CC	_	16	cc	_	Pinyin=huòzhě|Gloss=or|HanViet=hoặc giả
+14	便宜	_	ADJ	JJ	_	16	advmod	_	Pinyin=piányi|Gloss=cheap; inexpensive|HanViet=tiện nghi
+15	一些	_	ADJ	JJ	_	16	advmod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+16	卖	_	VERB	VV	_	10	conj	_	Pinyin=mài|Gloss=to sell|HanViet=mại|Trad=賣
+17	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l5-06-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 遇到老人买东西，她常常亲自把水果送到家里。
+# translation = When elderly people buy from her, she often delivers the fruit to their homes herself.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	遇到	_	VERB	VV	_	11	advcl	_	Pinyin=yùdào|Gloss=to meet; to run into; to come across|HanViet=ngộ đáo
+2	老人	_	NOUN	NN	_	3	nsubj	_	Pinyin=lǎorén|Gloss=old man or woman|HanViet=lão nhân
+3	买	_	VERB	VV	_	1	ccomp	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+4	东西	_	NOUN	NN	_	3	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+5	，	_	PUNCT	,	_	1	punct	_	_
+6	她	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+7	常常	_	ADV	RB	_	11	advmod	_	Pinyin=chángcháng|Gloss=frequently; often|HanViet=thường thường
+8	亲自	_	ADV	RB	_	11	advmod	_	Pinyin=qīnzì|Gloss=personally|HanViet=thân tự|Trad=親自
+9	把	_	ADP	BB	_	10	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+10	水果	_	NOUN	NN	_	11	obl:patient	_	Pinyin=shuǐguǒ|Gloss=fruit|HanViet=thuỷ quả
+11	送到	_	VERB	VV	_	0	root	_	Pinyin=sòngdào|Gloss=送 to send; to deliver; to transmit + 到 to reach; to arrive|GlossFrom=parts|HanViet=tống đáo
+12	家里	_	NOUN	NN	_	11	iobj	_	Pinyin=jiālǐ|Gloss=home|HanViet=gia lý|Trad=家裡
+13	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l5-06-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 时间长了，附近的居民都愿意来她这儿买，生意也越来越好。
+# translation = Over time, the residents nearby all like to come to her, and business keeps getting better.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	时间	_	NOUN	NN	_	2	nsubj	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+2	长	_	ADJ	JJ	_	0	root	_	Pinyin=cháng|Gloss=long|HanViet=trưởng|Trad=長
+3	了	_	PART	UH	_	2	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	，	_	PUNCT	,	_	13	punct	_	_
+5	附近	_	NOUN	NN	_	7	nmod	_	Pinyin=fùjìn|Gloss=nearby; neighboring|HanViet=phụ cận
+6	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	居民	_	NOUN	NN	_	13	nsubj	_	Pinyin=jūmín|Gloss=resident; inhabitant|HanViet=cư dân
+8	都	_	SCONJ	RB	_	13	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+9	愿意	_	AUX	MD	_	10	aux	_	Pinyin=yuànyì|Gloss=to wish|HanViet=nguyện ý|Trad=願意
+10	来	_	VERB	VV	_	13	advcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+11	她	_	PRON	PRP	Person=3	12	nmod	_	Pinyin=tā|Gloss=she|HanViet=tha
+12	这儿	_	PRON	PRD	_	10	obj	_	Pinyin=zhèr|Gloss=here|HanViet=giá nhi|Trad=這兒
+13	买	_	VERB	VV	_	2	parataxis	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+14	，	_	PUNCT	,	_	18	punct	_	_
+15	生意	_	NOUN	NN	_	18	nsubj	_	Pinyin=shēngyì|Gloss=life force|HanViet=sinh ý
+16	也	_	SCONJ	RB	_	18	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+17	越来越	_	ADV	RB	_	18	advmod	_	Pinyin=yuèláiyuè|Gloss=more and more|HanViet=việt lai việt|Trad=越來越
+18	好	_	ADJ	JJ	_	2	parataxis	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+19	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l5-06-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# newpar
+# text = 前几年，网上购物发展得很快，不少小店因为竞争激烈而倒闭了。
+# translation = A few years ago online shopping grew quickly, and many small shops closed down because of fierce competition.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	前	_	DET	DT	_	3	det	_	Pinyin=qián|Gloss=front|HanViet=tiền
+2	几	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+3	年	_	NOUN	NNB	_	7	nmod:tmod	_	Pinyin=nián|Gloss=year|HanViet=niên
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	网上	_	NOUN	NN	_	6	nmod	_	Pinyin=wǎngshàng|Gloss=online|HanViet=võng thượng|Trad=網上
+6	购物	_	NOUN	NN	_	7	nsubj	_	Pinyin=gòuwù|Gloss=shopping|HanViet=cấu vật|Trad=購物
+7	发展	_	VERB	VV	_	0	root	_	Pinyin=fāzhǎn|Gloss=development|HanViet=phát triển|Trad=發展
+8	得	_	PART	DEV	_	7	aux	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+9	很快	_	ADJ	JJ	_	7	xcomp	_	Pinyin=hěnkuài|Gloss=很 very; quite + 快 rapid|GlossFrom=parts|HanViet=ngận khoái
+10	，	_	PUNCT	,	_	17	punct	_	_
+11	不少	_	ADJ	JJ	_	12	amod	_	Pinyin=bùshǎo|Gloss=many; quite a few; a good number of|HanViet=bất thiểu
+12	小店	_	NOUN	NN	_	17	nsubj	_	Pinyin=xiǎodiàn|Gloss=small store|HanViet=tiểu điếm
+13	因为	_	ADP	IN	_	15	case	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+14	竞争	_	NOUN	NN	_	15	nsubj	_	Pinyin=jìngzhēng|Gloss=to compete|HanViet=cạnh tranh|Trad=競爭
+15	激烈	_	ADJ	JJ	_	17	ccomp	_	Pinyin=jīliè|Gloss=(of competition or fighting) intense|HanViet=kích liệt
+16	而	_	SCONJ	RB	_	17	mark	_	Pinyin=ér|Gloss=and|HanViet=nhi
+17	倒闭	_	VERB	VV	_	7	parataxis	_	Pinyin=dǎobì|Gloss=to go bankrupt|HanViet=đảo bế|Trad=倒閉
+18	了	_	PART	UH	_	17	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+19	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l5-06-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 阿姨也遇到了不小的压力。
+# translation = She also faced considerable pressure.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	阿姨	_	NOUN	NN	_	3	nsubj	_	Pinyin=āyí|Gloss=maternal aunt|HanViet=a di
+2	也	_	SCONJ	RB	_	3	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+3	遇到	_	VERB	VV	_	0	root	_	Pinyin=yùdào|Gloss=to meet; to run into; to come across|HanViet=ngộ đáo
+4	了	_	AUX	AS	Aspect=Perf	3	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	不小	_	ADJ	JJ	_	7	amod	_	Pinyin=bùxiǎo|Gloss=不 no; not so + 小 small|GlossFrom=parts|HanViet=bất tiểu
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	压力	_	NOUN	NN	_	3	obj	_	Pinyin=yālì|Gloss=pressure|HanViet=áp lực|Trad=壓力
+8	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l5-06-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 不过，她没有抱怨，而是让女儿教她用手机接受订单，并提供送货服务。
+# translation = However, she didn't complain; instead she had her daughter teach her to take orders on her phone, and she began offering delivery.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	不过	_	SCONJ	RB	_	8	mark	_	Pinyin=bùguò|Gloss=only|HanViet=bất quá,qua|Trad=不過
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	她	_	PRON	PRP	Person=3	8	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+4	没有	_	VERB	VV	Polarity=Neg	8	advcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+5	抱怨	_	VERB	VV	_	4	xcomp	_	Pinyin=bàoyuàn|Gloss=to complain|HanViet=bão oán
+6	，	_	PUNCT	,	_	4	punct	_	_
+7	而是	_	SCONJ	RB	_	8	mark	_	Pinyin=érshì|Gloss=rather|HanViet=nhi thị
+8	让	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+9	女儿	_	NOUN	NN	_	10	nsubj	_	Pinyin=nǚér|Gloss=daughter|HanViet=nữ nhi|Trad=女兒
+10	教	_	VERB	VV	Voice=Cau	8	ccomp	_	Pinyin=jiào|Gloss=(bound form) to teach; to instruct|HanViet=giáo
+11	她	_	PRON	PRP	Person=3	13	nmod	_	Pinyin=tā|Gloss=she|HanViet=tha
+12	用手	_	VERB	VV	_	13	compound	_	Pinyin=yòngshǒu|Gloss=用 to use; to make use of; to employ + 手 hand|GlossFrom=parts|HanViet=dụng thủ
+13	机	_	PART	SFN	_	14	nsubj	_	Pinyin=jī|Gloss=(bound form) machine; mechanism|HanViet=cơ|Trad=機
+14	接受	_	VERB	VV	_	10	ccomp	_	Pinyin=jiēshòu|Gloss=to accept (a suggestion, punishment, bribe etc); to acquiesce|HanViet=tiếp thọ
+15	订单	_	NOUN	NN	_	14	obj	_	Pinyin=dìngdān|Gloss=(purchase) order|HanViet=đính đơn,đan|Trad=訂單
+16	，	_	PUNCT	,	_	8	punct	_	_
+17	并	_	SCONJ	RB	_	18	mark	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+18	提供	_	VERB	VV	_	8	ccomp	_	Pinyin=tígōng|Gloss=to offer|HanViet=đề cung
+19	送货	_	NOUN	NN	_	20	nmod	_	Pinyin=sònghuò|Gloss=to deliver goods|HanViet=tống hoá|Trad=送貨
+20	服务	_	NOUN	NN	_	18	obj	_	Pinyin=fúwù|Gloss=to serve|HanViet=phục vụ|Trad=服務
+21	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l5-06-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 现在，她的店不但没有关门，反而多了很多年轻的顾客。
+# translation = Now her shop has not only stayed open but has gained many young customers.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	11	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	她	_	PRON	PRP	Person=3	5	det	_	Pinyin=tā|Gloss=she|HanViet=tha
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	店	_	NOUN	NN	_	11	nsubj	_	Pinyin=diàn|Gloss=inn; old-style hotel (CL:家[jia1])|HanViet=điếm
+6	不但	_	ADP	IN	_	7	case	_	Pinyin=bùdàn|Gloss=not only (... but also ...)|HanViet=bất đãn
+7	没有	_	VERB	VV	Polarity=Neg	11	xcomp	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+8	关门	_	NOUN	NN	_	7	obj	_	Pinyin=guānmén|Gloss=to close a door|HanViet=quan môn|Trad=關門
+9	，	_	PUNCT	,	_	7	punct	_	_
+10	反而	_	SCONJ	RB	_	11	mark	_	Pinyin=fǎnér|Gloss=on the contrary; instead|HanViet=phản nhi
+11	多	_	ADJ	JJ	_	0	root	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+12	了	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	很多	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+14	年轻	_	ADJ	JJ	_	16	amod	_	Pinyin=niánqīng|Gloss=young|HanViet=niên khinh|Trad=年輕
+15	的	_	SCONJ	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	顾客	_	NOUN	NN	_	11	obj	_	Pinyin=gùkè|Gloss=customer; client|HanViet=cố khách|Trad=顧客
+17	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l5-06-12
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 她常说，做生意和做人一样，只有真心对待别人，才能赢得别人的信任。
+# translation = She often says that doing business is like being a person: only by treating others sincerely can you win their trust.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	3	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	常	_	ADV	RB	_	3	advmod	_	Pinyin=cháng|Gloss=always|HanViet=thường
+3	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+4	，	_	PUNCT	,	_	17	punct	_	_
+5	做	_	VERB	VV	_	17	advcl	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+6	生意	_	NOUN	NN	_	5	obj	_	Pinyin=shēngyì|Gloss=life force|HanViet=sinh ý
+7	和	_	ADP	IN	_	8	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+8	做人	_	VERB	VV	_	9	xcomp	_	Pinyin=zuòrén|Gloss=to conduct oneself|HanViet=tố nhân
+9	一样	_	ADJ	JJ	_	5	ccomp	_	Pinyin=yīyàng|Gloss=same|HanViet=nhất dạng|Trad=一樣
+10	，	_	PUNCT	,	_	5	punct	_	_
+11	只有	_	ADP	IN	_	13	case	_	Pinyin=zhǐyǒu|Gloss=only have ...; there is only ...|HanViet=chỉ hữu
+12	真心	_	ADV	RB	_	13	advmod	_	Pinyin=zhēnxīn|Gloss=wholeheartedness; sincerity|HanViet=chân tâm
+13	对待	_	VERB	VV	_	17	xcomp	_	Pinyin=duìdài|Gloss=to treat|HanViet=đối đãi|Trad=對待
+14	别人	_	NOUN	NN	_	13	obj	_	Pinyin=biérén|Gloss=other people; others; other person|HanViet=biệt nhân|Trad=別人
+15	，	_	PUNCT	,	_	13	punct	_	_
+16	才能	_	AUX	MD	_	17	aux	_	Pinyin=cáinéng|Gloss=talent|HanViet=tài năng
+17	赢得	_	VERB	VV	_	3	xcomp	_	Pinyin=yíngdé|Gloss=to win|HanViet=doanh đắc|Trad=贏得
+18	别人	_	NOUN	NN	_	20	nmod	_	Pinyin=biérén|Gloss=other people; others; other person|HanViet=biệt nhân|Trad=別人
+19	的	_	PART	DEC	Case=Gen	18	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+20	信任	_	NOUN	NN	_	17	obj	_	Pinyin=xìnrèn|Gloss=to trust|HanViet=tín nhiệm
+21	。	_	PUNCT	.	_	3	punct	_	_

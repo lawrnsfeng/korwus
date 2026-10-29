@@ -1,0 +1,335 @@
+# sent_id = ud-cfl-CFL_F_2-28_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 一个人是从香港来的姐姐。
+# source = UD Chinese-CFL CFL_F_2-28_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-7:0-0;gf0025-8:1-1;gf0025-15:4-4;gf0025-20:7-7;gf0025-23:0-1;gf0025-36:3-3;gf0025-72:4-4;gf0025-82:7-7
+# translation = One was a young woman from Hong Kong, a little older than me.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	一	_	NUM	_	_	3	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+2	个	_	NOUN	_	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	人	_	NOUN	_	_	9	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+4	是	_	AUX	_	_	9	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	从	_	ADP	_	_	6	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+6	香港	_	PROPN	_	_	7	obl	_	Pinyin=xiānggǎng|Gloss=Hong Kong, special administrative region (SAR) of the PRC (short name 港[Gang3])|HanViet=hương cảng
+7	来	_	VERB	_	_	9	acl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+8	的	_	PART	_	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	姐姐	_	NOUN	_	_	0	root	_	Pinyin=jiějiě|Gloss=older sister|HanViet=tỷ,thư tỷ,thư
+10	。	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = ud-cfl-CFL_E_1-18_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 吃了几天就好起来了。
+# source = UD Chinese-CFL CFL_E_1-18_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-4:2-2;gf0025-21:1-1;gf0025-22:7-7;gf0025-40:7-7;gf0025-41:1-1;gf0025-60:3-3;gf0025-65:4-4;gf0025-68:4-4;gf0025-143:4-4;gf0025-181:0-3;gf0025-182:0-3;gf0025-203:1-4;gf0025-269:5-5;gf0025-295:4-4
+# translation = After taking it for a few days, I got better.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	吃	_	VERB	_	_	6	advcl	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+2	了	_	AUX	_	_	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	几	_	DET	_	_	4	det	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+4	天	_	NOUN	_	_	1	obl	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+5	就	_	ADV	_	_	6	advmod	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+6	好	_	ADJ	_	_	0	root	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+7	起来	_	VERB	_	_	6	compound:dir	_	Pinyin=qǐlái|Gloss=to stand up; to get up|HanViet=khởi lai|Trad=起來
+8	了	_	PART	_	_	6	discourse:sp	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	。	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = ud-cfl-CFL_D_1-4_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 那就是我的第一次国外旅游。
+# source = UD Chinese-CFL CFL_D_1-4_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:3-3;gf0025-6:0-0;gf0025-20:4-4;gf0025-23:5-6;gf0025-36:2-2;gf0025-59:6-6;gf0025-65:1-1;gf0025-68:1-1;gf0025-82:4-4;gf0025-120:5-5;gf0025-131:5-5;gf0025-143:1-1;gf0025-295:1-1
+# translation = That was my first trip abroad.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	那	_	PRON	_	_	9	nsubj	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	就	_	ADV	_	_	9	advmod	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+3	是	_	AUX	_	_	9	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	我	_	PRON	_	_	9	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	的	_	PART	_	_	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	第一	_	NUM	_	_	7	nummod	_	Pinyin=dìyī|Gloss=first|HanViet=đệ nhất
+7	次	_	NOUN	_	_	9	nmod	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+8	国外	_	NOUN	_	_	9	compound	_	Pinyin=guówài|Gloss=abroad|HanViet=quốc ngoại|Trad=國外
+9	旅游	_	NOUN	_	_	0	root	_	Pinyin=lǚyóu|Gloss=trip|HanViet=lữ du|Trad=旅遊
+10	。	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = ud-cfl-CFL_L_1-12_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 一年后，我和她的朋友们一起去长白山旅游。
+# source = UD Chinese-CFL CFL_L_1-12_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-1:2-2;gf0025-5:4-4;gf0025-5:6-6;gf0025-7:0-0;gf0025-10:9-9;gf0025-19:5-5;gf0025-20:7-7;gf0025-23:0-1;gf0025-44:0-1;gf0025-60:1-1;gf0025-82:7-7;gf0025-132:8-8
+# translation = A year later, I went on a trip to Changbai Mountain with her friends.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	一	_	NUM	_	_	2	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+2	年	_	NOUN	_	_	11	obl:tmod	_	Pinyin=nián|Gloss=year|HanViet=niên
+3	后	_	ADP	_	_	2	case:loc	_	Pinyin=hòu|Gloss=empress|HanViet=hậu|Trad=後
+4	，	_	PUNCT	_	_	2	punct	_	_
+5	我	_	PRON	_	_	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	和	_	CCONJ	_	_	9	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+7	她	_	PRON	_	_	9	nmod	_	Pinyin=tā|Gloss=she|HanViet=tha
+8	的	_	PART	_	_	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	朋友们	_	NOUN	_	_	5	conj	_	Pinyin=péngyǒumen|HanViet=bằng hữu môn|GlossFrom=parts|Gloss=朋友 friend + 们 plural marker for pronouns, and nouns referring to individuals|Trad=朋友們
+10	一起	_	ADV	_	_	11	advmod	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+11	去	_	VERB	_	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+12	长白山	_	PROPN	_	_	11	obj	_	Pinyin=chángbáishān|Gloss=Changbai or Baekdu mountains 白頭山/白头山, volcanic mountain range between Jilin province and North Korea, prominent in Manchu and Korean mythology|HanViet=trường bạch sơn|Trad=長白山
+13	旅游	_	VERB	_	_	11	conj	_	Pinyin=lǚyóu|Gloss=trip|HanViet=lữ du|Trad=旅遊
+14	。	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = ud-cfl-CFL_B_1-6_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 那是我第一次坐飞机了。
+# source = UD Chinese-CFL CFL_B_1-6_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:2-2;gf0025-6:0-0;gf0025-22:7-7;gf0025-23:3-4;gf0025-36:1-1;gf0025-40:7-7;gf0025-59:4-4;gf0025-120:3-3;gf0025-131:3-3
+# translation = That was the first time I had ever flown.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	那	_	PRON	_	_	2	nsubj	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	是	_	VERB	_	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	我	_	PRON	_	_	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	第一	_	NUM	_	_	5	amod	_	Pinyin=dìyī|Gloss=first|HanViet=đệ nhất
+5	次	_	NOUN	_	_	6	obl:tmod	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+6	坐	_	VERB	_	_	2	ccomp	_	Pinyin=zuò|Gloss=to sit|HanViet=toạ
+7	飞机	_	NOUN	_	_	6	obj	_	Pinyin=fēijī|Gloss=airplane|HanViet=phi cơ|Trad=飛機
+8	了	_	PART	_	_	6	discourse:sp	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_H_1-4_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 我已经去过还没去过吗？
+# source = UD Chinese-CFL CFL_H_1-4_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-14:5-5;gf0025-22:8-8;gf0025-33:0-8;gf0025-45:8-8;gf0025-63:1-1;gf0025-80:3-3;gf0025-80:7-7;gf0025-119:2-3;gf0025-119:6-7
+# translation = Had I been there already, or not yet?
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	已经	_	ADV	_	_	3	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+3	去	_	VERB	_	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+4	过	_	AUX	_	_	3	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+5	还	_	CCONJ	_	_	7	cc	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+6	没	_	ADV	_	_	7	advmod	_	Pinyin=méi|Gloss=(negative prefix for verbs) have not; not|HanViet=một|Trad=沒
+7	去	_	VERB	_	_	3	conj	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+8	过	_	AUX	_	_	7	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+9	吗	_	PART	_	_	3	discourse:sp	_	Pinyin=ma|Gloss=(question particle for "yes-no" questions)|HanViet=ma|Trad=嗎
+10	？	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ud-cfl-CFL_D_2-4_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 我们准备只有一个，就是一笔钱。
+# source = UD Chinese-CFL CFL_D_2-4_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-7:4-4;gf0025-7:9-9;gf0025-8:5-5;gf0025-23:4-5;gf0025-23:9-10;gf0025-36:8-8;gf0025-37:3-3;gf0025-62:2-2;gf0025-65:7-7;gf0025-68:7-7;gf0025-103:3-4;gf0025-132:0-0;gf0025-143:7-7;gf0025-160:2-3;gf0025-295:7-7
+# translation = We prepared only one thing: some money.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我们	_	PRON	_	_	2	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	准备	_	VERB	_	_	0	root	_	Pinyin=zhǔnbèi|Gloss=preparation|HanViet=chuẩn bị|Trad=準備
+3	只	_	ADV	_	_	4	advmod	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+4	有	_	VERB	_	_	2	xcomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+5	一	_	NUM	_	_	6	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+6	个	_	NOUN	_	_	4	obj	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	，	_	PUNCT	_	_	12	punct	_	_
+8	就	_	ADV	_	_	12	advmod	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+9	是	_	AUX	_	_	12	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+10	一	_	NUM	_	_	12	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+11	笔	_	NOUN	_	_	10	clf	_	Pinyin=bǐ|Gloss=writing brush; writing implement (pen, pencil etc) (CL:支[zhi1],枝[zhi1])|HanViet=bút|Trad=筆
+12	钱	_	NOUN	_	_	4	parataxis	_	Pinyin=qián|Gloss=coin|HanViet=tiền|Trad=錢
+13	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_D_1-3_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 但，我来中国前，去加拿大旅游了。
+# source = UD Chinese-CFL CFL_D_1-3_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-1:5-5;gf0025-5:2-2;gf0025-22:10-10;gf0025-40:10-10;gf0025-78:0-0
+# translation = But before I came to China, I traveled to Canada.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	但	_	CCONJ	_	_	8	cc	_	Pinyin=dàn|Gloss=but; yet; however; still|HanViet=đãn
+2	，	_	PUNCT	_	_	1	punct	_	_
+3	我	_	PRON	_	_	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	来	_	VERB	_	_	8	advcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+5	中国	_	PROPN	_	_	4	obj	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+6	前	_	ADP	_	_	4	mark	_	Pinyin=qián|Gloss=front|HanViet=tiền
+7	，	_	PUNCT	_	_	4	punct	_	_
+8	去	_	VERB	_	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+9	加拿大	_	PROPN	_	_	8	obj	_	Pinyin=jiānádà|Gloss=Canada|HanViet=gia nã đại
+10	旅游	_	VERB	_	_	8	conj	_	Pinyin=lǚyóu|Gloss=trip|HanViet=lữ du|Trad=旅遊
+11	了	_	PART	_	_	8	discourse:sp	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	。	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = ud-cfl-CFL_D_1-11_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 我坐公交车去酒店。
+# source = UD Chinese-CFL CFL_D_1-11_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0
+# translation = I took the bus to the hotel.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	坐	_	VERB	_	_	4	advcl	_	Pinyin=zuò|Gloss=to sit|HanViet=toạ
+3	公交车	_	NOUN	_	_	2	obj	_	Pinyin=gōngjiāochē|Gloss=public transport vehicle|HanViet=công giao xa|Trad=公交車
+4	去	_	VERB	_	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+5	酒店	_	NOUN	_	_	4	obj	_	Pinyin=jiǔdiàn|Gloss=wine shop|HanViet=tửu điếm
+6	。	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ud-cfl-CFL_I_1-3_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 去年我跟朋友们一起玩的时候，一个我的韩国朋友给我介绍了一个中国男孩儿。
+# source = UD Chinese-CFL CFL_I_1-3_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-5:11-11;gf0025-5:16-16;gf0025-7:9-9;gf0025-7:19-19;gf0025-8:10-10;gf0025-8:20-20;gf0025-10:4-4;gf0025-19:2-2;gf0025-20:6-6;gf0025-20:12-12;gf0025-21:18-18;gf0025-23:9-10;gf0025-23:19-20;gf0025-41:18-18;gf0025-74:15-15;gf0025-82:6-6;gf0025-82:12-12;gf0025-132:3-3;gf0025-132:22-22
+# translation = Last year, when I was hanging out with my friends, one of my Korean friends introduced me to a Chinese boy.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	去年	_	NOUN	_	_	6	obl:tmod	_	Pinyin=qùnián|Gloss=last year|HanViet=khứ,khử niên
+2	我	_	PRON	_	_	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	跟	_	CCONJ	_	_	4	cc	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+4	朋友们	_	NOUN	_	_	2	conj	_	Pinyin=péngyǒumen|HanViet=bằng hữu môn|GlossFrom=parts|Gloss=朋友 friend + 们 plural marker for pronouns, and nouns referring to individuals|Trad=朋友們
+5	一起	_	ADV	_	_	6	advmod	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+6	玩	_	VERB	_	_	8	acl	_	Pinyin=wán|Gloss=to play|HanViet=ngoạn
+7	的	_	PART	_	_	6	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	时候	_	NOUN	_	_	18	obl:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+9	，	_	PUNCT	_	_	8	punct	_	_
+10	一	_	NUM	_	_	15	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+11	个	_	NOUN	_	_	10	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+12	我	_	PRON	_	_	15	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+13	的	_	PART	_	_	12	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	韩国	_	PROPN	_	_	15	compound	_	Pinyin=hánguó|Gloss=South Korea (Republic of Korea)|HanViet=hàn quốc|Trad=韓國
+15	朋友	_	NOUN	_	_	18	nsubj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+16	给	_	ADP	_	_	17	case	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+17	我	_	PRON	_	_	18	obl	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+18	介绍	_	VERB	_	_	0	root	_	Pinyin=jièshào|Gloss=to introduce (sb to sb)|HanViet=giới thiệu|Trad=介紹
+19	了	_	AUX	_	_	18	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+20	一	_	NUM	_	_	23	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+21	个	_	NOUN	_	_	20	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+22	中国	_	PROPN	_	_	23	compound	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+23	男孩儿	_	NOUN	_	_	18	obj	_	Pinyin=nánháir|Gloss=erhua form of 男孩[nan2 hai2]|HanViet=nam hài nhi|Trad=男孩兒
+24	。	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = ud-cfl-CFL_Z_1-13_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 那儿离我学校不到公交一个站。
+# source = UD Chinese-CFL CFL_Z_1-13_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:2-2;gf0025-7:7-7;gf0025-8:8-8;gf0025-14:4-4;gf0025-23:7-8;gf0025-132:0-0
+# translation = It's less than one bus stop from my school.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	那儿	_	NOUN	_	_	2	nsubj	_	Pinyin=nàr|Gloss=there|HanViet=na nhi|Trad=那兒
+2	离	_	VERB	_	_	0	root	_	Pinyin=lí|Gloss=to leave|HanViet=ly|Trad=離
+3	我	_	PRON	_	_	4	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	学校	_	NOUN	_	_	2	obj	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+5	不	_	ADV	_	_	6	advmod	_	Pinyin=bú|Gloss=no; not so|HanViet=bất
+6	到	_	VERB	_	_	2	xcomp	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+7	公交	_	NOUN	_	_	6	dep	_	Pinyin=gōngjiāo|Gloss=public transportation|HanViet=công giao
+8	一	_	NUM	_	_	10	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+9	个	_	NOUN	_	_	8	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	站	_	NOUN	_	_	6	obj	_	Pinyin=zhàn|Gloss=station|HanViet=trạm
+11	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_K_1-6_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 虽然他再不会踢足球，但是他还会教小朋友踢足球。
+# source = UD Chinese-CFL CFL_K_1-6_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-2:4-4;gf0025-2:11-11;gf0025-5:1-1;gf0025-5:9-9;gf0025-12:2-2;gf0025-13:10-10;gf0025-14:3-3;gf0025-63:10-10;gf0025-78:0-0;gf0025-78:8-8;gf0025-113:0-8;gf0025-131:13-13;gf0025-142:10-10;gf0025-146:2-2;gf0025-223:10-10
+# translation = Although he can no longer play soccer, he can still teach children to play.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	虽然	_	SCONJ	_	_	6	mark	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+2	他	_	PRON	_	_	6	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+3	再	_	ADV	_	_	6	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+4	不	_	ADV	_	_	6	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+5	会	_	AUX	_	_	6	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+6	踢	_	VERB	_	_	13	advcl	_	Pinyin=tī|Gloss=to kick|HanViet=thích
+7	足球	_	NOUN	_	_	6	compound:vo	_	Pinyin=zúqiú|Gloss=soccer; football|HanViet=túc cầu
+8	，	_	PUNCT	_	_	6	punct	_	_
+9	但是	_	ADV	_	_	13	advmod	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+10	他	_	PRON	_	_	13	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+11	还	_	ADV	_	_	13	advmod	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+12	会	_	AUX	_	_	13	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+13	教	_	VERB	_	_	0	root	_	Pinyin=jiào|Gloss=(bound form) to teach; to instruct|HanViet=giáo
+14	小朋友	_	NOUN	_	_	13	obj	_	Pinyin=xiǎopéngyǒu|Gloss=child; kid (used to refer to a child, or by an adult to address a child, or, in Taiwan, to refer to sb's own child)|HanViet=tiểu bằng hữu
+15	踢	_	VERB	_	_	13	xcomp	_	Pinyin=tī|Gloss=to kick|HanViet=thích
+16	足球	_	NOUN	_	_	15	obj	_	Pinyin=zúqiú|Gloss=soccer; football|HanViet=túc cầu
+17	。	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = ud-cfl-CFL_F_2-10_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 2
+# text = 我从西安坐火车来到成都。
+# source = UD Chinese-CFL CFL_F_2-10_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-15:1-1;gf0025-72:1-1;gf0025-176:5-6
+# translation = I took the train from Xi'an to Chengdu.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	从	_	ADP	_	_	3	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+3	西安	_	PROPN	_	_	6	obl	_	Pinyin=xīān|HanViet=tây an|GlossFrom=parts|Gloss=西 the West + 安 (bound form) calm; peaceful
+4	坐	_	VERB	_	_	6	advcl	_	Pinyin=zuò|Gloss=to sit|HanViet=toạ
+5	火车	_	NOUN	_	_	4	obj	_	Pinyin=huǒchē|Gloss=train|HanViet=hoả xa|Trad=火車
+6	来	_	VERB	_	_	0	root	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+7	到	_	VERB	_	_	6	compound:vv	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+8	成都	_	PROPN	_	_	6	obj	_	Pinyin=chéngdū|HanViet=thành đô|GlossFrom=parts|Gloss=成 short name for Chengdu 成都[Cheng2 du1] + 都 all; both; entirely
+9	。	_	PUNCT	_	_	6	punct	_	_

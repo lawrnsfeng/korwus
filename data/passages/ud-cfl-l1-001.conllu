@@ -1,0 +1,206 @@
+# sent_id = ud-cfl-CFL_H_1-3_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 1
+# text = 老师觉得怎么样？
+# source = UD Chinese-CFL CFL_H_1-3_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-33:0-2;gf0025-53:2-2;gf0025-124:2-2;gf0025-125:2-2;gf0025-131:0-0;gf0025-208:0-2
+# translation = What do you think, teacher?
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	老师	_	NOUN	_	_	2	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+2	觉得	_	VERB	_	_	0	root	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+3	怎么样	_	PRON	_	_	2	xcomp	_	Pinyin=zěnmeyàng|Gloss=how?|HanViet=chẩm ma dạng|Trad=怎麼樣
+4	？	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_Y_1-8a_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 1
+# text = 是他们。
+# source = UD Chinese-CFL CFL_Y_1-8a_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-36:0-0;gf0025-132:1-1
+# translation = It's them.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	是	_	AUX	_	_	2	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+2	他们	_	PROPN	_	_	0	root	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+3	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_F_2-27_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 1
+# text = 我在哪儿认识了两个人。
+# source = UD Chinese-CFL CFL_F_2-27_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-4:2-2;gf0025-5:0-0;gf0025-7:5-5;gf0025-8:6-6;gf0025-16:1-1;gf0025-21:4-4;gf0025-23:5-6;gf0025-41:4-4;gf0025-132:2-2
+# translation = There I got to know two people.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	在	_	ADP	_	_	3	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	哪儿	_	PRON	_	_	4	obl	_	Pinyin=nǎr|Gloss=where?|HanViet=nả,na nhi|Trad=哪兒
+4	认识	_	VERB	_	_	0	root	_	Pinyin=rènshí|Gloss=to know|HanViet=nhận thức|Trad=認識
+5	了	_	AUX	_	_	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	两	_	NUM	_	_	8	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+7	个	_	NOUN	_	_	6	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	人	_	NOUN	_	_	4	obj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+9	。	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ud-cfl-CFL_H_2-5_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 1
+# text = 去吧去吧，看一看也好！
+# source = UD Chinese-CFL CFL_H_2-5_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-13:6-6;gf0025-22:1-1;gf0025-22:3-3;gf0025-35:0-7;gf0025-82:1-1;gf0025-82:3-3;gf0025-269:7-7;gf0025-303:6-7
+# translation = Go on, go! It's good to see it anyway!
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	去	_	VERB	_	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+2	吧	_	PART	_	_	1	discourse:sp	_	Pinyin=ba|Gloss=(modal particle indicating suggestion or surmise)|HanViet=ba
+3	去	_	VERB	_	_	1	conj	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+4	吧	_	PART	_	_	3	discourse:sp	_	Pinyin=ba|Gloss=(modal particle indicating suggestion or surmise)|HanViet=ba
+5	，	_	PUNCT	_	_	6	punct	_	_
+6	看一看	_	VERB	_	_	1	parataxis	_	Pinyin=kànyīkàn|Gloss=to have a look|HanViet=khán nhất khán
+7	也	_	ADV	_	_	8	advmod	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+8	好	_	ADJ	_	_	6	xcomp	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+9	！	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = ud-cfl-CFL_H_1-27_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 1
+# text = 我很想再见他们。
+# source = UD Chinese-CFL CFL_H_1-27_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-3:2-2;gf0025-5:0-0;gf0025-5:5-5;gf0025-9:1-1;gf0025-12:3-3;gf0025-132:5-5;gf0025-146:3-3
+# translation = I really want to see them again.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	很	_	ADV	_	_	5	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+3	想	_	AUX	_	_	5	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+4	再	_	ADV	_	_	5	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+5	见	_	VERB	_	_	0	root	_	Pinyin=jiàn|Gloss=to see|HanViet=kiến|Trad=見
+6	他们	_	PRON	_	_	5	obj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+7	。	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ud-cfl-CFL_C_1-2_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 1
+# text = 那时我在中学大七读书。
+# source = UD Chinese-CFL CFL_C_1-2_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-16:2-2
+# translation = At that time I was in seventh grade at middle school.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	那时	_	NOUN	_	_	6	obl:tmod	_	Pinyin=nàshí|Gloss=then|HanViet=na thời|Trad=那時
+2	我	_	PRON	_	_	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	在	_	ADP	_	_	5	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	中学	_	NOUN	_	_	5	compound	_	Pinyin=zhōngxué|Gloss=middle school|HanViet=trung học|Trad=中學
+5	大七	_	NOUN	_	_	6	obl	_	Pinyin=dàqī|HanViet=đại thất|GlossFrom=parts|Gloss=大 big; large; great + 七 seven
+6	读书	_	VERB	_	_	0	root	_	Pinyin=dúshū|Gloss=to read a book|HanViet=đọc,độc thư|Trad=讀書
+7	。	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = ud-cfl-CFL_G_1-10_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 1
+# text = 你们在哪里学习汉语?
+# source = UD Chinese-CFL CFL_G_1-10_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-4:2-2;gf0025-5:0-0;gf0025-16:1-1;gf0025-33:0-4;gf0025-46:2-2;gf0025-132:0-0
+# translation = Where do you study Chinese?
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	你们	_	PRON	_	_	4	nsubj	_	Pinyin=nǐmen|Gloss=you (plural)|HanViet=nễ môn|Trad=你們
+2	在	_	ADP	_	_	4	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	哪里	_	PRON	_	_	4	obj	_	Pinyin=nǎlǐ|Gloss=where?|HanViet=nả,na lý|Trad=哪裡
+4	学习	_	VERB	_	_	0	root	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+5	汉语	_	NOUN	_	_	4	obj	_	Pinyin=hànyǔ|Gloss=Chinese language|HanViet=hán ngữ|Trad=漢語
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ud-cfl-CFL_B_1-10_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 1
+# text = 那天晚上去“克拉白”了。
+# source = UD Chinese-CFL CFL_B_1-10_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-22:6-6;gf0025-40:6-6
+# translation = That night we went to the "Kaaba".
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	那天	_	NOUN	_	_	2	nmod	_	Pinyin=nàtiān|Gloss=that day|HanViet=na thiên
+2	晚上	_	NOUN	_	_	3	obl:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+3	去	_	VERB	_	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+4	“	_	PUNCT	_	_	5	punct	_	_
+5	克拉白	_	PROPN	_	_	3	obj	_	Pinyin=kèlābái|HanViet=khắc lạp bạch|GlossFrom=parts|Gloss=克拉 carat (mass) (loanword) + 白 Bai ethnic group
+6	”	_	PUNCT	_	_	5	punct	_	_
+7	了	_	PART	_	_	3	discourse:sp	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	。	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ud-cfl-CFL_A_2-3a_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 1
+# text = 那时候我不会说汉语。
+# source = UD Chinese-CFL CFL_A_2-3a_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-2:4-4;gf0025-5:2-2;gf0025-6:0-0;gf0025-14:3-3
+# translation = At that time I couldn't speak Chinese.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	那	_	DET	_	_	2	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	时候	_	NOUN	_	_	6	obl	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+3	我	_	PRON	_	_	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	不	_	ADV	_	_	6	advmod	_	Pinyin=bú|Gloss=no; not so|HanViet=bất
+5	会	_	AUX	_	_	6	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+6	说	_	VERB	_	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+7	汉语	_	NOUN	_	_	6	obj	_	Pinyin=hànyǔ|Gloss=Chinese language|HanViet=hán ngữ|Trad=漢語
+8	。	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = ud-cfl-CFL_F_2-15_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 1
+# text = 他们西安工作的人。
+# source = UD Chinese-CFL CFL_F_2-15_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-20:3-3;gf0025-82:3-3;gf0025-132:0-0
+# translation = They were people who worked in Xi'an.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	他们	_	PRON	_	_	5	dep	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+2	西安	_	PROPN	_	_	5	dep	_	Pinyin=xīān|HanViet=tây an|GlossFrom=parts|Gloss=西 the West + 安 (bound form) calm; peaceful
+3	工作	_	VERB	_	_	5	acl	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+4	的	_	PART	_	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	人	_	NOUN	_	_	0	root	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+6	。	_	PUNCT	_	_	5	punct	_	_

@@ -1,0 +1,213 @@
+# sent_id = korwus-graded-l2-u07-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 上个星期我去北京工作。
+# translation = Last week I went to Beijing for work.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	上	_	DET	DT	_	3	det	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	星期	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+4	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	去	_	VERB	VV	_	7	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+6	北京	_	PROPN	NNP	_	5	obj	_	Pinyin=běijīng|Gloss=Beijing municipality, capital of the People's Republic of China (short name 京[Jing1])|HanViet=bắc kinh
+7	工作	_	VERB	VV	_	0	root	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+8	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l2-u07-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 早上六点我就出门了，坐地铁去机场。
+# translation = I left home at six in the morning and took the subway to the airport.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	早上	_	NOUN	NN	_	3	nmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+2	六	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+3	点	_	NOUN	NNB	_	11	nmod:tmod	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+4	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	就	_	SCONJ	RB	_	6	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+6	出门	_	VERB	VV	_	11	advcl	_	Pinyin=chūmén|Gloss=to go out|HanViet=xuất môn|Trad=出門
+7	了	_	PART	UH	_	6	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	，	_	PUNCT	,	_	6	punct	_	_
+9	坐	_	VERB	VV	_	11	advcl	_	Pinyin=zuò|Gloss=to sit|HanViet=toạ
+10	地铁	_	NOUN	NN	_	9	obj	_	Pinyin=dìtiě|Gloss=underground railway; subway|HanViet=địa thiết|Trad=地鐵
+11	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+12	机场	_	NOUN	NN	_	11	obj	_	Pinyin=jīchǎng|Gloss=airport; airfield|HanViet=cơ trường|Trad=機場
+13	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l2-u07-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 外面非常冷，路上没有什么人。
+# translation = It was very cold outside, and there was hardly anyone on the streets.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	外面	_	NOUN	NN	_	3	nsubj	_	Pinyin=wàimiàn|Gloss=outside (also pr. [wai4 mian5] for this sense)|HanViet=ngoại diện
+2	非常	_	ADV	RB	_	3	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+3	冷	_	ADJ	JJ	_	0	root	_	Pinyin=lěng|Gloss=cold|HanViet=lạnh
+4	，	_	PUNCT	,	_	6	punct	_	_
+5	路上	_	NOUN	NN	_	6	nsubj	_	Pinyin=lùshàng|Gloss=on the road|HanViet=lộ thượng
+6	没有	_	VERB	VV	Polarity=Neg	3	parataxis	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+7	什么	_	PRON	WP	_	8	det	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+8	人	_	NOUN	NN	_	6	obj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+9	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l2-u07-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 中午十二点，飞机到了北京。
+# translation = At twelve noon, the plane arrived in Beijing.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	中午	_	NOUN	NN	_	3	nmod	_	Pinyin=zhōngwǔ|Gloss=noon|HanViet=trung ngọ
+2	十二	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=shíèr|Gloss=twelve|HanViet=thập nhị
+3	点	_	NOUN	NNB	_	6	nmod:tmod	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	飞机	_	NOUN	NN	_	6	nsubj	_	Pinyin=fēijī|Gloss=airplane|HanViet=phi cơ|Trad=飛機
+6	到	_	VERB	VV	_	0	root	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	北京	_	PROPN	NNP	_	6	obj	_	Pinyin=běijīng|Gloss=Beijing municipality, capital of the People's Republic of China (short name 京[Jing1])|HanViet=bắc kinh
+9	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l2-u07-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我朋友开车来机场，送我去酒店。
+# translation = My friend drove to the airport and took me to the hotel.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	朋友	_	NOUN	NN	_	7	nsubj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+3	开车	_	VERB	VV	_	4	advcl	_	Pinyin=kāichē|Gloss=to drive a car (or train etc)|HanViet=khai xa|Trad=開車
+4	来	_	VERB	VV	_	7	advcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+5	机场	_	NOUN	NN	_	4	obj	_	Pinyin=jīchǎng|Gloss=airport; airfield|HanViet=cơ trường|Trad=機場
+6	，	_	PUNCT	,	_	4	punct	_	_
+7	送	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=sòng|Gloss=to send; to deliver; to transmit|HanViet=tống
+8	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	去	_	VERB	VV	_	7	ccomp	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+10	酒店	_	NOUN	NN	_	9	obj	_	Pinyin=jiǔdiàn|Gloss=wine shop|HanViet=tửu điếm
+11	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l2-u07-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 酒店就在机场旁边，是一个白色的楼。
+# translation = The hotel is right next to the airport, in a white building.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	酒店	_	NOUN	NN	_	12	nsubj	_	Pinyin=jiǔdiàn|Gloss=wine shop|HanViet=tửu điếm
+2	就	_	SCONJ	RB	_	3	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+3	在	_	VERB	VV	_	12	acl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	机场	_	NOUN	NN	_	5	nmod	_	Pinyin=jīchǎng|Gloss=airport; airfield|HanViet=cơ trường|Trad=機場
+5	旁边	_	NOUN	NN	_	3	obj	_	Pinyin=pángbiān|Gloss=side; adjacent place|HanViet=bàng biên|Trad=旁邊
+6	，	_	PUNCT	,	_	3	punct	_	_
+7	是	_	AUX	VC	_	12	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+8	一	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+9	个	_	NOUN	NNB	_	8	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	白色	_	NOUN	NN	_	12	nmod	_	Pinyin=báisè|Gloss=white|HanViet=bạch sắc
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	楼	_	NOUN	NN	_	0	root	_	Pinyin=lóu|Gloss=house with more than 1 story|HanViet=lâu|Trad=樓
+13	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l2-u07-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 房间不大，但是很舒服。
+# translation = The room isn't big, but it's comfortable.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	房间	_	NOUN	NN	_	2	nsubj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+2	不大	_	ADJ	JJ	_	6	advcl	_	Pinyin=bùdà|Gloss=not very (clear, far away etc); not too|HanViet=bất đại
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	但是	_	SCONJ	RB	_	6	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+5	很	_	ADV	RB	_	6	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+6	舒服	_	ADJ	JJ	_	0	root	_	Pinyin=shūfú|Gloss=comfortable|HanViet=thư phục
+7	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l2-u07-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 晚上我们往那边走了十分钟，去吃晚饭。
+# translation = In the evening we walked that way for ten minutes to have dinner.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	10	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	我们	_	PRON	PRP	Number=Plur|Person=1	10	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+3	往	_	VERB	VV	_	5	advcl	_	Pinyin=wǎng|Gloss=to go (in a direction)|HanViet=vãng
+4	那边	_	PRON	PRD	_	3	obj	_	Pinyin=nàbiān|Gloss=over there|HanViet=na biên|Trad=那邊
+5	走	_	VERB	VV	_	10	advcl	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+6	了	_	AUX	AS	Aspect=Perf	5	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	十	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=shí|Gloss=ten|HanViet=thập
+8	分钟	_	NOUN	NNB	_	5	obj	_	Pinyin=fēnzhōng|Gloss=minute|HanViet=phân chung|Trad=分鐘
+9	，	_	PUNCT	,	_	5	punct	_	_
+10	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+11	吃	_	VERB	VV	_	10	xcomp	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+12	晚饭	_	NOUN	NN	_	11	obj	_	Pinyin=wǎnfàn|Gloss=evening meal|HanViet=vãn phạn|Trad=晚飯
+13	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l2-u07-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 那儿的鸡蛋面做得非常好吃。
+# translation = The egg noodles there were really good.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那儿	_	PRON	PRD	_	4	det	_	Pinyin=nàr|Gloss=there|HanViet=na nhi|Trad=那兒
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	鸡蛋	_	NOUN	NN	_	4	compound	_	Pinyin=jīdàn|Gloss=(chicken) egg|HanViet=kê đản|Trad=雞蛋
+4	面	_	PART	SFN	_	5	nsubj	_	Pinyin=miàn|Gloss=face|HanViet=diện
+5	做	_	VERB	VV	_	0	root	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+6	得	_	PART	DEV	_	5	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+7	非常	_	ADV	RB	_	8	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+8	好吃	_	ADJ	JJ	_	5	xcomp	_	Pinyin=hǎochī|Gloss=tasty; delicious|HanViet=hảo cật
+9	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l2-u07-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我们吃完了面，就走路回去了。
+# translation = When we'd finished our noodles, we walked back.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	9	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	吃	_	VERB	VV	_	9	advcl	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+3	完	_	VERB	VV	_	2	mark	_	Pinyin=wán|Gloss=to finish|HanViet=hoàn
+4	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	面	_	NOUN	NN	_	2	obj	_	Pinyin=miàn|Gloss=face|HanViet=diện
+6	，	_	PUNCT	,	_	2	punct	_	_
+7	就	_	SCONJ	RB	_	9	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+8	走路	_	VERB	VV	_	9	advcl	_	Pinyin=zǒulù|Gloss=to walk; to go on foot|HanViet=tẩu lộ
+9	回去	_	VERB	VV	_	0	root	_	Pinyin=huíqù|Gloss=to return|HanViet=hồi khứ,khử
+10	了	_	PART	UH	_	9	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	。	_	PUNCT	.	_	9	punct	_	_

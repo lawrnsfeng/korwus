@@ -1,0 +1,1093 @@
+# sent_id = tatoeba-2031427
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 他决心要当医生。
+# translation = He made a determination to be a doctor.
+# source = Tatoeba #2031427
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-3:2-2;gf0025-5:0-0
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	决心	_	VERB	VV	_	0	root	_	Pinyin=juéxīn|Gloss=determination|HanViet=quyết tâm|Trad=決心
+3	要	_	AUX	MD	_	4	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+4	当	_	VERB	VV	_	2	xcomp	_	Pinyin=dāng|Gloss=(onom.) dong|HanViet=đương,đang|Trad=當
+5	医生	_	NOUN	NN	_	4	obj	_	Pinyin=yīshēng|Gloss=doctor; medical practitioner|HanViet=y sinh|Trad=醫生
+6	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = tatoeba-8932977
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 你推荐什么？
+# translation = What do you recommend?
+# source = Tatoeba #8932977
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-4:2-2;gf0025-5:0-0;gf0025-33:0-2;gf0025-46:2-2;gf0025-211:1-2
+1	你	_	PRON	PRP	Person=2	2	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+2	推荐	_	VERB	VV	_	0	root	_	Pinyin=tuījiàn|Gloss=to recommend|HanViet=suy tiến|Trad=推薦
+3	什么	_	PRON	WP	_	2	obj	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+4	？	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = tatoeba-336439
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 他再也忍不住气了。
+# translation = He couldn't hold his temper any longer.
+# source = Tatoeba #336439
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-12:1-1;gf0025-22:5-5;gf0025-40:5-5;gf0025-146:1-1;gf0025-178:3-3;gf0025-342:1-2
+1	他	_	PRON	PRP	Person=3	5	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	再	_	ADV	RB	_	4	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+3	也	_	SCONJ	RB	_	4	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+4	忍不住	_	VERB	VV	_	5	advcl	_	Pinyin=rěnbúzhù|Gloss=cannot help|HanViet=nhẫn _ trú,trụ
+5	气	_	VERB	VV	_	0	root	_	Pinyin=qì|Gloss=gas; air|HanViet=khí|Trad=氣
+6	了	_	PART	UH	_	5	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = tatoeba-815254
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 建造这堵墙是为了把人隔在外面还是把他们留在里面？
+# translation = Was this wall built to keep people out or to keep them in?
+# source = Tatoeba #815254
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:12-12;gf0025-6:1-1;gf0025-19:10-10;gf0025-33:0-15;gf0025-36:3-3;gf0025-47:10-10;gf0025-112:3-10;gf0025-132:12-12;gf0025-156:4-4;gf0025-157:5-5;gf0025-157:11-11;gf0025-184:5-7;gf0025-184:11-13;gf0025-202:4-4
+1	建造	_	VERB	VV	_	4	csubj	_	Pinyin=jiànzào|Gloss=to construct; to build|HanViet=kiến tạo
+2	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+3	堵墙	_	NOUN	NN	_	1	obj	_	Pinyin=dǔqiáng|HanViet=đổ tường|Trad=堵牆|GlossFrom=parts|Gloss=堵 to block up (a road, pipe etc) + 墙 wall (CL:面[mian4],堵[du3])
+4	是	_	VERB	VC	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	为了	_	ADP	IN	_	4	xcomp	_	Pinyin=wèile|Gloss=for; for the purpose of; in order to|HanViet=vị,vì liễu|Trad=為了
+6	把	_	ADP	BB	_	7	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+7	人	_	NOUN	NN	_	8	obl:patient	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+8	隔	_	VERB	VV	_	5	xcomp	_	Pinyin=gé|Gloss=to separate|HanViet=cách
+9	在	_	VERB	VV	_	8	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+10	外面	_	NOUN	NN	_	8	obj	_	Pinyin=wàimiàn|Gloss=outside (also pr. [wai4 mian5] for this sense)|HanViet=ngoại diện
+11	还是	_	SCONJ	RB	_	14	mark	_	Pinyin=háishì|Gloss=still (as before)|HanViet=hoàn thị|Trad=還是
+12	把	_	ADP	BB	_	13	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+13	他们	_	PRON	PRP	Number=Plur|Person=3	14	obl:patient	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+14	留	_	VERB	VV	_	4	xcomp	_	Pinyin=liú|Gloss=to leave (a message etc)|HanViet=lưu
+15	在	_	VERB	VV	_	14	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+16	里面	_	NOUN	NN	_	14	iobj	_	Pinyin=lǐmiàn|Gloss=inside|HanViet=lý diện|Trad=裡面
+17	？	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = tatoeba-2254406
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 汤姆，我不想跟你讲话。
+# translation = I don't want to talk to you, Tom.
+# source = Tatoeba #2254406
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:2-2;gf0025-5:5-5;gf0025-17:4-4
+1	汤姆	_	PROPN	NNP	_	0	root	_	Pinyin=tāngmǔ|Gloss=Tom (name)|HanViet=thang mẫu|Trad=湯姆
+2	，	_	PUNCT	,	_	7	punct	_	_
+3	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	不想	_	AUX	MD	Polarity=Neg	7	aux	_	Pinyin=bùxiǎng|Gloss=unexpectedly; to one's surprise|HanViet=bất tưởng
+5	跟	_	ADP	IN	_	6	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+6	你	_	PRON	PRP	Person=2	7	obl	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+7	讲话	_	VERB	VV	_	1	dislocated	_	Pinyin=jiǎnghuà|Gloss=a speech|HanViet=giảng thoại|Trad=講話
+8	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = tatoeba-415639
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 这个玩具是木制的。
+# translation = That toy is made of wood.
+# source = Tatoeba #415639
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-6:0-0;gf0025-8:1-1;gf0025-20:5-5;gf0025-36:3-3;gf0025-82:5-5;gf0025-108:3-5;gf0025-123:3-5
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	玩具	_	NOUN	NN	_	5	nsubj	_	Pinyin=wánjù|Gloss=plaything|HanViet=ngoạn cụ
+4	是	_	AUX	VC	_	5	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	木制	_	NOUN	NN	_	0	root	_	Pinyin=mùzhì|Gloss=wooden|HanViet=mộc chế|Trad=木製
+6	的	_	PART	UH	_	5	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = tatoeba-10260728
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 泽兰语是种地区语言。
+# translation = Zeelandic is a regional language.
+# source = Tatoeba #10260728
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-36:2-2;gf0025-139:3-3
+1	泽兰	_	PROPN	NNP	_	2	compound	_	Pinyin=zélán|Gloss=Eupatorium, e.g. Japanese bog orchid (Eupatorium japonicum Thunb)|HanViet=trạch lan|Trad=澤蘭
+2	语	_	PART	SFN	_	6	nsubj	_	Pinyin=yǔ|Gloss=dialect|HanViet=ngữ|Trad=語
+3	是	_	AUX	VC	_	6	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	种	_	NOUN	NNB	_	6	nmod	_	Pinyin=zhòng|Gloss=to plant|HanViet=chủng|Trad=種
+5	地区	_	NOUN	NN	_	6	nmod	_	Pinyin=dìqū|Gloss=region; area (informal or geographical term)|HanViet=địa khu|Trad=地區
+6	语言	_	NOUN	NN	_	0	root	_	Pinyin=yǔyán|Gloss=language|HanViet=ngữ ngôn|Trad=語言
+7	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = tatoeba-9400954
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 我们应该再游览澳洲。
+# translation = We should visit Australia again.
+# source = Tatoeba #9400954
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-12:2-2;gf0025-50:1-1;gf0025-132:0-0;gf0025-146:2-2
+1	我们	_	PRON	PRP	Number=Plur|Person=1	4	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	应该	_	AUX	MD	_	4	aux	_	Pinyin=yīnggāi|Gloss=ought to; should; must|HanViet=ưng cai|Trad=應該
+3	再	_	ADV	RB	_	4	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+4	游览	_	VERB	VV	_	0	root	_	Pinyin=yóulǎn|Gloss=to go sightseeing|HanViet=du lãm|Trad=遊覽
+5	澳洲	_	PROPN	NNP	_	4	obj	_	Pinyin=àozhōu|Gloss=Australia|HanViet=úc châu
+6	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = tatoeba-12422337
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 我在便利店买了肉包吃了。
+# translation = I bought meat buns at the convenience store and ate them.
+# source = Tatoeba #12422337
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-21:5-5;gf0025-22:9-9;gf0025-40:9-9;gf0025-41:5-5
+1	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	在	_	VERB	VV	_	5	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	便利	_	ADJ	JJ	_	4	compound	_	Pinyin=biànlì|Gloss=convenient|HanViet=tiện lợi
+4	店	_	PART	SFN	_	2	obj	_	Pinyin=diàn|Gloss=inn; old-style hotel (CL:家[jia1])|HanViet=điếm
+5	买	_	VERB	VV	_	0	root	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+6	了	_	AUX	AS	Aspect=Perf	5	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	肉	_	NOUN	NN	_	9	nsubj	_	Pinyin=ròu|Gloss=meat|HanViet=nhục
+8	包	_	VERB	VV	_	9	advcl	_	Pinyin=bāo|Gloss=to cover|HanViet=bao
+9	吃	_	VERB	VV	_	5	ccomp	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+10	了	_	PART	UH	_	5	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = tatoeba-9473429
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 随我说的做。
+# translation = Do like I tell you.
+# source = Tatoeba #9473429
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:1-1
+1	随	_	VERB	VV	_	5	advcl	_	Pinyin=suí|Gloss=to follow|HanViet=tuỳ|Trad=隨
+2	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	说	_	VERB	VV	_	1	ccomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+4	的	_	SCONJ	DEV	_	3	mark:adv	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	做	_	VERB	VV	_	0	root	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+6	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = tatoeba-12475711
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 听说最近失业者人数正在增加。
+# translation = I hear that the number of the unemployed has been increasing recently.
+# source = Tatoeba #12475711
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-11:5-5;gf0025-11:5-6;gf0025-11:6-6;gf0025-42:5-7;gf0025-42:6-7
+1	听说	_	VERB	VV	_	0	root	_	Pinyin=tīngshuō|Gloss=to hear (sth said)|HanViet=thính thuyết|Trad=聽說
+2	最近	_	NOUN	NN	_	5	nmod	_	Pinyin=zuìjìn|Gloss=recently|HanViet=tối cận
+3	失业	_	VERB	VV	_	4	compound	_	Pinyin=shīyè|Gloss=unemployment|HanViet=thất nghiệp|Trad=失業
+4	者	_	PART	SFN	_	5	nmod	_	Pinyin=zhě|Gloss=(after a verb or adjective) one who (is) ...|HanViet=giả
+5	人数	_	NOUN	NN	_	8	nsubj	_	Pinyin=rénshù|Gloss=number of people|HanViet=nhân số|Trad=人數
+6	正	_	ADV	RB	_	8	advmod	_	Pinyin=zhèng|Gloss=straight|HanViet=chính,chánh
+7	在	_	ADV	RB	_	8	advmod	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+8	增加	_	VERB	VV	_	1	ccomp	_	Pinyin=zēngjiā|Gloss=to raise; to increase|HanViet=tăng gia
+9	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = tatoeba-1541997
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 大家都很尊敬他。
+# translation = He is respected by everyone.
+# source = Tatoeba #1541997
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:4-4;gf0025-9:2-2;gf0025-132:0-0
+1	大家	_	NOUN	NN	_	4	nsubj	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+2	都	_	SCONJ	RB	_	4	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+3	很	_	ADV	RB	_	4	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+4	尊敬	_	VERB	VV	_	0	root	_	Pinyin=zūnjìng|Gloss=to respect; to revere; to esteem|HanViet=tôn kính
+5	他	_	PRON	PRP	Person=3	4	obj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+6	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = tatoeba-3579516
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 他们很幸运比赛进入加时赛，因为他们最终获胜。
+# translation = They were lucky the game went into extra time because they ended up winning.
+# source = Tatoeba #3579516
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-5:8-8;gf0025-9:1-1;gf0025-132:0-0;gf0025-132:8-8;gf0025-155:7-7
+1	他们	_	PRON	PRP	Number=Plur|Person=3	5	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+2	很	_	ADV	RB	_	5	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+3	幸运	_	ADJ	JJ	_	4	amod	_	Pinyin=xìngyùn|Gloss=fortunate; lucky|HanViet=hạnh vận|Trad=幸運
+4	比赛	_	NOUN	NN	_	5	obl	_	Pinyin=bǐsài|Gloss=competition (sports etc)|HanViet=tỷ,bỉ tái|Trad=比賽
+5	进入	_	VERB	VV	_	0	root	_	Pinyin=jìnrù|Gloss=to enter; to go into|HanViet=tiến nhập|Trad=進入
+6	加时赛	_	NOUN	NN	_	5	obj	_	Pinyin=jiāshísài|Gloss=(sports) overtime|HanViet=gia thời tái|Trad=加時賽
+7	，	_	PUNCT	,	_	11	punct	_	_
+8	因为	_	ADP	IN	_	11	case	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+9	他们	_	PRON	PRP	Number=Plur|Person=3	11	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+10	最终	_	NOUN	NN	_	11	nmod:tmod	_	Pinyin=zuìzhōng|Gloss=final; ultimate|HanViet=tối chung|Trad=最終
+11	获胜	_	VERB	VV	_	5	parataxis	_	Pinyin=huòshèng|Gloss=to win|HanViet=hoạch thắng|Trad=獲勝
+12	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = tatoeba-14028789
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 那你为什么不报警呢？
+# translation = Then why don't you call the police?
+# source = Tatoeba #14028789
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-4:3-3;gf0025-5:1-1;gf0025-6:0-0;gf0025-14:4-4;gf0025-22:6-6;gf0025-33:0-6;gf0025-46:3-3;gf0025-53:2-3;gf0025-76:2-2;gf0025-125:2-3;gf0025-153:2-2
+1	那	_	DET	DT	_	2	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	你	_	PRON	PRP	Person=2	6	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+3	为	_	ADP	IN	_	4	case	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+4	什么	_	PRON	WP	_	6	obl	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+5	不	_	ADV	RB	Polarity=Neg	6	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+6	报警	_	VERB	VV	_	0	root	_	Pinyin=bàojǐng|Gloss=to sound an alarm|HanViet=báo cảnh|Trad=報警
+7	呢	_	PART	UH	PartType=Int	6	discourse:sp	_	Pinyin=ne|Gloss=(sentence-final particle) used in questions to link back to prior discourse or context ("what about...?", "and...?")|HanViet=ni
+8	？	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = tatoeba-7771866
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 他坐在地上，玩着自己的玩具。
+# translation = He sat down, playing with his own toys.
+# source = Tatoeba #7771866
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-20:7-7;gf0025-54:6-6;gf0025-81:5-5;gf0025-82:7-7;gf0025-104:0-5;gf0025-118:4-5
+1	他	_	PRON	PRP	Person=3	5	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	坐在	_	VERB	VV	_	5	advcl	_	Pinyin=zuòzài|HanViet=toạ tại|GlossFrom=parts|Gloss=坐 to sit + 在 to exist; to be alive
+3	地上	_	NOUN	NN	_	2	obj	_	Pinyin=dìshàng|Gloss=on the ground|HanViet=địa thượng
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	玩	_	VERB	VV	_	0	root	_	Pinyin=wán|Gloss=to play|HanViet=ngoạn
+6	着	_	AUX	AS	Aspect=Prog	5	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+7	自己	_	PRON	PRD	_	9	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+8	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	玩具	_	NOUN	NN	_	5	obj	_	Pinyin=wánjù|Gloss=plaything|HanViet=ngoạn cụ
+10	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = tatoeba-332751
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 我对摄影感兴趣。
+# translation = I have an interest in photography.
+# source = Tatoeba #332751
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-73:1-1
+1	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	对	_	ADP	IN	_	4	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+3	摄影	_	NOUN	NN	_	4	compound	_	Pinyin=shèyǐng|Gloss=to take a photograph|HanViet=nhiếp ảnh|Trad=攝影
+4	感	_	PART	SFN	_	5	nmod	_	Pinyin=gǎn|Gloss=to feel|HanViet=cảm
+5	兴趣	_	NOUN	NN	_	0	root	_	Pinyin=xìngqù|Gloss=interest (desire to know about sth)|HanViet=hứng thú|Trad=興趣
+6	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = tatoeba-12686014
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 下雨了。我们找地方躲一下吧。
+# translation = It's raining. Let's take shelter.
+# source = Tatoeba #12686014
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:3-3;gf0025-21:1-1;gf0025-22:9-9;gf0025-41:1-1;gf0025-82:9-9;gf0025-132:3-3
+1	下雨	_	VERB	VV	_	8	advcl	_	Pinyin=xiàyǔ|Gloss=to rain|HanViet=hạ vũ
+2	了	_	PART	UH	_	1	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	。	_	PUNCT	,	_	1	punct	_	_
+4	我们	_	PRON	PRP	Number=Plur|Person=1	8	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	找	_	VERB	VV	_	8	advcl	_	Pinyin=zhǎo|Gloss=to try to find|HanViet=trảo
+6	地	_	NOUN	NN	_	5	obj	_	Pinyin=dì|Gloss=earth|HanViet=địa
+7	方	_	SCONJ	RB	_	8	mark	_	Pinyin=fāng|Gloss=square|HanViet=phương
+8	躲	_	VERB	VV	_	0	root	_	Pinyin=duǒ|Gloss=to hide|HanViet=đoá
+9	一下	_	PRON	PRD	_	8	obj	_	Pinyin=yīxià|Gloss=(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)|HanViet=nhất hạ
+10	吧	_	PART	UH	_	8	discourse	_	Pinyin=ba|Gloss=(modal particle indicating suggestion or surmise)|HanViet=ba
+11	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = tatoeba-340496
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 好奇会吃苦头的。
+# translation = Curiosity killed the cat.
+# source = Tatoeba #340496
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-2:1-1;gf0025-20:3-3;gf0025-82:3-3
+1	好奇	_	NOUN	NN	_	3	nsubj	_	Pinyin=hàoqí|Gloss=inquisitive|HanViet=hiếu kỳ
+2	会	_	AUX	MD	_	3	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+3	吃苦头	_	VERB	VV	_	0	root	_	Pinyin=chīkǔtóu|Gloss=to suffer|HanViet=cật khổ đầu|Trad=吃苦頭
+4	的	_	PART	UH	_	3	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = tatoeba-8463544
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 你来的时候我刚好要走。
+# translation = I was about to leave when you came in.
+# source = Tatoeba #8463544
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-5:4-4;gf0025-370:5-5
+1	你	_	PRON	PRP	Person=2	2	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+2	来	_	VERB	VV	_	4	acl:relcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	时候	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+5	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	刚好	_	ADV	RB	_	7	advmod	_	Pinyin=gānghǎo|Gloss=just|HanViet=cương hảo|Trad=剛好
+7	要走	_	VERB	VV	_	0	root	_	Pinyin=yàozǒu|HanViet=yếu tẩu|GlossFrom=parts|Gloss=要 (bound form) to demand; to coerce + 走 to walk
+8	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = tatoeba-7772595
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 我相当高。
+# translation = I'm pretty tall.
+# source = Tatoeba #7772595
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-30:0-2;gf0025-142:1-1
+1	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	相当	_	ADV	RB	_	3	advmod	_	Pinyin=xiāngdāng|Gloss=equivalent to|HanViet=tương đương,đang|Trad=相當
+3	高	_	ADJ	JJ	_	0	root	_	Pinyin=gāo|Gloss=high|HanViet=cao
+4	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = tatoeba-13931525
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 伊藤先生是一个受过高度教育的人。
+# translation = Mr. Ito is a highly educated man.
+# source = Tatoeba #13931525
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-7:3-3;gf0025-8:4-4;gf0025-23:3-4;gf0025-36:2-2;gf0025-80:6-6;gf0025-119:5-6
+1	伊藤	_	PROPN	NNP	_	2	nmod	_	Pinyin=yīténg|Gloss=Itō or Itoh, Japanese surname|HanViet=y đằng
+2	先生	_	NOUN	NN	_	11	nsubj	_	Pinyin=xiānshēng|Gloss=teacher|HanViet=tiên sinh
+3	是	_	AUX	VC	_	11	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	受	_	VERB	VV	_	11	acl:relcl	_	Pinyin=shòu|Gloss=to receive|HanViet=thọ
+7	过	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+8	高度	_	NOUN	NN	_	9	nmod	_	Pinyin=gāodù|Gloss=height|HanViet=cao độ
+9	教育	_	NOUN	NN	_	6	obj	_	Pinyin=jiàoyù|Gloss=to educate|HanViet=giáo dục
+10	的	_	SCONJ	DEC	_	6	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	人	_	NOUN	NN	_	0	root	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+12	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = tatoeba-2186450
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 汤姆请求他母亲给他买新玩具。
+# translation = Tom asks his mother if she can but him a new toy.
+# source = Tatoeba #2186450
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:2-2;gf0025-5:5-5
+1	汤姆	_	PROPN	NNP	_	2	nsubj	_	Pinyin=tāngmǔ|Gloss=Tom (name)|HanViet=thang mẫu|Trad=湯姆
+2	请求	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=qǐngqiú|Gloss=to request; to ask|HanViet=thỉnh cầu|Trad=請求
+3	他	_	PRON	PRP	Person=3	4	nmod	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	母亲	_	NOUN	NN	_	5	nsubj	_	Pinyin=mǔqīn|Gloss=mother|HanViet=mẫu thân|Trad=母親
+5	给	_	VERB	VV	_	2	ccomp	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+6	他	_	PRON	PRP	Person=3	7	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+7	买新	_	VERB	VV	_	5	ccomp	_	Pinyin=mǎixīn|HanViet=mãi tân|Trad=買新|GlossFrom=parts|Gloss=买 to buy + 新 new
+8	玩具	_	NOUN	NN	_	7	obj	_	Pinyin=wánjù|Gloss=plaything|HanViet=ngoạn cụ
+9	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = tatoeba-1408070
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 那个抽烟的男人说：他再也不来了。
+# translation = The man who was smoking said, "He doesn't come here any more."
+# source = Tatoeba #1408070
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:7-7;gf0025-6:0-0;gf0025-8:1-1;gf0025-12:8-8;gf0025-22:11-11;gf0025-40:11-11;gf0025-146:8-8;gf0025-342:8-9
+1	那	_	DET	DT	_	5	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	抽烟	_	VERB	VV	_	5	acl:relcl	_	Pinyin=chōuyān|Gloss=to smoke (tobacco)|HanViet=trừu yên|Trad=抽菸
+4	的	_	SCONJ	DEC	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	男人	_	NOUN	NN	_	6	nsubj	_	Pinyin=nánrén|Gloss=a man|HanViet=nam nhân
+6	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+7	：	_	PUNCT	:	_	11	punct	_	_
+8	他	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+9	再	_	ADV	RB	_	11	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+10	也	_	SCONJ	RB	_	11	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+11	不来	_	VERB	VV	Polarity=Neg	6	ccomp	_	Pinyin=bùlái|HanViet=bất lai|Trad=不來|GlossFrom=parts|Gloss=不 no; not so + 来 to come
+12	了	_	PART	UH	_	11	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = tatoeba-2348891
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 请大家认真检查一次，再把考卷交上来。
+# translation = Please give it a check, then hand in the examination paper.
+# source = Tatoeba #2348891
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-7:4-4;gf0025-12:7-7;gf0025-23:4-5;gf0025-54:1-1;gf0025-59:5-5;gf0025-100:3-5;gf0025-132:1-1;gf0025-146:7-7;gf0025-157:8-8;gf0025-177:10-11;gf0025-180:3-5;gf0025-184:8-10;gf0025-187:0-10
+1	请	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=qǐng|Gloss=to ask|HanViet=thỉnh|Trad=請
+2	大家	_	PRON	PRD	_	11	nsubj	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+3	认真	_	ADV	RB	_	4	advmod	_	Pinyin=rènzhēn|Gloss=conscientious|HanViet=nhận chân|Trad=認真
+4	检查	_	VERB	VV	_	11	advcl	_	Pinyin=jiǎnchá|Gloss=inspection|HanViet=kiểm tra|Trad=檢查
+5	一	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+6	次	_	NOUN	NNB	_	4	obl	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+7	，	_	PUNCT	,	_	4	punct	_	_
+8	再	_	ADV	RB	_	11	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+9	把	_	ADP	BB	_	10	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+10	考卷	_	NOUN	NN	_	11	obl:patient	_	Pinyin=kǎojuàn|Gloss=exam paper|HanViet=khảo quyển,cuốn
+11	交	_	VERB	VV	_	1	ccomp	_	Pinyin=jiāo|Gloss=to hand over; to deliver; to pay (money); to turn over|HanViet=giao
+12	上来	_	VERB	VV	_	11	mark	_	Pinyin=shànglái|Gloss=to come up|HanViet=thượng lai|Trad=上來
+13	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = tatoeba-5780602
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 我恐怕不是个很好的伙伴。
+# translation = I'm afraid I wouldn't be very good company.
+# source = Tatoeba #5780602
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-8:3-3;gf0025-148:1-1
+1	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	恐怕	_	ADV	RB	_	7	advmod	_	Pinyin=kǒngpà|Gloss=fear|HanViet=khủng phạ
+3	不是	_	AUX	VC	Polarity=Neg	7	cop	_	Pinyin=búshì|Gloss=no|HanViet=_ thị
+4	个	_	NOUN	NNB	_	7	nmod	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	很好	_	ADJ	JJ	_	7	amod	_	Pinyin=hěnhǎo|HanViet=ngận hảo|GlossFrom=parts|Gloss=很 very; quite + 好 good
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	伙伴	_	NOUN	NN	_	0	root	_	Pinyin=huǒbàn|Gloss=companion; pal|HanViet=hoả bạn|Trad=夥伴
+8	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = tatoeba-765272
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 水边地工程会帮助爱丁堡城市紧随形势并使更多人来苏格兰的首都。
+# translation = The Waterfront project will help to keep Edinburgh up-to-date and bring more people to Scotland's capital city.
+# source = Tatoeba #765272
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-2:3-3;gf0025-230:9-9
+1	水	_	NOUN	NN	_	3	nmod	_	Pinyin=shuǐ|Gloss=Shui ethnic group|HanViet=thuỷ
+2	边地	_	NOUN	NN	_	3	nmod	_	Pinyin=biāndì|Gloss=border district|HanViet=biên địa|Trad=邊地
+3	工程	_	NOUN	NN	_	11	nsubj	_	Pinyin=gōngchéng|Gloss=engineering|HanViet=công trình
+4	会	_	AUX	MD	_	5	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+5	帮助	_	VERB	VV	_	0	root	_	Pinyin=bāngzhù|Gloss=assistance; aid|HanViet=bang trợ|Trad=幫助
+6	爱丁堡	_	PROPN	NNP	_	7	nmod	_	Pinyin=àidīngbǎo|Gloss=Edinburgh, capital of Scotland|HanViet=ái đinh bảo|Trad=愛丁堡
+7	城市	_	NOUN	NN	_	8	nsubj	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+8	紧随	_	VERB	VV	_	11	advcl	_	Pinyin=jǐnsuí|HanViet=khẩn tuỳ|Trad=緊隨|GlossFrom=parts|Gloss=紧 tight + 随 to follow
+9	形势	_	NOUN	NN	_	8	obj	_	Pinyin=xíngshì|Gloss=circumstances|HanViet=hình thế|Trad=形勢
+10	并	_	SCONJ	RB	_	11	mark	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+11	使	_	VERB	VV	Voice=Cau	5	ccomp	_	Pinyin=shǐ|Gloss=to make|HanViet=sử,sứ
+12	更多	_	ADJ	JJ	_	13	compound	_	Pinyin=gèngduō|HanViet=càng,cánh đa|GlossFrom=parts|Gloss=更 to change or replace + 多 many; much; more; a lot of
+13	人	_	PART	SFN	_	14	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+14	来	_	VERB	VV	_	17	acl:relcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+15	苏格兰	_	PROPN	NNP	_	14	obj	_	Pinyin=sūgélán|Gloss=Scotland|HanViet=tô cách lan|Trad=蘇格蘭
+16	的	_	SCONJ	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	首都	_	NOUN	NN	_	11	obj	_	Pinyin=shǒudū|Gloss=capital (city)|HanViet=thủ,thú đô
+18	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = tatoeba-333013
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 舞台上有著名音乐家吗？
+# translation = Are there any famous musicians on the stage?
+# source = Tatoeba #333013
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-1:1-1;gf0025-22:6-6;gf0025-33:0-6;gf0025-37:2-2;gf0025-45:6-6;gf0025-104:0-2
+1	舞台	_	NOUN	NN	_	3	nsubj	_	Pinyin=wǔtái|Gloss=(lit. and fig.) stage; arena|HanViet=vũ đài|Trad=舞臺
+2	上	_	ADP	IN	_	1	case	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+3	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+4	著名	_	ADJ	JJ	_	6	amod	_	Pinyin=zhùmíng|Gloss=famous|HanViet=trứ danh
+5	音乐	_	NOUN	NN	_	6	compound	_	Pinyin=yīnyuè|Gloss=music|HanViet=âm nhạc|Trad=音樂
+6	家	_	PART	SFN	_	3	obj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+7	吗	_	PART	UH	PartType=Int	6	case	_	Pinyin=ma|Gloss=(question particle for "yes-no" questions)|HanViet=ma|Trad=嗎
+8	？	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = tatoeba-397955
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 老师和她爱人带着参加婚礼的人来到一个公园。
+# translation = The teacher and her partner took the people attending the wedding to a park.
+# source = Tatoeba #397955
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:2-2;gf0025-7:11-11;gf0025-8:12-12;gf0025-17:1-1;gf0025-23:11-12;gf0025-81:5-5;gf0025-118:4-5;gf0025-131:0-0
+1	老师	_	NOUN	NN	_	11	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+2	和	_	ADP	IN	_	4	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+3	她	_	PRON	PRP	Person=3	4	det	_	Pinyin=tā|Gloss=she|HanViet=tha
+4	爱人	_	NOUN	NN	_	11	obl	_	Pinyin=àirén|Gloss=spouse (PRC)|HanViet=ái nhân|Trad=愛人
+5	带	_	VERB	VV	_	11	advcl	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+6	着	_	AUX	AS	Aspect=Prog	5	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+7	参加	_	VERB	VV	_	10	acl:relcl	_	Pinyin=cānjiā|Gloss=to participate; to take part; to join|HanViet=tham gia|Trad=參加
+8	婚礼	_	NOUN	NN	_	7	obj	_	Pinyin=hūnlǐ|Gloss=wedding ceremony|HanViet=hôn lễ|Trad=婚禮
+9	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	人	_	NOUN	NN	_	5	obj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+11	来到	_	VERB	VV	_	0	root	_	Pinyin=láidào|Gloss=to arrive; to come|HanViet=lai đáo|Trad=來到
+12	一	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+13	个	_	NOUN	NNB	_	12	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+14	公园	_	NOUN	NN	_	11	obj	_	Pinyin=gōngyuán|Gloss=park (for public recreation)|HanViet=công viên|Trad=公園
+15	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = tatoeba-7823031
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 告诉我人生的意义。
+# translation = Tell me the meaning of life.
+# source = Tatoeba #7823031
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:1-1;gf0025-20:3-3;gf0025-82:3-3
+1	告诉	_	VERB	VV	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+2	我	_	PRON	PRP	Person=1	3	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	人生	_	NOUN	NN	_	5	nmod	_	Pinyin=rénshēng|Gloss=life (one's time on earth)|HanViet=nhân sinh
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	意义	_	NOUN	NN	_	1	obj	_	Pinyin=yìyì|Gloss=sense|HanViet=ý nghĩa|Trad=意義
+6	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = tatoeba-429427
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 他称赞了我。
+# translation = He paid me a compliment.
+# source = Tatoeba #429427
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-5:3-3;gf0025-21:2-2;gf0025-41:2-2
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	称赞	_	VERB	VV	_	0	root	_	Pinyin=chēngzàn|Gloss=to praise; to commend; to compliment|HanViet=xưng tán|Trad=稱讚
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	我	_	PRON	PRP	Person=1	2	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = tatoeba-420052
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 他一直在做买卖。
+# translation = He's always trading.
+# source = Tatoeba #420052
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-11:2-2;gf0025-42:2-3;gf0025-63:1-1
+1	他	_	PRON	PRP	Person=3	4	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	一直	_	ADV	RB	_	4	advmod	_	Pinyin=yìzhí|Gloss=straight (in a straight line)|HanViet=nhất trực
+3	在	_	ADV	RB	_	4	advmod	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	做	_	VERB	VV	_	0	root	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+5	买卖	_	NOUN	NN	_	4	obj	_	Pinyin=mǎimài|Gloss=to buy and sell|HanViet=mãi mại|Trad=買賣
+6	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = tatoeba-2037322
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 我认为它是我的敌人。
+# translation = I think it is my enemy.
+# source = Tatoeba #2037322
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-5:4-4;gf0025-20:5-5;gf0025-36:3-3;gf0025-54:2-2;gf0025-82:5-5
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	认为	_	VERB	VV	_	0	root	_	Pinyin=rènwéi|Gloss=to believe; to think; to consider; to feel|HanViet=nhận vi|Trad=認為
+3	它	_	PRON	PRP	Person=3	7	nsubj	_	Pinyin=tā|Gloss=it|HanViet=tha
+4	是	_	AUX	VC	_	7	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	我	_	PRON	PRP	Person=1	7	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	敌人	_	NOUN	NN	_	2	ccomp	_	Pinyin=dírén|Gloss=enemy|HanViet=địch nhân|Trad=敵人
+8	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = tatoeba-501711
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 如果你不明白一件事，那是因为你没有意识到它的背景。
+# translation = If you don't understand something, it's because you aren't aware of its context.
+# source = Tatoeba #501711
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:1-1;gf0025-5:11-11;gf0025-7:4-4;gf0025-14:2-2;gf0025-20:16-16;gf0025-23:4-5;gf0025-36:9-9;gf0025-54:15-15;gf0025-58:5-5;gf0025-78:8-8;gf0025-82:16-16;gf0025-155:10-10;gf0025-176:13-14
+1	如果	_	ADP	IN	_	4	case	_	Pinyin=rúguǒ|Gloss=if; in case; in the event that|HanViet=như quả
+2	你	_	PRON	PRP	Person=2	4	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+3	不	_	ADV	RB	Polarity=Neg	4	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+4	明白	_	VERB	VV	_	10	ccomp	_	Pinyin=míngbái|Gloss=clear; obvious; unequivocal|HanViet=minh bạch
+5	一	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+6	件	_	NOUN	NNB	_	5	clf	_	Pinyin=jiàn|Gloss=item|HanViet=kiện
+7	事	_	NOUN	NN	_	4	obj	_	Pinyin=shì|Gloss=matter|HanViet=sự
+8	，	_	PUNCT	,	_	4	punct	_	_
+9	那	_	ADV	RB	_	10	advmod	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+10	是	_	VERB	VC	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+11	因为	_	ADP	IN	_	10	xcomp	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+12	你	_	PRON	PRP	Person=2	13	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+13	没有	_	VERB	VV	Polarity=Neg	11	ccomp	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+14	意识	_	VERB	VV	_	13	xcomp	_	Pinyin=yìshí|Gloss=consciousness; awareness|HanViet=ý thức|Trad=意識
+15	到	_	VERB	VV	_	14	mark	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+16	它	_	PRON	PRP	Person=3	18	det	_	Pinyin=tā|Gloss=it|HanViet=tha
+17	的	_	PART	DEC	Case=Gen	16	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	背景	_	NOUN	NN	_	14	obj	_	Pinyin=bèijǐng|Gloss=background; backdrop; context|HanViet=bối,bội cảnh
+19	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = tatoeba-1766187
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 我现在在这所学校任教。
+# translation = I'm currently a teacher at this school.
+# source = Tatoeba #1766187
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-6:3-3
+1	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	现在	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+3	在	_	VERB	VV	_	7	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	这	_	DET	DT	_	6	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+5	所	_	NOUN	NNB	_	4	clf	_	Pinyin=suǒ|Gloss=actually|HanViet=sở
+6	学校	_	NOUN	NN	_	3	obj	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+7	任教	_	VERB	VV	_	0	root	_	Pinyin=rènjiào|Gloss=to hold a teaching position|HanViet=nhiệm giáo
+8	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = tatoeba-335248
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 我深信事情会往更好的方向转变。
+# translation = I am convinced that things will change for the better.
+# source = Tatoeba #335248
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	深信	_	VERB	VV	_	0	root	_	Pinyin=shēnxìn|Gloss=to believe firmly|HanViet=thâm tín
+3	事情	_	NOUN	NN	_	8	nsubj	_	Pinyin=shìqíng|Gloss=affair; matter; thing; business|HanViet=sự tình
+4	会往	_	ADP	IN	_	7	case	_	Pinyin=huìwǎng|HanViet=hội vãng|Trad=會往|GlossFrom=parts|Gloss=会 can; to have the skill; to know how to + 往 to go (in a direction)
+5	更好	_	ADJ	JJ	_	7	amod	_	Pinyin=gènghǎo|HanViet=càng,cánh hảo|GlossFrom=parts|Gloss=更 to change or replace + 好 good
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	方向	_	NOUN	NN	_	8	obl	_	Pinyin=fāngxiàng|Gloss=direction; orientation|HanViet=phương hướng
+8	转变	_	VERB	VV	_	2	ccomp	_	Pinyin=zhuǎnbiàn|Gloss=to change|HanViet=chuyển biến|Trad=轉變
+9	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = tatoeba-1360021
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 他是多傻的一个男孩啊！
+# translation = What a stupid boy he is!
+# source = Tatoeba #1360021
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-7:5-5;gf0025-8:6-6;gf0025-23:5-6;gf0025-35:0-8;gf0025-36:1-1;gf0025-82:8-8
+1	他	_	PRON	PRP	Person=3	8	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	是	_	AUX	VC	_	8	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	多	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+4	傻	_	ADJ	JJ	_	8	amod	_	Pinyin=shǎ|Gloss=foolish|HanViet=xoạ
+5	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+7	个	_	NOUN	NNB	_	6	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	男孩	_	NOUN	NN	_	0	root	_	Pinyin=nánhái|Gloss=boy|HanViet=nam hài
+9	啊	_	PART	UH	PartType=Int	8	discourse	_	Pinyin=a|Gloss=modal particle ending sentence, showing affirmation, approval, or consent|HanViet=a
+10	！	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = tatoeba-3579614
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 在死球期间，路易斯跑向球，一脚踢上去。
+# translation = When the ball was dead, Luis ran up to the ball and booted it.
+# source = Tatoeba #3579614
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-7:9-9;gf0025-16:0-0;gf0025-71:6-6;gf0025-154:6-6;gf0025-177:11-12
+1	在	_	ADP	IN	_	3	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	死球	_	NOUN	NN	_	3	nmod	_	Pinyin=sǐqiú|Gloss=(ball sports) dead ball|HanViet=tử cầu
+3	期间	_	NOUN	NN	_	12	obl	_	Pinyin=qījiān|Gloss=period of time|HanViet=kỳ gian|Trad=期間
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	路易斯	_	PROPN	NNP	_	12	nsubj	_	Pinyin=lùyìsī|Gloss=(name) Louis; Lewis; Luis|HanViet=lộ dịch,dị tư
+6	跑	_	VERB	VV	_	12	advcl	_	Pinyin=pǎo|Gloss=to run|HanViet=bào
+7	向	_	ADP	IN	_	8	case	_	Pinyin=xiàng|Gloss=towards|HanViet=hướng
+8	球	_	NOUN	NN	_	6	obl	_	Pinyin=qiú|Gloss=ball used for playing games (variant of 球[qiu2])|HanViet=cầu
+9	，	_	PUNCT	,	_	6	punct	_	_
+10	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+11	脚	_	NOUN	NN	_	12	obl	_	Pinyin=jiǎo|Gloss=foot|HanViet=cước|Trad=腳
+12	踢	_	VERB	VV	_	0	root	_	Pinyin=tī|Gloss=to kick|HanViet=thích
+13	上去	_	VERB	VV	_	12	mark	_	Pinyin=shàngqù|Gloss=to go up|HanViet=thượng khứ,khử
+14	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = tatoeba-604468
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 空气污染将会威胁我们的生存。
+# translation = Air pollution will be a threat to our survival.
+# source = Tatoeba #604468
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-2:3-3;gf0025-5:5-5;gf0025-20:6-6;gf0025-82:6-6;gf0025-132:5-5;gf0025-292:2-2
+1	空气	_	NOUN	NN	_	2	nmod	_	Pinyin=kōngqì|Gloss=air|HanViet=không khí|Trad=空氣
+2	污染	_	NOUN	NN	_	5	nsubj	_	Pinyin=wūrǎn|Gloss=(lit. and fig.) to pollute; to contaminate|HanViet=ô nhiễm|Trad=汙染
+3	将	_	ADV	RB	_	5	advmod	_	Pinyin=jiāng|Gloss=will|HanViet=tương|Trad=將
+4	会	_	AUX	MD	_	5	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+5	威胁	_	VERB	VV	_	0	root	_	Pinyin=wēixié|Gloss=to threaten; to menace|HanViet=uy hiếp|Trad=威脅
+6	我们	_	PRON	PRP	Number=Plur|Person=1	8	det	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+7	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	生存	_	NOUN	NN	_	5	obj	_	Pinyin=shēngcún|Gloss=to exist|HanViet=sinh tồn
+9	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = tatoeba-3780476
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 你有足够的时间赶上车。
+# translation = You have enough time to catch the train.
+# source = Tatoeba #3780476
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-37:1-1
+1	你	_	PRON	PRP	Person=2	6	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+2	有	_	VERB	VV	_	6	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+3	足够	_	ADJ	JJ	_	5	amod	_	Pinyin=zúgòu|Gloss=enough; sufficient|HanViet=túc cú|Trad=足夠
+4	的	_	SCONJ	DEC	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	时间	_	NOUN	NN	_	2	obj	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+6	赶上	_	VERB	VV	_	0	root	_	Pinyin=gǎnshàng|Gloss=to keep up with|HanViet=cản thượng|Trad=趕上
+7	车	_	NOUN	NN	_	6	obj	_	Pinyin=chē|Gloss=car|HanViet=xa|Trad=車
+8	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = tatoeba-334380
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 城市由一支大军守卫。
+# translation = The town was defended by a large army.
+# source = Tatoeba #334380
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-7:2-2;gf0025-23:2-3;gf0025-139:3-3
+1	城市	_	NOUN	NN	_	2	nsubj	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+2	由	_	VERB	VV	_	0	root	_	Pinyin=yóu|Gloss=to follow|HanViet=do
+3	一	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+4	支	_	NOUN	NNB	_	3	clf	_	Pinyin=zhī|Gloss=to support|HanViet=chi
+5	大军	_	NOUN	NN	_	6	nsubj	_	Pinyin=dàjūn|Gloss=army|HanViet=đại quân|Trad=大軍
+6	守卫	_	VERB	VV	_	2	ccomp	_	Pinyin=shǒuwèi|Gloss=to guard|HanViet=thủ vệ|Trad=守衛
+7	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = tatoeba-3378251
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 他的老板是个很友好的美国人。
+# translation = His boss is friendly, he's American.
+# source = Tatoeba #3378251
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-8:4-4;gf0025-9:5-5;gf0025-20:1-1;gf0025-36:3-3;gf0025-82:1-1;gf0025-131:2-2
+1	他	_	PRON	PRP	Person=3	3	det	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	老板	_	NOUN	NN	_	10	nsubj	_	Pinyin=lǎobǎn|Gloss=Robam (brand)|HanViet=lão bản|Trad=老闆
+4	是	_	AUX	VC	_	10	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	个	_	NOUN	NNB	_	10	nmod	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	很	_	ADV	RB	_	7	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+7	友好	_	ADJ	JJ	_	10	amod	_	Pinyin=yǒuhǎo|Gloss=friendly; amicable|HanViet=hữu hảo
+8	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	美国	_	PROPN	NNP	_	10	compound	_	Pinyin=měiguó|Gloss=United States; USA; US|HanViet=mỹ quốc|Trad=美國
+10	人	_	PART	SFN	_	0	root	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+11	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = tatoeba-791654
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 这房子不出售。
+# translation = This house is not for sale.
+# source = Tatoeba #791654
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-6:0-0;gf0025-14:2-2;gf0025-132:1-1
+1	这	_	DET	DT	_	2	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	房子	_	NOUN	NN	_	4	nsubj	_	Pinyin=fángzi|Gloss=house|HanViet=phòng tử
+3	不	_	ADV	RB	Polarity=Neg	4	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+4	出售	_	VERB	VV	_	0	root	_	Pinyin=chūshòu|Gloss=to sell|HanViet=xuất thụ
+5	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = tatoeba-8589287
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 我可以借你的灰色西装吗？
+# translation = Could I borrow your gray suit?
+# source = Tatoeba #8589287
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-20:3-3;gf0025-22:6-6;gf0025-33:0-6;gf0025-45:6-6;gf0025-49:1-1;gf0025-82:3-3
+1	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	可以	_	AUX	MD	_	3	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+3	借你	_	VERB	VV	_	0	root	_	Pinyin=jiènǐ|HanViet=tá nễ|GlossFrom=parts|Gloss=借 to borrow + 你 you (informal, as opposed to courteous 您[nin2])
+4	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	灰色	_	NOUN	NN	_	6	nmod	_	Pinyin=huīsè|Gloss=gray|HanViet=hôi sắc
+6	西装	_	NOUN	NN	_	3	obj	_	Pinyin=xīzhuāng|Gloss=suit|HanViet=tây trang|Trad=西裝
+7	吗	_	PART	UH	PartType=Int	6	case	_	Pinyin=ma|Gloss=(question particle for "yes-no" questions)|HanViet=ma|Trad=嗎
+8	？	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = tatoeba-1397034
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 他是个极其自私自利的人。
+# translation = He is a lump of selfishness.
+# source = Tatoeba #1397034
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-8:2-2;gf0025-36:1-1;gf0025-216:3-3
+1	他	_	PRON	PRP	Person=3	7	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	是	_	AUX	VC	_	7	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	个	_	NOUN	NNB	_	7	nmod	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+4	极其	_	ADV	RB	_	5	advmod	_	Pinyin=jíqí|Gloss=extremely|HanViet=cực kỳ|Trad=極其
+5	自私自利	_	VERB	VV	_	7	acl:relcl	_	Pinyin=zìsīzìlì|Gloss=everything for self and selfish profit (idiom); with no regard for others|HanViet=tự tư tự lợi
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	人	_	NOUN	NN	_	0	root	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+8	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = tatoeba-2864414
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 早知如此，就不应该借钱给他。
+# translation = You should have known better than to lend him money.
+# source = Tatoeba #2864414
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:9-9;gf0025-14:5-5;gf0025-50:6-6
+1	早	_	ADV	RB	_	2	advmod	_	Pinyin=zǎo|Gloss=early|HanViet=tảo
+2	知	_	VERB	VV	_	8	advcl	_	Pinyin=zhī|Gloss=to know|HanViet=tri
+3	如此	_	VERB	VV	_	2	xcomp	_	Pinyin=rúcǐ|Gloss=like this; so; such|HanViet=như thử
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	就	_	SCONJ	RB	_	8	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+6	不	_	ADV	RB	Polarity=Neg	8	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+7	应该	_	AUX	MD	_	8	aux	_	Pinyin=yīnggāi|Gloss=ought to; should; must|HanViet=ưng cai|Trad=應該
+8	借钱	_	VERB	VV	_	0	root	_	Pinyin=jièqián|Gloss=to borrow money; to lend money|HanViet=tá tiền|Trad=借錢
+9	给	_	VERB	VV	_	8	mark	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+10	他	_	PRON	PRP	Person=3	9	obj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+11	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = tatoeba-487444
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 实验证明了他的理论。
+# translation = The experiment confirmed his theory.
+# source = Tatoeba #487444
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:3-3;gf0025-20:4-4;gf0025-21:2-2;gf0025-41:2-2;gf0025-82:4-4
+1	实验	_	NOUN	NN	_	2	nsubj	_	Pinyin=shíyàn|Gloss=experiment|HanViet=thực nghiệm|Trad=實驗
+2	证明	_	VERB	VV	_	0	root	_	Pinyin=zhèngmíng|Gloss=proof|HanViet=chứng minh|Trad=證明
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=liǎo|Gloss=to finish|HanViet=liễu
+4	他	_	PRON	PRP	Person=3	6	det	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	理论	_	NOUN	NN	_	2	obj	_	Pinyin=lǐlùn|Gloss=theory|HanViet=lý luận|Trad=理論
+7	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = tatoeba-6101308
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 我根本不信。
+# translation = I don't believe it at all.
+# source = Tatoeba #6101308
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-149:1-1
+1	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	根本	_	ADV	RB	_	3	advmod	_	Pinyin=gēnběn|Gloss=fundamental|HanViet=căn bản
+3	不信	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=bùxìn|HanViet=bất tín|GlossFrom=parts|Gloss=不 no; not so + 信 letter
+4	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = tatoeba-13138953
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 他老婆。
+# translation = His wife.
+# source = Tatoeba #13138953
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-5:0-0;gf0025-131:1-1
+1	他	_	PRON	PRP	Person=3	2	nmod	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	老婆	_	NOUN	NN	_	0	root	_	Pinyin=lǎopó|Gloss=(coll.) wife|HanViet=lão bà
+3	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = tatoeba-2444467
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 当我们过安检的时候，我从队伍里被拉出来搜身。
+# translation = When we were going through security, I got pulled out of line for a pat-down.
+# source = Tatoeba #2444467
+# license = CC BY 2.0 FR
+# grammar_points = gf0025-1:10-10;gf0025-5:1-1;gf0025-5:7-7;gf0025-15:8-8;gf0025-69:0-0;gf0025-72:8-8;gf0025-132:1-1;gf0025-157:11-11;gf0025-185:11-12
+1	当	_	ADP	IN	_	6	case	_	Pinyin=dāng|Gloss=(onom.) dong|HanViet=đương,đang|Trad=當
+2	我们	_	PRON	PRP	Number=Plur|Person=1	3	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+3	过	_	VERB	VV	_	6	acl:relcl	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+4	安检	_	VERB	VV	_	3	xcomp	_	Pinyin=ānjiǎn|Gloss=security check (abbr. for 安全檢查/安全检查[an1 quan2 jian3 cha2])|HanViet=an kiểm|Trad=安檢
+5	的	_	SCONJ	DEC	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	时候	_	NOUN	NN	_	15	obl	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	我	_	PRON	PRP	Person=1	13	nsubj:pass	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	从	_	ADP	IN	_	10	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+10	队伍	_	NOUN	NN	_	13	obl	_	Pinyin=duìwǔ|Gloss=troops; army|HanViet=đội ngũ|Trad=隊伍
+11	里	_	ADP	IN	_	10	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+12	被	_	AUX	BB	Voice=Pass	13	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+13	拉出	_	VERB	VV	_	15	advcl	_	Pinyin=lāchū|HanViet=lạp xuất|GlossFrom=parts|Gloss=拉 to pull + 出 to go out; to come out
+14	来	_	SCONJ	RB	_	15	mark	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+15	搜身	_	VERB	VV	_	0	root	_	Pinyin=sōushēn|Gloss=to do a body search|HanViet=sưu thân
+16	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = tatoeba-345949
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 5
+# text = 用优质材料做的家具卖得很好。
+# translation = Furniture made of good materials sells well.
+# source = Tatoeba #345949
+# license = CC BY 2.0 FR
+1	用	_	VERB	VV	_	4	advcl	_	Pinyin=yòng|Gloss=to use; to make use of; to employ|HanViet=dụng
+2	优质	_	ADJ	JJ	_	3	amod	_	Pinyin=yōuzhì|Gloss=excellent quality|HanViet=ưu chất|Trad=優質
+3	材料	_	NOUN	NN	_	4	nsubj	_	Pinyin=cáiliào|Gloss=(raw) material|HanViet=tài liệu
+4	做	_	VERB	VV	_	6	acl:relcl	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+5	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	家具	_	NOUN	NN	_	7	nsubj	_	Pinyin=jiājù|Gloss=furniture|HanViet=gia câu|Trad=傢俱
+7	卖得	_	VERB	VV	_	0	root	_	Pinyin=màidé|HanViet=mại đắc|Trad=賣得|GlossFrom=parts|Gloss=卖 to sell + 得 to obtain
+8	很好	_	ADJ	JJ	_	7	xcomp	_	Pinyin=hěnhǎo|HanViet=ngận hảo|GlossFrom=parts|Gloss=很 very; quite + 好 good
+9	。	_	PUNCT	.	_	7	punct	_	_

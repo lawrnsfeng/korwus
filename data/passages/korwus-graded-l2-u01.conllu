@@ -1,0 +1,214 @@
+# sent_id = korwus-graded-l2-u01-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# newpar
+# text = 去年，我从北京来到这里工作。
+# translation = Last year I came here from Beijing to work.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	去年	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=qùnián|Gloss=last year|HanViet=khứ,khử niên
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	从	_	ADP	IN	_	5	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+5	北京	_	PROPN	NNP	_	9	obl	_	Pinyin=běijīng|Gloss=Beijing municipality, capital of the People's Republic of China (short name 京[Jing1])|HanViet=bắc kinh
+6	来	_	SCONJ	RB	_	9	mark	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+7	到	_	VERB	VV	_	9	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+8	这里	_	PRON	PRD	_	7	obj	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+9	工作	_	VERB	VV	_	0	root	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+10	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l2-u01-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我是八月来的，那个月天气非常热。
+# translation = I came in August, and the weather that month was very hot.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	是	_	AUX	VC	_	5	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	八	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=bā|Gloss=eight|HanViet=bát
+4	月	_	NOUN	NNB	_	5	obl	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+5	来	_	VERB	VV	_	13	advcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+6	的	_	PART	UH	_	5	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	，	_	PUNCT	,	_	13	punct	_	_
+8	那	_	DET	DT	_	10	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+9	个	_	NOUN	NNB	_	8	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	月	_	NOUN	NN	_	13	nsubj	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+11	天气	_	NOUN	NN	_	13	nsubj	_	Pinyin=tiānqì|Gloss=weather|HanViet=thiên khí|Trad=天氣
+12	非常	_	ADV	RB	_	13	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+13	热	_	ADJ	JJ	_	0	root	_	Pinyin=rè|Gloss=to warm up|HanViet=nhiệt|Trad=熱
+14	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l2-u01-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 这里的人比北京少，车也没有北京多。
+# translation = There are fewer people here than in Beijing, and not as many cars either.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这里	_	PRON	PRD	_	3	det	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	人	_	NOUN	NN	_	6	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+4	比	_	ADP	IN	_	5	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+5	北京	_	PROPN	NNP	_	6	nmod	_	Pinyin=běijīng|Gloss=Beijing municipality, capital of the People's Republic of China (short name 京[Jing1])|HanViet=bắc kinh
+6	少	_	ADJ	JJ	_	0	root	_	Pinyin=shǎo|Gloss=few|HanViet=thiểu
+7	，	_	PUNCT	,	_	10	punct	_	_
+8	车	_	NOUN	NN	_	10	nsubj	_	Pinyin=chē|Gloss=car|HanViet=xa|Trad=車
+9	也	_	SCONJ	RB	_	10	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+10	没有	_	VERB	VV	Polarity=Neg	6	parataxis	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+11	北京	_	PROPN	NNP	_	12	nsubj	_	Pinyin=běijīng|Gloss=Beijing municipality, capital of the People's Republic of China (short name 京[Jing1])|HanViet=bắc kinh
+12	多	_	ADJ	JJ	_	10	ccomp	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+13	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l2-u01-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 开始的时候，我一个朋友也没有，晚上就一个人看电视。
+# translation = At first I didn't have a single friend, so in the evenings I just watched TV by myself.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	开始	_	VERB	VV	_	3	acl:relcl	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+2	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	时候	_	NOUN	NN	_	17	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	8	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+7	个	_	NOUN	NNB	_	6	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	朋友	_	NOUN	NN	_	10	nsubj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+9	也	_	SCONJ	RB	_	10	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+10	没有	_	VERB	VV	Polarity=Neg	17	advcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+11	，	_	PUNCT	,	_	10	punct	_	_
+12	晚上	_	NOUN	NN	_	17	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+13	就	_	SCONJ	RB	_	17	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+14	一	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+15	个	_	NOUN	NNB	_	14	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+16	人	_	NOUN	NN	_	17	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+17	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+18	电视	_	NOUN	NN	_	17	obj	_	Pinyin=diànshì|Gloss=television; TV|HanViet=điện thị|Trad=電視
+19	。	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = korwus-graded-l2-u01-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 妈妈问我这里的饭好吃吗。
+# translation = My mom asked me whether the food here was good.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	妈妈	_	NOUN	NN	_	2	nsubj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+2	问	_	VERB	VV	_	0	root	_	Pinyin=wèn|Gloss=to ask; to inquire|HanViet=vấn|Trad=問
+3	我	_	PRON	PRP	Person=1	6	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	这里	_	PRON	PRD	_	6	det	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	饭	_	NOUN	NN	_	7	nsubj	_	Pinyin=fàn|Gloss=cooked rice|HanViet=phạn|Trad=飯
+7	好吃	_	ADJ	JJ	_	2	ccomp	_	Pinyin=hǎochī|Gloss=tasty; delicious|HanViet=hảo cật
+8	吗	_	PART	UH	PartType=Int	7	discourse	_	Pinyin=ma|Gloss=(question particle for "yes-no" questions)|HanViet=ma|Trad=嗎
+9	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l2-u01-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我告诉她这里的饭都好吃，但我非常想她和爸爸。
+# translation = I told her the food here was all good, but that I missed her and Dad a lot.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	告诉	_	VERB	VV	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+3	她	_	PRON	PRP	Person=3	6	det	_	Pinyin=tā|Gloss=she|HanViet=tha
+4	这里	_	PRON	PRD	_	6	det	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	饭	_	NOUN	NN	_	8	nsubj	_	Pinyin=fàn|Gloss=cooked rice|HanViet=phạn|Trad=飯
+7	都	_	SCONJ	RB	_	8	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+8	好吃	_	ADJ	JJ	_	2	ccomp	_	Pinyin=hǎochī|Gloss=tasty; delicious|HanViet=hảo cật
+9	，	_	PUNCT	,	_	8	punct	_	_
+10	但	_	SCONJ	RB	_	13	mark	_	Pinyin=dàn|Gloss=but; yet; however; still|HanViet=đãn
+11	我	_	PRON	PRP	Person=1	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+12	非常	_	ADV	RB	_	13	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+13	想	_	AUX	MD	_	2	parataxis	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+14	她	_	PRON	PRP	Person=3	13	obj	_	Pinyin=tā|Gloss=she|HanViet=tha
+15	和	_	CCONJ	CC	_	16	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+16	爸爸	_	NOUN	NN	_	14	conj	_	Pinyin=bàbà|Gloss=(coll.) father; dad|HanViet=ba ba
+17	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l2-u01-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 过了几个月，我认识了几个新朋友，他们有时候叫我跟他们去吃饺子、看电影。
+# translation = After a few months I got to know a few new friends, and sometimes they asked me to go out with them for dumplings or a movie.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	过	_	VERB	VV	_	8	advcl	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+2	了	_	AUX	AS	Aspect=Perf	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	几	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+4	个	_	NOUN	NNB	_	3	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	月	_	NOUN	NN	_	1	obj	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+6	，	_	PUNCT	,	_	1	punct	_	_
+7	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	认识	_	VERB	VV	_	0	root	_	Pinyin=rènshí|Gloss=to know|HanViet=nhận thức|Trad=認識
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	几	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+11	个	_	NOUN	NNB	_	10	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+12	新	_	PART	PFA	_	13	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+13	朋友	_	NOUN	NN	_	8	obj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+14	，	_	PUNCT	,	_	16	punct	_	_
+15	他们	_	PRON	PRP	Number=Plur|Person=3	16	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+16	有	_	VERB	VV	_	8	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+17	时候	_	NOUN	NN	_	16	obj	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+18	叫	_	VERB	VV	Voice=Cau	8	parataxis	_	Pinyin=jiào|Gloss=to shout|HanViet=khiếu
+19	我	_	PRON	PRP	Person=1	22	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+20	跟	_	ADP	IN	_	21	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+21	他们	_	PRON	PRP	Number=Plur|Person=3	22	obl	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+22	去	_	VERB	VV	_	18	ccomp	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+23	吃	_	VERB	VV	_	22	xcomp	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+24	饺子	_	NOUN	NN	_	23	obj	_	Pinyin=jiǎozi|Gloss=dumpling|HanViet=cảo tử|Trad=餃子
+25	、	_	PUNCT	EC	_	26	punct	_	_
+26	看	_	VERB	VV	_	23	conj	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+27	电影	_	NOUN	NN	_	26	obj	_	Pinyin=diànyǐng|Gloss=movie; film|HanViet=điện ảnh|Trad=電影
+28	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l2-u01-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 现在我已经在这里住了一年了，我很喜欢这里。
+# translation = Now I've lived here for a year already, and I really like it here.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	已经	_	ADV	RB	_	6	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+4	在	_	VERB	VV	_	6	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	这里	_	PRON	PRD	_	4	obj	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+6	住	_	VERB	VV	_	0	root	_	Pinyin=zhù|Gloss=to live; to reside; to stay|HanViet=trú,trụ
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+9	年	_	NOUN	NNB	_	6	obj	_	Pinyin=nián|Gloss=year|HanViet=niên
+10	了	_	PART	UH	_	6	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	，	_	PUNCT	,	_	14	punct	_	_
+12	我	_	PRON	PRP	Person=1	14	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+13	很	_	ADV	RB	_	14	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+14	喜欢	_	VERB	VV	_	6	parataxis	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+15	这里	_	PRON	PRD	_	14	obj	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+16	。	_	PUNCT	.	_	6	punct	_	_

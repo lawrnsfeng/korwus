@@ -1,0 +1,272 @@
+# sent_id = korwus-graded-l3-u27-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 我上初中那年，爸爸从外地带回来两只鸡，我高兴极了。
+# translation = The year I started junior high, my dad brought two chickens back from out of town, and I was thrilled.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	3	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	上	_	NOUN	NN	_	1	acl	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+3	初中	_	NOUN	NN	_	5	nmod	_	Pinyin=chūzhōng|Gloss=junior high school (abbr. for 初級中學/初级中学[chu1 ji2 zhong1 xue2])|HanViet=sơ trung
+4	那	_	DET	DT	_	5	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+5	年	_	NOUN	NNB	_	10	nmod:tmod	_	Pinyin=nián|Gloss=year|HanViet=niên
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	爸爸	_	NOUN	NN	_	10	nsubj	_	Pinyin=bàbà|Gloss=(coll.) father; dad|HanViet=ba ba
+8	从	_	ADP	IN	_	9	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+9	外地	_	NOUN	NN	_	10	obl	_	Pinyin=wàidì|Gloss=parts of the country other than where one is|HanViet=ngoại địa
+10	带	_	VERB	VV	_	0	root	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+11	回	_	VERB	VV	_	10	mark	_	Pinyin=huí|Gloss=Hui ethnic group (Chinese Muslims)|HanViet=hồi
+12	来	_	VERB	VV	_	10	mark	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+13	两	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+14	只	_	NOUN	NNB	_	13	clf	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+15	鸡	_	NOUN	NN	_	10	obj	_	Pinyin=jī|Gloss=fowl|HanViet=kê|Trad=雞
+16	，	_	PUNCT	,	_	19	punct	_	_
+17	我	_	PRON	PRP	Person=1	19	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+18	高兴	_	ADJ	JJ	_	19	amod	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+19	极	_	ADJ	JJ	_	10	parataxis	_	Pinyin=jí|Gloss=extremely|HanViet=cực|Trad=極
+20	了	_	PART	UH	_	19	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+21	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l3-u27-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 妈妈说不要养，可是我说我会照顾它们。
+# translation = My mom said we shouldn't keep them, but I said I would take care of them.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	妈妈	_	NOUN	NN	_	2	nsubj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	不要	_	AUX	MD	Polarity=Neg	4	aux	_	Pinyin=búyào|Gloss=don't!; must not|HanViet=_ yếu
+4	养	_	VERB	VV	_	2	xcomp	_	Pinyin=yǎng|Gloss=to raise (animals)|HanViet=dưỡng|Trad=養
+5	，	_	PUNCT	,	_	8	punct	_	_
+6	可是	_	SCONJ	RB	_	8	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+7	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	说	_	VERB	VV	_	2	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+9	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	会	_	AUX	MD	_	11	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+11	照顾	_	VERB	VV	_	8	ccomp	_	Pinyin=zhàogù|Gloss=to take care of|HanViet=chiếu cố|Trad=照顧
+12	它们	_	PRON	PRP	Number=Plur|Person=3	11	obj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=它們
+13	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u27-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我家的大人白天都要上班，所以只有我照顾鸡。
+# translation = The grown-ups in my family all worked during the day, so I was the only one looking after the chickens.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	家	_	NOUN	NN	_	4	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	大人	_	NOUN	NN	_	11	nsubj	_	Pinyin=dàrén|Gloss=adult|HanViet=đại nhân
+5	白天	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=báitiān|Gloss=daytime|HanViet=bạch thiên
+6	都	_	SCONJ	RB	_	8	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+7	要	_	AUX	MD	_	8	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+8	上班	_	VERB	VV	_	11	csubj	_	Pinyin=shàngbān|Gloss=to go to work|HanViet=thượng ban
+9	，	_	PUNCT	,	_	8	punct	_	_
+10	所以	_	SCONJ	RB	_	11	mark	_	Pinyin=suǒyǐ|Gloss=therefore|HanViet=sở dĩ
+11	只有	_	VERB	VV	_	0	root	_	Pinyin=zhǐyǒu|Gloss=only have ...; there is only ...|HanViet=chỉ hữu
+12	我	_	PRON	PRP	Person=1	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+13	照顾	_	VERB	VV	_	11	ccomp	_	Pinyin=zhàogù|Gloss=to take care of|HanViet=chiếu cố|Trad=照顧
+14	鸡	_	NOUN	NN	_	13	obj	_	Pinyin=jī|Gloss=fowl|HanViet=kê|Trad=雞
+15	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l3-u27-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 下午放学以后，我先给鸡吃东西，再复习课文。
+# translation = After school, I would feed the chickens first and then review my lessons.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	下午	_	NOUN	NN	_	2	obl	_	Pinyin=xiàwǔ|Gloss=afternoon|HanViet=hạ ngọ
+2	放学	_	VERB	VV	_	13	advcl	_	Pinyin=fàngxué|Gloss=to dismiss students at the end of the school day|HanViet=phóng học|Trad=放學
+3	以后	_	ADP	IN	_	2	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	我	_	PRON	PRP	Person=1	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	先	_	SCONJ	RB	_	9	mark	_	Pinyin=xiān|Gloss=beforehand; first; earlier|HanViet=tiên
+7	给	_	VERB	VV	_	9	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+8	鸡	_	NOUN	NN	_	7	obj	_	Pinyin=jī|Gloss=fowl|HanViet=kê|Trad=雞
+9	吃	_	VERB	VV	_	13	advcl	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+10	东西	_	NOUN	NN	_	9	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+11	，	_	PUNCT	,	_	9	punct	_	_
+12	再	_	ADV	RB	_	13	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+13	复习	_	VERB	VV	_	0	root	_	Pinyin=fùxí|Gloss=to review|HanViet=phức tập|Trad=複習
+14	课文	_	NOUN	NN	_	13	obj	_	Pinyin=kèwén|Gloss=text|HanViet=khoá văn|Trad=課文
+15	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l3-u27-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 鸡总是跟在我后面走。
+# translation = The chickens always followed me around.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	鸡	_	NOUN	NN	_	2	nsubj	_	Pinyin=jī|Gloss=fowl|HanViet=kê|Trad=雞
+2	总是	_	VERB	VC	_	0	root	_	Pinyin=zǒngshì|Gloss=always|HanViet=tổng thị|Trad=總是
+3	跟	_	ADP	IN	_	6	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+4	在	_	VERB	VV	_	7	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	我	_	PRON	PRP	Person=1	6	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	后面	_	NOUN	NN	_	4	obj	_	Pinyin=hòumiàn|Gloss=the back; the rear; the last bit|HanViet=hậu diện|Trad=後面
+7	走	_	VERB	VV	_	2	xcomp	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+8	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u27-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 后来鸡大了，叫的声音也大了，邻居们都不高兴。
+# translation = Later the chickens grew bigger and so did their noise, and the neighbors were all unhappy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	后来	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=hòulái|Gloss=afterwards; later|HanViet=hậu lai|Trad=後來
+2	鸡大	_	PROPN	NNP	_	9	obl	_	Pinyin=jīdà|Gloss=鸡 fowl + 大 big; large; great|GlossFrom=parts|HanViet=kê đại|Trad=雞大
+3	了	_	PART	UH	_	2	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	叫	_	VERB	VV	_	7	acl:relcl	_	Pinyin=jiào|Gloss=to shout|HanViet=khiếu
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	声音	_	NOUN	NN	_	9	nsubj	_	Pinyin=shēngyīn|Gloss=sound; voice|HanViet=thanh âm|Trad=聲音
+8	也	_	SCONJ	RB	_	9	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+9	大	_	ADJ	JJ	_	0	root	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+10	了	_	PART	UH	_	9	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	，	_	PUNCT	,	_	16	punct	_	_
+12	邻居	_	NOUN	NN	_	13	compound	_	Pinyin=línjū|Gloss=neighbor|HanViet=lân cư|Trad=鄰居
+13	们	_	PART	SFN	Number=Plur	16	nsubj	_	Pinyin=men|Gloss=plural marker for pronouns, and nouns referring to individuals|HanViet=môn|Trad=們
+14	都	_	SCONJ	RB	_	16	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+15	不	_	ADV	RB	Polarity=Neg	16	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+16	高兴	_	ADJ	JJ	_	9	parataxis	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+17	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u27-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 这是我们家的一个大难题。
+# translation = This was a big problem for our family.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	PRON	PRD	_	9	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	是	_	AUX	VC	_	9	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	我们	_	PRON	PRP	Number=Plur|Person=1	4	compound	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+4	家	_	PART	SFN	_	9	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+7	个	_	NOUN	NNB	_	6	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	大	_	PART	PFA	_	9	case	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+9	难题	_	NOUN	NN	_	0	root	_	Pinyin=nàntí|Gloss=difficult problem|HanViet=nan đề|Trad=難題
+10	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u27-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 最后，我们把它们给了住在外地的爷爷。
+# translation = In the end, we gave them to my grandpa, who lives in another town.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	最后	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=zuìhòu|Gloss=final; last; ultimate|HanViet=tối hậu|Trad=最後
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	我们	_	PRON	PRP	Number=Plur|Person=1	6	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+4	把	_	ADP	BB	_	5	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+5	它们	_	PRON	PRP	Number=Plur|Person=3	6	obl:patient	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=它們
+6	给	_	VERB	VV	_	0	root	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	住	_	VERB	VV	_	12	acl:relcl	_	Pinyin=zhù|Gloss=to live; to reside; to stay|HanViet=trú,trụ
+9	在	_	VERB	VV	_	8	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+10	外地	_	NOUN	NN	_	8	obj	_	Pinyin=wàidì|Gloss=parts of the country other than where one is|HanViet=ngoại địa
+11	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	爷爷	_	NOUN	NN	_	6	iobj	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+13	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u27-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 它们走的那天，我很难过。
+# translation = I was very sad the day they left.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	它们	_	PRON	PRP	Number=Plur|Person=3	2	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=它們
+2	走	_	VERB	VV	_	5	acl:relcl	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	那	_	DET	DT	_	5	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+5	天	_	NOUN	NNB	_	9	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	很	_	ADV	RB	_	9	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+9	难过	_	ADJ	JJ	_	0	root	_	Pinyin=nánguò|Gloss=to feel sad|HanViet=nan quá,qua|Trad=難過
+10	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u27-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 现在我常常给爷爷打电话，问他那两只鸡的事。
+# translation = Now I often call my grandpa and ask him about those two chickens.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	常常	_	ADV	RB	_	6	advmod	_	Pinyin=chángcháng|Gloss=frequently; often|HanViet=thường thường
+4	给	_	VERB	VV	_	6	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+5	爷爷	_	NOUN	NN	_	4	obj	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+6	打	_	VERB	VV	_	9	advcl	_	Pinyin=dǎ|Gloss=to hit; to strike|HanViet=đả
+7	电话	_	NOUN	NN	_	6	obj	_	Pinyin=diànhuà|Gloss=telephone|HanViet=điện thoại|Trad=電話
+8	，	_	PUNCT	,	_	6	punct	_	_
+9	问	_	VERB	VV	_	0	root	_	Pinyin=wèn|Gloss=to ask; to inquire|HanViet=vấn|Trad=問
+10	他	_	PRON	PRP	Person=3	16	nmod	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+11	那	_	DET	DT	_	14	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+12	两	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+13	只	_	NOUN	NNB	_	12	clf	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+14	鸡	_	NOUN	NN	_	16	nmod	_	Pinyin=jī|Gloss=fowl|HanViet=kê|Trad=雞
+15	的	_	SCONJ	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	事	_	NOUN	NN	_	9	obj	_	Pinyin=shì|Gloss=matter|HanViet=sự
+17	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u27-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 爷爷说，他现在一共养了十只鸡。
+# translation = Grandpa says he now keeps ten chickens in all.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	爷爷	_	NOUN	NN	_	2	nsubj	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	7	punct	_	_
+4	他	_	PRON	PRP	Person=3	7	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+5	现在	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+6	一共	_	ADV	RB	_	7	advmod	_	Pinyin=yīgòng|Gloss=in total; altogether|HanViet=nhất cộng
+7	养	_	VERB	VV	_	2	ccomp	_	Pinyin=yǎng|Gloss=to raise (animals)|HanViet=dưỡng|Trad=養
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	十	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=shí|Gloss=ten|HanViet=thập
+10	只	_	NOUN	NNB	_	9	clf	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+11	鸡	_	NOUN	NN	_	7	obj	_	Pinyin=jī|Gloss=fowl|HanViet=kê|Trad=雞
+12	。	_	PUNCT	.	_	2	punct	_	_

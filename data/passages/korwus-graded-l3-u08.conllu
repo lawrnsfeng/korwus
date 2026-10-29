@@ -1,0 +1,247 @@
+# sent_id = korwus-graded-l3-u08-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# newpar
+# text = 上个月是我好朋友的生日。
+# translation = Last month was my good friend's birthday.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	上	_	DET	DT	_	3	det	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	月	_	NOUN	NN	_	9	nsubj	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+4	是	_	AUX	VC	_	9	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	我	_	PRON	PRP	Person=1	7	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	好	_	PART	PFA	_	7	case	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+7	朋友	_	NOUN	NN	_	9	nmod	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+8	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	生日	_	NOUN	NN	_	0	root	_	Pinyin=shēngrì|Gloss=birthday|HanViet=sinh nhật
+10	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u08-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 为了让她开心，我想给她做一个蛋糕。
+# translation = To make her happy, I wanted to bake her a cake.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	为了	_	ADP	IN	_	2	case	_	Pinyin=wèile|Gloss=for; for the purpose of; in order to|HanViet=vị,vì liễu|Trad=為了
+2	让	_	VERB	VV	Voice=Cau	8	xcomp	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+3	她	_	PRON	PRP	Person=3	4	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+4	开心	_	ADJ	JJ	_	2	ccomp	_	Pinyin=kāixīn|Gloss=to feel happy|HanViet=khai tâm|Trad=開心
+5	，	_	PUNCT	,	_	2	punct	_	_
+6	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	想	_	AUX	MD	_	8	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+8	给	_	VERB	VV	_	0	root	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+9	她	_	PRON	PRP	Person=3	8	obj	_	Pinyin=tā|Gloss=she|HanViet=tha
+10	做	_	VERB	VV	_	8	ccomp	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+11	一	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+12	个	_	NOUN	NNB	_	11	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+13	蛋糕	_	NOUN	NN	_	10	obj	_	Pinyin=dàngāo|Gloss=cake|HanViet=đản cao
+14	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l3-u08-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 这是我第一次做蛋糕，所以有些害怕。
+# translation = It was my first time baking a cake, so I was a little scared.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	PRON	PRD	_	2	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	是	_	VERB	VC	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	第一	_	NUM	CD	NumType=Ord	5	nummod	_	Pinyin=dìyī|Gloss=first|HanViet=đệ nhất
+5	次	_	NOUN	NNB	_	6	obl	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+6	做	_	VERB	VV	_	10	advcl	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+7	蛋糕	_	NOUN	NN	_	6	obj	_	Pinyin=dàngāo|Gloss=cake|HanViet=đản cao
+8	，	_	PUNCT	,	_	2	punct	_	_
+9	所以	_	SCONJ	RB	_	10	mark	_	Pinyin=suǒyǐ|Gloss=therefore|HanViet=sở dĩ
+10	有些	_	VERB	VV	_	2	ccomp	_	Pinyin=yǒuxiē|Gloss=some|HanViet=hữu ta
+11	害怕	_	VERB	VV	_	10	xcomp	_	Pinyin=hàipà|Gloss=to be afraid; to be scared|HanViet=hại phạ
+12	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u08-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我在网上找了一个简单的办法，而且不需要买很多东西。
+# translation = I found a simple recipe online, and I didn't need to buy many things either.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	15	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	在	_	ADP	IN	_	3	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	网上	_	NOUN	NN	_	4	obl	_	Pinyin=wǎngshàng|Gloss=online|HanViet=võng thượng|Trad=網上
+4	找	_	VERB	VV	_	15	advcl	_	Pinyin=zhǎo|Gloss=to try to find|HanViet=trảo
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+7	个	_	NOUN	NNB	_	6	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	简单	_	ADJ	JJ	_	10	amod	_	Pinyin=jiǎndān|Gloss=simple; not complicated|HanViet=giản đơn,đan|Trad=簡單
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	办法	_	NOUN	NN	_	4	obj	_	Pinyin=bànfǎ|Gloss=way of handling sth; means; measure; (practical) solution to a problem|HanViet=biện pháp|Trad=辦法
+11	，	_	PUNCT	,	_	4	punct	_	_
+12	而且	_	SCONJ	RB	_	15	mark	_	Pinyin=érqiě|Gloss=(not only ...) but also|HanViet=nhi thả
+13	不	_	ADV	RB	Polarity=Neg	15	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+14	需要	_	AUX	MD	_	15	aux	_	Pinyin=xūyào|Gloss=to need; to want; to demand; to require|HanViet=nhu yếu
+15	买	_	VERB	VV	_	0	root	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+16	很多	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+17	东西	_	NOUN	NN	_	15	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+18	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = korwus-graded-l3-u08-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 做的时候我很小心，但是还是忘记了看时间。
+# translation = I was very careful while baking, but I still forgot to keep an eye on the time.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	做	_	VERB	VV	_	3	acl:relcl	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+2	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	时候	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+4	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	很	_	ADV	RB	_	6	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+6	小心	_	ADJ	JJ	_	10	advcl	_	Pinyin=xiǎoxīn|Gloss=to be careful|HanViet=tiểu tâm
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	但是	_	SCONJ	RB	_	10	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+9	还是	_	SCONJ	RB	_	10	mark	_	Pinyin=háishì|Gloss=still (as before)|HanViet=hoàn thị|Trad=還是
+10	忘记	_	VERB	VV	_	0	root	_	Pinyin=wàngjì|Gloss=to forget|HanViet=vong ký|Trad=忘記
+11	了	_	AUX	AS	Aspect=Perf	10	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	看	_	VERB	VV	_	10	xcomp	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+13	时间	_	NOUN	NN	_	12	obj	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+14	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l3-u08-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 蛋糕出来的时候，颜色好像不对。
+# translation = When the cake came out, its color didn't look quite right.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	蛋糕	_	NOUN	NN	_	2	nsubj	_	Pinyin=dàngāo|Gloss=cake|HanViet=đản cao
+2	出来	_	VERB	VV	_	4	acl:relcl	_	Pinyin=chūlái|Gloss=to come out|HanViet=xuất lai|Trad=出來
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	时候	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	颜色	_	NOUN	NN	_	8	nsubj	_	Pinyin=yánsè|Gloss=color|HanViet=nhan sắc|Trad=顏色
+7	好像	_	ADV	RB	_	8	advmod	_	Pinyin=hǎoxiàng|Gloss=as if|HanViet=hảo tượng
+8	不对	_	ADJ	JJ	_	0	root	_	Pinyin=búduì|Gloss=incorrect|HanViet=_ đối|Trad=不對
+9	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u08-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我的朋友吃了一块，突然笑了起来。
+# translation = My friend ate a piece and suddenly burst out laughing.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	3	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	朋友	_	NOUN	NN	_	10	nsubj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+4	吃	_	VERB	VV	_	10	advcl	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	一	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+7	块	_	NOUN	NN	_	4	obj	_	Pinyin=kuài|Gloss=lump; chunk; piece|HanViet=khối|Trad=塊
+8	，	_	PUNCT	,	_	4	punct	_	_
+9	突然	_	ADV	RB	_	10	advmod	_	Pinyin=tūrán|Gloss=sudden; abrupt; unexpected|HanViet=đột nhiên
+10	笑	_	VERB	VV	_	0	root	_	Pinyin=xiào|Gloss=to laugh; to smile|HanViet=tiếu
+11	了	_	AUX	AS	Aspect=Perf	10	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	起来	_	VERB	VV	_	10	mark	_	Pinyin=qǐlái|Gloss=to stand up; to get up|HanViet=khởi lai|Trad=起來
+13	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l3-u08-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 她说这个蛋糕很特别，她很喜欢。
+# translation = She said the cake was very special and she loved it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	这	_	DET	DT	_	5	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+4	个	_	NOUN	NNB	_	3	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	蛋糕	_	NOUN	NN	_	7	nsubj	_	Pinyin=dàngāo|Gloss=cake|HanViet=đản cao
+6	很	_	ADV	RB	_	7	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+7	特别	_	ADJ	JJ	_	2	ccomp	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+8	，	_	PUNCT	,	_	11	punct	_	_
+9	她	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+10	很	_	ADV	RB	_	11	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+11	喜欢	_	VERB	VV	_	2	parataxis	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+12	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u08-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我知道蛋糕不太好吃，她这样说是想让我开心。
+# translation = I knew the cake didn't taste very good; she said that to make me happy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	知道	_	VERB	VV	_	0	root	_	Pinyin=zhīdào|Gloss=to know; to become aware of|HanViet=tri đạo
+3	蛋糕	_	NOUN	NN	_	6	nsubj	_	Pinyin=dàngāo|Gloss=cake|HanViet=đản cao
+4	不	_	ADV	RB	Polarity=Neg	6	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+5	太	_	ADV	RB	_	6	advmod	_	Pinyin=tài|Gloss=highest|HanViet=thái
+6	好吃	_	ADJ	JJ	_	2	ccomp	_	Pinyin=hǎochī|Gloss=tasty; delicious|HanViet=hảo cật
+7	，	_	PUNCT	,	_	10	punct	_	_
+8	她	_	PRON	PRP	Person=3	10	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+9	这样	_	ADV	RB	_	10	advmod	_	Pinyin=zhèyàng|Gloss=this way; like this; so|HanViet=giá dạng|Trad=這樣
+10	说	_	VERB	VV	_	2	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+11	是	_	VERB	VC	_	10	xcomp	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+12	想	_	AUX	MD	_	13	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+13	让	_	VERB	VV	Voice=Cau	11	xcomp	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+14	我	_	PRON	PRP	Person=1	15	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+15	开心	_	ADJ	JJ	_	13	ccomp	_	Pinyin=kāixīn|Gloss=to feel happy|HanViet=khai tâm|Trad=開心
+16	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u08-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我做蛋糕是为了让她开心，但是最后，是她让我开心了。
+# translation = I baked the cake to make her happy, but in the end, she was the one who made me happy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	做	_	VERB	VV	_	4	csubj	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+3	蛋糕	_	NOUN	NN	_	2	obj	_	Pinyin=dàngāo|Gloss=cake|HanViet=đản cao
+4	是	_	VERB	VC	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	为了	_	ADP	IN	_	4	xcomp	_	Pinyin=wèile|Gloss=for; for the purpose of; in order to|HanViet=vị,vì liễu|Trad=為了
+6	让	_	VERB	VV	Voice=Cau	5	xcomp	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+7	她	_	PRON	PRP	Person=3	8	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+8	开心	_	ADJ	JJ	_	6	ccomp	_	Pinyin=kāixīn|Gloss=to feel happy|HanViet=khai tâm|Trad=開心
+9	，	_	PUNCT	,	_	13	punct	_	_
+10	但是	_	SCONJ	RB	_	13	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+11	最后	_	NOUN	NN	_	13	nmod:tmod	_	Pinyin=zuìhòu|Gloss=final; last; ultimate|HanViet=tối hậu|Trad=最後
+12	，	_	PUNCT	,	_	11	punct	_	_
+13	是	_	VERB	VC	_	4	parataxis	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+14	她	_	PRON	PRP	Person=3	15	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+15	让	_	VERB	VV	Voice=Cau	13	ccomp	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+16	我	_	PRON	PRP	Person=1	17	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+17	开心	_	ADJ	JJ	_	15	ccomp	_	Pinyin=kāixīn|Gloss=to feel happy|HanViet=khai tâm|Trad=開心
+18	了	_	PART	UH	_	15	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+19	。	_	PUNCT	.	_	4	punct	_	_

@@ -1,0 +1,293 @@
+# sent_id = korwus-graded-l3-u09-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 冬天到了，听说爷爷奶奶会来我们家，住几天。
+# translation = Winter came, and I heard that my grandparents were coming to stay with us for a few days.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	冬天	_	NOUN	NN	_	2	nsubj	_	Pinyin=dōngtiān|Gloss=winter|HanViet=đông thiên
+2	到	_	VERB	VV	_	5	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	听说	_	VERB	VV	_	0	root	_	Pinyin=tīngshuō|Gloss=to hear (sth said)|HanViet=thính thuyết|Trad=聽說
+6	爷爷	_	NOUN	NN	_	7	nmod	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+7	奶奶	_	NOUN	NN	_	13	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+8	会	_	AUX	MD	_	9	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+9	来	_	VERB	VV	_	13	advcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+10	我们	_	PRON	PRP	Number=Plur|Person=1	11	compound	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+11	家	_	PART	SFN	_	9	obj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+12	，	_	PUNCT	,	_	9	punct	_	_
+13	住	_	VERB	VV	_	5	ccomp	_	Pinyin=zhù|Gloss=to live; to reside; to stay|HanViet=trú,trụ
+14	几	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+15	天	_	NOUN	NNB	_	13	obj	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+16	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l3-u09-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我想送他们一个礼物，可是不知道送什么。
+# translation = I wanted to give them a gift, but I didn't know what to give.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	想	_	AUX	MD	_	3	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+3	送	_	VERB	VV	_	11	advcl	_	Pinyin=sòng|Gloss=to send; to deliver; to transmit|HanViet=tống
+4	他们	_	PRON	PRP	Number=Plur|Person=3	3	obj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+5	一	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+6	个	_	NOUN	NNB	_	5	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	礼物	_	NOUN	NN	_	3	obj	_	Pinyin=lǐwù|Gloss=gift; present|HanViet=lễ vật|Trad=禮物
+8	，	_	PUNCT	,	_	3	punct	_	_
+9	可是	_	SCONJ	RB	_	11	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+10	不	_	ADV	RB	Polarity=Neg	11	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+11	知道	_	VERB	VV	_	0	root	_	Pinyin=zhīdào|Gloss=to know; to become aware of|HanViet=tri đạo
+12	送	_	VERB	VV	_	11	xcomp	_	Pinyin=sòng|Gloss=to send; to deliver; to transmit|HanViet=tống
+13	什么	_	PRON	WP	_	12	obj	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+14	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l3-u09-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 妈妈说不用买东西，爷爷奶奶最喜欢的是花。
+# translation = Mom said there was no need to buy anything; what Grandpa and Grandma love most is flowers.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	妈妈	_	NOUN	NN	_	2	nsubj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	不用	_	VERB	VV	Polarity=Neg	2	xcomp	_	Pinyin=bùyòng|Gloss=need not|HanViet=bất dụng
+4	买	_	VERB	VV	_	3	xcomp	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+5	东西	_	NOUN	NN	_	4	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+6	，	_	PUNCT	,	_	13	punct	_	_
+7	爷爷	_	NOUN	NN	_	8	nmod	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+8	奶奶	_	NOUN	NN	_	10	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+9	最	_	ADV	RB	_	10	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+10	喜欢	_	ADJ	JJ	_	13	csubj	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+11	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	是	_	AUX	VC	_	13	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+13	花	_	NOUN	NN	_	2	ccomp	_	Pinyin=huā|Gloss=flower|HanViet=hoa
+14	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u09-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我家旁边有一个小花园，可是现在里面什么都没有。
+# translation = There is a small garden next to our home, but right now there's nothing in it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	compound	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	家	_	PART	SFN	_	4	nsubj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+3	旁边	_	NOUN	NN	_	4	nsubj	_	Pinyin=pángbiān|Gloss=side; adjacent place|HanViet=bàng biên|Trad=旁邊
+4	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+5	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+6	个	_	NOUN	NNB	_	5	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	小	_	PART	PFA	_	8	case	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+8	花园	_	NOUN	NN	_	4	obj	_	Pinyin=huāyuán|Gloss=garden (for flowers, ornamental plants etc); (landscaped) park; yard with decorative plants|HanViet=hoa viên|Trad=花園
+9	，	_	PUNCT	,	_	15	punct	_	_
+10	可是	_	SCONJ	RB	_	15	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+11	现在	_	NOUN	NN	_	15	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+12	里面	_	NOUN	NN	_	13	nmod	_	Pinyin=lǐmiàn|Gloss=inside|HanViet=lý diện|Trad=裡面
+13	什么	_	PRON	WP	_	15	nsubj	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+14	都	_	SCONJ	RB	_	15	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+15	没有	_	VERB	VV	Polarity=Neg	4	parataxis	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+16	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u09-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 下午，我和爸爸一起去了花园。
+# translation = In the afternoon, Dad and I went to the garden together.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	下午	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=xiàwǔ|Gloss=afternoon|HanViet=hạ ngọ
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	和	_	ADP	IN	_	5	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+5	爸爸	_	NOUN	NN	_	7	obl	_	Pinyin=bàbà|Gloss=(coll.) father; dad|HanViet=ba ba
+6	一起	_	NOUN	NN	_	7	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+7	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	花园	_	NOUN	NN	_	7	obj	_	Pinyin=huāyuán|Gloss=garden (for flowers, ornamental plants etc); (landscaped) park; yard with decorative plants|HanViet=hoa viên|Trad=花園
+10	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u09-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 那天没有太阳，非常冷，但是我很愿意做这件事。
+# translation = There was no sun that day and it was very cold, but I was happy to do it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那	_	DET	DT	_	2	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	天	_	NOUN	NNB	_	3	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+3	没有	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+4	太阳	_	NOUN	NN	_	7	nsubj	_	Pinyin=tàiyáng|Gloss=sun|HanViet=thái dương|Trad=太陽
+5	，	_	PUNCT	,	_	7	punct	_	_
+6	非常	_	ADV	RB	_	7	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+7	冷	_	ADJ	JJ	_	3	ccomp	_	Pinyin=lěng|Gloss=cold|HanViet=lạnh
+8	，	_	PUNCT	,	_	13	punct	_	_
+9	但是	_	SCONJ	RB	_	13	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+10	我	_	PRON	PRP	Person=1	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+11	很	_	ADV	RB	_	13	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+12	愿意	_	AUX	MD	_	13	aux	_	Pinyin=yuànyì|Gloss=to wish|HanViet=nguyện ý|Trad=願意
+13	做	_	VERB	VV	_	3	parataxis	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+14	这	_	DET	DT	_	16	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+15	件	_	NOUN	NNB	_	14	clf	_	Pinyin=jiàn|Gloss=item|HanViet=kiện
+16	事	_	NOUN	NN	_	13	obj	_	Pinyin=shì|Gloss=matter|HanViet=sự
+17	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u09-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我们去商店买了很多花，把它们放在花园里。
+# translation = We went to a store, bought lots of flowers and put them in the garden.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	4	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	去	_	VERB	VV	_	4	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+3	商店	_	NOUN	NN	_	2	obj	_	Pinyin=shāngdiàn|Gloss=store; shop|HanViet=thương điếm
+4	买	_	VERB	VV	_	0	root	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	很多	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+7	花	_	NOUN	NN	_	4	obj	_	Pinyin=huā|Gloss=flower|HanViet=hoa
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	把	_	ADP	BB	_	10	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+10	它们	_	PRON	PRP	Number=Plur|Person=3	11	obl:patient	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=它們
+11	放	_	VERB	VV	_	4	ccomp	_	Pinyin=fàng|Gloss=to put|HanViet=phóng
+12	在	_	VERB	VV	_	11	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+13	花园	_	NOUN	NN	_	11	obj	_	Pinyin=huāyuán|Gloss=garden (for flowers, ornamental plants etc); (landscaped) park; yard with decorative plants|HanViet=hoa viên|Trad=花園
+14	里	_	NOUN	NN	_	13	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+15	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u09-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 第二天，我们出发去火车站接爷爷奶奶。
+# translation = The next day we set off for the train station to pick up my grandparents.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	第二	_	NUM	CD	NumType=Ord	2	nummod	_	Pinyin=dìèr|Gloss=second|HanViet=đệ nhị
+2	天	_	NOUN	NNB	_	9	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	我们	_	PRON	PRP	Number=Plur|Person=1	9	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	出发	_	VERB	VV	_	9	advcl	_	Pinyin=chūfā|Gloss=to set off; to start (on a journey)|HanViet=xuất phát|Trad=出發
+6	去	_	VERB	VV	_	5	mark	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+7	火车	_	NOUN	NN	_	8	compound	_	Pinyin=huǒchē|Gloss=train|HanViet=hoả xa|Trad=火車
+8	站	_	PART	SFN	_	6	obj	_	Pinyin=zhàn|Gloss=station|HanViet=trạm
+9	接	_	VERB	VV	_	0	root	_	Pinyin=jiē|Gloss=to receive|HanViet=tiếp
+10	爷爷	_	NOUN	NN	_	11	nmod	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+11	奶奶	_	NOUN	NN	_	9	obj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+12	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u09-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他们到了以后，我马上带他们去花园。
+# translation = As soon as they arrived, I took them straight to the garden.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他们	_	PRON	PRP	Number=Plur|Person=3	2	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+2	到	_	VERB	VV	_	10	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	以后	_	ADP	IN	_	2	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+5	，	_	PUNCT	,	_	2	punct	_	_
+6	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	马上	_	ADV	RB	_	10	advmod	_	Pinyin=mǎshàng|Gloss=at once|HanViet=mã thượng|Trad=馬上
+8	带	_	VERB	VV	_	10	advcl	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+9	他们	_	PRON	PRP	Number=Plur|Person=3	8	obj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+10	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+11	花园	_	NOUN	NN	_	10	obj	_	Pinyin=huāyuán|Gloss=garden (for flowers, ornamental plants etc); (landscaped) park; yard with decorative plants|HanViet=hoa viên|Trad=花園
+12	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l3-u09-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 爷爷说，这是他得到过的最好的礼物。
+# translation = Grandpa said it was the best gift he had ever received.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	爷爷	_	NOUN	NN	_	2	nsubj	_	Pinyin=yéyé|Gloss=(coll.) paternal grandfather; grandpa|HanViet=gia gia|Trad=爺爺
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	12	punct	_	_
+4	这	_	PRON	PRD	_	12	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+5	是	_	AUX	VC	_	12	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+6	他	_	PRON	PRP	Person=3	7	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+7	得到	_	VERB	VV	_	12	acl:relcl	_	Pinyin=dédào|Gloss=to get; to obtain; to receive|HanViet=đắc đáo
+8	过	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+9	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	最好	_	ADJ	JJ	_	12	amod	_	Pinyin=zuìhǎo|Gloss=best|HanViet=tối hảo
+11	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	礼物	_	NOUN	NN	_	2	ccomp	_	Pinyin=lǐwù|Gloss=gift; present|HanViet=lễ vật|Trad=禮物
+13	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u09-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 奶奶说，以后她要常常在花园里坐一会儿，看那些花。
+# translation = Grandma said that from now on she would often sit in the garden for a while and look at the flowers.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	奶奶	_	NOUN	NN	_	2	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	14	punct	_	_
+4	以后	_	ADP	IN	_	14	case	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+5	她	_	PRON	PRP	Person=3	14	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+6	要	_	AUX	MD	_	11	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+7	常常	_	ADV	RB	_	11	advmod	_	Pinyin=chángcháng|Gloss=frequently; often|HanViet=thường thường
+8	在	_	VERB	VV	_	11	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+9	花园	_	NOUN	NN	_	8	obj	_	Pinyin=huāyuán|Gloss=garden (for flowers, ornamental plants etc); (landscaped) park; yard with decorative plants|HanViet=hoa viên|Trad=花園
+10	里	_	NOUN	NN	_	9	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+11	坐	_	VERB	VV	_	14	advcl	_	Pinyin=zuò|Gloss=to sit|HanViet=toạ
+12	一会儿	_	ADJ	JJ	_	11	xcomp	_	Pinyin=yīhuìr|Gloss=a moment|HanViet=nhất hội nhi|Trad=一會兒
+13	，	_	PUNCT	,	_	11	punct	_	_
+14	看	_	VERB	VV	_	2	ccomp	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+15	那些	_	DET	DT	_	16	det	_	Pinyin=nàxiē|Gloss=those|HanViet=na ta
+16	花	_	NOUN	NN	_	14	obj	_	Pinyin=huā|Gloss=flower|HanViet=hoa
+17	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u09-12
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我当然很高兴。
+# translation = Of course I was very happy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	当然	_	ADV	RB	_	4	advmod	_	Pinyin=dāngrán|Gloss=only natural|HanViet=đương,đang nhiên|Trad=當然
+3	很	_	ADV	RB	_	4	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+4	高兴	_	ADJ	JJ	_	0	root	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+5	。	_	PUNCT	.	_	4	punct	_	_

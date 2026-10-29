@@ -1,0 +1,195 @@
+# sent_id = korwus-graded-l2-u03-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# newpar
+# text = 虽然我很喜欢水，但是小时候没有学习过游泳。
+# translation = Although I really like water, I never learned to swim as a child.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	虽然	_	ADP	IN	_	4	case	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+2	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	很	_	ADV	RB	_	4	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+4	喜欢	_	VERB	VV	_	10	ccomp	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+5	水	_	NOUN	NN	_	4	obj	_	Pinyin=shuǐ|Gloss=Shui ethnic group|HanViet=thuỷ
+6	，	_	PUNCT	,	_	4	punct	_	_
+7	但是	_	SCONJ	RB	_	10	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+8	小	_	PART	PFA	_	9	case	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+9	时候	_	NOUN	NN	_	10	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+10	没有	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+11	学习	_	VERB	VV	_	10	xcomp	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+12	过	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+13	游泳	_	VERB	VV	_	11	xcomp	_	Pinyin=yóuyǒng|Gloss=swimming|HanViet=du vịnh
+14	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l2-u03-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 去年七月，我准备开始学。
+# translation = Last July I got ready to start learning.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	去年	_	NOUN	NN	_	3	nmod	_	Pinyin=qùnián|Gloss=last year|HanViet=khứ,khử niên
+2	七	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=qī|Gloss=seven|HanViet=thất
+3	月	_	NOUN	NNB	_	6	nmod:tmod	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	准备	_	VERB	VV	_	0	root	_	Pinyin=zhǔnbèi|Gloss=preparation|HanViet=chuẩn bị|Trad=準備
+7	开始	_	VERB	VV	_	6	xcomp	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+8	学	_	PART	SFN	_	7	obj	_	Pinyin=xué|Gloss=to learn|HanViet=học|Trad=學
+9	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l2-u03-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我朋友游泳非常快，他说可以教我游泳。
+# translation = My friend swims very fast, and he said he could teach me to swim.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	朋友	_	NOUN	NN	_	3	nsubj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+3	游泳	_	VERB	VV	_	5	advcl	_	Pinyin=yóuyǒng|Gloss=swimming|HanViet=du vịnh
+4	非常	_	ADV	RB	_	5	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+5	快	_	ADJ	JJ	_	0	root	_	Pinyin=kuài|Gloss=rapid|HanViet=khoái
+6	，	_	PUNCT	,	_	8	punct	_	_
+7	他	_	PRON	PRP	Person=3	8	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+8	说	_	VERB	VV	_	5	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+9	可以	_	AUX	MD	_	10	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+10	教	_	VERB	VV	_	8	xcomp	_	Pinyin=jiào|Gloss=(bound form) to teach; to instruct|HanViet=giáo
+11	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+12	游泳	_	VERB	VV	_	10	ccomp	_	Pinyin=yóuyǒng|Gloss=swimming|HanViet=du vịnh
+13	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l2-u03-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 那个月，我们经常早上出去游泳，要走半个小时的路。
+# translation = That month we often went out swimming in the morning, and it was a half-hour walk to get there.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那	_	DET	DT	_	3	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	月	_	NOUN	NN	_	12	nmod:tmod	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我们	_	PRON	PRP	Number=Plur|Person=1	12	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+6	经常	_	ADV	RB	_	9	advmod	_	Pinyin=jīngcháng|Gloss=frequently; constantly; regularly; often|HanViet=kinh thường|Trad=經常
+7	早上	_	NOUN	NN	_	9	obl	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+8	出去	_	VERB	VV	_	9	advcl	_	Pinyin=chūqù|Gloss=to go out|HanViet=xuất khứ,khử
+9	游泳	_	VERB	VV	_	12	advcl	_	Pinyin=yóuyǒng|Gloss=swimming|HanViet=du vịnh
+10	，	_	PUNCT	,	_	9	punct	_	_
+11	要	_	AUX	MD	_	12	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+12	走	_	VERB	VV	_	0	root	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+13	半	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=bàn|Gloss=half|HanViet=bán
+14	个	_	NOUN	NNB	_	13	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+15	小时	_	NOUN	NN	_	17	nmod	_	Pinyin=xiǎoshí|Gloss=hour|HanViet=tiểu thời|Trad=小時
+16	的	_	PART	DEC	Case=Gen	15	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	路	_	NOUN	NN	_	12	obj	_	Pinyin=lù|Gloss=road (CL:條/条[tiao2])|HanViet=lộ
+18	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l2-u03-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 开始的时候，他说什么我都不懂。
+# translation = At first I didn't understand anything he said.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	开始	_	VERB	VV	_	3	acl:relcl	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+2	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	时候	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	他	_	PRON	PRP	Person=3	6	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+6	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+7	什么	_	PRON	WP	_	11	nsubj	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+8	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	都	_	SCONJ	RB	_	11	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+10	不	_	ADV	RB	Polarity=Neg	11	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+11	懂	_	VERB	VV	_	6	ccomp	_	Pinyin=dǒng|Gloss=to understand|HanViet=đổng
+12	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l2-u03-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我花了很多时间，到八月就会游泳了。
+# translation = I spent a lot of time on it, and by August I could swim.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	花	_	VERB	VV	_	12	advcl	_	Pinyin=huā|Gloss=flower|HanViet=hoa
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	很多	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+5	时间	_	NOUN	NN	_	2	obj	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+6	，	_	PUNCT	,	_	2	punct	_	_
+7	到	_	ADP	IN	_	9	case	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+8	八	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=bā|Gloss=eight|HanViet=bát
+9	月	_	NOUN	NNB	_	12	obl	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+10	就	_	SCONJ	RB	_	12	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+11	会	_	AUX	MD	_	12	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+12	游泳	_	VERB	VV	_	0	root	_	Pinyin=yóuyǒng|Gloss=swimming|HanViet=du vịnh
+13	了	_	PART	UH	_	12	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+14	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l2-u03-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 现在我还经常去游泳。
+# translation = Now I still go swimming often.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	5	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	还	_	SCONJ	RB	_	5	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+4	经常	_	ADV	RB	_	5	advmod	_	Pinyin=jīngcháng|Gloss=frequently; constantly; regularly; often|HanViet=kinh thường|Trad=經常
+5	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+6	游泳	_	VERB	VV	_	5	xcomp	_	Pinyin=yóuyǒng|Gloss=swimming|HanViet=du vịnh
+7	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l2-u03-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 星期天游泳回来，我们会一起喝咖啡，说一说这一周的事情。
+# translation = When we come back from swimming on Sundays, we have coffee together and talk about what happened that week.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	星期	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+2	天	_	NUM	CD	NumType=Card	1	nummod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+3	游泳	_	VERB	VV	_	4	advcl	_	Pinyin=yóuyǒng|Gloss=swimming|HanViet=du vịnh
+4	回来	_	VERB	VV	_	0	root	_	Pinyin=huílái|Gloss=to return; to come back|HanViet=hồi lai|Trad=回來
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	我们	_	PRON	PRP	Number=Plur|Person=1	12	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+7	会	_	AUX	MD	_	9	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+8	一起	_	NOUN	NN	_	9	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+9	喝	_	VERB	VV	_	12	advcl	_	Pinyin=hē|Gloss=to drink|HanViet=húp
+10	咖啡	_	NOUN	NN	_	9	obj	_	Pinyin=kāfēi|Gloss=(loanword) coffee|HanViet=ca phê
+11	，	_	PUNCT	,	_	9	punct	_	_
+12	说	_	VERB	VV	_	4	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+13	一	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+14	说	_	NOUN	NN	_	12	xcomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+15	这	_	DET	DT	_	17	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+16	一	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+17	周	_	NOUN	NNB	_	19	nmod	_	Pinyin=zhōu|Gloss=Zhou Dynasty (1046–256 BC)|HanViet=chu
+18	的	_	PART	DEC	Case=Gen	17	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	事情	_	NOUN	NN	_	14	obj	_	Pinyin=shìqíng|Gloss=affair; matter; thing; business|HanViet=sự tình
+20	。	_	PUNCT	.	_	4	punct	_	_

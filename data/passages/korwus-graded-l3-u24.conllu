@@ -1,0 +1,208 @@
+# sent_id = korwus-graded-l3-u24-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 新年以后，我们班级去公园玩。
+# translation = After the New Year, our class went to the park.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	新年	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=xīnnián|Gloss=New Year|HanViet=tân niên
+2	以后	_	ADP	IN	_	1	case	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	我们	_	PRON	PRP	Number=Plur|Person=1	5	nmod	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	班级	_	NOUN	NN	_	8	nsubj	_	Pinyin=bānjí|Gloss=class (group of students)|HanViet=ban cấp|Trad=班級
+6	去	_	VERB	VV	_	8	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+7	公园	_	NOUN	NN	_	6	obj	_	Pinyin=gōngyuán|Gloss=park (for public recreation)|HanViet=công viên|Trad=公園
+8	玩	_	VERB	VV	_	0	root	_	Pinyin=wán|Gloss=to play|HanViet=ngoạn
+9	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u24-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 那天的天气不错，也没有什么风。
+# translation = The weather was nice that day, and there was hardly any wind.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那	_	DET	DT	_	2	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	天	_	NOUN	NNB	_	4	nmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	天气	_	NOUN	NN	_	5	nsubj	_	Pinyin=tiānqì|Gloss=weather|HanViet=thiên khí|Trad=天氣
+5	不错	_	ADJ	JJ	_	8	advcl	_	Pinyin=bùcuò|Gloss=correct|HanViet=bất thác|Trad=不錯
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	也	_	SCONJ	RB	_	8	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+8	没有	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+9	什么	_	PRON	WP	_	8	obj	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+10	风	_	PART	UH	_	8	discourse	_	Pinyin=fēng|Gloss=wind|HanViet=phong|Trad=風
+11	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u24-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我们走了一个多小时，大家都又累又渴。
+# translation = We walked for over an hour, and everyone got tired and thirsty.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	2	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	走	_	VERB	VV	_	0	root	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	一	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	多	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+7	小时	_	NOUN	NN	_	2	obj	_	Pinyin=xiǎoshí|Gloss=hour|HanViet=tiểu thời|Trad=小時
+8	，	_	PUNCT	,	_	12	punct	_	_
+9	大家	_	PRON	PRD	_	12	nsubj	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+10	都	_	SCONJ	RB	_	12	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+11	又	_	CCONJ	CC	_	12	cc	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+12	累	_	ADJ	JJ	_	2	conj	_	Pinyin=lèi|Gloss=tired|HanViet=luỵ
+13	又	_	CCONJ	CC	_	14	cc	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+14	渴	_	VERB	VV	_	12	conj	_	Pinyin=kě|Gloss=thirsty|HanViet=khát
+15	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u24-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 到了草地上，老师给我们买了一个大西瓜，大家在草地上一起吃。
+# translation = When we reached the lawn, the teacher bought us a big watermelon, and we all ate it together on the grass.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	到	_	VERB	VV	_	9	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+2	了	_	AUX	AS	Aspect=Perf	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	草地	_	NOUN	NN	_	1	obj	_	Pinyin=cǎodì|Gloss=lawn|HanViet=thảo địa
+4	上	_	NOUN	NN	_	3	acl	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+5	，	_	PUNCT	,	_	1	punct	_	_
+6	老师	_	NOUN	NN	_	9	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+7	给	_	VERB	VV	_	9	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+8	我们	_	PRON	PRP	Number=Plur|Person=1	7	obj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+9	买	_	VERB	VV	_	0	root	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+10	了	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	一	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+12	个	_	NOUN	NNB	_	11	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+13	大	_	PART	PFA	_	14	case	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+14	西瓜	_	NOUN	NN	_	9	obj	_	Pinyin=xīguā|Gloss=watermelon|HanViet=tây qua
+15	，	_	PUNCT	,	_	21	punct	_	_
+16	大家	_	PRON	PRD	_	21	nsubj	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+17	在	_	VERB	VV	_	21	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+18	草地	_	NOUN	NN	_	17	obj	_	Pinyin=cǎodì|Gloss=lawn|HanViet=thảo địa
+19	上	_	NOUN	NN	_	18	acl	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+20	一起	_	NOUN	NN	_	21	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+21	吃	_	VERB	VV	_	9	parataxis	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+22	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u24-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 中午我发现自己没有带筷子，同学给了我一双。
+# translation = At noon I found I hadn't brought chopsticks, and a classmate gave me a pair.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	中午	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=zhōngwǔ|Gloss=noon|HanViet=trung ngọ
+2	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	发现	_	VERB	VV	_	0	root	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+4	自己	_	PRON	PRD	_	5	nsubj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+5	没有	_	VERB	VV	Polarity=Neg	3	ccomp	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+6	带	_	VERB	VV	_	5	xcomp	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+7	筷子	_	NOUN	NN	_	6	obj	_	Pinyin=kuàizi|Gloss=chopsticks|HanViet=khoái tử
+8	，	_	PUNCT	,	_	10	punct	_	_
+9	同学	_	NOUN	NN	_	10	nsubj	_	Pinyin=tóngxué|Gloss=to study at the same school|HanViet=đồng học|Trad=同學
+10	给	_	VERB	VV	_	3	parataxis	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+11	了	_	AUX	AS	Aspect=Perf	10	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	我	_	PRON	PRP	Person=1	10	iobj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+13	一	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+14	双	_	NOUN	NNB	_	10	obj	_	Pinyin=shuāng|Gloss=two|HanViet=song|Trad=雙
+15	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u24-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 吃了西瓜以后，大家的手都脏了，老师带我们去洗手间。
+# translation = After the watermelon, everyone's hands were dirty, so the teacher took us to the restroom.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	吃	_	VERB	VV	_	10	advcl	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+2	了	_	AUX	AS	Aspect=Perf	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	西瓜	_	NOUN	NN	_	1	obj	_	Pinyin=xīguā|Gloss=watermelon|HanViet=tây qua
+4	以后	_	ADP	IN	_	1	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+5	，	_	PUNCT	,	_	1	punct	_	_
+6	大家	_	PRON	PRD	_	8	det	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+7	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	手	_	NOUN	NN	_	10	nsubj	_	Pinyin=shǒu|Gloss=hand|HanViet=thủ
+9	都	_	SCONJ	RB	_	10	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+10	脏	_	ADJ	JJ	_	0	root	_	Pinyin=zāng|Gloss=dirty|HanViet=_|Trad=髒
+11	了	_	PART	UH	_	10	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	，	_	PUNCT	,	_	16	punct	_	_
+13	老师	_	NOUN	NN	_	16	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+14	带	_	VERB	VV	_	16	advcl	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+15	我们	_	PRON	PRP	Number=Plur|Person=1	14	obj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+16	去	_	VERB	VV	_	10	parataxis	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+17	洗手	_	VERB	VV	_	16	xcomp	_	Pinyin=xǐshǒu|Gloss=to wash one's hands|HanViet=tẩy thủ
+18	间	_	ADP	IN	_	17	case	_	Pinyin=jiān|Gloss=between|HanViet=gian|Trad=間
+19	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l3-u24-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 公园里还有几只羊，我们和它们一起拍照。
+# translation = There were also a few sheep in the park, and we took pictures with them.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	公园	_	NOUN	NN	_	4	nsubj	_	Pinyin=gōngyuán|Gloss=park (for public recreation)|HanViet=công viên|Trad=公園
+2	里	_	NOUN	NN	_	1	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+3	还	_	SCONJ	RB	_	4	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+4	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+5	几	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+6	只	_	NOUN	NNB	_	5	clf	_	Pinyin=zhī|Gloss=grain that has begun to ripen|HanViet=chỉ
+7	羊	_	NOUN	NN	_	4	obj	_	Pinyin=yáng|Gloss=sheep; goat|HanViet=dương
+8	，	_	PUNCT	,	_	13	punct	_	_
+9	我们	_	PRON	PRP	Number=Plur|Person=1	13	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+10	和	_	ADP	IN	_	11	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+11	它们	_	PRON	PRP	Number=Plur|Person=3	13	obl	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=它們
+12	一起	_	NOUN	NN	_	13	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+13	拍照	_	VERB	VV	_	4	parataxis	_	Pinyin=pāizhào|Gloss=to take a picture|HanViet=phách chiếu
+14	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u24-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 大家都说，和同学们在一起，吃什么都好吃。
+# translation = Everyone said that when you're with your classmates, everything tastes good.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	大家	_	NOUN	NN	_	3	nsubj	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+2	都	_	SCONJ	RB	_	3	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+3	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+4	，	_	PUNCT	,	_	14	punct	_	_
+5	和	_	ADP	IN	_	7	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+6	同学	_	NOUN	NN	_	7	compound	_	Pinyin=tóngxué|Gloss=to study at the same school|HanViet=đồng học|Trad=同學
+7	们	_	PART	SFN	Number=Plur	8	obl	_	Pinyin=men|Gloss=plural marker for pronouns, and nouns referring to individuals|HanViet=môn|Trad=們
+8	在	_	VERB	VV	_	11	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+9	一起	_	NOUN	NN	_	8	obj	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+10	，	_	PUNCT	,	_	8	punct	_	_
+11	吃	_	VERB	VV	_	14	csubj	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+12	什么	_	PRON	WP	_	14	nsubj	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+13	都	_	SCONJ	RB	_	14	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+14	好吃	_	ADJ	JJ	_	3	xcomp	_	Pinyin=hǎochī|Gloss=tasty; delicious|HanViet=hảo cật
+15	。	_	PUNCT	.	_	3	punct	_	_

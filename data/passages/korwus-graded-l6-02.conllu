@@ -1,0 +1,305 @@
+# sent_id = korwus-graded-l6-02-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# newpar
+# text = 中国传统建筑以木结构为主，讲究与自然环境的和谐。
+# translation = Traditional Chinese architecture is mainly built of wood and pays close attention to harmony with the natural environment.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	中国	_	PROPN	NNP	_	3	nmod	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+2	传统	_	NOUN	NN	_	3	nmod	_	Pinyin=chuántǒng|Gloss=tradition; traditional|HanViet=truyền thống|Trad=傳統
+3	建筑	_	NOUN	NN	_	10	nsubj	_	Pinyin=jiànzhù|Gloss=to construct|HanViet=kiến trúc|Trad=建築
+4	以	_	VERB	VV	Voice=Cau	10	advcl	_	Pinyin=yǐ|Gloss=to use|HanViet=dĩ
+5	木	_	NOUN	NN	_	6	nmod	_	Pinyin=mù|Gloss=(bound form) tree|HanViet=mộc
+6	结构	_	NOUN	NN	_	8	nsubj	_	Pinyin=jiégòu|Gloss=structure|HanViet=kết cấu|Trad=結構
+7	为	_	AUX	VC	_	8	cop	_	Pinyin=wéi|Gloss=as (in the capacity of)|HanViet=vị,vì|Trad=為
+8	主	_	ADJ	JJ	_	4	ccomp	_	Pinyin=zhǔ|Gloss=owner|HanViet=chủ,chúa
+9	，	_	PUNCT	,	_	4	punct	_	_
+10	讲究	_	VERB	VV	_	0	root	_	Pinyin=jiǎngjiū|Gloss=to pay particular attention to|HanViet=giảng cứu|Trad=講究
+11	与	_	ADP	IN	_	15	case	_	Pinyin=yǔ|Gloss=(formal) and; together with (linking parallel nouns, verbs, or phrases)|HanViet=dữ|Trad=與
+12	自然	_	NOUN	NN	_	13	nmod	_	Pinyin=zìrán|Gloss=nature|HanViet=tự nhiên
+13	环境	_	NOUN	NN	_	15	nmod	_	Pinyin=huánjìng|Gloss=environment|HanViet=hoàn cảnh|Trad=環境
+14	的	_	PART	DEC	Case=Gen	15	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	和谐	_	NOUN	NN	_	10	obj	_	Pinyin=héxié|Gloss=harmonious|HanViet=hoà hài|Trad=和諧
+16	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l6-02-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 古代的师傅在建造房屋时，很少使用金属，而是依靠巧妙的结构把各个部分连接在一起。
+# translation = When master builders in ancient times put up houses, they seldom used metal, relying instead on clever joinery to connect the parts.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	古代	_	NOUN	NN	_	3	nmod	_	Pinyin=gǔdài|Gloss=ancient times|HanViet=cổ đại
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	师傅	_	NOUN	NN	_	21	nsubj	_	Pinyin=shīfù|Gloss=master|HanViet=sư phó,phụ|Trad=師傅
+4	在	_	ADP	IN	_	5	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	建造	_	VERB	VV	_	10	xcomp	_	Pinyin=jiànzào|Gloss=to construct; to build|HanViet=kiến tạo
+6	房屋	_	NOUN	NN	_	5	obj	_	Pinyin=fángwū|Gloss=house|HanViet=phòng ốc
+7	时	_	ADP	IN	_	5	mark	_	Pinyin=shí|Gloss=o'clock|HanViet=thời|Trad=時
+8	，	_	PUNCT	,	_	5	punct	_	_
+9	很少	_	ADV	RB	_	10	advmod	_	Pinyin=hěnshǎo|Gloss=很 very; quite + 少 few|GlossFrom=parts|HanViet=ngận thiểu
+10	使用	_	VERB	VV	_	21	advcl	_	Pinyin=shǐyòng|Gloss=to use|HanViet=sử,sứ dụng
+11	金属	_	NOUN	NN	_	10	obj	_	Pinyin=jīnshǔ|Gloss=metal|HanViet=kim thuộc|Trad=金屬
+12	，	_	PUNCT	,	_	10	punct	_	_
+13	而是	_	SCONJ	RB	_	21	mark	_	Pinyin=érshì|Gloss=rather|HanViet=nhi thị
+14	依靠	_	ADP	IN	_	17	case	_	Pinyin=yīkào|Gloss=to rely on; to depend on|HanViet=y kháo
+15	巧妙	_	ADJ	JJ	_	17	amod	_	Pinyin=qiǎomiào|Gloss=ingenious; clever|HanViet=xảo diệu
+16	的	_	SCONJ	DEC	_	15	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	结构	_	NOUN	NN	_	21	obl:patient	_	Pinyin=jiégòu|Gloss=structure|HanViet=kết cấu|Trad=結構
+18	把	_	ADP	BB	_	20	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+19	各个	_	DET	DT	_	20	det	_	Pinyin=gègè|Gloss=every|HanViet=các cá|Trad=各個
+20	部分	_	NOUN	NN	_	21	obl:patient	_	Pinyin=bùfèn|Gloss=part; portion; piece|HanViet=bộ phận,phần
+21	连接	_	VERB	VV	_	0	root	_	Pinyin=liánjiē|Gloss=to link; to join; to connect|HanViet=liên tiếp|Trad=連接
+22	在	_	VERB	VV	_	21	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+23	一起	_	NOUN	NN	_	21	obj	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+24	。	_	PUNCT	.	_	21	punct	_	_
+
+# sent_id = korwus-graded-l6-02-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 这种结构不仅坚固，而且富有弹性，在地震中往往能够减轻巨大的冲击。
+# translation = This structure is not only sturdy but also flexible, and in earthquakes it can often soften enormous shocks.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	种	_	NOUN	NNB	_	1	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+3	结构	_	NOUN	NN	_	16	nsubj	_	Pinyin=jiégòu|Gloss=structure|HanViet=kết cấu|Trad=結構
+4	不仅	_	ADP	IN	_	5	case	_	Pinyin=bùjǐn|Gloss=not just; not limited to|HanViet=bất cận|Trad=不僅
+5	坚固	_	ADJ	JJ	_	8	xcomp	_	Pinyin=jiāngù|Gloss=firm|HanViet=kiên cố|Trad=堅固
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	而且	_	SCONJ	RB	_	8	mark	_	Pinyin=érqiě|Gloss=(not only ...) but also|HanViet=nhi thả
+8	富有	_	VERB	VV	_	16	advcl	_	Pinyin=fùyǒu|Gloss=rich; wealthy; affluent|HanViet=phú hữu
+9	弹性	_	NOUN	NN	_	8	obj	_	Pinyin=tánxìng|Gloss=flexibility|HanViet=đàn tính|Trad=彈性
+10	，	_	PUNCT	,	_	8	punct	_	_
+11	在	_	ADP	IN	_	12	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+12	地震	_	NOUN	NN	_	16	obl	_	Pinyin=dìzhèn|Gloss=earthquake|HanViet=địa chấn
+13	中	_	ADP	IN	_	12	case	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+14	往往	_	ADV	RB	_	16	advmod	_	Pinyin=wǎngwǎng|Gloss=usually|HanViet=vãng vãng
+15	能够	_	AUX	MD	_	16	aux	_	Pinyin=nénggòu|Gloss=to be capable of|HanViet=năng cú|Trad=能夠
+16	减轻	_	VERB	VV	_	0	root	_	Pinyin=jiǎnqīng|Gloss=to lighten|HanViet=giảm khinh|Trad=減輕
+17	巨大	_	ADJ	JJ	_	19	amod	_	Pinyin=jùdà|Gloss=huge; immense; enormous; gigantic|HanViet=cự đại
+18	的	_	SCONJ	DEC	_	17	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	冲击	_	NOUN	NN	_	16	obj	_	Pinyin=chōngjī|Gloss=to attack|HanViet=xung kích|Trad=衝擊
+20	。	_	PUNCT	.	_	16	punct	_	_
+
+# sent_id = korwus-graded-l6-02-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 屋顶的形状也很有讲究，四角向上弯起，既能排出雨水，又显得轻巧优美。
+# translation = The shape of the roof is also carefully considered: its four corners curve upward, which both drains rainwater and looks light and graceful.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	屋顶	_	NOUN	NN	_	3	nmod	_	Pinyin=wūdǐng|Gloss=roof|HanViet=ốc đỉnh|Trad=屋頂
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	形状	_	NOUN	NN	_	6	nsubj	_	Pinyin=xíngzhuàng|Gloss=form; shape|HanViet=hình trạng|Trad=形狀
+4	也	_	SCONJ	RB	_	6	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+5	很	_	ADV	RB	_	6	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+6	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+7	讲究	_	NOUN	NN	_	6	obj	_	Pinyin=jiǎngjiū|Gloss=to pay particular attention to|HanViet=giảng cứu|Trad=講究
+8	，	_	PUNCT	,	_	11	punct	_	_
+9	四角	_	NOUN	NN	_	11	nsubj	_	Pinyin=sìjiǎo|Gloss=the four corners (of a rectangle)|HanViet=tứ giác,giốc,góc
+10	向上	_	VERB	VV	_	11	advcl	_	Pinyin=xiàngshàng|Gloss=upward|HanViet=hướng thượng
+11	弯起	_	VERB	VV	_	6	parataxis	_	Pinyin=wānqǐ|Gloss=弯 to bend + 起 to rise|GlossFrom=parts|HanViet=loan khởi|Trad=彎起
+12	，	_	PUNCT	,	_	11	punct	_	_
+13	既	_	CCONJ	CC	_	15	cc	_	Pinyin=jì|Gloss=already|HanViet=ký
+14	能	_	AUX	MD	_	15	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+15	排出	_	VERB	VV	_	6	parataxis	_	Pinyin=páichū|Gloss=to discharge|HanViet=bài xuất
+16	雨水	_	NOUN	NN	_	15	obj	_	Pinyin=yǔshuǐ|Gloss=Yushui or Rain Water, 2nd of the 24 solar terms 二十四節氣/二十四节气 19th February-5th March|HanViet=vũ thuỷ
+17	，	_	PUNCT	,	_	19	punct	_	_
+18	又	_	CCONJ	CC	_	19	cc	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+19	显得	_	VERB	VV	_	15	conj	_	Pinyin=xiǎnde|Gloss=to seem|HanViet=hiển đắc|Trad=顯得
+20	轻巧	_	ADJ	JJ	_	21	advcl	_	Pinyin=qīngqiǎo|Gloss=dexterous|HanViet=khinh xảo|Trad=輕巧
+21	优美	_	ADJ	JJ	_	19	xcomp	_	Pinyin=yōuměi|Gloss=graceful|HanViet=ưu mỹ|Trad=優美
+22	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l6-02-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 在安排上，传统住宅通常坐北朝南，以便冬天充分接受阳光。
+# translation = In layout, traditional homes usually sit facing south, so they get plenty of sunlight in winter.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	VERB	VV	_	14	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	安排	_	NOUN	NN	_	1	obj	_	Pinyin=ānpái|Gloss=to arrange|HanViet=an bài
+3	上	_	ADP	IN	_	2	case	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	传统	_	NOUN	NN	_	6	nmod	_	Pinyin=chuántǒng|Gloss=tradition; traditional|HanViet=truyền thống|Trad=傳統
+6	住宅	_	NOUN	NN	_	14	nsubj	_	Pinyin=zhùzhái|Gloss=residence; dwelling; abode|HanViet=trú,trụ trạch
+7	通常	_	ADV	RB	_	9	advmod	_	Pinyin=tōngcháng|Gloss=regular; usual; normal|HanViet=thông thường
+8	坐北	_	VERB	VV	_	9	advcl	_	Pinyin=zuòběi|Gloss=坐 to sit + 北 north|GlossFrom=parts|HanViet=toạ bắc
+9	朝南	_	VERB	VV	_	14	advcl	_	Pinyin=cháonán|Gloss=朝 imperial or royal court + 南 Taiwan pr. [na2]|GlossFrom=parts|HanViet=triều nam
+10	，	_	PUNCT	,	_	9	punct	_	_
+11	以便	_	SCONJ	RB	_	14	mark	_	Pinyin=yǐbiàn|Gloss=so that|HanViet=dĩ tiện
+12	冬天	_	NOUN	NN	_	14	nmod:tmod	_	Pinyin=dōngtiān|Gloss=winter|HanViet=đông thiên
+13	充分	_	ADV	RB	_	14	advmod	_	Pinyin=chōngfèn|Gloss=ample|HanViet=sung phận,phần
+14	接受	_	VERB	VV	_	0	root	_	Pinyin=jiēshòu|Gloss=to accept (a suggestion, punishment, bribe etc); to acquiesce|HanViet=tiếp thọ
+15	阳光	_	NOUN	NN	_	14	obj	_	Pinyin=yángguāng|Gloss=sunshine|HanViet=dương quang|Trad=陽光
+16	。	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = korwus-graded-l6-02-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 四合院就是一个典型的例子，几代人围绕院子居住，体现了重视家庭团圆的观念。
+# translation = The courtyard house is a typical example: several generations lived around one courtyard, reflecting a value placed on family togetherness.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	四	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=sì|Gloss=four|HanViet=tứ
+2	合院	_	NOUN	NN	_	8	nsubj	_	Pinyin=héyuàn|Gloss=courtyard house|HanViet=hợp,hiệp viện
+3	就是	_	AUX	VC	_	8	cop	_	Pinyin=jiùshì|Gloss=exactly; precisely|HanViet=tựu thị
+4	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	典型	_	ADJ	JJ	_	8	amod	_	Pinyin=diǎnxíng|Gloss=model|HanViet=điển hình
+7	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	例子	_	NOUN	NN	_	0	root	_	Pinyin=lìzi|Gloss=case|HanViet=lệ tử
+9	，	_	PUNCT	,	_	17	punct	_	_
+10	几	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+11	代	_	NOUN	NNB	_	10	clf	_	Pinyin=dài|Gloss=to be a substitute for; to act on behalf of; to replace; to substitute|HanViet=đại
+12	人	_	NOUN	NN	_	17	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+13	围绕	_	ADP	IN	_	14	case	_	Pinyin=wéirào|Gloss=to revolve around|HanViet=vi,vây nhiễu|Trad=圍繞
+14	院子	_	NOUN	NN	_	15	obl	_	Pinyin=yuànzi|Gloss=courtyard|HanViet=viện tử
+15	居住	_	VERB	VV	_	17	advcl	_	Pinyin=jūzhù|Gloss=to reside|HanViet=cư trú,trụ
+16	，	_	PUNCT	,	_	15	punct	_	_
+17	体现	_	VERB	VV	_	8	parataxis	_	Pinyin=tǐxiàn|Gloss=to embody|HanViet=thể hiện|Trad=體現
+18	了	_	AUX	AS	Aspect=Perf	17	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+19	重视	_	VERB	VV	_	23	acl:relcl	_	Pinyin=zhòngshì|Gloss=to attach importance to sth; to value|HanViet=trọng thị|Trad=重視
+20	家庭	_	NOUN	NN	_	21	nsubj	_	Pinyin=jiātíng|Gloss=family; household|HanViet=gia đình
+21	团圆	_	VERB	VV	_	19	obj	_	Pinyin=tuányuán|Gloss=to have a reunion|HanViet=đoàn viên|Trad=團圓
+22	的	_	SCONJ	DEC	_	19	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+23	观念	_	NOUN	NN	_	17	obj	_	Pinyin=guānniàn|Gloss=notion|HanViet=quan niệm|Trad=觀念
+24	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l6-02-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 遗憾的是，随着城市化的推进，大量老建筑被拆除，换成了样子相同的高楼。
+# translation = Unfortunately, as urbanization advanced, large numbers of old buildings were torn down and replaced by identical high-rises.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	遗憾	_	ADJ	JJ	_	3	csubj	_	Pinyin=yíhàn|Gloss=regret|HanViet=di hám|Trad=遺憾
+2	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	是	_	VERB	VC	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	，	_	PUNCT	,	_	18	punct	_	_
+5	随	_	VERB	VV	_	18	advcl	_	Pinyin=suí|Gloss=to follow|HanViet=tuỳ|Trad=隨
+6	着	_	AUX	AS	Aspect=Prog	5	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+7	城市	_	NOUN	NN	_	8	compound	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+8	化	_	PART	SFV	_	10	acl:relcl	_	Pinyin=huà|Gloss=to make into|HanViet=hoá
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	推进	_	NOUN	NN	_	5	obj	_	Pinyin=tuījìn|Gloss=to impel|HanViet=suy tiến|Trad=推進
+11	，	_	PUNCT	,	_	5	punct	_	_
+12	大量	_	ADJ	JJ	_	14	amod	_	Pinyin=dàliàng|Gloss=great amount|HanViet=đại lượng
+13	老	_	PART	PFA	_	14	case	_	Pinyin=lǎo|Gloss=prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity|HanViet=lão
+14	建筑	_	NOUN	NN	_	16	nsubj:pass	_	Pinyin=jiànzhù|Gloss=to construct|HanViet=kiến trúc|Trad=建築
+15	被	_	AUX	BB	Voice=Pass	16	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+16	拆除	_	VERB	VV	_	18	advcl	_	Pinyin=chāichú|Gloss=to tear down|HanViet=sách trừ
+17	，	_	PUNCT	,	_	16	punct	_	_
+18	换成	_	VERB	VV	_	3	ccomp	_	Pinyin=huànchéng|Gloss=to exchange (sth) for (sth else)|HanViet=hoán thành|Trad=換成
+19	了	_	AUX	AS	Aspect=Perf	18	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+20	样子	_	NOUN	NN	_	21	nsubj	_	Pinyin=yàngzi|Gloss=appearance|HanViet=dạng tử|Trad=樣子
+21	相同	_	ADJ	JJ	_	23	amod	_	Pinyin=xiāngtóng|Gloss=identical; same|HanViet=tương đồng
+22	的	_	SCONJ	DEC	_	21	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+23	高楼	_	NOUN	NN	_	18	obj	_	Pinyin=gāolóu|Gloss=high building|HanViet=cao lâu|Trad=高樓
+24	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l6-02-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 近年来，越来越多的人意识到保护文化遗产的迫切性。
+# translation = In recent years, more and more people have realized how urgent it is to protect cultural heritage.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	近年	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=jìnnián|Gloss=recent year(s)|HanViet=cận niên
+2	来	_	ADP	IN	_	1	case	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	越来越	_	ADV	RB	_	5	advmod	_	Pinyin=yuèláiyuè|Gloss=more and more|HanViet=việt lai việt|Trad=越來越
+5	多	_	ADJ	JJ	_	7	amod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	人	_	NOUN	NN	_	8	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+8	意识	_	VERB	VV	_	0	root	_	Pinyin=yìshí|Gloss=consciousness; awareness|HanViet=ý thức|Trad=意識
+9	到	_	VERB	VV	_	8	mark	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+10	保护	_	VERB	VV	_	8	xcomp	_	Pinyin=bǎohù|Gloss=to protect|HanViet=bảo hộ|Trad=保護
+11	文化	_	NOUN	NN	_	12	nmod	_	Pinyin=wénhuà|Gloss=culture|HanViet=văn hoá
+12	遗产	_	NOUN	NN	_	15	nmod	_	Pinyin=yíchǎn|Gloss=heritage|HanViet=di sản|Trad=遺產
+13	的	_	PART	DEC	Case=Gen	12	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	迫切	_	ADJ	JJ	_	15	compound	_	Pinyin=pòqiè|Gloss=urgent; pressing|HanViet=bách,bức thiết
+15	性	_	PART	SFN	_	10	obj	_	Pinyin=xìng|Gloss=nature|HanViet=tính
+16	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l6-02-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 一些地方开始修复古老的街区，并在保留原来面目的前提下改善居住条件。
+# translation = Some places have begun restoring old neighborhoods, improving living conditions while keeping their original look.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	一些	_	ADJ	JJ	_	2	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+2	地方	_	NOUN	NN	_	17	nsubj	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+3	开始	_	VERB	VV	_	17	advcl	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+4	修复	_	VERB	VV	_	3	xcomp	_	Pinyin=xiūfù|Gloss=to restore; to renovate|HanViet=tu phục|Trad=修復
+5	古老	_	ADJ	JJ	_	7	amod	_	Pinyin=gǔlǎo|Gloss=ancient|HanViet=cổ lão
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	街区	_	NOUN	NN	_	4	obj	_	Pinyin=jiēqū|Gloss=block; neighborhood|HanViet=nhai khu|Trad=街區
+8	，	_	PUNCT	,	_	3	punct	_	_
+9	并	_	SCONJ	RB	_	17	mark	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+10	在	_	ADP	IN	_	15	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+11	保留	_	VERB	VV	_	15	acl:relcl	_	Pinyin=bǎoliú|Gloss=to keep|HanViet=bảo lưu
+12	原来	_	ADJ	JJ	_	13	amod	_	Pinyin=yuánlái|Gloss=original; former|HanViet=nguyên lai|Trad=原來
+13	面目	_	NOUN	NN	_	11	obj	_	Pinyin=miànmù|Gloss=appearance|HanViet=diện mục
+14	的	_	SCONJ	DEC	_	11	mark:rel	_	Pinyin=dì|Gloss=(bound form) bull's-eye; target|HanViet=đích
+15	前提	_	NOUN	NN	_	17	obl	_	Pinyin=qiántí|Gloss=premise|HanViet=tiền đề
+16	下	_	ADP	IN	_	15	case	_	Pinyin=xià|Gloss=down|HanViet=hạ
+17	改善	_	VERB	VV	_	0	root	_	Pinyin=gǎishàn|Gloss=to make better; to improve|HanViet=cải thiện
+18	居住	_	NOUN	NN	_	19	nmod	_	Pinyin=jūzhù|Gloss=to reside|HanViet=cư trú,trụ
+19	条件	_	NOUN	NN	_	17	obj	_	Pinyin=tiáojiàn|Gloss=condition; circumstance; term; factor|HanViet=điều kiện|Trad=條件
+20	。	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = korwus-graded-l6-02-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 这些建筑包含着祖先的智慧，值得我们用心珍惜。
+# translation = These buildings hold the wisdom of our ancestors and deserve to be cherished with care.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这些	_	DET	DT	_	2	det	_	Pinyin=zhèxiē|Gloss=these|HanViet=giá ta|Trad=這些
+2	建筑	_	NOUN	NN	_	9	nsubj	_	Pinyin=jiànzhù|Gloss=to construct|HanViet=kiến trúc|Trad=建築
+3	包含	_	VERB	VV	_	9	advcl	_	Pinyin=bāohán|Gloss=to contain|HanViet=bao hàm
+4	着	_	AUX	AS	Aspect=Prog	3	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+5	祖先	_	NOUN	NN	_	7	nmod	_	Pinyin=zǔxiān|Gloss=ancestors; forebears|HanViet=tổ tiên
+6	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	智慧	_	NOUN	NN	_	3	obj	_	Pinyin=zhìhuì|Gloss=wisdom; intelligence|HanViet=trí tuệ
+8	，	_	PUNCT	,	_	3	punct	_	_
+9	值得	_	VERB	VV	_	0	root	_	Pinyin=zhíde|Gloss=worth the money|HanViet=trị đắc
+10	我们	_	PRON	PRP	Number=Plur|Person=1	12	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+11	用心	_	ADV	RB	_	12	advmod	_	Pinyin=yòngxīn|Gloss=motive|HanViet=dụng tâm
+12	珍惜	_	VERB	VV	_	9	ccomp	_	Pinyin=zhēnxī|Gloss=to treasure|HanViet=trân tích
+13	。	_	PUNCT	.	_	9	punct	_	_

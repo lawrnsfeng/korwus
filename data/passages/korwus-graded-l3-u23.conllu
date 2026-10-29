@@ -1,0 +1,255 @@
+# sent_id = korwus-graded-l3-u23-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 我爸爸平时工作忙，常常开会，没有时间锻炼身体。
+# translation = My dad is usually very busy at work and often in meetings, so he has no time to exercise.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	爸爸	_	NOUN	NN	_	1	appos	_	Pinyin=bàbà|Gloss=(coll.) father; dad|HanViet=ba ba
+3	平时	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=píngshí|Gloss=ordinarily|HanViet=bình thời|Trad=平時
+4	工作	_	VERB	VV	_	12	advcl	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+5	忙	_	ADJ	JJ	_	4	xcomp	_	Pinyin=máng|Gloss=busy|HanViet=mang
+6	，	_	PUNCT	,	_	4	punct	_	_
+7	常常	_	ADV	RB	_	8	advmod	_	Pinyin=chángcháng|Gloss=frequently; often|HanViet=thường thường
+8	开会	_	VERB	VV	_	12	advcl	_	Pinyin=kāihuì|Gloss=to hold or attend a meeting|HanViet=khai hội|Trad=開會
+9	，	_	PUNCT	,	_	8	punct	_	_
+10	没有	_	VERB	VV	Polarity=Neg	12	advcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+11	时间	_	NOUN	NN	_	10	obj	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+12	锻炼	_	VERB	VV	_	0	root	_	Pinyin=duànliàn|Gloss=to toughen|HanViet=đoán luyện|Trad=鍛鍊
+13	身体	_	NOUN	NN	_	12	obj	_	Pinyin=shēntǐ|Gloss=the body|HanViet=thân thể|Trad=身體
+14	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l3-u23-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 前天他休假了，说要开始锻炼。
+# translation = The day before yesterday he took time off and said he would start exercising.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	前天	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=qiántiān|Gloss=the day before yesterday|HanViet=tiền thiên
+2	他	_	PRON	PRP	Person=3	3	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+3	休假	_	VERB	VV	_	6	advcl	_	Pinyin=xiūjià|Gloss=to go on vacation; to have a holiday; to take leave|HanViet=hưu giá
+4	了	_	PART	UH	_	3	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+7	要	_	AUX	MD	_	8	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+8	开始	_	VERB	VV	_	6	xcomp	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+9	锻炼	_	VERB	VV	_	8	xcomp	_	Pinyin=duànliàn|Gloss=to toughen|HanViet=đoán luyện|Trad=鍛鍊
+10	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u23-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我们家在小区的十二楼，以前他常常坐电梯。
+# translation = We live on the twelfth floor in our housing complex, and he used to take the elevator.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	2	compound	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	家	_	PART	SFN	_	3	nsubj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+3	在	_	VERB	VV	_	0	root	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	小区	_	NOUN	NN	_	7	nmod	_	Pinyin=xiǎoqū|Gloss=housing estate; community; neighborhood|HanViet=tiểu khu|Trad=小區
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	十二	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=shíèr|Gloss=twelve|HanViet=thập nhị
+7	楼	_	NOUN	NN	_	3	obj	_	Pinyin=lóu|Gloss=house with more than 1 story|HanViet=lâu|Trad=樓
+8	，	_	PUNCT	,	_	12	punct	_	_
+9	以前	_	NOUN	NN	_	12	nmod:tmod	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+10	他	_	PRON	PRP	Person=3	12	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+11	常常	_	ADV	RB	_	12	advmod	_	Pinyin=chángcháng|Gloss=frequently; often|HanViet=thường thường
+12	坐	_	VERB	VV	_	3	parataxis	_	Pinyin=zuò|Gloss=to sit|HanViet=toạ
+13	电梯	_	NOUN	NN	_	12	obj	_	Pinyin=diàntī|Gloss=elevator|HanViet=điện thê|Trad=電梯
+14	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u23-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 这一天电梯没有电，他只能自己爬上去。
+# translation = That day the elevator had no power, so he had to climb up on foot.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+3	天	_	NOUN	NNB	_	5	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+4	电梯	_	NOUN	NN	_	5	nsubj	_	Pinyin=diàntī|Gloss=elevator|HanViet=điện thê|Trad=電梯
+5	没有	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+6	电	_	NOUN	NN	_	5	obj	_	Pinyin=diàn|Gloss=lightning|HanViet=điện|Trad=電
+7	，	_	PUNCT	,	_	9	punct	_	_
+8	他	_	PRON	PRP	Person=3	9	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+9	只能	_	VERB	MD	_	5	parataxis	_	Pinyin=zhǐnéng|Gloss=can only|HanViet=chỉ năng
+10	自己	_	PRON	PRD	_	11	nsubj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+11	爬	_	VERB	VV	_	9	ccomp	_	Pinyin=pá|Gloss=to crawl|HanViet=bò
+12	上去	_	VERB	VV	_	11	mark	_	Pinyin=shàngqù|Gloss=to go up|HanViet=thượng khứ,khử
+13	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u23-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 到了六楼，他已经非常累了，说话的声音也小了。
+# translation = By the sixth floor he was already exhausted, and his voice had grown quiet.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	到	_	VERB	VV	_	9	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+2	了	_	AUX	AS	Aspect=Perf	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	六	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+4	楼	_	NOUN	NN	_	1	obj	_	Pinyin=lóu|Gloss=house with more than 1 story|HanViet=lâu|Trad=樓
+5	，	_	PUNCT	,	_	1	punct	_	_
+6	他	_	PRON	PRP	Person=3	9	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+7	已经	_	ADV	RB	_	9	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+8	非常	_	ADV	RB	_	9	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+9	累	_	ADJ	JJ	_	0	root	_	Pinyin=lèi|Gloss=tired|HanViet=luỵ
+10	了	_	PART	UH	_	9	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	，	_	PUNCT	,	_	16	punct	_	_
+12	说话	_	VERB	VV	_	14	acl:relcl	_	Pinyin=shuōhuà|Gloss=to speak|HanViet=thuyết thoại|Trad=說話
+13	的	_	SCONJ	DEC	_	12	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	声音	_	NOUN	NN	_	16	nsubj	_	Pinyin=shēngyīn|Gloss=sound; voice|HanViet=thanh âm|Trad=聲音
+15	也	_	SCONJ	RB	_	16	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+16	小	_	ADJ	JJ	_	9	parataxis	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+17	了	_	PART	UH	_	16	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+18	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u23-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 回到家以后，他打开冰箱，拿了一块西瓜，又喝了很多冰的水。
+# translation = When he got home, he opened the fridge, took a piece of watermelon, and drank a lot of ice-cold water.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	回到	_	VERB	VV	_	9	advcl	_	Pinyin=huídào|Gloss=to return to|HanViet=hồi đáo
+2	家	_	NOUN	NN	_	1	obj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+3	以后	_	ADP	IN	_	1	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	他	_	PRON	PRP	Person=3	9	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+6	打开	_	VERB	VV	_	9	advcl	_	Pinyin=dǎkāi|Gloss=to open|HanViet=đả khai|Trad=打開
+7	冰箱	_	NOUN	NN	_	6	obj	_	Pinyin=bīngxiāng|Gloss=refrigerator|HanViet=băng rương
+8	，	_	PUNCT	,	_	6	punct	_	_
+9	拿	_	VERB	VV	_	0	root	_	Pinyin=ná|Gloss=to hold|HanViet=nã
+10	了	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	一	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+12	块	_	NOUN	NN	_	11	clf	_	Pinyin=kuài|Gloss=lump; chunk; piece|HanViet=khối|Trad=塊
+13	西瓜	_	NOUN	NN	_	9	obj	_	Pinyin=xīguā|Gloss=watermelon|HanViet=tây qua
+14	，	_	PUNCT	,	_	16	punct	_	_
+15	又	_	CCONJ	CC	_	16	cc	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+16	喝	_	VERB	VV	_	9	conj	_	Pinyin=hē|Gloss=to drink|HanViet=húp
+17	了	_	AUX	AS	Aspect=Perf	16	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+18	很多	_	NUM	CD	NumType=Card	19	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+19	冰	_	NOUN	NN	_	21	nmod	_	Pinyin=bīng|Gloss=ice|HanViet=băng
+20	的	_	SCONJ	DEC	_	19	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+21	水	_	NOUN	NN	_	16	obj	_	Pinyin=shuǐ|Gloss=Shui ethnic group|HanViet=thuỷ
+22	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u23-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他说以后不要坐电梯了，自己爬上去也可以锻炼身体。
+# translation = He said he wouldn't take the elevator anymore, since climbing up on foot is exercise too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	以后	_	ADP	IN	_	5	case	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+4	不要	_	AUX	MD	Polarity=Neg	5	aux	_	Pinyin=búyào|Gloss=don't!; must not|HanViet=_ yếu
+5	坐	_	VERB	VV	_	14	ccomp	_	Pinyin=zuò|Gloss=to sit|HanViet=toạ
+6	电梯	_	NOUN	NN	_	5	obj	_	Pinyin=diàntī|Gloss=elevator|HanViet=điện thê|Trad=電梯
+7	了	_	PART	UH	_	5	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	，	_	PUNCT	,	_	5	punct	_	_
+9	自己	_	PRON	PRD	_	14	nsubj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+10	爬	_	VERB	VV	_	14	advcl	_	Pinyin=pá|Gloss=to crawl|HanViet=bò
+11	上去	_	VERB	VV	_	10	mark	_	Pinyin=shàngqù|Gloss=to go up|HanViet=thượng khứ,khử
+12	也	_	SCONJ	RB	_	14	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+13	可以	_	AUX	MD	_	14	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+14	锻炼	_	VERB	VV	_	2	ccomp	_	Pinyin=duànliàn|Gloss=to toughen|HanViet=đoán luyện|Trad=鍛鍊
+15	身体	_	NOUN	NN	_	14	obj	_	Pinyin=shēntǐ|Gloss=the body|HanViet=thân thể|Trad=身體
+16	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u23-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 现在他下班回来都自己爬上去，周末还去附近的校园里跑步。
+# translation = Now he climbs up on foot whenever he gets home from work, and on weekends he also runs on the nearby campus.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	17	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	他	_	PRON	PRP	Person=3	17	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+3	下班	_	VERB	VV	_	7	advcl	_	Pinyin=xiàbān|Gloss=to finish work; to get off work|HanViet=hạ ban
+4	回来	_	VERB	VV	_	3	mark	_	Pinyin=huílái|Gloss=to return; to come back|HanViet=hồi lai|Trad=回來
+5	都	_	SCONJ	RB	_	7	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+6	自己	_	PRON	PRD	_	7	nsubj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+7	爬	_	VERB	VV	_	17	advcl	_	Pinyin=pá|Gloss=to crawl|HanViet=bò
+8	上去	_	VERB	VV	_	7	mark	_	Pinyin=shàngqù|Gloss=to go up|HanViet=thượng khứ,khử
+9	，	_	PUNCT	,	_	7	punct	_	_
+10	周末	_	NOUN	NN	_	17	nmod:tmod	_	Pinyin=zhōumò|Gloss=weekend|HanViet=chu mạt|Trad=週末
+11	还	_	SCONJ	RB	_	17	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+12	去	_	VERB	VV	_	17	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+13	附近	_	NOUN	NN	_	15	nmod	_	Pinyin=fùjìn|Gloss=nearby; neighboring|HanViet=phụ cận
+14	的	_	PART	DEC	Case=Gen	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	校园	_	NOUN	NN	_	12	obj	_	Pinyin=xiàoyuán|Gloss=campus|HanViet=hiệu viên|Trad=校園
+16	里	_	NOUN	NN	_	15	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+17	跑步	_	VERB	VV	_	0	root	_	Pinyin=pǎobù|Gloss=to run|HanViet=bào bộ
+18	。	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = korwus-graded-l3-u23-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 一个月以后，他少了三公斤。
+# translation = A month later, he had lost three kilograms.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	月	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+4	以后	_	ADP	IN	_	3	case	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	他	_	PRON	PRP	Person=3	7	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+7	少	_	ADJ	JJ	_	0	root	_	Pinyin=shǎo|Gloss=few|HanViet=thiểu
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	三	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=sān|Gloss=three|HanViet=tam
+10	公斤	_	NOUN	NNB	_	7	obj	_	Pinyin=gōngjīn|Gloss=kilogram (kg)|HanViet=công cân
+11	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u23-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他说，身体比什么都重要。
+# translation = He says health matters more than anything.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	8	punct	_	_
+4	身体	_	NOUN	NN	_	8	nsubj	_	Pinyin=shēntǐ|Gloss=the body|HanViet=thân thể|Trad=身體
+5	比	_	ADP	IN	_	6	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+6	什么	_	PRON	WP	_	8	nmod	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+7	都	_	SCONJ	RB	_	8	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+8	重要	_	ADJ	JJ	_	2	ccomp	_	Pinyin=zhòngyào|Gloss=important; significant; major|HanViet=trọng yếu
+9	。	_	PUNCT	.	_	2	punct	_	_

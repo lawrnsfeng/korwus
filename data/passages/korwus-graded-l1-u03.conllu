@@ -1,0 +1,111 @@
+# sent_id = korwus-graded-l1-u03-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 我有两个中国朋友，他们都很会做吃的。
+# translation = I have two Chinese friends, and they're both great cooks.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+3	两	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+4	个	_	NOUN	NNB	_	3	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	中国	_	PROPN	NNP	_	6	nmod	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+6	朋友	_	NOUN	NN	_	2	obj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+7	，	_	PUNCT	,	_	12	punct	_	_
+8	他们	_	PRON	PRP	Number=Plur|Person=3	12	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+9	都	_	SCONJ	RB	_	12	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+10	很	_	ADV	RB	_	12	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+11	会	_	AUX	MD	_	12	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+12	做	_	VERB	VV	_	2	parataxis	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+13	吃	_	VERB	VV	_	12	xcomp	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+14	的	_	PART	UH	_	12	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l1-u03-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 今天他们来我家，给我做了很多吃的。
+# translation = Today they came to my place and made me lots of food.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	今天	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+2	他们	_	PRON	PRP	Number=Plur|Person=3	7	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+3	来	_	VERB	VV	_	7	advcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+4	我	_	PRON	PRP	Person=1	5	compound	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	家	_	PART	SFN	_	3	obj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+6	，	_	PUNCT	,	_	3	punct	_	_
+7	给	_	VERB	VV	_	0	root	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+8	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	做	_	VERB	VV	_	7	ccomp	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+10	了	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	很多	_	NUM	CD	NumType=Card	12	nsubj	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+12	吃	_	VERB	VV	_	9	xcomp	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+13	的	_	PART	UH	_	9	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l1-u03-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 他们做的，我都喜欢。
+# translation = I liked everything they made.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他们	_	PRON	PRP	Number=Plur|Person=3	2	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+2	做	_	VERB	VV	_	7	advcl	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+3	的	_	PART	UH	_	2	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	，	_	PUNCT	,	_	7	punct	_	_
+5	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	都	_	SCONJ	RB	_	7	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+7	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+8	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l1-u03-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我做的，没有他们的好。
+# translation = My cooking isn't as good as theirs.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	做	_	VERB	VV	_	5	advcl	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+3	的	_	PART	UH	_	2	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	，	_	PUNCT	,	_	5	punct	_	_
+5	没有	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+6	他们	_	PRON	PRP	Number=Plur|Person=3	8	det	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+7	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	好	_	ADJ	JJ	_	5	xcomp	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+9	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l1-u03-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 他们说，我可以看他们怎么做。
+# translation = They said I can watch how they make it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他们	_	PRON	PRP	Number=Plur|Person=3	2	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	6	punct	_	_
+4	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	可以	_	AUX	MD	_	6	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+6	看	_	VERB	VV	_	2	ccomp	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+7	他们	_	PRON	PRP	Number=Plur|Person=3	9	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+8	怎么	_	ADV	RB	_	9	advmod	_	Pinyin=zěnme|Gloss=how?|HanViet=chẩm ma|Trad=怎麼
+9	做	_	VERB	VV	_	6	ccomp	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+10	。	_	PUNCT	.	_	2	punct	_	_

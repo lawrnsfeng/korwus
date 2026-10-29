@@ -1,0 +1,233 @@
+# sent_id = korwus-graded-l3-u22-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 秋天有一个中国人特别喜爱的节日。
+# translation = In autumn there is a holiday that Chinese people especially love.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	秋天	_	NOUN	NN	_	2	nmod:tmod	_	Pinyin=qiūtiān|Gloss=autumn|HanViet=thu thiên
+2	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+3	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+4	个	_	NOUN	NNB	_	3	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	中国	_	PROPN	NNP	_	6	compound	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+6	人	_	PART	SFN	_	8	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+7	特别	_	ADV	RB	_	8	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+8	喜爱	_	VERB	VV	_	10	acl:relcl	_	Pinyin=xǐài|Gloss=to like|HanViet=hỷ ái|Trad=喜愛
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	节日	_	NOUN	NN	_	2	obj	_	Pinyin=jiérì|Gloss=holiday|HanViet=tiết nhật|Trad=節日
+11	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u22-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 这天晚上的月亮特别大，也特别好看。
+# translation = On this night the moon is especially big and especially beautiful.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	天	_	NOUN	NNB	_	1	clf	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+3	晚上	_	NOUN	NN	_	5	nmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	月亮	_	NOUN	NN	_	7	nsubj	_	Pinyin=yuèliàng|Gloss=the moon|HanViet=nguyệt lượng
+6	特别	_	ADV	RB	_	7	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+7	大	_	ADJ	JJ	_	11	advcl	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	也	_	SCONJ	RB	_	11	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+10	特别	_	ADV	RB	_	11	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+11	好看	_	ADJ	JJ	_	0	root	_	Pinyin=hǎokàn|Gloss=good-looking; nice-looking|HanViet=hảo khán
+12	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l3-u22-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我在北方的一个城市留学，今年没有回去，心里有些难过。
+# translation = I'm studying abroad in a city in the north and didn't go back this year, so I felt a little sad.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	在	_	VERB	VV	_	8	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	北方	_	NOUN	NN	_	7	nmod	_	Pinyin=běifāng|Gloss=north|HanViet=bắc phương
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	一	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+6	个	_	NOUN	NNB	_	5	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	城市	_	NOUN	NN	_	2	obj	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+8	留学	_	VERB	VV	_	0	root	_	Pinyin=liúxué|Gloss=to study abroad|HanViet=lưu học|Trad=留學
+9	，	_	PUNCT	,	_	8	punct	_	_
+10	今年	_	NOUN	NN	_	11	nmod:tmod	_	Pinyin=jīnnián|Gloss=this year|HanViet=kim niên
+11	没有	_	VERB	VV	Polarity=Neg	8	parataxis	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+12	回去	_	VERB	VV	_	11	xcomp	_	Pinyin=huíqù|Gloss=to return|HanViet=hồi khứ,khử
+13	，	_	PUNCT	,	_	15	punct	_	_
+14	心里	_	NOUN	NN	_	15	nsubj	_	Pinyin=xīnlǐ|Gloss=chest|HanViet=tâm lý|Trad=心裡
+15	有些	_	VERB	VV	_	11	parataxis	_	Pinyin=yǒuxiē|Gloss=some|HanViet=hữu ta
+16	难过	_	ADJ	JJ	_	15	xcomp	_	Pinyin=nánguò|Gloss=to feel sad|HanViet=nan quá,qua|Trad=難過
+17	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l3-u22-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我给妈妈打电话，她说奶奶也在等我的电话。
+# translation = I called my mom, and she said Grandma was waiting for my call too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	给	_	VERB	VV	_	4	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+3	妈妈	_	NOUN	NN	_	2	obj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+4	打	_	VERB	VV	_	0	root	_	Pinyin=dǎ|Gloss=to hit; to strike|HanViet=đả
+5	电话	_	NOUN	NN	_	4	obj	_	Pinyin=diànhuà|Gloss=telephone|HanViet=điện thoại|Trad=電話
+6	，	_	PUNCT	,	_	8	punct	_	_
+7	她	_	PRON	PRP	Person=3	8	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+8	说	_	VERB	VV	_	4	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+9	奶奶	_	NOUN	NN	_	11	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+10	也	_	SCONJ	RB	_	11	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+11	在	_	VERB	VV	_	8	ccomp	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+12	等	_	VERB	VV	_	11	xcomp	_	Pinyin=děng|Gloss=to wait for; to await|HanViet=đẳng
+13	我	_	PRON	PRP	Person=1	15	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+14	的	_	PART	DEC	Case=Gen	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	电话	_	NOUN	NN	_	12	obj	_	Pinyin=diànhuà|Gloss=telephone|HanViet=điện thoại|Trad=電話
+16	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u22-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我留学的国家在西方，我的家在东方，可是我们看见的月亮是一样的。
+# translation = The country where I study is in the West and my home is in the East, but we see the same moon.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	留学	_	VERB	VV	_	4	acl:relcl	_	Pinyin=liúxué|Gloss=to study abroad|HanViet=lưu học|Trad=留學
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	国家	_	NOUN	NN	_	5	nsubj	_	Pinyin=guójiā|Gloss=country; nation; state|HanViet=quốc gia|Trad=國家
+5	在	_	VERB	VV	_	0	root	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+6	西方	_	PROPN	NNP	_	5	obj	_	Pinyin=xīfāng|Gloss=the West|HanViet=tây phương
+7	，	_	PUNCT	,	_	11	punct	_	_
+8	我	_	PRON	PRP	Person=1	10	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	家	_	NOUN	NN	_	11	nsubj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+11	在	_	VERB	VV	_	5	parataxis	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+12	东方	_	NOUN	NN	_	11	obj	_	Pinyin=dōngfāng|Gloss=the East; the Orient|HanViet=đông phương|Trad=東方
+13	，	_	PUNCT	,	_	20	punct	_	_
+14	可是	_	SCONJ	RB	_	20	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+15	我们	_	PRON	PRP	Number=Plur|Person=1	16	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+16	看见	_	VERB	VV	_	18	acl:relcl	_	Pinyin=kànjiàn|Gloss=to see; to catch sight of|HanViet=khán kiến|Trad=看見
+17	的	_	SCONJ	DEC	_	16	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	月亮	_	NOUN	NN	_	20	nsubj	_	Pinyin=yuèliàng|Gloss=the moon|HanViet=nguyệt lượng
+19	是	_	AUX	VC	_	20	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+20	一样	_	ADJ	JJ	_	5	parataxis	_	Pinyin=yīyàng|Gloss=same|HanViet=nhất dạng|Trad=一樣
+21	的	_	PART	UH	_	20	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+22	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u22-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 朋友们请我去他们家吃晚饭，桌子上有很多好吃的东西。
+# translation = My friends invited me to their home for dinner, and the table was full of delicious food.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	朋友	_	NOUN	NN	_	2	compound	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+2	们	_	PART	SFN	Number=Plur	3	nsubj	_	Pinyin=men|Gloss=plural marker for pronouns, and nouns referring to individuals|HanViet=môn|Trad=們
+3	请	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=qǐng|Gloss=to ask|HanViet=thỉnh|Trad=請
+4	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	去	_	VERB	VV	_	8	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+6	他们	_	PRON	PRP	Number=Plur|Person=3	7	compound	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+7	家	_	PART	SFN	_	5	obj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+8	吃	_	VERB	VV	_	3	ccomp	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+9	晚饭	_	NOUN	NN	_	8	obj	_	Pinyin=wǎnfàn|Gloss=evening meal|HanViet=vãn phạn|Trad=晚飯
+10	，	_	PUNCT	,	_	13	punct	_	_
+11	桌子	_	NOUN	NN	_	13	nsubj	_	Pinyin=zhuōzi|Gloss=table|HanViet=trác tử
+12	上	_	NOUN	NN	_	11	acl	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+13	有	_	VERB	VV	_	3	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+14	很多	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+15	好吃	_	ADJ	JJ	_	17	amod	_	Pinyin=hǎochī|Gloss=tasty; delicious|HanViet=hảo cật
+16	的	_	SCONJ	DEC	_	15	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	东西	_	NOUN	NN	_	13	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+18	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u22-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我在大家面前唱了几句中国歌，大家都说很好听。
+# translation = I sang a few lines of a Chinese song in front of everyone, and they all said it sounded lovely.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	在	_	ADP	IN	_	4	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	大家	_	NOUN	NN	_	4	nmod	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+4	面前	_	NOUN	NN	_	5	obl	_	Pinyin=miànqián|Gloss=in front of|HanViet=diện tiền
+5	唱	_	VERB	VV	_	0	root	_	Pinyin=chàng|Gloss=to sing|HanViet=xướng
+6	了	_	AUX	AS	Aspect=Perf	5	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	几	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+8	句	_	NOUN	NNB	_	10	nmod	_	Pinyin=jù|Gloss=sentence|HanViet=câu,cú
+9	中国	_	PROPN	NNP	_	10	compound	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+10	歌	_	PART	SFN	_	5	obj	_	Pinyin=gē|Gloss=song (CL:首[shou3],支[zhi1])|HanViet=ca
+11	，	_	PUNCT	,	_	14	punct	_	_
+12	大家	_	NOUN	NN	_	14	nsubj	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+13	都	_	SCONJ	RB	_	14	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+14	说	_	VERB	VV	_	5	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+15	很	_	ADV	RB	_	16	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+16	好听	_	ADJ	JJ	_	14	xcomp	_	Pinyin=hǎotīng|Gloss=pleasant to hear|HanViet=hảo thính|Trad=好聽
+17	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u22-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 平时一个人的时候，我只是在房间里看电视，可是今天有朋友们在身边，这个节日我过得很快乐。
+# translation = Usually when I'm on my own I just watch TV in my room, but today I had friends around me, and I had a really happy holiday.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	平时	_	NOUN	NN	_	6	nmod	_	Pinyin=píngshí|Gloss=ordinarily|HanViet=bình thời|Trad=平時
+2	一	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+3	个	_	NOUN	NNB	_	2	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+4	人	_	NOUN	NN	_	6	nmod	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	时候	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	只是	_	VERB	VC	_	0	root	_	Pinyin=zhǐshì|Gloss=merely; only; just; nothing but|HanViet=chỉ thị
+10	在	_	VERB	VV	_	13	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+11	房间	_	NOUN	NN	_	10	obj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+12	里	_	NOUN	NN	_	11	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+13	看	_	VERB	VV	_	9	xcomp	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+14	电视	_	NOUN	NN	_	13	obj	_	Pinyin=diànshì|Gloss=television; TV|HanViet=điện thị|Trad=電視
+15	，	_	PUNCT	,	_	9	punct	_	_
+16	可是	_	SCONJ	RB	_	18	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+17	今天	_	NOUN	NN	_	18	nmod:tmod	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+18	有	_	VERB	VV	_	9	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+19	朋友	_	NOUN	NN	_	20	compound	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+20	们	_	PART	SFN	Number=Plur	21	nsubj	_	Pinyin=men|Gloss=plural marker for pronouns, and nouns referring to individuals|HanViet=môn|Trad=們
+21	在	_	VERB	VV	_	18	ccomp	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+22	身边	_	NOUN	NN	_	21	obj	_	Pinyin=shēnbiān|Gloss=at one's side|HanViet=thân biên|Trad=身邊
+23	，	_	PUNCT	,	_	18	punct	_	_
+24	这	_	DET	DT	_	26	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+25	个	_	NOUN	NNB	_	24	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+26	节日	_	NOUN	NN	_	28	nsubj	_	Pinyin=jiérì|Gloss=holiday|HanViet=tiết nhật|Trad=節日
+27	我	_	PRON	PRP	Person=1	28	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+28	过	_	VERB	VV	_	18	parataxis	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+29	得	_	PART	DEV	_	28	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+30	很	_	ADV	RB	_	31	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+31	快乐	_	ADJ	JJ	_	28	xcomp	_	Pinyin=kuàilè|Gloss=happy; joyful|HanViet=khoái lạc|Trad=快樂
+32	。	_	PUNCT	.	_	9	punct	_	_

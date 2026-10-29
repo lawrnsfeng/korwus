@@ -1,0 +1,116 @@
+# sent_id = korwus-graded-l1-u06-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 昨天我去了新学校。
+# translation = Yesterday I went to my new school.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	昨天	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=zuótiān|Gloss=yesterday|HanViet=tạc thiên
+2	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+4	了	_	AUX	AS	Aspect=Perf	3	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	新	_	PART	PFA	_	6	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+6	学校	_	NOUN	NN	_	3	obj	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+7	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u06-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 这个学校非常小，人也不多。
+# translation = The school is very small, and there aren't many people.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	学校	_	NOUN	NN	_	5	nsubj	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+4	非常	_	ADV	RB	_	5	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+5	小	_	ADJ	JJ	_	0	root	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+6	，	_	PUNCT	,	_	9	punct	_	_
+7	人	_	NOUN	NN	_	9	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+8	也	_	SCONJ	RB	_	9	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+9	不多	_	ADJ	JJ	_	5	parataxis	_	Pinyin=bùduō|Gloss=不 no; not so + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=bất đa
+10	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l1-u06-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 在学校里，我买了一些书，这些书我都很喜欢。
+# translation = At school I bought some books, and I like all of them.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	VERB	VV	_	6	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	学校	_	NOUN	NN	_	1	obj	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+3	里	_	ADP	IN	_	2	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	买	_	VERB	VV	_	0	root	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	一些	_	ADJ	JJ	_	9	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+9	书	_	NOUN	NN	_	6	obj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+10	，	_	PUNCT	,	_	16	punct	_	_
+11	这些	_	DET	DT	_	12	det	_	Pinyin=zhèxiē|Gloss=these|HanViet=giá ta|Trad=這些
+12	书	_	NOUN	NN	_	16	nsubj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+13	我	_	PRON	PRP	Person=1	16	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+14	都	_	SCONJ	RB	_	16	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+15	很	_	ADV	RB	_	16	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+16	喜欢	_	VERB	VV	_	6	parataxis	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+17	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l1-u06-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 明天我还要去学校学习。
+# translation = Tomorrow I'm going to school again to study.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	明天	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=míngtiān|Gloss=tomorrow|HanViet=minh thiên
+2	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	还	_	SCONJ	RB	_	7	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+4	要	_	AUX	MD	_	7	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+5	去	_	VERB	VV	_	7	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+6	学校	_	NOUN	NN	_	5	obj	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+7	学习	_	VERB	VV	_	0	root	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+8	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l1-u06-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 你呢？
+# translation = What about you?
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	你	_	PRON	PRP	Person=2	0	root	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+2	呢	_	PART	UH	PartType=Int	1	discourse	_	Pinyin=ne|Gloss=(sentence-final particle) used in questions to link back to prior discourse or context ("what about...?", "and...?")|HanViet=ni
+3	？	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l1-u06-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 你在哪里学习？
+# translation = Where do you study?
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	你	_	PRON	PRP	Person=2	4	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+2	在	_	VERB	VV	_	4	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	哪里	_	PRON	WP	_	2	obj	_	Pinyin=nǎlǐ|Gloss=where?|HanViet=nả,na lý|Trad=哪裡
+4	学习	_	VERB	VV	_	0	root	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+5	？	_	PUNCT	.	_	4	punct	_	_

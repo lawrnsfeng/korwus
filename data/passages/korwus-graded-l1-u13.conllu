@@ -1,0 +1,149 @@
+# sent_id = korwus-graded-l1-u13-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 今天星期六，我不上班。
+# translation = Today is Saturday, so I don't have work.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	今天	_	NOUN	NN	_	2	nmod	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+2	星期	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+3	六	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	不	_	ADV	RB	Polarity=Neg	7	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+7	上班	_	VERB	VV	_	0	root	_	Pinyin=shàngbān|Gloss=to go to work|HanViet=thượng ban
+8	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l1-u13-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 下午下雨了，天气冷了。
+# translation = It rained in the afternoon, and the weather turned cold.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	下午	_	NOUN	NN	_	2	nmod:tmod	_	Pinyin=xiàwǔ|Gloss=afternoon|HanViet=hạ ngọ
+2	下雨	_	VERB	VV	_	6	advcl	_	Pinyin=xiàyǔ|Gloss=to rain|HanViet=hạ vũ
+3	了	_	PART	UH	_	2	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	天气	_	NOUN	NN	_	6	nsubj	_	Pinyin=tiānqì|Gloss=weather|HanViet=thiên khí|Trad=天氣
+6	冷	_	ADJ	JJ	_	0	root	_	Pinyin=lěng|Gloss=cold|HanViet=lạnh
+7	了	_	PART	UH	_	6	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l1-u13-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 晚上我和家人去一个店吃晚饭。
+# translation = In the evening my family and I went to a little restaurant for dinner.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	和	_	ADP	IN	_	4	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+4	家人	_	NOUN	NN	_	9	obl	_	Pinyin=jiārén|Gloss=family member|HanViet=gia nhân
+5	去	_	VERB	VV	_	9	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+6	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+7	个	_	NOUN	NNB	_	6	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	店	_	NOUN	NN	_	5	obj	_	Pinyin=diàn|Gloss=inn; old-style hotel (CL:家[jia1])|HanViet=điếm
+9	吃	_	VERB	VV	_	0	root	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+10	晚饭	_	NOUN	NN	_	9	obj	_	Pinyin=wǎnfàn|Gloss=evening meal|HanViet=vãn phạn|Trad=晚飯
+11	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l1-u13-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 这个店的菜很便宜，茶是热的。
+# translation = The food there was cheap, and the tea was hot.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	店	_	NOUN	NN	_	5	nmod	_	Pinyin=diàn|Gloss=inn; old-style hotel (CL:家[jia1])|HanViet=điếm
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	菜	_	NOUN	NN	_	7	nsubj	_	Pinyin=cài|Gloss=vegetable; greens (CL:棵[ke1])|HanViet=thái
+6	很	_	ADV	RB	_	7	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+7	便宜	_	ADJ	JJ	_	0	root	_	Pinyin=piányi|Gloss=cheap; inexpensive|HanViet=tiện nghi
+8	，	_	PUNCT	,	_	11	punct	_	_
+9	茶	_	NOUN	NN	_	11	nsubj	_	Pinyin=chá|Gloss=tea|HanViet=trà
+10	是	_	AUX	VC	_	11	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+11	热	_	ADJ	JJ	_	7	parataxis	_	Pinyin=rè|Gloss=to warm up|HanViet=nhiệt|Trad=熱
+12	的	_	PART	UH	_	11	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l1-u13-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我们喝了茶，都觉得不冷了。
+# translation = After drinking the tea, we all felt warm again.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	7	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	喝	_	VERB	VV	_	7	advcl	_	Pinyin=hē|Gloss=to drink|HanViet=húp
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	茶	_	NOUN	NN	_	2	obj	_	Pinyin=chá|Gloss=tea|HanViet=trà
+5	，	_	PUNCT	,	_	2	punct	_	_
+6	都	_	SCONJ	RB	_	7	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+7	觉得	_	VERB	VV	_	0	root	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+8	不冷	_	ADJ	JJ	_	7	xcomp	_	Pinyin=bùlěng|Gloss=不 no; not so + 冷 cold|GlossFrom=parts|HanViet=bất lạnh
+9	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l1-u13-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我们在那儿坐了两个小时。
+# translation = We sat there for two hours.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	4	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	在	_	VERB	VV	_	4	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	那儿	_	PRON	PRD	_	2	obj	_	Pinyin=nàr|Gloss=there|HanViet=na nhi|Trad=那兒
+4	坐	_	VERB	VV	_	0	root	_	Pinyin=zuò|Gloss=to sit|HanViet=toạ
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	两	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+7	个	_	NOUN	NNB	_	6	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	小时	_	NOUN	NN	_	4	obj	_	Pinyin=xiǎoshí|Gloss=hour|HanViet=tiểu thời|Trad=小時
+9	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l1-u13-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 九点我们回了家，我在房间里读书。
+# translation = We got home at nine, and I read in my room.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	九	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=jiǔ|Gloss=nine|HanViet=cửu
+2	点	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+3	我们	_	PRON	PRP	Number=Plur|Person=1	4	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+4	回	_	VERB	VV	_	0	root	_	Pinyin=huí|Gloss=Hui ethnic group (Chinese Muslims)|HanViet=hồi
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	家	_	NOUN	NN	_	4	obj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+7	，	_	PUNCT	,	_	12	punct	_	_
+8	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	在	_	VERB	VV	_	12	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+10	房间	_	NOUN	NN	_	9	obj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+11	里	_	ADP	IN	_	10	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+12	读书	_	VERB	VV	_	4	parataxis	_	Pinyin=dúshū|Gloss=to read a book|HanViet=đọc,độc thư|Trad=讀書
+13	。	_	PUNCT	.	_	4	punct	_	_

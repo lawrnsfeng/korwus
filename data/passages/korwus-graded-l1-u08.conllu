@@ -1,0 +1,124 @@
+# sent_id = korwus-graded-l1-u08-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 星期日早上，我在房间里看了两个小时电视。
+# translation = On Sunday morning, I watched two hours of TV in my room.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	星期	_	NOUN	NN	_	3	nmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+2	日	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=rì|Gloss=(bound form) sun|HanViet=nhật
+3	早上	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	在	_	VERB	VV	_	9	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+7	房间	_	NOUN	NN	_	6	obj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+8	里	_	ADP	IN	_	7	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+9	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+10	了	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	两	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+12	个	_	NOUN	NNB	_	11	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+13	小时	_	NOUN	NN	_	14	nmod	_	Pinyin=xiǎoshí|Gloss=hour|HanViet=tiểu thời|Trad=小時
+14	电视	_	NOUN	NN	_	9	obj	_	Pinyin=diànshì|Gloss=television; TV|HanViet=điện thị|Trad=電視
+15	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l1-u08-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 妈妈不喜欢我看电视，她不太高兴。
+# translation = Mom doesn't like me watching TV, and she wasn't very happy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	妈妈	_	NOUN	NN	_	3	nsubj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+2	不	_	ADV	RB	Polarity=Neg	3	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+3	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+4	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	看	_	VERB	VV	_	3	ccomp	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+6	电视	_	NOUN	NN	_	5	obj	_	Pinyin=diànshì|Gloss=television; TV|HanViet=điện thị|Trad=電視
+7	，	_	PUNCT	,	_	11	punct	_	_
+8	她	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+9	不	_	ADV	RB	Polarity=Neg	11	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+10	太	_	ADV	RB	_	11	advmod	_	Pinyin=tài|Gloss=highest|HanViet=thái
+11	高兴	_	ADJ	JJ	_	3	parataxis	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+12	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u08-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 爸爸和我还看了一个中国电影，我太喜欢那个电影了！
+# translation = Dad and I also watched a Chinese movie, and I loved that movie!
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	爸爸	_	NOUN	NN	_	5	nsubj	_	Pinyin=bàbà|Gloss=(coll.) father; dad|HanViet=ba ba
+2	和	_	CCONJ	CC	_	3	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+3	我	_	PRON	PRP	Person=1	1	conj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	还	_	SCONJ	RB	_	5	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+5	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+6	了	_	AUX	AS	Aspect=Perf	5	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+8	个	_	NOUN	NNB	_	7	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+9	中国	_	PROPN	NNP	_	10	nmod	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+10	电影	_	NOUN	NN	_	5	obj	_	Pinyin=diànyǐng|Gloss=movie; film|HanViet=điện ảnh|Trad=電影
+11	，	_	PUNCT	,	_	14	punct	_	_
+12	我	_	PRON	PRP	Person=1	14	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+13	太	_	ADV	RB	_	14	advmod	_	Pinyin=tài|Gloss=highest|HanViet=thái
+14	喜欢	_	VERB	VV	_	5	parataxis	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+15	那	_	DET	DT	_	17	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+16	个	_	NOUN	NNB	_	15	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+17	电影	_	NOUN	NN	_	14	obj	_	Pinyin=diànyǐng|Gloss=movie; film|HanViet=điện ảnh|Trad=電影
+18	了	_	PART	UH	_	14	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+19	！	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l1-u08-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我们看电影的时候，我的猫在爸爸那里睡觉。
+# translation = While we were watching the movie, my cat was sleeping next to Dad.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	13	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	看	_	VERB	VV	_	13	advcl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+3	电影	_	NOUN	NN	_	5	nmod	_	Pinyin=diànyǐng|Gloss=movie; film|HanViet=điện ảnh|Trad=電影
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	时候	_	NOUN	NN	_	2	obj	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+6	，	_	PUNCT	,	_	2	punct	_	_
+7	我	_	PRON	PRP	Person=1	9	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	猫	_	NOUN	NN	_	13	nsubj	_	Pinyin=māo|Gloss=cat (CL:隻/只[zhi1])|HanViet=miêu|Trad=貓
+10	在	_	VERB	VV	_	13	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+11	爸爸	_	NOUN	NN	_	10	obj	_	Pinyin=bàbà|Gloss=(coll.) father; dad|HanViet=ba ba
+12	那里	_	PRON	PRD	_	11	appos	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+13	睡觉	_	VERB	VV	_	0	root	_	Pinyin=shuìjiào|Gloss=to go to bed|HanViet=thuỵ giáo|Trad=睡覺
+14	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l1-u08-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 妈妈说，明天不要看电视了。
+# translation = Mom said no TV tomorrow.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	妈妈	_	NOUN	NN	_	2	nsubj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	6	punct	_	_
+4	明天	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=míngtiān|Gloss=tomorrow|HanViet=minh thiên
+5	不要	_	AUX	MD	Polarity=Neg	6	aux	_	Pinyin=búyào|Gloss=don't!; must not|HanViet=_ yếu
+6	看	_	VERB	VV	_	2	ccomp	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+7	电视	_	NOUN	NN	_	6	obj	_	Pinyin=diànshì|Gloss=television; TV|HanViet=điện thị|Trad=電視
+8	了	_	PART	UH	_	6	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	。	_	PUNCT	.	_	2	punct	_	_

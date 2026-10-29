@@ -1,0 +1,84 @@
+# sent_id = ud-pud-n02046037
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 3
+# text = 现在还不清楚在哪个里面。
+# translation = It is now only unclear, in which one.
+# source = UD Chinese-PUD n02046037
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-4:5-5;gf0025-8:6-6;gf0025-13:1-1;gf0025-14:2-2;gf0025-63:1-1;gf0025-142:1-1;gf0025-223:1-1
+1	现在	_	NOUN	NN	_	4	obl:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	还	_	ADV	RB	_	4	advmod	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+3	不	_	ADV	RB	Polarity=Neg	4	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+4	清楚	_	VERB	VV	_	0	root	_	Pinyin=qīngchǔ|Gloss=clear|HanViet=thanh sở
+5	在	_	VERB	VV	_	4	xcomp	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+6	哪	_	PRON	WP	_	7	det	_	Pinyin=nǎ|Gloss=how|HanViet=nả,na
+7	个	_	NOUN	NNB	_	8	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	里面	_	NOUN	NN	_	5	obj	_	Pinyin=lǐmiàn|Gloss=inside|HanViet=lý diện|Trad=裡面
+9	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = ud-pud-n01097041
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 3
+# text = 我发现了几个。
+# translation = I spotted a few.
+# source = UD Chinese-PUD n01097041
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:0-0;gf0025-8:4-4;gf0025-21:2-2;gf0025-23:3-4;gf0025-41:2-2
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	发现	_	VERB	VV	_	0	root	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	几	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+5	个	_	NOUN	NNB	_	2	obj	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = ud-pud-n01018024
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 3
+# text = 它有时候看起来像超能力。
+# translation = It's like a super power sometimes.
+# source = UD Chinese-PUD n01018024
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-37:1-1;gf0025-54:0-0;gf0025-165:3-4;gf0025-177:3-4
+1	它	_	PRON	PRP	Person=3	4	nsubj	_	Pinyin=tā|Gloss=it|HanViet=tha
+2	有	_	VERB	VV	_	4	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+3	时候	_	NOUN	NN	_	2	obj	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+4	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+5	起来	_	VERB	VV	_	4	mark:prt	_	Pinyin=qǐlái|Gloss=to stand up; to get up|HanViet=khởi lai|Trad=起來
+6	像	_	VERB	VV	_	4	xcomp	_	Pinyin=xiàng|Gloss=to resemble|HanViet=tượng
+7	超能力	_	NOUN	NN	_	6	obj	_	Pinyin=chāonénglì|Gloss=superpower; superhuman power|HanViet=siêu năng lực
+8	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = ud-pud-n01127089
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 3
+# text = 我不知道为什么我会选她……
+# translation = I don't know why I chose her ...
+# source = UD Chinese-PUD n01127089
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-2:6-6;gf0025-4:4-4;gf0025-5:0-0;gf0025-5:5-5;gf0025-5:8-8;gf0025-14:1-1;gf0025-53:3-4;gf0025-76:3-3;gf0025-125:3-4;gf0025-153:3-3
+1	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	不	_	ADV	RB	Polarity=Neg	3	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+3	知道	_	VERB	VV	_	0	root	_	Pinyin=zhīdào|Gloss=to know; to become aware of|HanViet=tri đạo
+4	为	_	ADP	IN	_	5	case	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+5	什么	_	PRON	WP	_	8	obl	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+6	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	会	_	AUX	MD	_	8	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+8	选	_	VERB	VV	_	3	ccomp	_	Pinyin=xuǎn|Gloss=to choose|HanViet=tuyển|Trad=選
+9	她	_	PRON	PRP	Person=3	8	obj	_	Pinyin=tā|Gloss=she|HanViet=tha
+10	……	_	PUNCT	...	_	3	punct	_	_

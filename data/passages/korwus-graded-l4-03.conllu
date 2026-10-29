@@ -1,0 +1,338 @@
+# sent_id = korwus-graded-l4-03-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# newpar
+# text = 我住的城市不太大，但是公共交通非常完善。
+# translation = The city I live in isn't very big, but its public transport is very well developed.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我住	_	NOUN	NN	_	3	nmod	_	Pinyin=wǒzhù|Gloss=我 I; me; my + 住 to live; to reside; to stay|GlossFrom=parts|HanViet=ngã trú,trụ
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	城市	_	NOUN	NN	_	5	nsubj	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+4	不	_	ADV	RB	Polarity=Neg	5	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+5	太大	_	ADJ	JJ	_	0	root	_	Pinyin=tàidà|Gloss=太 highest + 大 big; large; great|GlossFrom=parts|HanViet=thái đại
+6	，	_	PUNCT	,	_	11	punct	_	_
+7	但是	_	SCONJ	RB	_	11	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+8	公共	_	ADJ	JJ	_	9	amod	_	Pinyin=gōnggòng|Gloss=public; common; communal|HanViet=công cộng
+9	交通	_	NOUN	NN	_	11	nsubj	_	Pinyin=jiāotōng|Gloss=to be connected|HanViet=giao thông
+10	非常	_	ADV	RB	_	11	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+11	完善	_	ADJ	JJ	_	5	parataxis	_	Pinyin=wánshàn|Gloss=(of systems, facilities etc) comprehensive|HanViet=hoàn thiện
+12	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l4-03-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 这里有地铁、公共汽车，还有很多可以租的自行车。
+# translation = There are subways, buses, and lots of bikes you can rent.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这里	_	PRON	PRD	_	9	nsubj	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+2	有	_	VERB	VV	_	9	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+3	地铁	_	NOUN	NN	_	2	obj	_	Pinyin=dìtiě|Gloss=underground railway; subway|HanViet=địa thiết|Trad=地鐵
+4	、	_	PUNCT	EC	_	6	punct	_	_
+5	公共	_	ADJ	JJ	_	6	nmod	_	Pinyin=gōnggòng|Gloss=public; common; communal|HanViet=công cộng
+6	汽车	_	NOUN	NN	_	3	conj	_	Pinyin=qìchē|Gloss=car|HanViet=khí xa|Trad=汽車
+7	，	_	PUNCT	,	_	2	punct	_	_
+8	还	_	SCONJ	RB	_	9	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+9	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+10	很多	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+11	可以	_	AUX	MD	_	12	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+12	租	_	VERB	VV	_	15	acl:relcl	_	Pinyin=zū|Gloss=to hire|HanViet=tô
+13	的	_	SCONJ	DEC	_	12	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	自行	_	VERB	VV	_	15	compound	_	Pinyin=zìxíng|Gloss=voluntary|HanViet=tự hành,hạnh
+15	车	_	PART	SFN	_	9	obj	_	Pinyin=chē|Gloss=car|HanViet=xa|Trad=車
+16	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l4-03-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 每天早上，我都坐地铁去上班，大概只需要二十分钟。
+# translation = Every morning I take the subway to work, and it only takes about twenty minutes.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	每天	_	DET	DT	_	2	det	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+2	早上	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	都坐	_	VERB	VV	_	8	advcl	_	Pinyin=dōuzuò|Gloss=都 all; both; entirely + 坐 to sit|GlossFrom=parts|HanViet=đô toạ
+6	地铁	_	NOUN	NN	_	5	obj	_	Pinyin=dìtiě|Gloss=underground railway; subway|HanViet=địa thiết|Trad=地鐵
+7	去	_	VERB	VV	_	8	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+8	上班	_	VERB	VV	_	12	csubj	_	Pinyin=shàngbān|Gloss=to go to work|HanViet=thượng ban
+9	，	_	PUNCT	,	_	12	punct	_	_
+10	大概	_	ADV	RB	_	12	advmod	_	Pinyin=dàgài|Gloss=roughly|HanViet=đại khái
+11	只	_	ADV	RB	_	12	advmod	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+12	需要	_	VERB	VV	_	0	root	_	Pinyin=xūyào|Gloss=to need; to want; to demand; to require|HanViet=nhu yếu
+13	二十	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=èrshí|Gloss=twenty; 20|HanViet=nhị thập
+14	分钟	_	NOUN	NNB	_	12	obj	_	Pinyin=fēnzhōng|Gloss=minute|HanViet=phân chung|Trad=分鐘
+15	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l4-03-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 地铁又快又准时，从来不会因为堵车而迟到。
+# translation = The subway is fast and on time, and it is never late because of traffic jams.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	地铁	_	NOUN	NN	_	2	nsubj	_	Pinyin=dìtiě|Gloss=underground railway; subway|HanViet=địa thiết|Trad=地鐵
+2	又快	_	ADJ	JJ	_	4	advcl	_	Pinyin=yòukuài|Gloss=又 (once) again + 快 rapid|GlossFrom=parts|HanViet=hựu khoái
+3	又	_	SCONJ	RB	_	4	mark	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+4	准时	_	ADJ	JJ	_	0	root	_	Pinyin=zhǔnshí|Gloss=on time|HanViet=chuẩn thời|Trad=準時
+5	，	_	PUNCT	,	_	11	punct	_	_
+6	从来	_	ADV	RB	_	11	advmod	_	Pinyin=cónglái|Gloss=always|HanViet=tòng,tùng lai|Trad=從來
+7	不会	_	AUX	MD	Polarity=Neg	11	aux	_	Pinyin=búhuì|Gloss=improbable|HanViet=_ hội|Trad=不會
+8	因为	_	ADP	IN	_	9	case	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+9	堵车	_	VERB	VV	_	11	xcomp	_	Pinyin=dǔchē|Gloss=traffic jam|HanViet=đổ xa|Trad=堵車
+10	而	_	SCONJ	RB	_	11	mark	_	Pinyin=ér|Gloss=and|HanViet=nhi
+11	迟到	_	VERB	VV	_	4	parataxis	_	Pinyin=chídào|Gloss=to arrive late|HanViet=trì đáo|Trad=遲到
+12	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l4-03-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 不过，上下班的时候，地铁里的人特别多，有时候连站的地方都没有。
+# translation = However, during rush hour the subway is extremely crowded, and sometimes there isn't even room to stand.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	不过	_	SCONJ	RB	_	13	mark	_	Pinyin=bùguò|Gloss=only|HanViet=bất quá,qua|Trad=不過
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	上	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+4	下班	_	VERB	VV	_	6	acl:relcl	_	Pinyin=xiàbān|Gloss=to finish work; to get off work|HanViet=hạ ban
+5	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	时候	_	NOUN	NN	_	13	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	地铁	_	NOUN	NN	_	11	nmod	_	Pinyin=dìtiě|Gloss=underground railway; subway|HanViet=địa thiết|Trad=地鐵
+9	里	_	NOUN	NN	_	8	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+10	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	人	_	NOUN	NN	_	13	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+12	特别	_	ADV	RB	_	13	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+13	多	_	ADJ	JJ	_	0	root	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+14	，	_	PUNCT	,	_	21	punct	_	_
+15	有	_	VERB	VV	_	19	acl:relcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+16	时候	_	NOUN	NN	_	17	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+17	连站	_	VERB	VV	_	19	acl:relcl	_	Pinyin=liánzhàn|Gloss=连 to link + 站 station|GlossFrom=parts|HanViet=liên trạm|Trad=連站
+18	的	_	SCONJ	DEC	_	17	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	地方	_	NOUN	NN	_	21	nsubj	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+20	都	_	SCONJ	RB	_	21	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+21	没有	_	VERB	VV	Polarity=Neg	13	parataxis	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+22	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l4-03-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 周末我更喜欢坐公共汽车，因为可以一边坐车，一边看窗外的风景。
+# translation = On weekends I prefer to take the bus, because I can enjoy the scenery outside the window while I ride.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	周末	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=zhōumò|Gloss=weekend|HanViet=chu mạt|Trad=週末
+2	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	更	_	ADV	RB	_	4	advmod	_	Pinyin=gèng|Gloss=more|HanViet=càng,cánh
+4	喜欢坐	_	VERB	VV	_	0	root	_	Pinyin=xǐhuānzuò|Gloss=喜欢 to like; to be fond of + 坐 to sit|GlossFrom=parts|HanViet=hỷ hoan toạ|Trad=喜歡坐
+5	公共	_	ADJ	JJ	_	6	amod	_	Pinyin=gōnggòng|Gloss=public; common; communal|HanViet=công cộng
+6	汽车	_	NOUN	NN	_	4	obj	_	Pinyin=qìchē|Gloss=car|HanViet=khí xa|Trad=汽車
+7	，	_	PUNCT	,	_	14	punct	_	_
+8	因为	_	ADP	IN	_	14	case	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+9	可以	_	AUX	MD	_	11	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+10	一边	_	ADV	RB	_	11	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+11	坐车	_	VERB	VV	_	14	xcomp	_	Pinyin=zuòchē|Gloss=to take the car, bus, train etc|HanViet=toạ xa|Trad=坐車
+12	，	_	PUNCT	,	_	11	punct	_	_
+13	一边	_	ADV	RB	_	14	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+14	看	_	VERB	VV	_	4	parataxis	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+15	窗外	_	NOUN	NN	_	17	nmod	_	Pinyin=chuāngwài|Gloss=窗 window + 外 outside|GlossFrom=parts|HanViet=song ngoại
+16	的	_	PART	DEC	Case=Gen	15	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	风景	_	NOUN	NN	_	14	obj	_	Pinyin=fēngjǐng|Gloss=scenery; landscape|HanViet=phong cảnh|Trad=風景
+18	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l4-03-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 如果距离比较近，我就骑自行车。
+# translation = If the distance is fairly short, I ride a bike.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	如果	_	ADP	IN	_	3	case	_	Pinyin=rúguǒ|Gloss=if; in case; in the event that|HanViet=như quả
+2	距离	_	NOUN	NN	_	3	nsubj	_	Pinyin=jùlí|Gloss=distance; separation (in space or time)|HanViet=cự ly|Trad=距離
+3	比	_	VERB	VV	_	8	ccomp	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+4	较近	_	ADJ	JJ	_	3	xcomp	_	Pinyin=jiàojìn|Gloss=较 (bound form) to compare + 近 near|GlossFrom=parts|HanViet=giảo cận|Trad=較近
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	就	_	SCONJ	RB	_	8	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+8	骑	_	VERB	VV	_	0	root	_	Pinyin=qí|Gloss=to sit astride|HanViet=kỵ|Trad=騎
+9	自行	_	VERB	VV	_	10	compound	_	Pinyin=zìxíng|Gloss=voluntary|HanViet=tự hành,hạnh
+10	车	_	PART	SFN	_	8	obj	_	Pinyin=chē|Gloss=car|HanViet=xa|Trad=車
+11	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l4-03-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 用手机扫一下就能打开，到了目的地以后随便停在路边就可以了，既方便又环保。
+# translation = You unlock it just by scanning it with your phone, and when you reach your destination you can simply leave it by the roadside, which is both convenient and green.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	用手	_	VERB	VV	_	2	compound	_	Pinyin=yòngshǒu|Gloss=用 to use; to make use of; to employ + 手 hand|GlossFrom=parts|HanViet=dụng thủ
+2	机	_	PART	SFN	_	7	nsubj	_	Pinyin=jī|Gloss=(bound form) machine; mechanism|HanViet=cơ|Trad=機
+3	扫	_	VERB	VV	_	7	advcl	_	Pinyin=sǎo|Gloss=to sweep (with a brush or broom)|HanViet=tảo|Trad=掃
+4	一下	_	VERB	VV	_	3	mark	_	Pinyin=yīxià|Gloss=(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)|HanViet=nhất hạ
+5	就	_	SCONJ	RB	_	7	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+6	能	_	AUX	MD	_	7	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+7	打开	_	VERB	VV	_	0	root	_	Pinyin=dǎkāi|Gloss=to open|HanViet=đả khai|Trad=打開
+8	，	_	PUNCT	,	_	19	punct	_	_
+9	到	_	VERB	VV	_	15	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+10	了	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	目的	_	NOUN	NN	_	12	compound	_	Pinyin=mùdì|Gloss=purpose; aim; goal; target; objective|HanViet=mục đích
+12	地	_	PART	SFN	_	9	obj	_	Pinyin=dì|Gloss=earth|HanViet=địa
+13	以后	_	ADP	IN	_	9	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+14	随便	_	ADV	RB	_	15	advmod	_	Pinyin=suíbiàn|Gloss=as one wishes|HanViet=tuỳ tiện|Trad=隨便
+15	停	_	VERB	VV	_	19	csubj	_	Pinyin=tíng|Gloss=to stop|HanViet=đình
+16	在	_	VERB	VV	_	15	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+17	路边	_	NOUN	NN	_	15	obj	_	Pinyin=lùbiān|Gloss=curb; roadside; wayside|HanViet=lộ biên|Trad=路邊
+18	就	_	SCONJ	RB	_	19	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+19	可以	_	AUX	MD	_	7	ccomp	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+20	了	_	PART	UH	_	19	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+21	，	_	PUNCT	,	_	23	punct	_	_
+22	既	_	CCONJ	CC	_	23	cc	_	Pinyin=jì|Gloss=already|HanViet=ký
+23	方便	_	ADJ	JJ	_	19	conj	_	Pinyin=fāngbiàn|Gloss=convenient; suitable|HanViet=phương tiện
+24	又	_	CCONJ	CC	_	25	cc	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+25	环保	_	ADJ	JJ	_	23	conj	_	Pinyin=huánbǎo|Gloss=environmental protection|HanViet=hoàn bảo|Trad=環保
+26	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l4-03-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 很多外地的朋友来这里旅游，都说这里的交通让他们印象很深。
+# translation = Many friends from other places who come here to travel say the transport here made a deep impression on them.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	很多	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+2	外地	_	NOUN	NN	_	4	nmod	_	Pinyin=wàidì|Gloss=parts of the country other than where one is|HanViet=ngoại địa
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	朋友	_	NOUN	NN	_	10	nsubj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+5	来	_	VERB	VV	_	10	advcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+6	这里	_	PRON	PRD	_	5	obj	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+7	旅游	_	VERB	VV	_	5	xcomp	_	Pinyin=lǚyóu|Gloss=trip|HanViet=lữ du|Trad=旅遊
+8	，	_	PUNCT	,	_	10	punct	_	_
+9	都	_	SCONJ	RB	_	10	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+10	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+11	这里	_	PRON	PRD	_	13	det	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+12	的	_	PART	DEC	Case=Gen	11	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	交通	_	NOUN	NN	_	14	nsubj	_	Pinyin=jiāotōng|Gloss=to be connected|HanViet=giao thông
+14	让	_	VERB	VV	Voice=Cau	10	ccomp	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+15	他们	_	PRON	PRP	Number=Plur|Person=3	16	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+16	印象	_	VERB	VV	_	14	ccomp	_	Pinyin=yìnxiàng|Gloss=impression (sth that stays in one's mind)|HanViet=ấn tượng
+17	很深	_	ADJ	JJ	_	16	xcomp	_	Pinyin=hěnshēn|Gloss=很 very; quite + 深 (lit. and fig.) deep|GlossFrom=parts|HanViet=ngận thâm
+18	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l4-03-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 当然，交通也还有不够好的地方，比如一些老街道的公共汽车站离大家住的地方太远。
+# translation = Of course, there are still shortcomings, for example some bus stops on the old streets are too far from where people live.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	当然	_	ADV	RB	_	6	advmod	_	Pinyin=dāngrán|Gloss=only natural|HanViet=đương,đang nhiên|Trad=當然
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	交通	_	NOUN	NN	_	6	nsubj	_	Pinyin=jiāotōng|Gloss=to be connected|HanViet=giao thông
+4	也	_	SCONJ	RB	_	6	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+5	还	_	SCONJ	RB	_	6	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+6	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+7	不够	_	ADV	RB	_	8	advmod	_	Pinyin=bùgòu|Gloss=not enough|HanViet=bất cú|Trad=不夠
+8	好	_	ADJ	JJ	_	10	amod	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	地方	_	NOUN	NN	_	12	nsubj	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+11	，	_	PUNCT	,	_	10	punct	_	_
+12	比如	_	VERB	VV	_	6	ccomp	_	Pinyin=bǐrú|Gloss=for example; for instance; such as|HanViet=tỷ,bỉ như
+13	一些	_	ADJ	JJ	_	19	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+14	老	_	PART	PFA	_	15	case	_	Pinyin=lǎo|Gloss=prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity|HanViet=lão
+15	街道	_	NOUN	NN	_	19	nmod	_	Pinyin=jiēdào|Gloss=street|HanViet=nhai đạo
+16	的	_	PART	DEC	Case=Gen	15	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	公共	_	ADJ	JJ	_	18	amod	_	Pinyin=gōnggòng|Gloss=public; common; communal|HanViet=công cộng
+18	汽车	_	NOUN	NN	_	19	compound	_	Pinyin=qìchē|Gloss=car|HanViet=khí xa|Trad=汽車
+19	站	_	PART	SFN	_	25	nsubj	_	Pinyin=zhàn|Gloss=station|HanViet=trạm
+20	离	_	ADP	IN	_	24	case	_	Pinyin=lí|Gloss=to leave|HanViet=ly|Trad=離
+21	大家	_	NOUN	NN	_	22	obl	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+22	住	_	VERB	VV	_	24	acl:relcl	_	Pinyin=zhù|Gloss=to live; to reside; to stay|HanViet=trú,trụ
+23	的	_	SCONJ	DEC	_	22	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+24	地方	_	NOUN	NN	_	25	nmod	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+25	太远	_	ADJ	JJ	_	12	ccomp	_	Pinyin=tàiyuǎn|Gloss=太 highest + 远 far|GlossFrom=parts|HanViet=thái viễn|Trad=太遠
+26	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l4-03-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 听说城市正在计划修一条新的地铁，估计两年以后就能完成。
+# translation = I hear the city is planning to build a new subway line, which is expected to be finished in about two years.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	听说	_	VERB	VV	_	0	root	_	Pinyin=tīngshuō|Gloss=to hear (sth said)|HanViet=thính thuyết|Trad=聽說
+2	城市	_	NOUN	NN	_	5	nsubj	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+3	正	_	ADV	RB	_	5	advmod	_	Pinyin=zhèng|Gloss=straight|HanViet=chính,chánh
+4	在	_	ADV	RB	_	5	advmod	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	计划	_	VERB	VV	_	18	advcl	_	Pinyin=jìhuà|Gloss=plan|HanViet=kế hoạch|Trad=計劃
+6	修一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=xiūyī|Gloss=修 to decorate + 一 one|GlossFrom=parts|HanViet=tu nhất
+7	条	_	NOUN	NNB	_	6	clf	_	Pinyin=tiáo|Gloss=strip|HanViet=điều|Trad=條
+8	新	_	ADJ	JJ	_	10	amod	_	Pinyin=xīn|Gloss=new|HanViet=tân
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	地铁	_	NOUN	NN	_	5	obj	_	Pinyin=dìtiě|Gloss=underground railway; subway|HanViet=địa thiết|Trad=地鐵
+11	，	_	PUNCT	,	_	5	punct	_	_
+12	估计	_	VERB	VV	_	18	advcl	_	Pinyin=gūjì|Gloss=to estimate; to assess; to calculate|HanViet=cổ kế|Trad=估計
+13	两	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+14	年	_	NOUN	NNB	_	12	obj	_	Pinyin=nián|Gloss=year|HanViet=niên
+15	以后	_	ADP	IN	_	14	case	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+16	就	_	SCONJ	RB	_	18	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+17	能	_	AUX	MD	_	18	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+18	完成	_	VERB	VV	_	1	ccomp	_	Pinyin=wánchéng|Gloss=to complete; to accomplish|HanViet=hoàn thành
+19	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l4-03-12
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 到那时候，大家出门一定会更加方便。
+# translation = By then, getting around will surely be even more convenient for everyone.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	到	_	ADP	IN	_	3	case	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+2	那	_	DET	DT	_	3	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+3	时候	_	NOUN	NN	_	10	nmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	大家	_	PRON	PRD	_	10	nsubj	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+6	出门	_	VERB	VV	_	10	csubj	_	Pinyin=chūmén|Gloss=to go out|HanViet=xuất môn|Trad=出門
+7	一定	_	ADV	RB	_	10	advmod	_	Pinyin=yídìng|Gloss=surely; certainly; definitely|HanViet=nhất định
+8	会	_	AUX	MD	_	10	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+9	更加	_	ADV	RB	_	10	advmod	_	Pinyin=gèngjiā|Gloss=more (than sth else)|HanViet=càng,cánh gia
+10	方便	_	ADJ	JJ	_	0	root	_	Pinyin=fāngbiàn|Gloss=convenient; suitable|HanViet=phương tiện
+11	。	_	PUNCT	.	_	10	punct	_	_

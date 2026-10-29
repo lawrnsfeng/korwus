@@ -1,0 +1,144 @@
+# sent_id = korwus-graded-l1-u18-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 星期天下午，我和朋友想看电影。
+# translation = On Sunday afternoon, my friend and I wanted to see a movie.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	星期	_	NOUN	NN	_	3	nmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+2	天	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+3	下午	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=xiàwǔ|Gloss=afternoon|HanViet=hạ ngọ
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	和	_	ADP	IN	_	7	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+7	朋友	_	NOUN	NN	_	9	obl	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+8	想	_	AUX	MD	_	9	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+9	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+10	电影	_	NOUN	NN	_	9	obj	_	Pinyin=diànyǐng|Gloss=movie; film|HanViet=điện ảnh|Trad=電影
+11	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l1-u18-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我们在这边坐出租车去。
+# translation = We took a taxi there from over here.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	6	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	在	_	VERB	VV	_	6	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	这边	_	PRON	PRD	_	2	obj	_	Pinyin=zhèbiān|Gloss=this side|HanViet=giá biên|Trad=這邊
+4	坐	_	VERB	VV	_	6	advcl	_	Pinyin=zuò|Gloss=to sit|HanViet=toạ
+5	出租车	_	NOUN	NN	_	2	obj	_	Pinyin=chūzūchē|Gloss=taxi|HanViet=xuất tô xa|Trad=出租車
+6	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+7	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l1-u18-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 电影里有一个小学生。
+# translation = The movie was about an elementary school student.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	电影	_	NOUN	NN	_	3	nsubj	_	Pinyin=diànyǐng|Gloss=movie; film|HanViet=điện ảnh|Trad=電影
+2	里	_	ADP	IN	_	1	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+3	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+4	一	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	小学生	_	NOUN	NN	_	3	obj	_	Pinyin=xiǎoxuéshēng|Gloss=primary school student|HanViet=tiểu học sinh|Trad=小學生
+7	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u18-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 她学汉字，老师是一个大学生。
+# translation = She was learning Chinese characters, and her teacher was a college student.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	学	_	VERB	VV	_	0	root	_	Pinyin=xué|Gloss=to learn|HanViet=học|Trad=學
+3	汉	_	PROPN	NNP	_	4	compound	_	Pinyin=hàn|Gloss=Han ethnic group|HanViet=hán|Trad=漢
+4	字	_	PART	SFN	_	2	obj	_	Pinyin=zì|Gloss=letter|HanViet=tự
+5	，	_	PUNCT	,	_	10	punct	_	_
+6	老师	_	NOUN	NN	_	10	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+7	是	_	AUX	VC	_	10	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+8	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+9	个	_	NOUN	NNB	_	8	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	大学生	_	NOUN	NN	_	2	parataxis	_	Pinyin=dàxuéshēng|Gloss=university student; college student|HanViet=đại học sinh|Trad=大學生
+11	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l1-u18-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 她觉得汉字好玩儿，写了一个又一个。
+# translation = She thought Chinese characters were fun and wrote one after another.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	7	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	觉得	_	VERB	VV	_	7	advcl	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+3	汉	_	PROPN	NNP	_	4	compound	_	Pinyin=hàn|Gloss=Han ethnic group|HanViet=hán|Trad=漢
+4	字	_	PART	SFN	_	5	nsubj	_	Pinyin=zì|Gloss=letter|HanViet=tự
+5	好玩儿	_	VERB	VV	_	2	ccomp	_	Pinyin=hǎowánr|Gloss=erhua variant of 好玩[hao3 wan2]|HanViet=hảo ngoạn nhi|Trad=好玩兒
+6	，	_	PUNCT	,	_	2	punct	_	_
+7	写	_	VERB	VV	_	0	root	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+10	个	_	NOUN	NNB	_	7	obj	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+11	又	_	CCONJ	CC	_	13	cc	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+12	一	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+13	个	_	NOUN	NNB	_	10	conj	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+14	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l1-u18-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我们都很喜欢这个电影。
+# translation = We both really liked the movie.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	4	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	都	_	SCONJ	RB	_	4	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+3	很	_	ADV	RB	_	4	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+4	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+5	这	_	DET	DT	_	7	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+6	个	_	NOUN	NNB	_	5	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	电影	_	NOUN	NN	_	4	obj	_	Pinyin=diànyǐng|Gloss=movie; film|HanViet=điện ảnh|Trad=電影
+8	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l1-u18-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 看了电影，我们吃了包子。
+# translation = After the movie, we had steamed buns.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	看	_	VERB	VV	_	6	advcl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+2	了	_	AUX	AS	Aspect=Perf	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	电影	_	NOUN	NN	_	1	obj	_	Pinyin=diànyǐng|Gloss=movie; film|HanViet=điện ảnh|Trad=電影
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	我们	_	PRON	PRP	Number=Plur|Person=1	6	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+6	吃	_	VERB	VV	_	0	root	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	包子	_	NOUN	NN	_	6	obj	_	Pinyin=bāozi|Gloss=baozi; bao (steamed stuffed bun)|HanViet=bao tử
+9	。	_	PUNCT	.	_	6	punct	_	_

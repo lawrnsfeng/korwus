@@ -1,0 +1,388 @@
+# sent_id = korwus-graded-l4-02-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# newpar
+# text = 上个月，我参加了一家公司的面试。
+# translation = Last month, I took part in a job interview at a company.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	上	_	DET	DT	_	3	det	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	月	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	参加	_	VERB	VV	_	0	root	_	Pinyin=cānjiā|Gloss=to participate; to take part; to join|HanViet=tham gia|Trad=參加
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+9	家	_	NOUN	NNB	_	8	clf	_	Pinyin=jiā|Gloss=home|HanViet=gia
+10	公司	_	NOUN	NN	_	12	nmod	_	Pinyin=gōngsī|Gloss=company; firm; corporation|HanViet=công ti,tư
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	面试	_	NOUN	NN	_	6	obj	_	Pinyin=miànshì|Gloss=to be interviewed (as a candidate)|HanViet=diện thí|Trad=面試
+13	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l4-02-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 为了这次面试，我提前准备了一个星期。
+# translation = I prepared for this interview a week in advance.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	为了	_	ADP	IN	_	4	case	_	Pinyin=wèile|Gloss=for; for the purpose of; in order to|HanViet=vị,vì liễu|Trad=為了
+2	这	_	DET	DT	_	4	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+3	次	_	NOUN	NNB	_	2	clf	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+4	面试	_	NOUN	NN	_	8	obl	_	Pinyin=miànshì|Gloss=to be interviewed (as a candidate)|HanViet=diện thí|Trad=面試
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	提前	_	ADV	RB	_	8	advmod	_	Pinyin=tíqián|Gloss=to shift to an earlier date|HanViet=đề tiền
+8	准备	_	VERB	VV	_	0	root	_	Pinyin=zhǔnbèi|Gloss=preparation|HanViet=chuẩn bị|Trad=準備
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	一	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+11	个	_	NOUN	NNB	_	10	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+12	星期	_	NOUN	NN	_	8	obj	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+13	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l4-02-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 我仔细地了解了这家公司的情况，还把自己的经历写成了一份简单的材料。
+# translation = I carefully learned about the company and also wrote up my experience as a simple document.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	17	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	仔细	_	ADJ	JJ	_	4	advmod	_	Pinyin=zǐxì|Gloss=careful; attentive; cautious|HanViet=tử tế|Trad=仔細
+3	地	_	SCONJ	DEV	_	2	mark:adv	_	Pinyin=dì|Gloss=earth|HanViet=địa
+4	了解	_	VERB	VV	_	17	advcl	_	Pinyin=liǎojiě|Gloss=to understand; to know about|HanViet=liễu giải|Trad=瞭解
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	这	_	DET	DT	_	8	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+7	家	_	NOUN	NNB	_	6	clf	_	Pinyin=jiā|Gloss=home|HanViet=gia
+8	公司	_	NOUN	NN	_	10	nmod	_	Pinyin=gōngsī|Gloss=company; firm; corporation|HanViet=công ti,tư
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	情况	_	NOUN	NN	_	4	obj	_	Pinyin=qíngkuàng|Gloss=circumstances; state of affairs; situation|HanViet=tình huống|Trad=情況
+11	，	_	PUNCT	,	_	4	punct	_	_
+12	还	_	SCONJ	RB	_	17	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+13	把	_	ADP	BB	_	16	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+14	自己	_	PRON	PRD	_	16	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+15	的	_	PART	DEC	Case=Gen	14	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	经历	_	NOUN	NN	_	17	obl:patient	_	Pinyin=jīnglì|Gloss=to experience; to go through|HanViet=kinh lịch|Trad=經歷
+17	写成	_	VERB	VV	_	0	root	_	Pinyin=xiěchéng|Gloss=写 to write + 成 short name for Chengdu 成都[Cheng2 du1]|GlossFrom=parts|HanViet=tả thành|Trad=寫成
+18	了	_	AUX	AS	Aspect=Perf	17	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+19	一	_	NUM	CD	NumType=Card	23	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+20	份	_	NOUN	NNB	_	19	clf	_	Pinyin=fèn|Gloss=classifier for gifts, newspaper, magazine, papers, reports, contracts etc|HanViet=phần
+21	简单	_	ADJ	JJ	_	23	amod	_	Pinyin=jiǎndān|Gloss=simple; not complicated|HanViet=giản đơn,đan|Trad=簡單
+22	的	_	SCONJ	DEC	_	21	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+23	材料	_	NOUN	NN	_	17	obj	_	Pinyin=cáiliào|Gloss=(raw) material|HanViet=tài liệu
+24	。	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = korwus-graded-l4-02-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 面试那天，我专门穿上了正式的衣服，提前半个小时到了公司。
+# translation = On the day of the interview, I specially wore formal clothes and arrived at the company half an hour early.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	面试	_	VERB	VV	_	3	amod	_	Pinyin=miànshì|Gloss=to be interviewed (as a candidate)|HanViet=diện thí|Trad=面試
+2	那	_	DET	DT	_	3	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+3	天	_	NOUN	NNB	_	17	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	17	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	专门	_	ADV	RB	_	7	advmod	_	Pinyin=zhuānmén|Gloss=specialized; dedicated (to a particular field or purpose)|HanViet=chuyên môn|Trad=專門
+7	穿上	_	VERB	VV	_	17	advcl	_	Pinyin=chuānshàng|Gloss=to put on (clothes etc)|HanViet=xuyên thượng
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	正式	_	ADJ	JJ	_	11	amod	_	Pinyin=zhèngshì|Gloss=formal; official|HanViet=chính,chánh thức
+10	的	_	SCONJ	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	衣服	_	NOUN	NN	_	7	obj	_	Pinyin=yīfú|Gloss=clothes|HanViet=y phục
+12	，	_	PUNCT	,	_	7	punct	_	_
+13	提前	_	VERB	VV	_	17	advcl	_	Pinyin=tíqián|Gloss=to shift to an earlier date|HanViet=đề tiền
+14	半	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=bàn|Gloss=half|HanViet=bán
+15	个	_	NOUN	NNB	_	14	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+16	小时	_	NOUN	NN	_	13	obj	_	Pinyin=xiǎoshí|Gloss=hour|HanViet=tiểu thời|Trad=小時
+17	到	_	VERB	VV	_	0	root	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+18	了	_	AUX	AS	Aspect=Perf	17	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+19	公司	_	NOUN	NN	_	17	obj	_	Pinyin=gōngsī|Gloss=company; firm; corporation|HanViet=công ti,tư
+20	。	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = korwus-graded-l4-02-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 进入办公室的时候，我紧张得出了一身汗。
+# translation = When I entered the office, I was so nervous that I broke out in a sweat.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	进入	_	VERB	VV	_	5	acl:relcl	_	Pinyin=jìnrù|Gloss=to enter; to go into|HanViet=tiến nhập|Trad=進入
+2	办公	_	VERB	VV	_	3	compound	_	Pinyin=bàngōng|Gloss=to handle official business (usu. in an office); to do (office) work|HanViet=biện công|Trad=辦公
+3	室	_	PART	SFN	_	1	obj	_	Pinyin=shì|Gloss=room|HanViet=thất
+4	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	时候	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	紧张	_	ADJ	JJ	_	9	advmod	_	Pinyin=jǐnzhāng|Gloss=nervous|HanViet=khẩn trương|Trad=緊張
+9	得出	_	VERB	VV	_	0	root	_	Pinyin=déchū|Gloss=to obtain (a result); to arrive at (a conclusion)|HanViet=đắc xuất
+10	了	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	一身	_	NOUN	NN	_	12	nmod	_	Pinyin=yīshēn|Gloss=whole body|HanViet=nhất thân
+12	汗	_	NOUN	NN	_	9	obj	_	Pinyin=hàn|Gloss=perspiration|HanViet=hãn
+13	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l4-02-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 面试我的是两位经理，他们先请我做一个简单的介绍。
+# translation = Two managers interviewed me, and they first asked me to briefly introduce myself.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	面试	_	VERB	VV	_	7	csubj	_	Pinyin=miànshì|Gloss=to be interviewed (as a candidate)|HanViet=diện thí|Trad=面試
+2	我	_	PRON	PRP	Person=1	1	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	是	_	AUX	VC	_	7	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	两	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+6	位	_	NOUN	NNB	_	5	clf	_	Pinyin=wèi|Gloss=position|HanViet=vị
+7	经理	_	NOUN	NN	_	0	root	_	Pinyin=jīnglǐ|Gloss=manager|HanViet=kinh lý|Trad=經理
+8	，	_	PUNCT	,	_	10	punct	_	_
+9	他们	_	PRON	PRP	Number=Plur|Person=3	10	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+10	先请	_	VERB	VV	_	7	parataxis	_	Pinyin=xiānqǐng|Gloss=先 beforehand; first; earlier + 请 to ask|GlossFrom=parts|HanViet=tiên thỉnh|Trad=先請
+11	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+12	做	_	VERB	VV	_	10	ccomp	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+13	一	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+14	个	_	NOUN	NNB	_	13	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+15	简单	_	ADJ	JJ	_	17	amod	_	Pinyin=jiǎndān|Gloss=simple; not complicated|HanViet=giản đơn,đan|Trad=簡單
+16	的	_	SCONJ	DEC	_	15	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	介绍	_	NOUN	NN	_	12	obj	_	Pinyin=jièshào|Gloss=to introduce (sb to sb)|HanViet=giới thiệu|Trad=介紹
+18	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l4-02-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 我说了自己的专业和以前的工作经验，也说了我为什么对这个工作感兴趣。
+# translation = I talked about my major and my previous work experience, and also why I was interested in this job.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	14	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	说	_	VERB	VV	_	14	advcl	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	自己	_	PRON	PRD	_	6	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	专业	_	NOUN	NN	_	2	obj	_	Pinyin=zhuānyè|Gloss=specialty|HanViet=chuyên nghiệp|Trad=專業
+7	和	_	CCONJ	CC	_	11	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+8	以前	_	NOUN	NN	_	11	nmod	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	工作	_	NOUN	NN	_	11	nmod	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+11	经验	_	NOUN	NN	_	6	conj	_	Pinyin=jīngyàn|Gloss=experience|HanViet=kinh nghiệm|Trad=經驗
+12	，	_	PUNCT	,	_	2	punct	_	_
+13	也	_	SCONJ	RB	_	14	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+14	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+15	了	_	AUX	AS	Aspect=Perf	14	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+16	我	_	PRON	PRP	Person=1	23	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+17	为	_	ADP	IN	_	18	case	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+18	什么	_	PRON	WP	_	23	obl	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+19	对	_	ADP	IN	_	22	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+20	这	_	DET	DT	_	22	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+21	个	_	NOUN	NNB	_	20	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+22	工作	_	NOUN	NN	_	23	obl	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+23	感	_	VERB	VV	_	14	ccomp	_	Pinyin=gǎn|Gloss=to feel|HanViet=cảm
+24	兴趣	_	NOUN	NN	_	23	obj	_	Pinyin=xìngqù|Gloss=interest (desire to know about sth)|HanViet=hứng thú|Trad=興趣
+25	。	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = korwus-graded-l4-02-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 接着，他们问了我一个很难的问题：
+# translation = Next, they asked me a very difficult question.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	接	_	VERB	VV	_	5	advcl	_	Pinyin=jiē|Gloss=to receive|HanViet=tiếp
+2	着	_	AUX	AS	Aspect=Prog	1	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	他们	_	PRON	PRP	Number=Plur|Person=3	5	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+5	问	_	VERB	VV	_	0	root	_	Pinyin=wèn|Gloss=to ask; to inquire|HanViet=vấn|Trad=問
+6	了	_	AUX	AS	Aspect=Perf	5	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	我	_	PRON	PRP	Person=1	12	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	一	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+9	个	_	NOUN	NNB	_	8	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	很难	_	ADJ	JJ	_	12	amod	_	Pinyin=hěnnán|Gloss=很 very; quite + 难 difficult (to...)|GlossFrom=parts|HanViet=ngận nan|Trad=很難
+11	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	问题	_	NOUN	NN	_	5	obj	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+13	：	_	PUNCT	:	_	5	punct	_	_
+
+# sent_id = korwus-graded-l4-02-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 如果和同事的意见不一样，你会怎么做？
+# translation = What would you do if you disagreed with a colleague?
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	如果	_	ADP	IN	_	7	case	_	Pinyin=rúguǒ|Gloss=if; in case; in the event that|HanViet=như quả
+2	和	_	ADP	IN	_	5	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+3	同事	_	NOUN	NN	_	5	nmod	_	Pinyin=tóngshì|Gloss=colleague; co-worker|HanViet=đồng sự
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	意见	_	NOUN	NN	_	7	nmod	_	Pinyin=yìjiàn|Gloss=idea|HanViet=ý kiến|Trad=意見
+6	不	_	ADV	RB	Polarity=Neg	7	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+7	一样	_	ADJ	JJ	_	12	ccomp	_	Pinyin=yíyàng|Gloss=same|HanViet=nhất dạng|Trad=一樣
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	你	_	PRON	PRP	Person=2	12	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+10	会	_	AUX	MD	_	12	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+11	怎么	_	ADV	RB	_	12	advmod	_	Pinyin=zěnme|Gloss=how?|HanViet=chẩm ma|Trad=怎麼
+12	做	_	VERB	VV	_	0	root	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+13	？	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l4-02-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 我想了一会儿，回答说我会先认真听对方的看法，再冷静地交流。
+# translation = I thought for a moment and answered that I would first listen carefully to the other person's view and then talk it over calmly.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	想	_	VERB	VV	_	0	root	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	一会儿	_	ADJ	JJ	_	2	xcomp	_	Pinyin=yīhuìr|Gloss=a moment|HanViet=nhất hội nhi|Trad=一會兒
+5	，	_	PUNCT	,	_	6	punct	_	_
+6	回答	_	VERB	VV	_	2	parataxis	_	Pinyin=huídá|Gloss=to reply; to answer|HanViet=hồi đáp
+7	说	_	VERB	VV	_	6	xcomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+8	我	_	PRON	PRP	Person=1	20	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	会	_	AUX	MD	_	20	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+10	先	_	SCONJ	RB	_	12	mark	_	Pinyin=xiān|Gloss=beforehand; first; earlier|HanViet=tiên
+11	认真	_	ADV	RB	_	12	advmod	_	Pinyin=rènzhēn|Gloss=conscientious|HanViet=nhận chân|Trad=認真
+12	听	_	VERB	VV	_	20	advcl	_	Pinyin=tīng|Gloss=to listen to; to hear|HanViet=thính|Trad=聽
+13	对方	_	PRON	PRD	_	15	det	_	Pinyin=duìfāng|Gloss=the other person; the other side; the other party|HanViet=đối phương|Trad=對方
+14	的	_	PART	DEC	Case=Gen	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	看法	_	NOUN	NN	_	12	obj	_	Pinyin=kànfǎ|Gloss=way of looking at a thing|HanViet=khán pháp
+16	，	_	PUNCT	,	_	12	punct	_	_
+17	再	_	ADV	RB	_	20	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+18	冷静	_	ADJ	JJ	_	20	advmod	_	Pinyin=lěngjìng|Gloss=calm; cool-headed; dispassionate|HanViet=lạnh tĩnh|Trad=冷靜
+19	地	_	SCONJ	DEV	_	18	mark:adv	_	Pinyin=dì|Gloss=earth|HanViet=địa
+20	交流	_	VERB	VV	_	7	ccomp	_	Pinyin=jiāoliú|Gloss=to exchange|HanViet=giao lưu
+21	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l4-02-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 经理听了以后点了点头，看起来很满意。
+# translation = After hearing this, the managers nodded and looked very satisfied.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	经理	_	NOUN	NN	_	9	nsubj	_	Pinyin=jīnglǐ|Gloss=manager|HanViet=kinh lý|Trad=經理
+2	听	_	VERB	VV	_	9	advcl	_	Pinyin=tīng|Gloss=to listen to; to hear|HanViet=thính|Trad=聽
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	以后	_	NOUN	NN	_	2	obj	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+5	点	_	VERB	VV	_	9	advcl	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+6	了	_	AUX	AS	Aspect=Perf	5	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	点头	_	NOUN	NN	_	5	obj	_	Pinyin=diǎntóu|Gloss=to nod|HanViet=điểm đầu|Trad=點頭
+8	，	_	PUNCT	,	_	2	punct	_	_
+9	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+10	起来	_	VERB	VV	_	9	mark	_	Pinyin=qǐlái|Gloss=to stand up; to get up|HanViet=khởi lai|Trad=起來
+11	很	_	ADV	RB	_	12	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+12	满意	_	ADJ	JJ	_	9	xcomp	_	Pinyin=mǎnyì|Gloss=satisfied|HanViet=mãn ý|Trad=滿意
+13	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l4-02-12
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 最后，他们让我回去等通知。
+# translation = Finally, they told me to go home and wait to be notified.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	最后	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=zuìhòu|Gloss=final; last; ultimate|HanViet=tối hậu|Trad=最後
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	他们	_	PRON	PRP	Number=Plur|Person=3	4	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+4	让	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	回去	_	VERB	VV	_	4	ccomp	_	Pinyin=huíqù|Gloss=to return|HanViet=hồi khứ,khử
+7	等	_	NOUN	NN	_	6	obl	_	Pinyin=děng|Gloss=to wait for; to await|HanViet=đẳng
+8	通知	_	NOUN	NN	_	6	obj	_	Pinyin=tōngzhī|Gloss=to notify|HanViet=thông tri
+9	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l4-02-13
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 一个星期以后，我终于接到了公司的电话，我被录取了！
+# translation = A week later, I finally got a call from the company: I had been hired!
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	星期	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+4	以后	_	ADP	IN	_	3	case	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	终于	_	ADV	RB	_	8	advmod	_	Pinyin=zhōngyú|Gloss=at last|HanViet=chung ư|Trad=終於
+8	接到	_	VERB	VV	_	0	root	_	Pinyin=jiēdào|Gloss=to receive (letter etc)|HanViet=tiếp đáo
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	公司	_	NOUN	NN	_	12	nmod	_	Pinyin=gōngsī|Gloss=company; firm; corporation|HanViet=công ti,tư
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	电话	_	NOUN	NN	_	8	obj	_	Pinyin=diànhuà|Gloss=telephone|HanViet=điện thoại|Trad=電話
+13	，	_	PUNCT	,	_	16	punct	_	_
+14	我	_	PRON	PRP	Person=1	16	nsubj:pass	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+15	被	_	AUX	BB	Voice=Pass	16	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+16	录取	_	VERB	VV	_	8	parataxis	_	Pinyin=lùqǔ|Gloss=to accept an applicant (prospective student, employee etc) who passes an entrance exam|HanViet=lục thủ|Trad=錄取
+17	了	_	PART	UH	_	16	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+18	！	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l4-02-14
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 这次经历让我明白，只要准备得充分，就能减少紧张，表现得更好。
+# translation = This experience taught me that as long as you prepare thoroughly, you can reduce your nerves and perform better.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	次	_	NOUN	NNB	_	1	clf	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+3	经历	_	NOUN	NN	_	4	nsubj	_	Pinyin=jīnglì|Gloss=to experience; to go through|HanViet=kinh lịch|Trad=經歷
+4	让	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	明白	_	VERB	VV	_	4	ccomp	_	Pinyin=míngbái|Gloss=clear; obvious; unequivocal|HanViet=minh bạch
+7	，	_	PUNCT	,	_	18	punct	_	_
+8	只要	_	ADP	IN	_	9	case	_	Pinyin=zhǐyào|Gloss=so long as; provided; if|HanViet=chỉ yếu
+9	准备	_	VERB	VV	_	18	xcomp	_	Pinyin=zhǔnbèi|Gloss=preparation|HanViet=chuẩn bị|Trad=準備
+10	得	_	PART	DEV	_	9	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+11	充分	_	ADJ	JJ	_	9	xcomp	_	Pinyin=chōngfèn|Gloss=ample|HanViet=sung phận,phần
+12	，	_	PUNCT	,	_	9	punct	_	_
+13	就	_	SCONJ	RB	_	15	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+14	能	_	AUX	MD	_	15	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+15	减少	_	VERB	VV	_	18	advcl	_	Pinyin=jiǎnshǎo|Gloss=to lessen; to decrease; to reduce; to lower|HanViet=giảm thiểu|Trad=減少
+16	紧张	_	ADJ	JJ	_	15	xcomp	_	Pinyin=jǐnzhāng|Gloss=nervous|HanViet=khẩn trương|Trad=緊張
+17	，	_	PUNCT	,	_	15	punct	_	_
+18	表现	_	VERB	VV	_	4	parataxis	_	Pinyin=biǎoxiàn|Gloss=to show|HanViet=biểu hiện|Trad=表現
+19	得	_	PART	DEV	_	18	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+20	更好	_	ADJ	JJ	_	18	xcomp	_	Pinyin=gènghǎo|Gloss=更 to change or replace + 好 good|GlossFrom=parts|HanViet=càng,cánh hảo
+21	。	_	PUNCT	.	_	4	punct	_	_

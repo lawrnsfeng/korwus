@@ -1,0 +1,165 @@
+# sent_id = korwus-graded-l1-u12-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 今天早上，我起床的时候觉得很冷。
+# translation = This morning, when I got up, I felt very cold.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	今天	_	NOUN	NN	_	2	nmod	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+2	早上	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	起床	_	VERB	VV	_	7	acl:relcl	_	Pinyin=qǐchuáng|Gloss=to get out of bed; to get up|HanViet=khởi sàng
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	时候	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+8	觉得	_	VERB	VV	_	0	root	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+9	很	_	ADV	RB	_	10	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+10	冷	_	ADJ	JJ	_	8	xcomp	_	Pinyin=lěng|Gloss=cold|HanViet=lạnh
+11	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l1-u12-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我病了，今天没有上学。
+# translation = I was sick, and I didn't go to school today.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	病	_	VERB	VV	_	6	advcl	_	Pinyin=bìng|Gloss=illness|HanViet=bệnh
+3	了	_	PART	UH	_	2	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	今天	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+6	没有	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+7	上学	_	VERB	VV	_	6	xcomp	_	Pinyin=shàngxué|Gloss=to go to school|HanViet=thượng học|Trad=上學
+8	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l1-u12-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 妈妈的工作非常忙，姐姐开车和我去了医院。
+# translation = Mom was very busy with work, so my older sister drove me to the hospital.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	妈妈	_	NOUN	NN	_	3	nmod	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	工作	_	NOUN	NN	_	5	nsubj	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+4	非常	_	ADV	RB	_	5	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+5	忙	_	ADJ	JJ	_	0	root	_	Pinyin=máng|Gloss=busy|HanViet=mang
+6	，	_	PUNCT	,	_	11	punct	_	_
+7	姐姐	_	NOUN	NN	_	11	nsubj	_	Pinyin=jiějiě|Gloss=older sister|HanViet=tỷ,thư tỷ,thư
+8	开车	_	VERB	VV	_	11	advcl	_	Pinyin=kāichē|Gloss=to drive a car (or train etc)|HanViet=khai xa|Trad=開車
+9	和	_	CCONJ	CC	_	10	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+10	我	_	PRON	PRP	Person=1	8	conj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+11	去	_	VERB	VV	_	5	parataxis	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+12	了	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	医院	_	NOUN	NN	_	11	obj	_	Pinyin=yīyuàn|Gloss=hospital|HanViet=y viện|Trad=醫院
+14	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l1-u12-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 在医院里，姐姐问医生：“我弟弟是什么病？”
+# translation = At the hospital, my sister asked the doctor, "What's wrong with my little brother?"
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	VERB	VV	_	6	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	医院	_	NOUN	NN	_	1	obj	_	Pinyin=yīyuàn|Gloss=hospital|HanViet=y viện|Trad=醫院
+3	里	_	ADP	IN	_	2	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	姐姐	_	NOUN	NN	_	6	nsubj	_	Pinyin=jiějiě|Gloss=older sister|HanViet=tỷ,thư tỷ,thư
+6	问	_	VERB	VV	_	0	root	_	Pinyin=wèn|Gloss=to ask; to inquire|HanViet=vấn|Trad=問
+7	医生	_	NOUN	NN	_	6	obj	_	Pinyin=yīshēng|Gloss=doctor; medical practitioner|HanViet=y sinh|Trad=醫生
+8	：	_	PUNCT	:	_	14	punct	_	_
+9	“	_	PUNCT	``	_	14	punct	_	_
+10	我	_	PRON	PRP	Person=1	11	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+11	弟弟	_	NOUN	NN	_	14	nsubj	_	Pinyin=dìdi|Gloss=younger brother|HanViet=đệ đệ
+12	是	_	AUX	VC	_	14	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+13	什么	_	PRON	WP	_	14	det	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+14	病	_	NOUN	NN	_	6	ccomp	_	Pinyin=bìng|Gloss=illness|HanViet=bệnh
+15	？	_	PUNCT	.	_	14	punct	_	_
+16	”	_	PUNCT	''	_	14	punct	_	_
+
+# sent_id = korwus-graded-l1-u12-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 医生说我没有什么大问题，可以休息两天。
+# translation = The doctor said nothing was seriously wrong and I could rest for two days.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	医生	_	NOUN	NN	_	2	nsubj	_	Pinyin=yīshēng|Gloss=doctor; medical practitioner|HanViet=y sinh|Trad=醫生
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	没有	_	VERB	VV	Polarity=Neg	10	advcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+5	什么	_	PRON	WP	_	7	det	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+6	大	_	PART	PFA	_	7	case	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+7	问题	_	NOUN	NN	_	4	obj	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+8	，	_	PUNCT	,	_	4	punct	_	_
+9	可以	_	AUX	MD	_	10	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+10	休息	_	VERB	VV	_	2	ccomp	_	Pinyin=xiūxī|Gloss=rest|HanViet=hưu tức
+11	两	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+12	天	_	NOUN	NNB	_	10	obl	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+13	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l1-u12-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 晚上，我喝了姐姐给我的茶，没有看手机，很早就睡觉了。
+# translation = In the evening, I drank the tea my sister gave me, stayed off my phone, and went to bed very early.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	18	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	我	_	PRON	PRP	Person=1	18	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	喝	_	VERB	VV	_	18	advcl	_	Pinyin=hē|Gloss=to drink|HanViet=húp
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	姐姐	_	NOUN	NN	_	7	nsubj	_	Pinyin=jiějiě|Gloss=older sister|HanViet=tỷ,thư tỷ,thư
+7	给	_	VERB	VV	_	4	ccomp	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+8	我	_	PRON	PRP	Person=1	10	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	茶	_	NOUN	NN	_	7	obj	_	Pinyin=chá|Gloss=tea|HanViet=trà
+11	，	_	PUNCT	,	_	4	punct	_	_
+12	没有	_	VERB	VV	Polarity=Neg	18	advcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+13	看	_	VERB	VV	_	12	xcomp	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+14	手机	_	NOUN	NN	_	13	obj	_	Pinyin=shǒujī|Gloss=cell phone; mobile phone|HanViet=thủ cơ|Trad=手機
+15	，	_	PUNCT	,	_	12	punct	_	_
+16	很	_	ADV	RB	_	18	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+17	早就	_	ADV	RB	_	18	advmod	_	Pinyin=zǎojiù|Gloss=already at an earlier time|HanViet=tảo tựu
+18	睡觉	_	VERB	VV	_	0	root	_	Pinyin=shuìjiào|Gloss=to go to bed|HanViet=thuỵ giáo|Trad=睡覺
+19	了	_	PART	UH	_	18	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+20	。	_	PUNCT	.	_	18	punct	_	_
+
+# sent_id = korwus-graded-l1-u12-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我想明天去上学。
+# translation = I want to go to school tomorrow.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	想	_	AUX	MD	_	5	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+3	明天	_	NOUN	NN	_	5	nmod:tmod	_	Pinyin=míngtiān|Gloss=tomorrow|HanViet=minh thiên
+4	去	_	VERB	VV	_	5	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+5	上学	_	VERB	VV	_	0	root	_	Pinyin=shàngxué|Gloss=to go to school|HanViet=thượng học|Trad=上學
+6	。	_	PUNCT	.	_	5	punct	_	_

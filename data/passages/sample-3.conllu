@@ -1,0 +1,74 @@
+# sent_id = sample-3-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 3
+# text = 上个周末下了很大的雨，所以我们没有去公园。
+# grammar_points = gf0025-5:10-10;gf0025-8:1-1;gf0025-21:4-4;gf0025-41:4-4;gf0025-98:11-12;gf0025-132:10-10;gf0025-201:9-9
+1	上	_	DET	DT	_	3	det	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	周末	_	NOUN	NN	_	4	nsubj	_	Pinyin=zhōumò|Gloss=weekend|HanViet=chu mạt|Trad=週末
+4	下	_	VERB	VV	_	0	root	_	Pinyin=xià|Gloss=down|HanViet=hạ
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	很大	_	ADJ	JJ	_	8	amod	_	Pinyin=hěndà|HanViet=ngận đại|GlossFrom=parts|Gloss=很 very; quite + 大 big; large; great
+7	的	_	SCONJ	DEC	_	6	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	雨	_	NOUN	NN	_	4	obj	_	Pinyin=yǔ|Gloss=rain|HanViet=vũ
+9	，	_	PUNCT	,	_	12	punct	_	_
+10	所以	_	SCONJ	RB	_	12	mark	_	Pinyin=suǒyǐ|Gloss=therefore|HanViet=sở dĩ
+11	我们	_	PRON	PRP	Number=Plur|Person=1	12	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+12	没有	_	VERB	VV	Polarity=Neg	4	parataxis	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+13	去	_	VERB	VV	_	12	xcomp	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+14	公园	_	NOUN	NN	_	13	obj	_	Pinyin=gōngyuán|Gloss=park (for public recreation)|HanViet=công viên|Trad=公園
+15	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = sample-3-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 4
+# text = 我和朋友在家里看了一部电影，还做了一顿丰富的晚饭。
+# grammar_points = gf0025-5:0-0;gf0025-7:7-7;gf0025-17:1-1;gf0025-21:6-6;gf0025-21:13-13;gf0025-23:7-8;gf0025-41:6-6;gf0025-41:13-13
+1	我	_	PRON	PRP	Person=1	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	和	_	ADP	IN	_	3	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+3	朋友	_	NOUN	NN	_	6	obl	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+4	在	_	VERB	VV	_	6	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	家里	_	NOUN	NN	_	4	obj	_	Pinyin=jiālǐ|Gloss=home|HanViet=gia lý|Trad=家裡
+6	看	_	VERB	VV	_	13	advcl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+9	部	_	NOUN	NNB	_	8	clf	_	Pinyin=bù|Gloss=ministry|HanViet=bộ
+10	电影	_	NOUN	NN	_	6	obj	_	Pinyin=diànyǐng|Gloss=movie; film|HanViet=điện ảnh|Trad=電影
+11	，	_	PUNCT	,	_	6	punct	_	_
+12	还	_	SCONJ	RB	_	13	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+13	做	_	VERB	VV	_	0	root	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+14	了	_	AUX	AS	Aspect=Perf	13	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+15	一顿	_	VERB	VV	_	16	advcl	_	Pinyin=yīdùn|HanViet=nhất đốn|Trad=一頓|GlossFrom=parts|Gloss=一 one + 顿 to stop
+16	丰富	_	ADJ	JJ	_	18	amod	_	Pinyin=fēngfù|Gloss=to enrich|HanViet=phong phú|Trad=豐富
+17	的	_	SCONJ	DEC	_	16	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	晚饭	_	NOUN	NN	_	13	obj	_	Pinyin=wǎnfàn|Gloss=evening meal|HanViet=vãn phạn|Trad=晚飯
+19	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = sample-3-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 4
+# text = 虽然没有出门，但是我们过得很愉快。
+# grammar_points = gf0025-5:5-5;gf0025-9:8-8;gf0025-78:4-4;gf0025-79:7-7;gf0025-99:6-9;gf0025-113:0-4;gf0025-132:5-5;gf0025-179:6-8
+1	虽然	_	ADP	IN	_	2	case	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+2	没有	_	VERB	VV	Polarity=Neg	7	xcomp	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+3	出门	_	VERB	VV	_	2	xcomp	_	Pinyin=chūmén|Gloss=to go out|HanViet=xuất môn|Trad=出門
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	但是	_	SCONJ	RB	_	7	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+6	我们	_	PRON	PRP	Number=Plur|Person=1	7	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+7	过	_	VERB	VV	_	0	root	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+8	得	_	PART	DEV	_	7	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+9	很	_	ADV	RB	_	10	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+10	愉快	_	ADJ	JJ	_	7	xcomp	_	Pinyin=yúkuài|Gloss=cheerful; happy; pleasant; delighted|HanViet=du khoái
+11	。	_	PUNCT	.	_	7	punct	_	_

@@ -1,0 +1,105 @@
+# sent_id = korwus-graded-l1-u02-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 他很能说，他们都喜欢他。
+# translation = He's a great talker, and they all like him.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	4	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	很	_	ADV	RB	_	4	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+3	能	_	AUX	MD	_	4	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+4	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+5	，	_	PUNCT	,	_	8	punct	_	_
+6	他们	_	PRON	PRP	Number=Plur|Person=3	8	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+7	都	_	SCONJ	RB	_	8	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+8	喜欢	_	VERB	VV	_	4	ccomp	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+9	他	_	PRON	PRP	Person=3	8	obj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+10	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l1-u02-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我不喜欢说，也没有他能说。
+# translation = I don't like to talk, and I'm not as good a talker as he is.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	不	_	ADV	RB	Polarity=Neg	3	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+3	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+4	说	_	VERB	VV	_	3	xcomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+5	，	_	PUNCT	,	_	7	punct	_	_
+6	也	_	SCONJ	RB	_	7	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+7	没有	_	VERB	VV	Polarity=Neg	3	parataxis	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+8	他	_	PRON	PRP	Person=3	10	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+9	能	_	AUX	MD	_	10	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+10	说	_	VERB	VV	_	7	ccomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+11	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u02-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 他对我说，我也能说。
+# translation = He told me that I can talk too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	4	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	对	_	ADP	IN	_	3	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+3	我	_	PRON	PRP	Person=1	4	obl	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+5	，	_	PUNCT	,	_	9	punct	_	_
+6	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	也	_	SCONJ	RB	_	9	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+8	能	_	AUX	MD	_	9	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+9	说	_	VERB	VV	_	4	ccomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+10	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l1-u02-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我想他是对的。
+# translation = I think he's right.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	想	_	AUX	MD	_	5	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+3	他	_	PRON	PRP	Person=3	5	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	是	_	AUX	VC	_	5	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	对	_	ADJ	JJ	_	0	root	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+6	的	_	PART	UH	_	5	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l1-u02-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我也要做一个很能说的人！
+# translation = I want to be a great talker too!
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	也	_	SCONJ	RB	_	4	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+3	要	_	AUX	MD	_	4	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+4	做	_	VERB	VV	_	0	root	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+5	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+6	个	_	NOUN	NNB	_	5	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	很	_	ADV	RB	_	9	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+8	能	_	AUX	MD	_	9	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+9	说	_	VERB	VV	_	11	acl:relcl	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+10	的	_	SCONJ	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	人	_	NOUN	NN	_	4	obj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+12	！	_	PUNCT	.	_	4	punct	_	_

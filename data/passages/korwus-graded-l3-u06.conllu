@@ -1,0 +1,276 @@
+# sent_id = korwus-graded-l3-u06-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 我弟弟特别喜欢踢足球。
+# translation = My younger brother loves playing soccer.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	弟弟	_	NOUN	NN	_	4	nsubj	_	Pinyin=dìdi|Gloss=younger brother|HanViet=đệ đệ
+3	特别	_	ADV	RB	_	4	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+4	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+5	踢	_	VERB	VV	_	4	xcomp	_	Pinyin=tī|Gloss=to kick|HanViet=thích
+6	足球	_	NOUN	NN	_	5	obj	_	Pinyin=zúqiú|Gloss=soccer; football|HanViet=túc cầu
+7	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u06-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 上个月，他们学校有足球比赛，他非常想参加。
+# translation = Last month his school had a soccer match, and he really wanted to take part.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	上	_	DET	DT	_	3	det	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	月	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	他们	_	PRON	PRP	Number=Plur|Person=3	6	nmod	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+6	学校	_	NOUN	NN	_	7	nsubj	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+7	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+8	足球	_	NOUN	NN	_	9	nmod	_	Pinyin=zúqiú|Gloss=soccer; football|HanViet=túc cầu
+9	比赛	_	NOUN	NN	_	7	obj	_	Pinyin=bǐsài|Gloss=competition (sports etc)|HanViet=tỷ,bỉ tái|Trad=比賽
+10	，	_	PUNCT	,	_	14	punct	_	_
+11	他	_	PRON	PRP	Person=3	14	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+12	非常	_	ADV	RB	_	14	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+13	想	_	AUX	MD	_	14	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+14	参加	_	VERB	VV	_	7	parataxis	_	Pinyin=cānjiā|Gloss=to participate; to take part; to join|HanViet=tham gia|Trad=參加
+15	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u06-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 但是老师要求参加比赛的学生也要努力学习。
+# translation = But the teacher required students in the match to study hard as well.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	但是	_	SCONJ	RB	_	3	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+2	老师	_	NOUN	NN	_	3	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+3	要求	_	VERB	VV	_	0	root	_	Pinyin=yāoqiú|Gloss=to request|HanViet=yêu cầu
+4	参加	_	VERB	VV	_	7	acl:relcl	_	Pinyin=cānjiā|Gloss=to participate; to take part; to join|HanViet=tham gia|Trad=參加
+5	比赛	_	NOUN	NN	_	4	obj	_	Pinyin=bǐsài|Gloss=competition (sports etc)|HanViet=tỷ,bỉ tái|Trad=比賽
+6	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	学生	_	NOUN	NN	_	11	nsubj	_	Pinyin=xuéshēng|Gloss=student|HanViet=học sinh|Trad=學生
+8	也	_	SCONJ	RB	_	11	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+9	要	_	AUX	MD	_	11	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+10	努力	_	ADV	RB	_	11	advmod	_	Pinyin=nǔlì|Gloss=to make an effort; to try hard; to strive|HanViet=nỗ lực
+11	学习	_	VERB	VV	_	3	ccomp	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+12	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u06-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 弟弟很担心，因为他学习一般。
+# translation = My brother was worried, because he was only an average student.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	弟弟	_	NOUN	NN	_	3	nsubj	_	Pinyin=dìdi|Gloss=younger brother|HanViet=đệ đệ
+2	很	_	ADV	RB	_	3	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+3	担心	_	VERB	VV	_	0	root	_	Pinyin=dānxīn|Gloss=anxious|HanViet=đảm,đam tâm|Trad=擔心
+4	，	_	PUNCT	,	_	7	punct	_	_
+5	因为	_	ADP	IN	_	7	case	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+6	他	_	PRON	PRP	Person=3	7	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+7	学习	_	VERB	VV	_	3	ccomp	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+8	一般	_	ADJ	JJ	_	7	xcomp	_	Pinyin=yìbān|Gloss=same|HanViet=nhất ban
+9	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u06-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 哥哥给他讲了一个好方法：
+# translation = Our older brother told him a good method:
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	哥哥	_	NOUN	NN	_	4	nsubj	_	Pinyin=gēgē|Gloss=older brother|HanViet=ca ca
+2	给	_	VERB	VV	_	4	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+3	他	_	PRON	PRP	Person=3	2	obj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	讲	_	VERB	VV	_	0	root	_	Pinyin=jiǎng|Gloss=to speak|HanViet=giảng|Trad=講
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+7	个	_	NOUN	NNB	_	6	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	好	_	ADJ	JJ	_	9	amod	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+9	方法	_	NOUN	NN	_	4	obj	_	Pinyin=fāngfǎ|Gloss=method; way; technique; procedure|HanViet=phương pháp
+10	：	_	PUNCT	:	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u06-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 少玩一会儿游戏，多看一会儿书。
+# translation = Play games a bit less and read a bit more.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	少	_	ADV	RB	_	2	advmod	_	Pinyin=shǎo|Gloss=few|HanViet=thiểu
+2	玩	_	VERB	VV	_	7	advcl	_	Pinyin=wán|Gloss=to play|HanViet=ngoạn
+3	一会儿	_	ADJ	JJ	_	4	amod	_	Pinyin=yīhuìr|Gloss=a moment|HanViet=nhất hội nhi|Trad=一會兒
+4	游戏	_	NOUN	NN	_	2	obj	_	Pinyin=yóuxì|Gloss=game (CL:場/场[chang3])|HanViet=du hí|Trad=遊戲
+5	，	_	PUNCT	,	_	2	punct	_	_
+6	多	_	ADV	RB	_	7	advmod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+7	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+8	一会儿	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yīhuìr|Gloss=a moment|HanViet=nhất hội nhi|Trad=一會兒
+9	书	_	NOUN	NN	_	7	obj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+10	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u06-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 弟弟明白了，就一直这样做。
+# translation = My younger brother understood and kept doing this.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	弟弟	_	NOUN	NN	_	8	nsubj	_	Pinyin=dìdi|Gloss=younger brother|HanViet=đệ đệ
+2	明白	_	VERB	VV	_	8	advcl	_	Pinyin=míngbái|Gloss=clear; obvious; unequivocal|HanViet=minh bạch
+3	了	_	PART	UH	_	2	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	就	_	SCONJ	RB	_	8	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+6	一直	_	ADV	RB	_	8	advmod	_	Pinyin=yìzhí|Gloss=straight (in a straight line)|HanViet=nhất trực
+7	这样	_	ADV	RB	_	8	advmod	_	Pinyin=zhèyàng|Gloss=this way; like this; so|HanViet=giá dạng|Trad=這樣
+8	做	_	VERB	VV	_	0	root	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+9	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u06-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 最后，他的学习好了很多，也参加了比赛。
+# translation = In the end his schoolwork got much better, and he got to play in the match.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	最后	_	NOUN	NN	_	11	nmod:tmod	_	Pinyin=zuìhòu|Gloss=final; last; ultimate|HanViet=tối hậu|Trad=最後
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	他	_	PRON	PRP	Person=3	5	det	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	学习	_	NOUN	NN	_	11	nsubj	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+6	好	_	ADJ	JJ	_	11	advcl	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	很多	_	NUM	CD	NumType=Card	6	obj	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+9	，	_	PUNCT	,	_	6	punct	_	_
+10	也	_	SCONJ	RB	_	11	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+11	参加	_	VERB	VV	_	0	root	_	Pinyin=cānjiā|Gloss=to participate; to take part; to join|HanViet=tham gia|Trad=參加
+12	了	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	比赛	_	NOUN	NN	_	11	obj	_	Pinyin=bǐsài|Gloss=competition (sports etc)|HanViet=tỷ,bỉ tái|Trad=比賽
+14	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l3-u06-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 比赛的那天，他们踢得很努力，但是没有得到第一。
+# translation = On the day of the match they played hard, but they did not take first place.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	比赛	_	NOUN	NN	_	4	nmod	_	Pinyin=bǐsài|Gloss=competition (sports etc)|HanViet=tỷ,bỉ tái|Trad=比賽
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	那	_	DET	DT	_	4	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+4	天	_	NOUN	NNB	_	13	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	他们	_	PRON	PRP	Number=Plur|Person=3	13	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+7	踢	_	VERB	VV	_	13	advcl	_	Pinyin=tī|Gloss=to kick|HanViet=thích
+8	得	_	PART	DEV	_	7	aux	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+9	很	_	ADV	RB	_	7	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+10	努力	_	ADJ	JJ	_	7	xcomp	_	Pinyin=nǔlì|Gloss=to make an effort; to try hard; to strive|HanViet=nỗ lực
+11	，	_	PUNCT	,	_	7	punct	_	_
+12	但是	_	SCONJ	RB	_	13	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+13	没有	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+14	得到	_	VERB	VV	_	13	xcomp	_	Pinyin=dédào|Gloss=to get; to obtain; to receive|HanViet=đắc đáo
+15	第一	_	NUM	CD	NumType=Ord	14	obj	_	Pinyin=dìyī|Gloss=first|HanViet=đệ nhất
+16	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l3-u06-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 晚上，弟弟哭了。
+# translation = That evening my brother cried.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	弟弟	_	NOUN	NN	_	4	nsubj	_	Pinyin=dìdi|Gloss=younger brother|HanViet=đệ đệ
+4	哭	_	VERB	VV	_	0	root	_	Pinyin=kū|Gloss=to cry; to weep|HanViet=khóc
+5	了	_	PART	UH	_	4	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u06-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 爸爸告诉他，第一没有那么重要，最重要的是跟大家一起努力过。
+# translation = Dad told him that first place wasn't that important; what mattered most was having worked hard together with everyone.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	爸爸	_	NOUN	NN	_	2	nsubj	_	Pinyin=bàbà|Gloss=(coll.) father; dad|HanViet=ba ba
+2	告诉	_	VERB	VV	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+3	他	_	PRON	PRP	Person=3	2	obj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	，	_	PUNCT	,	_	13	punct	_	_
+5	第一	_	NUM	CD	NumType=Ord	6	obl	_	Pinyin=dìyī|Gloss=first|HanViet=đệ nhất
+6	没有	_	VERB	VV	Polarity=Neg	13	advcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+7	那么	_	ADV	RB	_	8	advmod	_	Pinyin=nàme|Gloss=like that; in that way; to that extent|HanViet=na ma|Trad=那麼
+8	重要	_	ADJ	JJ	_	6	xcomp	_	Pinyin=zhòngyào|Gloss=important; significant; major|HanViet=trọng yếu
+9	，	_	PUNCT	,	_	13	punct	_	_
+10	最	_	ADV	RB	_	11	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+11	重要	_	ADJ	JJ	_	13	csubj	_	Pinyin=zhòngyào|Gloss=important; significant; major|HanViet=trọng yếu
+12	的	_	SCONJ	DEC	_	11	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	是	_	VERB	VC	_	2	parataxis	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+14	跟	_	ADP	IN	_	15	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+15	大家	_	PRON	PRD	_	17	obl	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+16	一起	_	ADV	RB	_	17	advmod	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+17	努力	_	VERB	VV	_	13	xcomp	_	Pinyin=nǔlì|Gloss=to make an effort; to try hard; to strive|HanViet=nỗ lực
+18	过	_	AUX	AS	Aspect=Perf	17	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+19	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u06-12
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 弟弟想了一会儿，回答说他明白了，他打算明年再参加。
+# translation = My brother thought for a moment, answered that he understood, and said he planned to play again next year.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	弟弟	_	NOUN	NN	_	6	nsubj	_	Pinyin=dìdi|Gloss=younger brother|HanViet=đệ đệ
+2	想	_	VERB	VV	_	6	advcl	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	一会儿	_	ADJ	JJ	_	2	xcomp	_	Pinyin=yīhuìr|Gloss=a moment|HanViet=nhất hội nhi|Trad=一會兒
+5	，	_	PUNCT	,	_	2	punct	_	_
+6	回答	_	VERB	VV	_	0	root	_	Pinyin=huídá|Gloss=to reply; to answer|HanViet=hồi đáp
+7	说	_	VERB	VV	_	6	xcomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+8	他	_	PRON	PRP	Person=3	9	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+9	明白	_	VERB	VV	_	7	ccomp	_	Pinyin=míngbái|Gloss=clear; obvious; unequivocal|HanViet=minh bạch
+10	了	_	PART	UH	_	9	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	，	_	PUNCT	,	_	13	punct	_	_
+12	他	_	PRON	PRP	Person=3	13	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+13	打算	_	VERB	VV	_	6	parataxis	_	Pinyin=dǎsuàn|Gloss=to plan|HanViet=đả toán
+14	明年	_	NOUN	NN	_	16	nmod:tmod	_	Pinyin=míngnián|Gloss=next year|HanViet=minh niên
+15	再	_	ADV	RB	_	16	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+16	参加	_	VERB	VV	_	13	xcomp	_	Pinyin=cānjiā|Gloss=to participate; to take part; to join|HanViet=tham gia|Trad=參加
+17	。	_	PUNCT	.	_	6	punct	_	_

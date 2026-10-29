@@ -1,0 +1,160 @@
+# sent_id = korwus-graded-l1-u14-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 今天妈妈生病了，我早上六点起床做早饭。
+# translation = My mom got sick today, so I got up at six in the morning to make breakfast.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	今天	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+2	妈妈	_	NOUN	NN	_	3	nsubj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+3	生病	_	VERB	VV	_	0	root	_	Pinyin=shēngbìng|Gloss=to fall ill|HanViet=sinh bệnh
+4	了	_	PART	UH	_	3	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	，	_	PUNCT	,	_	11	punct	_	_
+6	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	早上	_	NOUN	NN	_	9	nmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+8	六	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+9	点	_	NOUN	NNB	_	11	obl	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+10	起床	_	VERB	VV	_	11	advcl	_	Pinyin=qǐchuáng|Gloss=to get out of bed; to get up|HanViet=khởi sàng
+11	做	_	VERB	VV	_	3	parataxis	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+12	早饭	_	NOUN	NN	_	11	obj	_	Pinyin=zǎofàn|Gloss=breakfast|HanViet=tảo phạn|Trad=早飯
+13	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u14-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 早饭有鸡蛋和面包，妈妈吃了一些。
+# translation = Breakfast was eggs and bread, and Mom ate some.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	早饭	_	NOUN	NN	_	2	nsubj	_	Pinyin=zǎofàn|Gloss=breakfast|HanViet=tảo phạn|Trad=早飯
+2	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+3	鸡蛋	_	NOUN	NN	_	2	obj	_	Pinyin=jīdàn|Gloss=(chicken) egg|HanViet=kê đản|Trad=雞蛋
+4	和	_	CCONJ	CC	_	5	cc	_	Pinyin=huó|Gloss=to combine a powdery substance (flour, plaster etc) with water|HanViet=hoà
+5	面包	_	NOUN	NN	_	3	conj	_	Pinyin=miànbāo|Gloss=bread|HanViet=miến bao|Trad=麵包
+6	，	_	PUNCT	,	_	8	punct	_	_
+7	妈妈	_	NOUN	NN	_	8	nsubj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+8	吃	_	VERB	VV	_	2	parataxis	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	一些	_	ADJ	JJ	_	8	xcomp	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+11	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l1-u14-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 吃了饭，她睡了一个小时的觉。
+# translation = After eating, she slept for an hour.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	吃	_	VERB	VV	_	6	advcl	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+2	了	_	AUX	AS	Aspect=Perf	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	饭	_	NOUN	NN	_	1	obj	_	Pinyin=fàn|Gloss=cooked rice|HanViet=phạn|Trad=飯
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	她	_	PRON	PRP	Person=3	6	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+6	睡	_	VERB	VV	_	0	root	_	Pinyin=shuì|Gloss=to sleep|HanViet=thuỵ
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+9	个	_	NOUN	NNB	_	8	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	小时	_	NOUN	NN	_	12	nmod	_	Pinyin=xiǎoshí|Gloss=hour|HanViet=tiểu thời|Trad=小時
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	觉	_	NOUN	NN	_	6	obj	_	Pinyin=jué|Gloss=to feel|HanViet=giác|Trad=覺
+13	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l1-u14-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我去商店给她买水果。
+# translation = I went to the shop to buy her some fruit.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	去	_	VERB	VV	_	4	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+3	商店	_	NOUN	NN	_	2	obj	_	Pinyin=shāngdiàn|Gloss=store; shop|HanViet=thương điếm
+4	给	_	VERB	VV	_	0	root	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+5	她	_	PRON	PRP	Person=3	6	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+6	买	_	VERB	VV	_	4	ccomp	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+7	水果	_	NOUN	NN	_	6	obj	_	Pinyin=shuǐguǒ|Gloss=fruit|HanViet=thuỷ quả
+8	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l1-u14-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 这个商店卖的水果有的大，有的小。
+# translation = Some of the fruit the shop sells is big, and some is small.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	商店	_	NOUN	NN	_	4	nsubj	_	Pinyin=shāngdiàn|Gloss=store; shop|HanViet=thương điếm
+4	卖	_	VERB	VV	_	6	acl:relcl	_	Pinyin=mài|Gloss=to sell|HanViet=mại|Trad=賣
+5	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	水果	_	NOUN	NN	_	8	nsubj	_	Pinyin=shuǐguǒ|Gloss=fruit|HanViet=thuỷ quả
+7	有的	_	DET	DT	_	8	nsubj	_	Pinyin=yǒude|Gloss=(there are) some (who are...)|HanViet=hữu đích
+8	大	_	ADJ	JJ	_	0	root	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+9	，	_	PUNCT	,	_	11	punct	_	_
+10	有的	_	ADV	RB	_	11	advmod	_	Pinyin=yǒude|Gloss=(there are) some (who are...)|HanViet=hữu đích
+11	小	_	ADJ	JJ	_	8	parataxis	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+12	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l1-u14-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 在商店里，我看见了两个中学同学，她们也来买水果。
+# translation = In the shop I saw two of my middle school classmates; they had come to buy fruit too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	VERB	VV	_	6	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	商店	_	NOUN	NN	_	1	obj	_	Pinyin=shāngdiàn|Gloss=store; shop|HanViet=thương điếm
+3	里	_	ADP	IN	_	2	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	看见	_	VERB	VV	_	0	root	_	Pinyin=kànjiàn|Gloss=to see; to catch sight of|HanViet=khán kiến|Trad=看見
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	两	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+9	个	_	NOUN	NNB	_	8	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	中学	_	NOUN	NN	_	11	nmod	_	Pinyin=zhōngxué|Gloss=middle school|HanViet=trung học|Trad=中學
+11	同学	_	NOUN	NN	_	6	obj	_	Pinyin=tóngxué|Gloss=to study at the same school|HanViet=đồng học|Trad=同學
+12	，	_	PUNCT	,	_	15	punct	_	_
+13	她们	_	PRON	PRP	Number=Plur|Person=3	15	nsubj	_	Pinyin=tāmen|Gloss=they; them (females)|HanViet=tha môn|Trad=她們
+14	也来	_	ADV	RB	_	15	advmod	_	Pinyin=yělái|Gloss=也 also; too; as well; (not ...) either + 来 to come|GlossFrom=parts|HanViet=dã lai|Trad=也來
+15	买	_	VERB	VV	_	6	parataxis	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+16	水果	_	NOUN	NN	_	15	obj	_	Pinyin=shuǐguǒ|Gloss=fruit|HanViet=thuỷ quả
+17	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l1-u14-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我买了一些苹果给妈妈吃。
+# translation = I bought some apples for Mom to eat.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	买	_	VERB	VV	_	0	root	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	一些	_	ADJ	JJ	_	5	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+5	苹果	_	PROPN	NNP	_	2	obj	_	Pinyin=píngguǒ|Gloss=Apple (American tech company)|HanViet=bình quả|Trad=蘋果
+6	给	_	VERB	VV	_	8	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+7	妈妈	_	NOUN	NN	_	6	obj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+8	吃	_	VERB	VV	_	2	ccomp	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+9	。	_	PUNCT	.	_	2	punct	_	_

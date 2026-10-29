@@ -1,0 +1,363 @@
+# sent_id = korwus-graded-l4-05-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# newpar
+# text = 去年暑假，我报名参加了一个志愿者活动，去一个小村子的学校教孩子们英语。
+# translation = Last summer vacation, I signed up for a volunteer program to teach children English at a school in a small village.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	去年	_	NOUN	NN	_	2	nmod	_	Pinyin=qùnián|Gloss=last year|HanViet=khứ,khử niên
+2	暑假	_	NOUN	NN	_	14	nmod:tmod	_	Pinyin=shǔjià|Gloss=summer vacation|HanViet=thử giá
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	我	_	PRON	PRP	Person=1	14	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	报名	_	VERB	VV	_	14	advcl	_	Pinyin=bàomíng|Gloss=to sign up|HanViet=báo danh|Trad=報名
+6	参加	_	VERB	VV	_	5	xcomp	_	Pinyin=cānjiā|Gloss=to participate; to take part; to join|HanViet=tham gia|Trad=參加
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	一	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+9	个	_	NOUN	NNB	_	8	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	志愿	_	VERB	VV	_	11	compound	_	Pinyin=zhìyuàn|Gloss=aspiration|HanViet=chí nguyện|Trad=志願
+11	者	_	PART	SFN	_	12	nmod	_	Pinyin=zhě|Gloss=(after a verb or adjective) one who (is) ...|HanViet=giả
+12	活动	_	NOUN	NN	_	6	obj	_	Pinyin=huódòng|Gloss=to exercise; to move about; to work out|HanViet=hoạt động|Trad=活動
+13	，	_	PUNCT	,	_	6	punct	_	_
+14	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+15	一	_	NUM	CD	NumType=Card	18	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+16	个	_	NOUN	NNB	_	15	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+17	小	_	PART	PFA	_	18	case	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+18	村子	_	NOUN	NN	_	23	nmod	_	Pinyin=cūnzi|Gloss=village|HanViet=thôn tử
+19	的	_	PART	DEC	Case=Gen	18	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+20	学校	_	NOUN	NN	_	21	compound	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+21	教	_	PART	SFN	_	23	nmod	_	Pinyin=jiào|Gloss=(bound form) to teach; to instruct|HanViet=giáo
+22	孩子	_	NOUN	NN	_	23	compound	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+23	们	_	PART	SFN	Number=Plur	14	obj	_	Pinyin=men|Gloss=plural marker for pronouns, and nouns referring to individuals|HanViet=môn|Trad=們
+24	英	_	PROPN	NNP	_	25	compound	_	Pinyin=yīng|Gloss=United Kingdom|HanViet=anh
+25	语	_	PART	SFN	_	23	appos	_	Pinyin=yǔ|Gloss=dialect|HanViet=ngữ|Trad=語
+26	。	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = korwus-graded-l4-05-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 出发以前，我心里有点儿担心，因为我从来没有当过老师。
+# translation = Before setting off, I was a bit worried, because I had never been a teacher.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	出发	_	VERB	VV	_	6	advcl	_	Pinyin=chūfā|Gloss=to set off; to start (on a journey)|HanViet=xuất phát|Trad=出發
+2	以前	_	ADP	IN	_	1	mark	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	心里	_	ADV	RB	_	6	advmod	_	Pinyin=xīnlǐ|Gloss=chest|HanViet=tâm lý|Trad=心裡
+6	有点	_	VERB	VV	_	0	root	_	Pinyin=yǒudiǎn|Gloss=a little|HanViet=hữu điểm|Trad=有點
+7	儿	_	NOUN	NN	_	8	nsubj	_	Pinyin=ér|Gloss=child|HanViet=nhi|Trad=兒
+8	担心	_	VERB	VV	_	6	ccomp	_	Pinyin=dānxīn|Gloss=anxious|HanViet=đảm,đam tâm|Trad=擔心
+9	，	_	PUNCT	,	_	13	punct	_	_
+10	因为	_	ADP	IN	_	13	case	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+11	我	_	PRON	PRP	Person=1	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+12	从来	_	ADV	RB	_	13	advmod	_	Pinyin=cónglái|Gloss=always|HanViet=tòng,tùng lai|Trad=從來
+13	没有	_	VERB	VV	Polarity=Neg	6	ccomp	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+14	当过	_	VERB	VV	_	13	xcomp	_	Pinyin=dāngguò|Gloss=当 (onom.) dong + 过 to cross|GlossFrom=parts|HanViet=đương,đang quá,qua|Trad=當過
+15	老师	_	NOUN	NN	_	14	obj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+16	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l4-05-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 到了那里以后，我发现条件比我想象的还要差。
+# translation = After I got there, I found that conditions were even worse than I had imagined.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	到	_	VERB	VV	_	7	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+2	了	_	AUX	AS	Aspect=Perf	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	那里	_	PRON	PRD	_	1	obj	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+4	以后	_	ADP	IN	_	1	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+5	，	_	PUNCT	,	_	1	punct	_	_
+6	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	发现	_	VERB	VV	_	0	root	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+8	条件	_	NOUN	NN	_	15	nsubj	_	Pinyin=tiáojiàn|Gloss=condition; circumstance; term; factor|HanViet=điều kiện|Trad=條件
+9	比	_	ADP	IN	_	10	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+10	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+11	想象	_	VERB	VV	_	15	ccomp	_	Pinyin=xiǎngxiàng|Gloss=to imagine; to envision|HanViet=tưởng tượng
+12	的	_	SCONJ	DEC	_	11	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	还	_	SCONJ	RB	_	15	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+14	要	_	AUX	MD	_	15	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+15	差	_	ADJ	JJ	_	7	ccomp	_	Pinyin=chà|Gloss=different|HanViet=sai
+16	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l4-05-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 教室很旧，冬天没有暖气，夏天也没有空调。
+# translation = The classrooms were old, with no heating in winter and no air conditioning in summer.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	教室	_	NOUN	NN	_	2	nsubj	_	Pinyin=jiàoshì|Gloss=classroom|HanViet=giáo thất
+2	很旧	_	ADJ	JJ	_	10	advcl	_	Pinyin=hěnjiù|Gloss=很 very; quite + 旧 old|GlossFrom=parts|HanViet=ngận cựu|Trad=很舊
+3	，	_	PUNCT	,	_	10	punct	_	_
+4	冬天	_	NOUN	NN	_	5	nsubj	_	Pinyin=dōngtiān|Gloss=winter|HanViet=đông thiên
+5	没有	_	VERB	VV	Polarity=Neg	10	advcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+6	暖气	_	NOUN	NN	_	5	obj	_	Pinyin=nuǎnqì|Gloss=central heating|HanViet=noãn khí|Trad=暖氣
+7	，	_	PUNCT	,	_	5	punct	_	_
+8	夏天	_	NOUN	NN	_	10	nmod:tmod	_	Pinyin=xiàtiān|Gloss=summer|HanViet=hạ thiên
+9	也	_	SCONJ	RB	_	10	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+10	没有	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+11	空调	_	NOUN	NN	_	10	obj	_	Pinyin=kōngtiáo|Gloss=air conditioning|HanViet=không điều|Trad=空調
+12	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l4-05-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 但是孩子们都非常热情，每天早上都在门口等着我们。
+# translation = But the children were all very warm, and every morning they waited for us at the door.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	但是	_	SCONJ	RB	_	13	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+2	孩子	_	NOUN	NN	_	3	compound	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+3	们	_	PART	SFN	Number=Plur	13	nsubj	_	Pinyin=men|Gloss=plural marker for pronouns, and nouns referring to individuals|HanViet=môn|Trad=們
+4	都	_	SCONJ	RB	_	6	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+5	非常	_	ADV	RB	_	6	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+6	热情	_	ADJ	JJ	_	13	advcl	_	Pinyin=rèqíng|Gloss=cordial|HanViet=nhiệt tình|Trad=熱情
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	每天	_	DET	DT	_	9	det	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+9	早上	_	NOUN	NN	_	13	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+10	都	_	SCONJ	RB	_	13	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+11	在	_	VERB	VV	_	13	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+12	门口	_	NOUN	NN	_	11	obj	_	Pinyin=ménkǒu|Gloss=doorway|HanViet=môn khẩu|Trad=門口
+13	等	_	VERB	VV	_	0	root	_	Pinyin=děng|Gloss=to wait for; to await|HanViet=đẳng
+14	着	_	AUX	AS	Aspect=Prog	13	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+15	我们	_	PRON	PRP	Number=Plur|Person=1	13	obj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+16	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l4-05-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 刚开始上课的时候，他们很害羞，不敢开口说话。
+# translation = When classes first started, they were very shy and didn't dare to speak.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	刚	_	ADV	RB	_	2	advmod	_	Pinyin=gāng|Gloss=(literary) hard; firm; strong|HanViet=cương|Trad=剛
+2	开始	_	VERB	VV	_	5	acl:relcl	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+3	上课	_	VERB	VV	_	2	xcomp	_	Pinyin=shàngkè|Gloss=to go to class|HanViet=thượng khoá|Trad=上課
+4	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	时候	_	NOUN	NN	_	13	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	他们	_	PRON	PRP	Number=Plur|Person=3	9	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+8	很	_	ADV	RB	_	9	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+9	害羞	_	ADJ	JJ	_	12	advcl	_	Pinyin=hàixiū|Gloss=shy|HanViet=hại tu
+10	，	_	PUNCT	,	_	9	punct	_	_
+11	不敢	_	AUX	MD	Polarity=Neg	13	aux	_	Pinyin=bùgǎn|Gloss=不 no; not so + 敢 to dare|GlossFrom=parts|HanViet=bất cảm
+12	开口	_	VERB	VV	_	13	advcl	_	Pinyin=kāikǒu|Gloss=to open one's mouth|HanViet=khai khẩu|Trad=開口
+13	说话	_	VERB	VV	_	0	root	_	Pinyin=shuōhuà|Gloss=to speak|HanViet=thuyết thoại|Trad=說話
+14	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l4-05-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 于是我想了一个办法，用唱歌和做游戏的方式来教单词。
+# translation = So I came up with an idea: teaching words through singing and playing games.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	于是	_	SCONJ	RB	_	3	mark	_	Pinyin=yúshì|Gloss=thereupon; as a result; consequently; thus; hence|HanViet=ư thị|Trad=於是
+2	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	想	_	VERB	VV	_	0	root	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+4	了	_	AUX	AS	Aspect=Perf	3	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	一	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+6	个	_	NOUN	NNB	_	5	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	办法	_	NOUN	NN	_	17	nsubj	_	Pinyin=bànfǎ|Gloss=way of handling sth; means; measure; (practical) solution to a problem|HanViet=biện pháp|Trad=辦法
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	用	_	VERB	VV	_	17	advcl	_	Pinyin=yòng|Gloss=to use; to make use of; to employ|HanViet=dụng
+10	唱歌	_	VERB	VV	_	9	xcomp	_	Pinyin=chànggē|Gloss=to sing a song|HanViet=xướng ca
+11	和	_	CCONJ	CC	_	12	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+12	做	_	VERB	VV	_	10	conj	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+13	游戏	_	NOUN	NN	_	12	obj	_	Pinyin=yóuxì|Gloss=game (CL:場/场[chang3])|HanViet=du hí|Trad=遊戲
+14	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	方式	_	NOUN	NN	_	9	obj	_	Pinyin=fāngshì|Gloss=way; method; manner; mode; pattern (of behavior etc)|HanViet=phương thức
+16	来	_	SCONJ	RB	_	17	mark	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+17	教	_	VERB	VV	_	3	ccomp	_	Pinyin=jiào|Gloss=(bound form) to teach; to instruct|HanViet=giáo
+18	单词	_	NOUN	NN	_	17	obj	_	Pinyin=dāncí|Gloss=word|HanViet=đơn,đan từ|Trad=單詞
+19	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l4-05-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 慢慢地，孩子们越来越积极，下课以后还会跑来问我问题。
+# translation = Gradually the children became more and more active, and after class they would even run over to ask me questions.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	慢慢	_	ADJ	JJ	_	7	advmod	_	Pinyin=mànmàn|Gloss=slowly; gradually|HanViet=mạn mạn
+2	地	_	SCONJ	DEV	_	1	mark:adv	_	Pinyin=dì|Gloss=earth|HanViet=địa
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	孩子	_	NOUN	NN	_	5	compound	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+5	们	_	PART	SFN	Number=Plur	7	nsubj	_	Pinyin=men|Gloss=plural marker for pronouns, and nouns referring to individuals|HanViet=môn|Trad=們
+6	越来越	_	ADV	RB	_	7	advmod	_	Pinyin=yuèláiyuè|Gloss=more and more|HanViet=việt lai việt|Trad=越來越
+7	积极	_	ADJ	JJ	_	0	root	_	Pinyin=jījí|Gloss=active|HanViet=tích cực|Trad=積極
+8	，	_	PUNCT	,	_	14	punct	_	_
+9	下课	_	VERB	VV	_	14	advcl	_	Pinyin=xiàkè|Gloss=to finish class|HanViet=hạ khoá|Trad=下課
+10	以后	_	ADP	IN	_	9	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+11	还	_	SCONJ	RB	_	14	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+12	会	_	AUX	MD	_	14	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+13	跑来	_	VERB	VV	_	14	advcl	_	Pinyin=pǎolái|Gloss=跑 (of an animal) to paw (the ground) + 来 to come|GlossFrom=parts|HanViet=bào lai|Trad=跑來
+14	问	_	VERB	VV	_	7	parataxis	_	Pinyin=wèn|Gloss=to ask; to inquire|HanViet=vấn|Trad=問
+15	我	_	PRON	PRP	Person=1	16	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+16	问题	_	NOUN	NN	_	14	obj	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+17	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l4-05-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 除了上课，我们还帮村里的老人打扫房间、整理东西。
+# translation = Besides teaching, we also helped the elderly people in the village clean their rooms and sort out their things.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	除	_	VERB	VV	_	11	advcl	_	Pinyin=chú|Gloss=to get rid of|HanViet=trừ
+2	了	_	AUX	AS	Aspect=Perf	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	上课	_	VERB	VV	_	1	xcomp	_	Pinyin=shàngkè|Gloss=to go to class|HanViet=thượng khoá|Trad=上課
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	我们	_	PRON	PRP	Number=Plur|Person=1	7	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+6	还	_	SCONJ	RB	_	7	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+7	帮	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=bāng|Gloss=to help|HanViet=bang|Trad=幫
+8	村里	_	NOUN	NN	_	10	nmod	_	Pinyin=cūnlǐ|Gloss=village|HanViet=thôn lý|Trad=村裡
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	老人	_	NOUN	NN	_	7	obj	_	Pinyin=lǎorén|Gloss=old man or woman|HanViet=lão nhân
+11	打扫	_	VERB	VV	_	7	ccomp	_	Pinyin=dǎsǎo|Gloss=to clean|HanViet=đả tảo|Trad=打掃
+12	房间	_	NOUN	NN	_	11	obj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+13	、	_	PUNCT	EC	_	14	punct	_	_
+14	整理	_	VERB	VV	_	11	conj	_	Pinyin=zhěnglǐ|Gloss=to arrange|HanViet=chỉnh lý
+15	东西	_	NOUN	NN	_	14	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+16	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l4-05-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 这段时间虽然很辛苦，但是我每天都过得很充实。
+# translation = Although this time was very hard work, every day felt full and meaningful.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	段	_	NOUN	NNB	_	1	clf	_	Pinyin=duàn|Gloss=paragraph|HanViet=đoạn
+3	时间	_	NOUN	NN	_	12	nsubj	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+4	虽然	_	ADP	IN	_	6	case	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+5	很	_	ADV	RB	_	6	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+6	辛苦	_	ADJ	JJ	_	12	xcomp	_	Pinyin=xīnkǔ|Gloss=exhausting|HanViet=tân khổ
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	但是	_	SCONJ	RB	_	12	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+9	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	每天	_	DET	DT	_	12	nmod:tmod	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+11	都	_	SCONJ	RB	_	12	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+12	过	_	VERB	VV	_	0	root	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+13	得	_	PART	DEV	_	12	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+14	很	_	ADV	RB	_	15	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+15	充实	_	ADJ	JJ	_	12	xcomp	_	Pinyin=chōngshí|Gloss=rich|HanViet=sung thực|Trad=充實
+16	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l4-05-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 离开的那天，孩子们送给我一张自己画的画，上面写着“谢谢老师”。
+# translation = On the day I left, the children gave me a picture they had drawn themselves, with "Thank you, teacher" written on it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	离开	_	VERB	VV	_	4	acl:relcl	_	Pinyin=líkāi|Gloss=to depart; to leave|HanViet=ly khai|Trad=離開
+2	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	那	_	DET	DT	_	4	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+4	天	_	NOUN	NNB	_	8	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	孩子	_	NOUN	NN	_	7	compound	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+7	们	_	PART	SFN	Number=Plur	8	nsubj	_	Pinyin=men|Gloss=plural marker for pronouns, and nouns referring to individuals|HanViet=môn|Trad=們
+8	送给	_	VERB	VV	_	0	root	_	Pinyin=sònggěi|Gloss=to send|HanViet=tống cấp|Trad=送給
+9	我	_	PRON	PRP	Person=1	8	iobj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	一	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+11	张	_	NOUN	NNB	_	10	clf	_	Pinyin=zhāng|Gloss=to open up|HanViet=trương|Trad=張
+12	自己	_	PRON	PRD	_	15	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+13	画	_	VERB	VV	_	15	acl:relcl	_	Pinyin=huà|Gloss=to draw; to paint|HanViet=hoạ,hoạch|Trad=畫
+14	的	_	SCONJ	DEC	_	13	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	画	_	NOUN	NN	_	8	obj	_	Pinyin=huà|Gloss=to draw; to paint|HanViet=hoạ,hoạch|Trad=畫
+16	，	_	PUNCT	,	_	8	punct	_	_
+17	上面	_	NOUN	NN	_	18	obl	_	Pinyin=shàngmiàn|Gloss=on top of|HanViet=thượng diện
+18	写	_	VERB	VV	_	8	ccomp	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+19	着	_	AUX	AS	Aspect=Prog	18	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+20	“	_	PUNCT	``	_	21	punct	_	_
+21	谢谢	_	VERB	VV	_	22	amod	_	Pinyin=xièxiè|Gloss=to thank|HanViet=tạ tạ|Trad=謝謝
+22	老师	_	NOUN	NN	_	18	obj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+23	”	_	PUNCT	''	_	22	punct	_	_
+24	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l4-05-12
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 那一刻，我感动得差点儿哭了。
+# translation = At that moment, I was so moved that I almost cried.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那	_	DET	DT	_	2	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	一刻	_	NOUN	NN	_	5	obl	_	Pinyin=yīkè|Gloss=a quarter of an hour; 15 minutes|HanViet=nhất khắc
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	感动	_	VERB	VV	_	0	root	_	Pinyin=gǎndòng|Gloss=to move (sb)|HanViet=cảm động|Trad=感動
+6	得	_	PART	DEV	_	5	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+7	差点	_	ADV	RB	_	9	advmod	_	Pinyin=chàdiǎn|Gloss=almost|HanViet=sai điểm|Trad=差點
+8	儿	_	NOUN	NN	_	9	nsubj	_	Pinyin=ér|Gloss=child|HanViet=nhi|Trad=兒
+9	哭	_	VERB	VV	_	5	xcomp	_	Pinyin=kū|Gloss=to cry; to weep|HanViet=khóc
+10	了	_	PART	UH	_	9	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l4-05-13
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 这次经历让我懂得，帮助别人其实也是在丰富自己的生活。
+# translation = This experience taught me that helping others is actually also enriching your own life.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	次	_	NOUN	NNB	_	1	clf	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+3	经历	_	NOUN	NN	_	4	nsubj	_	Pinyin=jīnglì|Gloss=to experience; to go through|HanViet=kinh lịch|Trad=經歷
+4	让	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	懂得	_	VERB	VV	_	4	ccomp	_	Pinyin=dǒngde|Gloss=to understand; to know; to comprehend|HanViet=đổng đắc
+7	，	_	PUNCT	,	_	11	punct	_	_
+8	帮助	_	VERB	VV	_	11	csubj	_	Pinyin=bāngzhù|Gloss=assistance; aid|HanViet=bang trợ|Trad=幫助
+9	别人	_	NOUN	NN	_	11	nsubj	_	Pinyin=biérén|Gloss=other people; others; other person|HanViet=biệt nhân|Trad=別人
+10	其实	_	ADV	RB	_	11	advmod	_	Pinyin=qíshí|Gloss=actually; in fact; really|HanViet=kỳ thực|Trad=其實
+11	也是	_	VERB	VC	_	4	parataxis	_	Pinyin=yěshì|Gloss=也 also; too; as well; (not ...) either + 是 to be (followed by substantives only)|GlossFrom=parts|HanViet=dã thị
+12	在	_	ADV	RB	_	13	advmod	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+13	丰富	_	ADJ	JJ	_	16	acl:relcl	_	Pinyin=fēngfù|Gloss=to enrich|HanViet=phong phú|Trad=豐富
+14	自己	_	PRON	PRD	_	13	obj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+15	的	_	SCONJ	DEC	_	13	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	生活	_	NOUN	NN	_	11	xcomp	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+17	。	_	PUNCT	.	_	4	punct	_	_

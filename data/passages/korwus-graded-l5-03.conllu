@@ -1,0 +1,320 @@
+# sent_id = korwus-graded-l5-03-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# newpar
+# text = 随着城市的不断发展，噪音已经是许多居民最头疼的问题之一。
+# translation = As cities keep developing, noise has become one of the biggest headaches for many residents.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	随	_	VERB	VV	_	18	acl	_	Pinyin=suí|Gloss=to follow|HanViet=tuỳ|Trad=隨
+2	着	_	AUX	AS	Aspect=Prog	1	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+3	城市	_	NOUN	NN	_	6	nmod	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	不断	_	ADJ	JJ	_	6	amod	_	Pinyin=bùduàn|Gloss=unceasing|HanViet=bất đoạn,đoán|Trad=不斷
+6	发展	_	NOUN	NN	_	1	obj	_	Pinyin=fāzhǎn|Gloss=development|HanViet=phát triển|Trad=發展
+7	，	_	PUNCT	,	_	1	punct	_	_
+8	噪音	_	NOUN	NN	_	18	nsubj	_	Pinyin=zàoyīn|Gloss=rumble|HanViet=táo âm
+9	已经	_	ADV	RB	_	18	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+10	是	_	AUX	VC	_	18	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+11	许多	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=xǔduō|Gloss=many|HanViet=hứa đa|Trad=許多
+12	居民	_	NOUN	NN	_	14	nsubj	_	Pinyin=jūmín|Gloss=resident; inhabitant|HanViet=cư dân
+13	最	_	ADV	RB	_	14	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+14	头疼	_	ADJ	JJ	_	16	acl:relcl	_	Pinyin=tóuténg|Gloss=headache|HanViet=đầu đông|Trad=頭疼
+15	的	_	SCONJ	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	问题	_	NOUN	NN	_	18	nmod	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+17	之	_	PART	DEC	Case=Gen	16	case	_	Pinyin=zhī|Gloss=(possessive particle, literary equivalent of 的[de5])|HanViet=chi
+18	一	_	NUM	CD	NumType=Card	0	root	_	Pinyin=yī|Gloss=one|HanViet=nhất
+19	。	_	PUNCT	.	_	18	punct	_	_
+
+# sent_id = korwus-graded-l5-03-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 白天，马路上的汽车喇叭声响个不停。
+# translation = During the day, car horns on the streets never stop honking.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	白天	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=báitiān|Gloss=daytime|HanViet=bạch thiên
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	马路	_	NOUN	NN	_	7	nmod	_	Pinyin=mǎlù|Gloss=street|HanViet=mã lộ|Trad=馬路
+4	上	_	NOUN	NN	_	3	acl	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+5	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	汽车	_	NOUN	NN	_	7	nmod	_	Pinyin=qìchē|Gloss=car|HanViet=khí xa|Trad=汽車
+7	喇叭	_	NOUN	NN	_	8	nsubj	_	Pinyin=lǎbā|Gloss=horn (automobile etc)|HanViet=lạt bá
+8	声响	_	VERB	VV	_	0	root	_	Pinyin=shēngxiǎng|Gloss=sound|HanViet=thanh hưởng|Trad=聲響
+9	个	_	NOUN	NNB	_	10	nsubj	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	不停	_	VERB	VV	Polarity=Neg	8	xcomp	_	Pinyin=bùtíng|Gloss=incessant|HanViet=bất đình
+11	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l5-03-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 晚上，附近的工地常常还在施工。
+# translation = At night, the nearby construction site is often still working.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	附近	_	NOUN	NN	_	5	nmod	_	Pinyin=fùjìn|Gloss=nearby; neighboring|HanViet=phụ cận
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	工地	_	NOUN	NN	_	9	nsubj	_	Pinyin=gōngdì|Gloss=construction site|HanViet=công địa
+6	常常	_	ADV	RB	_	9	advmod	_	Pinyin=chángcháng|Gloss=frequently; often|HanViet=thường thường
+7	还	_	SCONJ	RB	_	9	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+8	在	_	ADV	RB	_	9	advmod	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+9	施工	_	VERB	VV	_	0	root	_	Pinyin=shīgōng|Gloss=construction|HanViet=thi,thí công
+10	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l5-03-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 我家楼下有一家餐厅，每到周末，客人们聊天的声音一直持续到半夜。
+# translation = There is a restaurant downstairs from my home, and every weekend the sound of the customers chatting goes on until midnight.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	compound	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	家	_	PART	SFN	_	3	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+3	楼下	_	NOUN	NN	_	4	nsubj	_	Pinyin=lóuxià|Gloss=downstairs|HanViet=lâu hạ|Trad=樓下
+4	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+5	一	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+6	家	_	NOUN	NNB	_	5	clf	_	Pinyin=jiā|Gloss=home|HanViet=gia
+7	餐厅	_	NOUN	NN	_	4	obj	_	Pinyin=cāntīng|Gloss=dining hall|HanViet=xan sảnh,thính|Trad=餐廳
+8	，	_	PUNCT	,	_	17	punct	_	_
+9	每到	_	DET	DT	_	10	det	_	Pinyin=měidào|Gloss=每 each + 到 to reach; to arrive|GlossFrom=parts|HanViet=mỗi đáo
+10	周末	_	NOUN	NN	_	17	nmod:tmod	_	Pinyin=zhōumò|Gloss=weekend|HanViet=chu mạt|Trad=週末
+11	，	_	PUNCT	,	_	10	punct	_	_
+12	客人们	_	NOUN	NN	_	13	nsubj	_	Pinyin=kèrénmen|Gloss=客人 visitor; guest + 们 plural marker for pronouns, and nouns referring to individuals|GlossFrom=parts|HanViet=khách nhân môn|Trad=客人們
+13	聊天	_	VERB	VV	_	15	acl:relcl	_	Pinyin=liáotiān|Gloss=to chat; to gossip|HanViet=liêu thiên
+14	的	_	SCONJ	DEC	_	13	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	声音	_	NOUN	NN	_	17	nsubj	_	Pinyin=shēngyīn|Gloss=sound; voice|HanViet=thanh âm|Trad=聲音
+16	一直	_	ADV	RB	_	17	advmod	_	Pinyin=yìzhí|Gloss=straight (in a straight line)|HanViet=nhất trực
+17	持续	_	VERB	VV	_	4	parataxis	_	Pinyin=chíxù|Gloss=to continue; to last; to persist|HanViet=trì tục|Trad=持續
+18	到	_	VERB	VV	_	17	mark	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+19	半夜	_	NOUN	NN	_	17	obj	_	Pinyin=bànyè|Gloss=midnight|HanViet=bán dạ
+20	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l5-03-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# newpar
+# text = 长期生活在这样的环境中，人很容易感到心烦，也特别容易累。
+# translation = Living in an environment like this for a long time, people easily get irritated and tire very easily.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	长期	_	NOUN	NN	_	2	nmod:tmod	_	Pinyin=chángqī|Gloss=long-term; for a protracted period|HanViet=trường kỳ|Trad=長期
+2	生活	_	VERB	VV	_	12	csubj	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+3	在	_	ADP	IN	_	6	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	这样	_	PRON	PRD	_	6	det	_	Pinyin=zhèyàng|Gloss=this way; like this; so|HanViet=giá dạng|Trad=這樣
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	环境	_	NOUN	NN	_	2	obl	_	Pinyin=huánjìng|Gloss=environment|HanViet=hoàn cảnh|Trad=環境
+7	中	_	ADP	IN	_	6	case	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+8	，	_	PUNCT	,	_	6	punct	_	_
+9	人	_	NOUN	NN	_	12	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+10	很	_	ADV	RB	_	11	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+11	容易	_	ADV	RB	_	12	advmod	_	Pinyin=róngyì|Gloss=easy; straightforward|HanViet=dung dịch,dị
+12	感到	_	VERB	VV	_	0	root	_	Pinyin=gǎndào|Gloss=to feel; to sense; to perceive|HanViet=cảm đáo
+13	心烦	_	ADJ	JJ	_	12	xcomp	_	Pinyin=xīnfán|Gloss=to feel agitated|HanViet=tâm phiền|Trad=心煩
+14	，	_	PUNCT	,	_	18	punct	_	_
+15	也	_	CCONJ	CC	_	18	cc	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+16	特别	_	ADV	RB	_	18	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+17	容易	_	ADV	RB	_	18	advmod	_	Pinyin=róngyì|Gloss=easy; straightforward|HanViet=dung dịch,dị
+18	累	_	ADJ	JJ	_	12	conj	_	Pinyin=lèi|Gloss=tired|HanViet=luỵ
+19	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l5-03-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 有研究表明，噪音不但会影响睡眠质量，而且可能对身体健康造成伤害。
+# translation = Research shows that noise not only affects the quality of sleep but may also harm physical health.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+2	研究	_	NOUN	NN	_	3	nsubj	_	Pinyin=yánjiū|Gloss=research|HanViet=nghiên cứu
+3	表明	_	VERB	VV	_	1	ccomp	_	Pinyin=biǎomíng|Gloss=to make clear|HanViet=biểu minh
+4	，	_	PUNCT	,	_	17	punct	_	_
+5	噪音	_	NOUN	NN	_	17	nsubj	_	Pinyin=zàoyīn|Gloss=rumble|HanViet=táo âm
+6	不但	_	ADP	IN	_	8	case	_	Pinyin=bùdàn|Gloss=not only (... but also ...)|HanViet=bất đãn
+7	会	_	AUX	MD	_	8	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+8	影响	_	VERB	VV	_	17	xcomp	_	Pinyin=yǐngxiǎng|Gloss=influence|HanViet=ảnh hưởng|Trad=影響
+9	睡眠	_	NOUN	NN	_	10	nmod	_	Pinyin=shuìmián|Gloss=sleep|HanViet=thuỵ miên
+10	质量	_	NOUN	NN	_	8	obj	_	Pinyin=zhìliàng|Gloss=(physics) mass|HanViet=chất lượng|Trad=質量
+11	，	_	PUNCT	,	_	8	punct	_	_
+12	而且	_	SCONJ	RB	_	17	mark	_	Pinyin=érqiě|Gloss=(not only ...) but also|HanViet=nhi thả
+13	可能	_	AUX	MD	_	17	aux	_	Pinyin=kěnéng|Gloss=might (happen)|HanViet=khả năng
+14	对	_	ADP	IN	_	16	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+15	身体	_	NOUN	NN	_	16	nmod	_	Pinyin=shēntǐ|Gloss=the body|HanViet=thân thể|Trad=身體
+16	健康	_	NOUN	NN	_	17	obl	_	Pinyin=jiànkāng|Gloss=health|HanViet=kiện khang
+17	造成	_	VERB	VV	_	1	parataxis	_	Pinyin=zàochéng|Gloss=to bring about; to create; to cause|HanViet=tạo thành
+18	伤害	_	NOUN	NN	_	17	obj	_	Pinyin=shānghài|Gloss=to injure; to harm|HanViet=thương hại|Trad=傷害
+19	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l5-03-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 孩子们在吵闹的环境里学习，注意力也很难集中。
+# translation = When children study in a noisy environment, it is also hard for them to concentrate.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	孩子	_	NOUN	NN	_	2	compound	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+2	们	_	PART	SFN	Number=Plur	8	nsubj	_	Pinyin=men|Gloss=plural marker for pronouns, and nouns referring to individuals|HanViet=môn|Trad=們
+3	在	_	ADP	IN	_	6	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	吵闹	_	ADJ	JJ	_	6	amod	_	Pinyin=chǎonào|Gloss=noisy|HanViet=sảo náo|Trad=吵鬧
+5	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	环境	_	NOUN	NN	_	8	obl	_	Pinyin=huánjìng|Gloss=environment|HanViet=hoàn cảnh|Trad=環境
+7	里	_	ADP	IN	_	6	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+8	学习	_	VERB	VV	_	0	root	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+9	，	_	PUNCT	,	_	14	punct	_	_
+10	注意	_	VERB	VV	_	11	compound	_	Pinyin=zhùyì|Gloss=to take note of; to pay attention to|HanViet=chú ý
+11	力	_	PART	SFN	_	14	nsubj	_	Pinyin=lì|Gloss=power|HanViet=lực
+12	也	_	SCONJ	RB	_	14	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+13	很难	_	ADV	RB	_	14	advmod	_	Pinyin=hěnnán|Gloss=很 very; quite + 难 difficult (to...)|GlossFrom=parts|HanViet=ngận nan|Trad=很難
+14	集中	_	ADJ	JJ	_	8	parataxis	_	Pinyin=jízhōng|Gloss=to concentrate|HanViet=tập trung
+15	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l5-03-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# newpar
+# text = 为了解决这个问题，政府采取了一些措施，比如限制施工时间、在道路两边种树、禁止在市中心按喇叭。
+# translation = To solve this problem, the government has taken some measures, such as limiting construction hours, planting trees on both sides of roads and banning horn use in the city center.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	为了	_	ADP	IN	_	2	case	_	Pinyin=wèile|Gloss=for; for the purpose of; in order to|HanViet=vị,vì liễu|Trad=為了
+2	解决	_	VERB	VV	_	8	xcomp	_	Pinyin=jiějué|Gloss=to solve; to resolve; to settle (a problem)|HanViet=giải quyết|Trad=解決
+3	这	_	DET	DT	_	5	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+4	个	_	NOUN	NNB	_	3	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	问题	_	NOUN	NN	_	2	obj	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+6	，	_	PUNCT	,	_	2	punct	_	_
+7	政府	_	NOUN	NN	_	8	nsubj	_	Pinyin=zhèngfǔ|Gloss=government|HanViet=chính phủ
+8	采取	_	VERB	VV	_	0	root	_	Pinyin=cǎiqǔ|Gloss=to adopt or carry out (measures, policies, course of action)|HanViet=thái thủ|Trad=採取
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	一些	_	ADJ	JJ	_	11	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+11	措施	_	NOUN	NN	_	13	nsubj	_	Pinyin=cuòshī|Gloss=measure|HanViet=thố thi,thí
+12	，	_	PUNCT	,	_	11	punct	_	_
+13	比如	_	VERB	VV	_	8	ccomp	_	Pinyin=bǐrú|Gloss=for example; for instance; such as|HanViet=tỷ,bỉ như
+14	限制	_	VERB	VV	_	13	xcomp	_	Pinyin=xiànzhì|Gloss=to restrict|HanViet=hạn chế
+15	施工	_	NOUN	NN	_	16	nmod	_	Pinyin=shīgōng|Gloss=construction|HanViet=thi,thí công
+16	时间	_	NOUN	NN	_	14	obj	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+17	、	_	PUNCT	EC	_	22	punct	_	_
+18	在	_	ADP	IN	_	19	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+19	道路	_	NOUN	NN	_	22	obl	_	Pinyin=dàolù|Gloss=road|HanViet=đạo lộ
+20	两	_	NUM	CD	NumType=Card	21	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+21	边	_	NOUN	NN	_	19	acl	_	Pinyin=biān|Gloss=side|HanViet=biên|Trad=邊
+22	种树	_	VERB	VV	_	14	conj	_	Pinyin=zhòngshù|Gloss=to plant trees|HanViet=trồng,chúng thụ|Trad=種樹
+23	、	_	PUNCT	EC	_	24	punct	_	_
+24	禁止	_	VERB	VV	_	14	conj	_	Pinyin=jìnzhǐ|Gloss=to prohibit|HanViet=cấm chỉ
+25	在	_	VERB	VV	_	24	xcomp	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+26	市	_	NOUN	NN	_	27	nmod	_	Pinyin=shì|Gloss=market|HanViet=thị
+27	中心	_	NOUN	NN	_	25	obj	_	Pinyin=zhōngxīn|Gloss=center; heart; core|HanViet=trung tâm
+28	按	_	ADP	IN	_	29	case	_	Pinyin=àn|Gloss=to press|HanViet=án
+29	喇叭	_	NOUN	NN	_	24	obl	_	Pinyin=lǎbā|Gloss=horn (automobile etc)|HanViet=lạt bá
+30	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l5-03-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 这些做法取得了一定的效果。
+# translation = These measures have had some effect.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这些	_	DET	DT	_	2	det	_	Pinyin=zhèxiē|Gloss=these|HanViet=giá ta|Trad=這些
+2	做法	_	NOUN	NN	_	3	nsubj	_	Pinyin=zuòfǎ|Gloss=way of handling sth|HanViet=tố pháp
+3	取得	_	VERB	VV	_	0	root	_	Pinyin=qǔdé|Gloss=to acquire; to get; to obtain|HanViet=thủ đắc
+4	了	_	AUX	AS	Aspect=Perf	3	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	一定	_	ADJ	JJ	_	7	amod	_	Pinyin=yídìng|Gloss=surely; certainly; definitely|HanViet=nhất định
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	效果	_	NOUN	NN	_	3	obj	_	Pinyin=xiàoguǒ|Gloss=result|HanViet=hiệu quả
+8	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l5-03-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 不过，我认为减少噪音也需要每个人的配合。
+# translation = However, I think reducing noise also requires everyone's cooperation.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	不过	_	SCONJ	RB	_	4	mark	_	Pinyin=bùguò|Gloss=only|HanViet=bất quá,qua|Trad=不過
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	认为	_	VERB	VV	_	0	root	_	Pinyin=rènwéi|Gloss=to believe; to think; to consider; to feel|HanViet=nhận vi|Trad=認為
+5	减少	_	VERB	VV	_	8	advcl	_	Pinyin=jiǎnshǎo|Gloss=to lessen; to decrease; to reduce; to lower|HanViet=giảm thiểu|Trad=減少
+6	噪音	_	NOUN	NN	_	5	obj	_	Pinyin=zàoyīn|Gloss=rumble|HanViet=táo âm
+7	也	_	SCONJ	RB	_	8	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+8	需要	_	VERB	VV	_	4	ccomp	_	Pinyin=xūyào|Gloss=to need; to want; to demand; to require|HanViet=nhu yếu
+9	每个	_	DET	DT	_	10	det	_	Pinyin=měigè|Gloss=each; every|HanViet=mỗi cá|Trad=每個
+10	人	_	NOUN	NN	_	12	nmod	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	配合	_	NOUN	NN	_	8	obj	_	Pinyin=pèihé|Gloss=matching|HanViet=phối hợp,hiệp
+13	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l5-03-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 在公共场所小声说话，晚上把音乐的声音调低一点，这些看起来都是小事，却能让我们的城市变得更加安静、舒适。
+# translation = Speaking quietly in public places and turning music down a little at night may seem like small things, but they can make our city quieter and more comfortable.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	ADP	IN	_	3	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	公共	_	ADJ	JJ	_	3	amod	_	Pinyin=gōnggòng|Gloss=public; common; communal|HanViet=công cộng
+3	场所	_	NOUN	NN	_	5	obl	_	Pinyin=chǎngsuǒ|Gloss=location|HanViet=trường sở|Trad=場所
+4	小声	_	ADV	RB	_	5	advmod	_	Pinyin=xiǎoshēng|Gloss=in a low voice|HanViet=tiểu thanh|Trad=小聲
+5	说话	_	VERB	VV	_	12	ccomp	_	Pinyin=shuōhuà|Gloss=to speak|HanViet=thuyết thoại|Trad=說話
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	晚上	_	NOUN	NN	_	12	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+8	把	_	ADP	BB	_	11	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+9	音乐	_	NOUN	NN	_	11	nmod	_	Pinyin=yīnyuè|Gloss=music|HanViet=âm nhạc|Trad=音樂
+10	的	_	PART	DEC	Case=Gen	9	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	声音	_	NOUN	NN	_	12	obl:patient	_	Pinyin=shēngyīn|Gloss=sound; voice|HanViet=thanh âm|Trad=聲音
+12	调低	_	VERB	VV	_	0	root	_	Pinyin=diàodī|Gloss=调 to transfer + 低 low|GlossFrom=parts|HanViet=điệu đê|Trad=調低
+13	一	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=yì|Gloss=one|HanViet=nhất
+14	点	_	NOUN	NN	_	12	iobj	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+15	，	_	PUNCT	,	_	24	punct	_	_
+16	这些	_	DET	DT	_	17	nsubj	_	Pinyin=zhèxiē|Gloss=these|HanViet=giá ta|Trad=這些
+17	看	_	VERB	VV	_	20	csubj	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+18	起来	_	VERB	VV	_	17	mark	_	Pinyin=qǐlái|Gloss=to stand up; to get up|HanViet=khởi lai|Trad=起來
+19	都是	_	AUX	VC	_	20	cop	_	Pinyin=dōushì|Gloss=都 all; both; entirely + 是 to be (followed by substantives only)|GlossFrom=parts|HanViet=đô thị
+20	小事	_	NOUN	NN	_	24	advcl	_	Pinyin=xiǎoshì|Gloss=trifle|HanViet=tiểu sự
+21	，	_	PUNCT	,	_	20	punct	_	_
+22	却	_	SCONJ	RB	_	24	mark	_	Pinyin=què|Gloss=but|HanViet=khước|Trad=卻
+23	能	_	AUX	MD	_	24	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+24	让	_	VERB	VV	Voice=Cau	12	parataxis	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+25	我们	_	PRON	PRP	Number=Plur|Person=1	27	det	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+26	的	_	PART	DEC	Case=Gen	25	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+27	城市	_	NOUN	NN	_	28	nsubj	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+28	变得	_	VERB	VV	_	24	ccomp	_	Pinyin=biàndé|Gloss=to become|HanViet=biến đắc|Trad=變得
+29	更加	_	ADV	RB	_	30	advmod	_	Pinyin=gèngjiā|Gloss=more (than sth else)|HanViet=càng,cánh gia
+30	安静	_	ADJ	JJ	_	28	xcomp	_	Pinyin=ānjìng|Gloss=quiet|HanViet=an tĩnh|Trad=安靜
+31	、	_	PUNCT	EC	_	32	punct	_	_
+32	舒适	_	ADJ	JJ	_	30	conj	_	Pinyin=shūshì|Gloss=cozy|HanViet=thư thích|Trad=舒適
+33	。	_	PUNCT	.	_	12	punct	_	_

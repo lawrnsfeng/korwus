@@ -1,0 +1,175 @@
+# sent_id = korwus-graded-l1-u11-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 星期六下午，我和妹妹去买衣服。
+# translation = On Saturday afternoon, my younger sister and I went to buy clothes.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	星期	_	NOUN	NN	_	3	nmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+2	六	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+3	下午	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=xiàwǔ|Gloss=afternoon|HanViet=hạ ngọ
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	和	_	ADP	IN	_	7	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+7	妹妹	_	NOUN	NN	_	9	obl	_	Pinyin=mèimèi|Gloss=younger sister|HanViet=muội muội
+8	去	_	SCONJ	RB	_	9	mark	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+9	买	_	VERB	VV	_	0	root	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+10	衣服	_	NOUN	NN	_	9	obj	_	Pinyin=yīfú|Gloss=clothes|HanViet=y phục
+11	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l1-u11-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 妹妹看见一件很漂亮的衣服，八十元。
+# translation = My sister saw a very pretty piece of clothing for eighty yuan.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	妹妹	_	NOUN	NN	_	2	nsubj	_	Pinyin=mèimèi|Gloss=younger sister|HanViet=muội muội
+2	看见	_	VERB	VV	_	0	root	_	Pinyin=kànjiàn|Gloss=to see; to catch sight of|HanViet=khán kiến|Trad=看見
+3	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+4	件	_	NOUN	NNB	_	3	clf	_	Pinyin=jiàn|Gloss=item|HanViet=kiện
+5	很	_	ADV	RB	_	6	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+6	漂亮	_	ADJ	JJ	_	8	amod	_	Pinyin=piàoliàng|Gloss=pretty; beautiful|HanViet=phiếu lượng
+7	的	_	SCONJ	DEC	_	6	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	衣服	_	NOUN	NN	_	2	obj	_	Pinyin=yīfú|Gloss=clothes|HanViet=y phục
+9	，	_	PUNCT	,	_	11	punct	_	_
+10	八十	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=bāshí|Gloss=eighty|HanViet=bát thập
+11	元	_	NOUN	NNB	_	8	appos	_	Pinyin=yuán|Gloss=Yuan dynasty (1279–1368)|HanViet=nguyên
+12	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l1-u11-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 她穿了一下，衣服大了。
+# translation = She tried it on, but it was too big.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	穿	_	VERB	VV	_	0	root	_	Pinyin=chuān|Gloss=to bore through; to pierce; to perforate|HanViet=xuyên
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	一下	_	PRON	PRD	_	2	obj	_	Pinyin=yīxià|Gloss=(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)|HanViet=nhất hạ
+5	，	_	PUNCT	,	_	7	punct	_	_
+6	衣服	_	NOUN	NN	_	7	nsubj	_	Pinyin=yīfú|Gloss=clothes|HanViet=y phục
+7	大	_	ADJ	JJ	_	2	parataxis	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+8	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l1-u11-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 那儿的一个先生给她找了一件小的。
+# translation = A man there found her a smaller one.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那儿	_	PRON	PRD	_	5	det	_	Pinyin=nàr|Gloss=there|HanViet=na nhi|Trad=那兒
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	一	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+4	个	_	NOUN	NNB	_	3	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	先生	_	NOUN	NN	_	6	nsubj	_	Pinyin=xiānshēng|Gloss=teacher|HanViet=tiên sinh
+6	给	_	VERB	VV	_	0	root	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+7	她	_	PRON	PRP	Person=3	6	obj	_	Pinyin=tā|Gloss=she|HanViet=tha
+8	找	_	VERB	VV	_	6	ccomp	_	Pinyin=zhǎo|Gloss=to try to find|HanViet=trảo
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+11	件	_	NOUN	NNB	_	12	nsubj	_	Pinyin=jiàn|Gloss=item|HanViet=kiện
+12	小	_	ADJ	JJ	_	8	ccomp	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+13	的	_	PART	UH	_	8	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l1-u11-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 她穿这件，真漂亮！
+# translation = In this one, she looked really pretty!
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	穿	_	VERB	VV	_	0	root	_	Pinyin=chuān|Gloss=to bore through; to pierce; to perforate|HanViet=xuyên
+3	这	_	DET	DT	_	4	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+4	件	_	NOUN	NNB	_	2	obj	_	Pinyin=jiàn|Gloss=item|HanViet=kiện
+5	，	_	PUNCT	,	_	2	punct	_	_
+6	真	_	ADV	RB	_	7	advmod	_	Pinyin=zhēn|Gloss=really|HanViet=chân
+7	漂亮	_	ADJ	JJ	_	2	parataxis	_	Pinyin=piàoliàng|Gloss=pretty; beautiful|HanViet=phiếu lượng
+8	！	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l1-u11-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 妹妹非常高兴，对那个先生说了谢谢。
+# translation = My sister was very happy and said thank you to the man.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	妹妹	_	NOUN	NN	_	3	nsubj	_	Pinyin=mèimèi|Gloss=younger sister|HanViet=muội muội
+2	非常	_	ADV	RB	_	3	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+3	高兴	_	ADJ	JJ	_	0	root	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+4	，	_	PUNCT	,	_	9	punct	_	_
+5	对	_	ADP	IN	_	8	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+6	那	_	DET	DT	_	8	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+7	个	_	NOUN	NNB	_	6	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	先生	_	NOUN	NN	_	9	obl	_	Pinyin=xiānshēng|Gloss=teacher|HanViet=tiên sinh
+9	说	_	VERB	VV	_	3	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+10	了	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	谢谢	_	PROPN	NNP	_	9	obj	_	Pinyin=xièxiè|Gloss=to thank|HanViet=tạ tạ|Trad=謝謝
+12	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u11-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我们在那儿玩了两个半小时。
+# translation = We spent two and a half hours there.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	4	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	在	_	VERB	VV	_	4	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	那儿	_	PRON	PRD	_	2	obj	_	Pinyin=nàr|Gloss=there|HanViet=na nhi|Trad=那兒
+4	玩	_	VERB	VV	_	0	root	_	Pinyin=wán|Gloss=to play|HanViet=ngoạn
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	两	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+7	个	_	NOUN	NNB	_	6	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	半	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=bàn|Gloss=half|HanViet=bán
+9	小时	_	NOUN	NN	_	4	obj	_	Pinyin=xiǎoshí|Gloss=hour|HanViet=tiểu thời|Trad=小時
+10	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l1-u11-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 晚上八点，妹妹说她想休息一下。
+# translation = At eight in the evening, my sister said she wanted to rest for a bit.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	3	nmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	八	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=bā|Gloss=eight|HanViet=bát
+3	点	_	NOUN	NNB	_	6	nmod:tmod	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	妹妹	_	NOUN	NN	_	6	nsubj	_	Pinyin=mèimèi|Gloss=younger sister|HanViet=muội muội
+6	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+7	她	_	PRON	PRP	Person=3	9	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+8	想	_	AUX	MD	_	9	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+9	休息	_	VERB	VV	_	6	ccomp	_	Pinyin=xiūxī|Gloss=rest|HanViet=hưu tức
+10	一下	_	ADJ	JJ	_	9	xcomp	_	Pinyin=yīxià|Gloss=(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)|HanViet=nhất hạ
+11	。	_	PUNCT	.	_	6	punct	_	_

@@ -1,0 +1,241 @@
+# sent_id = korwus-graded-l2-u02-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# newpar
+# text = 我家楼下住着一位先生，他已经八十多岁了，孩子都不在这里。
+# translation = An old gentleman lives downstairs from me; he's already over eighty, and none of his children live here.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	compound	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	家	_	PART	SFN	_	3	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+3	楼下	_	NOUN	NN	_	4	nsubj	_	Pinyin=lóuxià|Gloss=downstairs|HanViet=lâu hạ|Trad=樓下
+4	住	_	VERB	VV	_	0	root	_	Pinyin=zhù|Gloss=to live; to reside; to stay|HanViet=trú,trụ
+5	着	_	AUX	AS	Aspect=Prog	4	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+6	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+7	位	_	NOUN	NNB	_	6	clf	_	Pinyin=wèi|Gloss=position|HanViet=vị
+8	先生	_	NOUN	NN	_	4	obj	_	Pinyin=xiānshēng|Gloss=teacher|HanViet=tiên sinh
+9	，	_	PUNCT	,	_	13	punct	_	_
+10	他	_	PRON	PRP	Person=3	13	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+11	已经	_	ADV	RB	_	13	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+12	八十多	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=bāshíduō|Gloss=八十 eighty + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=bát thập đa
+13	岁	_	NOUN	NNB	_	4	parataxis	_	Pinyin=suì|Gloss=years old|HanViet=tuế|Trad=歲
+14	了	_	PART	UH	_	13	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+15	，	_	PUNCT	,	_	19	punct	_	_
+16	孩子	_	NOUN	NN	_	19	nsubj	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+17	都	_	SCONJ	RB	_	19	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+18	不	_	ADV	RB	Polarity=Neg	19	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+19	在	_	VERB	VV	_	4	parataxis	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+20	这里	_	PRON	PRD	_	19	obj	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+21	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l2-u02-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 昨天下午下雨了，雨非常大。
+# translation = Yesterday afternoon it rained, and the rain was very heavy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	昨天	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=zuótiān|Gloss=yesterday|HanViet=tạc thiên
+2	下午	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=xiàwǔ|Gloss=afternoon|HanViet=hạ ngọ
+3	下雨	_	VERB	VV	_	0	root	_	Pinyin=xiàyǔ|Gloss=to rain|HanViet=hạ vũ
+4	了	_	PART	UH	_	3	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	，	_	PUNCT	,	_	8	punct	_	_
+6	雨	_	NOUN	NN	_	8	nsubj	_	Pinyin=yǔ|Gloss=rain|HanViet=vũ
+7	非常	_	ADV	RB	_	8	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+8	大	_	ADJ	JJ	_	3	parataxis	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+9	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l2-u02-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我正在看电视，听见外边有人叫我。
+# translation = I was watching TV when I heard someone outside calling me.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	正	_	ADV	RB	_	4	advmod	_	Pinyin=zhèng|Gloss=straight|HanViet=chính,chánh
+3	在	_	ADV	RB	_	4	advmod	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	看	_	VERB	VV	_	7	advcl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+5	电视	_	NOUN	NN	_	4	obj	_	Pinyin=diànshì|Gloss=television; TV|HanViet=điện thị|Trad=電視
+6	，	_	PUNCT	,	_	4	punct	_	_
+7	听见	_	VERB	VV	_	0	root	_	Pinyin=tīngjiàn|Gloss=to hear|HanViet=thính kiến|Trad=聽見
+8	外边	_	NOUN	NN	_	7	obj	_	Pinyin=wàibiān|Gloss=outside|HanViet=ngoại biên|Trad=外邊
+9	有	_	VERB	VV	_	7	ccomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+10	人	_	NOUN	NN	_	11	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+11	叫	_	VERB	VV	_	9	ccomp	_	Pinyin=jiào|Gloss=to shout|HanViet=khiếu
+12	我	_	PRON	PRP	Person=1	11	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+13	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l2-u02-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我到外边一看，是那位先生。
+# translation = I went outside to look, and it was that gentleman.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	到	_	VERB	VV	_	5	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+3	外边	_	NOUN	NN	_	2	obj	_	Pinyin=wàibiān|Gloss=outside|HanViet=ngoại biên|Trad=外邊
+4	一	_	NUM	CD	NumType=Card	5	obl	_	Pinyin=yī|Gloss=one|HanViet=nhất
+5	看	_	VERB	VV	_	10	acl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	是	_	AUX	VC	_	10	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+8	那	_	DET	DT	_	10	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+9	位	_	NOUN	NNB	_	8	clf	_	Pinyin=wèi|Gloss=position|HanViet=vị
+10	先生	_	NOUN	NN	_	0	root	_	Pinyin=xiānshēng|Gloss=teacher|HanViet=tiên sinh
+11	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l2-u02-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 他说他的狗上午自己走了，到现在还没有回来。
+# translation = He said his dog had wandered off in the morning and still hadn't come back.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	他	_	PRON	PRP	Person=3	5	det	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	狗	_	NOUN	NN	_	8	nsubj	_	Pinyin=gǒu|Gloss=dog|HanViet=cẩu
+6	上午	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=shàngwǔ|Gloss=morning|HanViet=thượng ngọ
+7	自己	_	PRON	PRD	_	8	nsubj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+8	走	_	VERB	VV	_	14	advcl	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+9	了	_	PART	UH	_	8	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	，	_	PUNCT	,	_	8	punct	_	_
+11	到	_	ADP	IN	_	12	case	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+12	现在	_	NOUN	NN	_	14	obl	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+13	还	_	SCONJ	RB	_	14	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+14	没有	_	VERB	VV	Polarity=Neg	2	ccomp	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+15	回来	_	VERB	VV	_	14	xcomp	_	Pinyin=huílái|Gloss=to return; to come back|HanViet=hồi lai|Trad=回來
+16	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l2-u02-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我对他说：“您别站在外边了，我帮您找。”
+# translation = I said to him, "Please don't stand out here; I'll find it for you."
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	对	_	ADP	IN	_	3	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+3	他	_	PRON	PRP	Person=3	4	obl	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+5	：	_	PUNCT	:	_	17	punct	_	_
+6	“	_	PUNCT	``	_	17	punct	_	_
+7	您	_	PRON	PRP	Person=2	9	nsubj	_	Pinyin=nín|Gloss=you (courteous, as opposed to informal 你[ni3])|HanViet=nâm
+8	别	_	ADV	RB	Polarity=Neg	9	advmod	_	Pinyin=bié|Gloss=to leave; to part (from)|HanViet=biệt|Trad=別
+9	站	_	VERB	VV	_	17	advcl	_	Pinyin=zhàn|Gloss=station|HanViet=trạm
+10	在	_	VERB	VV	_	9	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+11	外边	_	NOUN	NN	_	9	obj	_	Pinyin=wàibiān|Gloss=outside|HanViet=ngoại biên|Trad=外邊
+12	了	_	PART	UH	_	9	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	，	_	PUNCT	,	_	9	punct	_	_
+14	我	_	PRON	PRP	Person=1	17	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+15	帮	_	VERB	VV	_	17	advcl	_	Pinyin=bāng|Gloss=to help|HanViet=bang|Trad=幫
+16	您	_	PRON	PRP	Person=2	15	obj	_	Pinyin=nín|Gloss=you (courteous, as opposed to informal 你[ni3])|HanViet=nâm
+17	找	_	VERB	VV	_	4	ccomp	_	Pinyin=zhǎo|Gloss=to try to find|HanViet=trảo
+18	。	_	PUNCT	.	_	17	punct	_	_
+19	”	_	PUNCT	''	_	17	punct	_	_
+
+# sent_id = korwus-graded-l2-u02-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我找了一个小时，在一个商店里看见了那条狗。
+# translation = I searched for an hour and spotted the dog in a store.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	找	_	VERB	VV	_	13	advcl	_	Pinyin=zhǎo|Gloss=to try to find|HanViet=trảo
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	一	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	小时	_	NOUN	NN	_	2	obj	_	Pinyin=xiǎoshí|Gloss=hour|HanViet=tiểu thời|Trad=小時
+7	，	_	PUNCT	,	_	2	punct	_	_
+8	在	_	ADP	IN	_	11	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+9	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+10	个	_	NOUN	NNB	_	9	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+11	商店	_	NOUN	NN	_	13	obl	_	Pinyin=shāngdiàn|Gloss=store; shop|HanViet=thương điếm
+12	里	_	NOUN	NN	_	11	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+13	看见	_	VERB	VV	_	0	root	_	Pinyin=kànjiàn|Gloss=to see; to catch sight of|HanViet=khán kiến|Trad=看見
+14	了	_	AUX	AS	Aspect=Perf	13	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+15	那	_	DET	DT	_	17	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+16	条	_	NOUN	NNB	_	15	clf	_	Pinyin=tiáo|Gloss=strip|HanViet=điều|Trad=條
+17	狗	_	NOUN	NN	_	13	obj	_	Pinyin=gǒu|Gloss=dog|HanViet=cẩu
+18	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l2-u02-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我和狗一起回来的时候，他高兴得说了好几次谢谢。
+# translation = When the dog and I got back, he was so happy he thanked me again and again.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	和	_	ADP	IN	_	3	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+3	狗	_	NOUN	NN	_	5	obl	_	Pinyin=gǒu|Gloss=dog|HanViet=cẩu
+4	一起	_	NOUN	NN	_	5	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+5	回来	_	VERB	VV	_	7	acl:relcl	_	Pinyin=huílái|Gloss=to return; to come back|HanViet=hồi lai|Trad=回來
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	时候	_	NOUN	NN	_	12	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	他	_	PRON	PRP	Person=3	12	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+10	高兴	_	ADJ	JJ	_	12	advmod	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+11	得	_	PART	DEV	_	10	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+12	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+13	了	_	AUX	AS	Aspect=Perf	12	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+14	好	_	ADV	RB	_	16	advmod	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+15	几	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+16	次	_	NOUN	NNB	_	17	obl	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+17	谢谢	_	VERB	VV	_	12	xcomp	_	Pinyin=xièxiè|Gloss=to thank|HanViet=tạ tạ|Trad=謝謝
+18	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l2-u02-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 一件小事就能让他这么高兴，我希望能多帮他。
+# translation = Such a small thing could make him this happy; I hope I can help him more.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+2	件	_	NOUN	NNB	_	1	clf	_	Pinyin=jiàn|Gloss=item|HanViet=kiện
+3	小事	_	NOUN	NN	_	6	nsubj	_	Pinyin=xiǎoshì|Gloss=trifle|HanViet=tiểu sự
+4	就	_	SCONJ	RB	_	6	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+5	能	_	AUX	MD	_	6	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+6	让	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+7	他	_	PRON	PRP	Person=3	9	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+8	这么	_	ADV	RB	_	9	advmod	_	Pinyin=zhème|Gloss=so much|HanViet=giá ma|Trad=這麼
+9	高兴	_	ADJ	JJ	_	6	ccomp	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+10	，	_	PUNCT	,	_	12	punct	_	_
+11	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+12	希望	_	VERB	VV	_	6	parataxis	_	Pinyin=xīwàng|Gloss=to hope|HanViet=hy vọng
+13	能	_	AUX	MD	_	15	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+14	多	_	ADV	RB	_	15	advmod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+15	帮	_	VERB	VV	_	12	xcomp	_	Pinyin=bāng|Gloss=to help|HanViet=bang|Trad=幫
+16	他	_	PRON	PRP	Person=3	15	obj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+17	。	_	PUNCT	.	_	6	punct	_	_

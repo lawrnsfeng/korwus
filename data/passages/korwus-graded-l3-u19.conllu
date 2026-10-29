@@ -1,0 +1,196 @@
+# sent_id = korwus-graded-l3-u19-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 秋天的假期要到了，我心里特别高兴。
+# translation = My autumn holiday is coming up, and I'm really happy about it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	秋天	_	NOUN	NN	_	3	nmod	_	Pinyin=qiūtiān|Gloss=autumn|HanViet=thu thiên
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	假期	_	NOUN	NN	_	5	nsubj	_	Pinyin=jiàqī|Gloss=holiday period; vacation|HanViet=giá kỳ
+4	要	_	AUX	MD	_	5	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+5	到	_	VERB	VV	_	0	root	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+6	了	_	PART	UH	_	5	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	，	_	PUNCT	,	_	9	punct	_	_
+8	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	心里	_	VERB	VV	_	5	parataxis	_	Pinyin=xīnlǐ|Gloss=chest|HanViet=tâm lý|Trad=心裡
+10	特别	_	ADV	RB	_	11	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+11	高兴	_	ADJ	JJ	_	9	xcomp	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+12	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u19-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我想出去玩，可是不知道去哪儿好。
+# translation = I want to go out and have some fun, but I don't know where to go.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	想	_	AUX	MD	_	4	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+3	出去	_	VERB	VV	_	4	advcl	_	Pinyin=chūqù|Gloss=to go out|HanViet=xuất khứ,khử
+4	玩	_	VERB	VV	_	8	advcl	_	Pinyin=wán|Gloss=to play|HanViet=ngoạn
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	可是	_	SCONJ	RB	_	8	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+7	不	_	ADV	RB	Polarity=Neg	8	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+8	知道	_	VERB	VV	_	0	root	_	Pinyin=zhīdào|Gloss=to know; to become aware of|HanViet=tri đạo
+9	去	_	VERB	VV	_	11	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+10	哪儿	_	PRON	WP	_	9	obj	_	Pinyin=nǎr|Gloss=where?|HanViet=nả,na nhi|Trad=哪兒
+11	好	_	ADJ	JJ	_	8	xcomp	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+12	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u19-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我朋友说可以去公园，那里有很大的草地，树也变成了黄色。
+# translation = My friend said I could go to the park, which has a big lawn, and the trees there have turned yellow.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	朋友	_	NOUN	NN	_	3	nsubj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+3	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+4	可以	_	AUX	MD	_	5	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+5	去	_	VERB	VV	_	3	xcomp	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+6	公园	_	NOUN	NN	_	5	obj	_	Pinyin=gōngyuán|Gloss=park (for public recreation)|HanViet=công viên|Trad=公園
+7	，	_	PUNCT	,	_	9	punct	_	_
+8	那里	_	PRON	PRD	_	9	nsubj	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+9	有	_	VERB	VV	_	3	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+10	很大	_	ADJ	JJ	_	12	amod	_	Pinyin=hěndà|Gloss=很 very; quite + 大 big; large; great|GlossFrom=parts|HanViet=ngận đại
+11	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	草地	_	NOUN	NN	_	9	obj	_	Pinyin=cǎodì|Gloss=lawn|HanViet=thảo địa
+13	，	_	PUNCT	,	_	16	punct	_	_
+14	树	_	NOUN	NN	_	16	nsubj	_	Pinyin=shù|Gloss=tree|HanViet=thụ|Trad=樹
+15	也	_	SCONJ	RB	_	16	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+16	变成	_	VERB	VV	_	3	parataxis	_	Pinyin=biànchéng|Gloss=to change into|HanViet=biến thành|Trad=變成
+17	了	_	AUX	AS	Aspect=Perf	16	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+18	黄色	_	NOUN	NN	_	16	obj	_	Pinyin=huángsè|Gloss=yellow|HanViet=hoàng sắc|Trad=黃色
+19	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u19-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我觉得他说得对。
+# translation = I think he's right.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	觉得	_	VERB	VV	_	0	root	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+3	他	_	PRON	PRP	Person=3	4	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	说	_	VERB	VV	_	2	ccomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+5	得	_	PART	DEV	_	4	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+6	对	_	ADJ	JJ	_	4	xcomp	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+7	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u19-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 那里游客一定很多，我要跟朋友借一个相机，给秋天的树拍照。
+# translation = There are sure to be lots of tourists there; I'm going to borrow a camera from a friend and take pictures of the autumn trees.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那里	_	PRON	PRD	_	2	nmod	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+2	游客	_	NOUN	NN	_	4	nsubj	_	Pinyin=yóukè|Gloss=traveler; tourist|HanViet=du khách|Trad=遊客
+3	一定	_	ADV	RB	_	4	advmod	_	Pinyin=yídìng|Gloss=surely; certainly; definitely|HanViet=nhất định
+4	很多	_	NUM	CD	NumType=Card	0	root	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+5	，	_	PUNCT	,	_	19	punct	_	_
+6	我	_	PRON	PRP	Person=1	19	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	要	_	AUX	MD	_	10	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+8	跟	_	ADP	IN	_	9	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+9	朋友	_	NOUN	NN	_	10	obl	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+10	借	_	VERB	VV	_	19	advcl	_	Pinyin=jiè|Gloss=to borrow|HanViet=tá
+11	一	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+12	个	_	NOUN	NNB	_	11	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+13	相机	_	NOUN	NN	_	10	obj	_	Pinyin=xiàngjī|Gloss=camera (abbr. for 照相機/照相机[zhao4 xiang4 ji1])|HanViet=tướng cơ|Trad=相機
+14	，	_	PUNCT	,	_	10	punct	_	_
+15	给	_	VERB	VV	_	19	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+16	秋天	_	NOUN	NN	_	18	nmod	_	Pinyin=qiūtiān|Gloss=autumn|HanViet=thu thiên
+17	的	_	PART	DEC	Case=Gen	16	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	树	_	NOUN	NN	_	15	obj	_	Pinyin=shù|Gloss=tree|HanViet=thụ|Trad=樹
+19	拍照	_	VERB	VV	_	4	parataxis	_	Pinyin=pāizhào|Gloss=to take a picture|HanViet=phách chiếu
+20	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u19-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 妈妈说秋天有时候会下雨，让我带一把伞。
+# translation = Mom said it sometimes rains in autumn and told me to bring an umbrella.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	妈妈	_	NOUN	NN	_	2	nsubj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	秋天	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=qiūtiān|Gloss=autumn|HanViet=thu thiên
+4	有	_	VERB	VV	_	9	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+5	时候	_	NOUN	NN	_	4	obj	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+6	会	_	AUX	MD	_	7	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+7	下雨	_	VERB	VV	_	9	advcl	_	Pinyin=xiàyǔ|Gloss=to rain|HanViet=hạ vũ
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	让	_	VERB	VV	Voice=Cau	2	ccomp	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+10	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+11	带	_	VERB	VV	_	9	ccomp	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+12	一	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+13	把	_	NOUN	NNB	_	12	clf	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+14	伞	_	NOUN	NN	_	11	obj	_	Pinyin=sǎn|Gloss=umbrella|HanViet=tản|Trad=傘
+15	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u19-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 去年假期我发烧了，只能在家看电视，心里很难过。
+# translation = Last holiday I had a fever and could only stay home watching TV, and I felt really down.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	去年	_	NOUN	NN	_	2	nmod	_	Pinyin=qùnián|Gloss=last year|HanViet=khứ,khử niên
+2	假期	_	NOUN	NN	_	10	nmod:tmod	_	Pinyin=jiàqī|Gloss=holiday period; vacation|HanViet=giá kỳ
+3	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	发烧	_	VERB	VV	_	10	advcl	_	Pinyin=fāshāo|Gloss=to have a high temperature (from illness); to have a fever|HanViet=phát thiêu|Trad=發燒
+5	了	_	PART	UH	_	4	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	，	_	PUNCT	,	_	4	punct	_	_
+7	只能	_	ADV	RB	_	10	advmod	_	Pinyin=zhǐnéng|Gloss=can only|HanViet=chỉ năng
+8	在	_	VERB	VV	_	10	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+9	家	_	NOUN	NN	_	8	obj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+10	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+11	电视	_	NOUN	NN	_	10	obj	_	Pinyin=diànshì|Gloss=television; TV|HanViet=điện thị|Trad=電視
+12	，	_	PUNCT	,	_	13	punct	_	_
+13	心里	_	VERB	VV	_	10	parataxis	_	Pinyin=xīnlǐ|Gloss=chest|HanViet=tâm lý|Trad=心裡
+14	很	_	ADV	RB	_	15	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+15	难过	_	ADJ	JJ	_	13	xcomp	_	Pinyin=nánguò|Gloss=to feel sad|HanViet=nan quá,qua|Trad=難過
+16	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l3-u19-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 今年我一定要出去玩！
+# translation = This year I'm definitely going out to have fun!
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	今年	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=jīnnián|Gloss=this year|HanViet=kim niên
+2	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	一定	_	ADV	RB	_	6	advmod	_	Pinyin=yídìng|Gloss=surely; certainly; definitely|HanViet=nhất định
+4	要	_	AUX	MD	_	6	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+5	出去	_	VERB	VV	_	6	advcl	_	Pinyin=chūqù|Gloss=to go out|HanViet=xuất khứ,khử
+6	玩	_	VERB	VV	_	0	root	_	Pinyin=wán|Gloss=to play|HanViet=ngoạn
+7	！	_	PUNCT	.	_	6	punct	_	_

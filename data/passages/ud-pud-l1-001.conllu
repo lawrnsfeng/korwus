@@ -1,0 +1,17 @@
+# sent_id = ud-pud-n01027007
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 1
+# text = 这些人是谁？
+# translation = Who are they?
+# source = UD Chinese-PUD n01027007
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-4:3-3;gf0025-6:0-0;gf0025-33:0-3;gf0025-36:2-2;gf0025-46:3-3
+1	这些	_	DET	DT	_	2	det	_	Pinyin=zhèxiē|Gloss=these|HanViet=giá ta|Trad=這些
+2	人	_	NOUN	NN	_	4	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+3	是	_	AUX	VC	_	4	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	谁	_	PRON	WP	_	0	root	_	Pinyin=shéi|Gloss=who|HanViet=thuỳ|Trad=誰
+5	？	_	PUNCT	.	_	4	punct	_	_

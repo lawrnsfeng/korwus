@@ -1,0 +1,316 @@
+# sent_id = korwus-graded-l5-04-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# newpar
+# text = 上个周末，我和几个同事一起参观了市博物馆。
+# translation = Last weekend, a few coworkers and I visited the city museum together.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	上	_	DET	DT	_	3	det	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	周末	_	NOUN	NN	_	11	nmod:tmod	_	Pinyin=zhōumò|Gloss=weekend|HanViet=chu mạt|Trad=週末
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	和	_	ADP	IN	_	9	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+7	几	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+8	个	_	NOUN	NNB	_	7	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+9	同事	_	NOUN	NN	_	11	obl	_	Pinyin=tóngshì|Gloss=colleague; co-worker|HanViet=đồng sự
+10	一起	_	NOUN	NN	_	11	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+11	参观	_	VERB	VV	_	0	root	_	Pinyin=cānguān|Gloss=to visit (a place, e.g. museum or factory); to tour; to look around|HanViet=tham quan|Trad=參觀
+12	了	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	市	_	NOUN	NN	_	15	nmod	_	Pinyin=shì|Gloss=market|HanViet=thị
+14	博物	_	NOUN	NN	_	15	compound	_	Pinyin=bówù|Gloss=natural science|HanViet=bác vật
+15	馆	_	PART	SFN	_	11	obj	_	Pinyin=guǎn|Gloss=building|HanViet=quán|Trad=館
+16	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l5-04-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 博物馆刚刚装修过，外观既现代又漂亮。
+# translation = The museum had just been renovated, and its exterior was both modern and attractive.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	博物	_	NOUN	NN	_	2	compound	_	Pinyin=bówù|Gloss=natural science|HanViet=bác vật
+2	馆	_	PART	SFN	_	4	nsubj	_	Pinyin=guǎn|Gloss=building|HanViet=quán|Trad=館
+3	刚刚	_	ADV	RB	_	4	advmod	_	Pinyin=gānggāng|Gloss=just recently|HanViet=cương cương|Trad=剛剛
+4	装修	_	VERB	VV	_	0	root	_	Pinyin=zhuāngxiū|Gloss=to decorate|HanViet=trang tu|Trad=裝修
+5	过	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+6	，	_	PUNCT	,	_	9	punct	_	_
+7	外观	_	NOUN	NN	_	4	obj	_	Pinyin=wàiguān|Gloss=outward appearance|HanViet=ngoại quan|Trad=外觀
+8	既	_	CCONJ	CC	_	11	cc	_	Pinyin=jì|Gloss=already|HanViet=ký
+9	现代	_	ADJ	JJ	_	7	conj	_	Pinyin=xiàndài|Gloss=Hyundai, South Korean company|HanViet=hiện đại|Trad=現代
+10	又	_	CCONJ	CC	_	11	cc	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+11	漂亮	_	ADJ	JJ	_	9	conj	_	Pinyin=piàoliàng|Gloss=pretty; beautiful|HanViet=phiếu lượng
+12	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l5-04-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 进门以后，一位工作人员热情地接待了我们，并且为我们介绍了每个展厅的主题。
+# translation = After we went in, a staff member received us warmly and introduced the theme of each exhibition hall.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	进门	_	VERB	VV	_	17	advcl	_	Pinyin=jìnmén|Gloss=to enter a door|HanViet=tiến môn|Trad=進門
+2	以后	_	ADP	IN	_	1	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	一	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+5	位	_	NOUN	NNB	_	4	clf	_	Pinyin=wèi|Gloss=position|HanViet=vị
+6	工作	_	NOUN	NN	_	7	nmod	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+7	人员	_	NOUN	NN	_	17	nsubj	_	Pinyin=rényuán|Gloss=staff|HanViet=nhân viên|Trad=人員
+8	热情	_	ADJ	JJ	_	10	advmod	_	Pinyin=rèqíng|Gloss=cordial|HanViet=nhiệt tình|Trad=熱情
+9	地	_	SCONJ	DEV	_	8	mark:adv	_	Pinyin=dì|Gloss=earth|HanViet=địa
+10	接待	_	VERB	VV	_	17	advcl	_	Pinyin=jiēdài|Gloss=to receive; to entertain; to host (guests, visitors or clients)|HanViet=tiếp đãi
+11	了	_	AUX	AS	Aspect=Perf	10	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	我们	_	PRON	PRP	Number=Plur|Person=1	10	obj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+13	，	_	PUNCT	,	_	10	punct	_	_
+14	并且	_	SCONJ	RB	_	17	mark	_	Pinyin=bìngqiě|Gloss=and; besides; moreover; furthermore; in addition|HanViet=tịnh,tính thả|Trad=並且
+15	为	_	ADP	IN	_	16	case	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+16	我们	_	PRON	PRP	Number=Plur|Person=1	17	obl	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+17	介绍	_	VERB	VV	_	0	root	_	Pinyin=jièshào|Gloss=to introduce (sb to sb)|HanViet=giới thiệu|Trad=介紹
+18	了	_	AUX	AS	Aspect=Perf	17	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+19	每个	_	DET	DT	_	20	det	_	Pinyin=měigè|Gloss=each; every|HanViet=mỗi cá|Trad=每個
+20	展厅	_	NOUN	NN	_	22	nmod	_	Pinyin=zhǎntīng|Gloss=展 to spread out + 厅 (reception) hall|GlossFrom=parts|HanViet=triển sảnh,thính|Trad=展廳
+21	的	_	PART	DEC	Case=Gen	20	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+22	主题	_	NOUN	NN	_	17	obj	_	Pinyin=zhǔtí|Gloss=theme|HanViet=chủ,chúa đề|Trad=主題
+23	。	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = korwus-graded-l5-04-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# newpar
+# text = 给我印象最深的是古代艺术展。
+# translation = What impressed me most was the exhibition of ancient art.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	给	_	VERB	VV	_	4	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+2	我	_	PRON	PRP	Person=1	3	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	印象	_	NOUN	NN	_	4	nsubj	_	Pinyin=yìnxiàng|Gloss=impression (sth that stays in one's mind)|HanViet=ấn tượng
+4	最深	_	ADJ	JJ	_	9	csubj	_	Pinyin=zuìshēn|Gloss=最 (before an adjective or verb) to the highest degree; (the) most ...; -est + 深 (lit. and fig.) deep|GlossFrom=parts|HanViet=tối thâm
+5	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	是	_	AUX	VC	_	9	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+7	古代	_	NOUN	NN	_	9	nmod	_	Pinyin=gǔdài|Gloss=ancient times|HanViet=cổ đại
+8	艺术	_	NOUN	NN	_	9	compound	_	Pinyin=yìshù|Gloss=art|HanViet=nghệ thuật|Trad=藝術
+9	展	_	PART	SFN	_	0	root	_	Pinyin=zhǎn|Gloss=to spread out|HanViet=triển
+10	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l5-04-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 玻璃柜里陈列着各种各样的陶器、铜器和玉器，有的已经有三千多年的历史了。
+# translation = All kinds of pottery, bronzes and jade objects were displayed in the glass cases, and some were over three thousand years old.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	玻璃	_	NOUN	NN	_	2	nmod	_	Pinyin=bōlí|Gloss=glass|HanViet=pha ly,lê
+2	柜里	_	NOUN	NN	_	4	nsubj	_	Pinyin=guìlǐ|Gloss=柜 Salix multinervis + 里 lining|GlossFrom=parts|HanViet=quỹ lý|Trad=櫃裡
+3	陈	_	PROPN	NNP	_	2	appos	_	Pinyin=chén|Gloss=Chen (c. 1045 – 479 BC), a Zhou dynasty state|HanViet=trần|Trad=陳
+4	列	_	VERB	VV	_	0	root	_	Pinyin=liè|Gloss=to arrange|HanViet=liệt
+5	着	_	AUX	AS	Aspect=Prog	4	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+6	各种各样	_	DET	DT	_	8	det	_	Pinyin=gèzhǒnggèyàng|Gloss=various kinds|HanViet=các chủng các dạng|Trad=各種各樣
+7	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	陶器	_	NOUN	NN	_	4	obj	_	Pinyin=táoqì|Gloss=pottery|HanViet=đào khí
+9	、	_	PUNCT	EC	_	10	punct	_	_
+10	铜器	_	NOUN	NN	_	8	conj	_	Pinyin=tóngqì|Gloss=copper ware|HanViet=đồng khí|Trad=銅器
+11	和	_	CCONJ	CC	_	12	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+12	玉器	_	NOUN	NN	_	8	conj	_	Pinyin=yùqì|Gloss=jade artifact|HanViet=ngọc khí
+13	，	_	PUNCT	,	_	16	punct	_	_
+14	有的	_	DET	DT	_	16	nmod:tmod	_	Pinyin=yǒude|Gloss=(there are) some (who are...)|HanViet=hữu đích
+15	已经	_	ADV	RB	_	16	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+16	有	_	VERB	VV	_	4	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+17	三千多	_	NUM	CD	NumType=Card	18	nummod	_	Pinyin=sānqiānduō|Gloss=三 three + 千 thousand + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=tam thiên đa
+18	年	_	NOUN	NNB	_	20	nmod	_	Pinyin=nián|Gloss=year|HanViet=niên
+19	的	_	PART	DEC	Case=Gen	18	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+20	历史	_	NOUN	NN	_	16	obj	_	Pinyin=lìshǐ|Gloss=history|HanViet=lịch sử|Trad=歷史
+21	了	_	PART	UH	_	16	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+22	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l5-04-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 工作人员告诉我们，这些东西大部分是在附近的农村发现的。
+# translation = The staff member told us that most of these objects had been found in the nearby countryside.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	工作	_	NOUN	NN	_	2	nmod	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+2	人员	_	NOUN	NN	_	3	nsubj	_	Pinyin=rényuán|Gloss=staff|HanViet=nhân viên|Trad=人員
+3	告诉	_	VERB	VV	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+4	我们	_	PRON	PRP	Number=Plur|Person=1	3	obj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	，	_	PUNCT	,	_	10	punct	_	_
+6	这些	_	DET	DT	_	9	det	_	Pinyin=zhèxiē|Gloss=these|HanViet=giá ta|Trad=這些
+7	东西	_	NOUN	NN	_	9	nmod	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+8	大	_	PART	PFA	_	9	case	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+9	部分	_	NOUN	NN	_	10	nsubj	_	Pinyin=bùfèn|Gloss=part; portion; piece|HanViet=bộ phận,phần
+10	是	_	VERB	VC	_	3	ccomp	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+11	在	_	VERB	VV	_	15	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+12	附近	_	NOUN	NN	_	14	nmod	_	Pinyin=fùjìn|Gloss=nearby; neighboring|HanViet=phụ cận
+13	的	_	PART	DEC	Case=Gen	12	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	农村	_	NOUN	NN	_	11	obj	_	Pinyin=nóngcūn|Gloss=rural area|HanViet=nông thôn|Trad=農村
+15	发现	_	VERB	VV	_	10	xcomp	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+16	的	_	PART	UH	_	10	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l5-04-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 看着这些美丽的作品，我深深地感受到了古代人的智慧和想象力。
+# translation = Looking at these beautiful works, I deeply felt the wisdom and imagination of the ancient people.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	看	_	VERB	VV	_	11	advcl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+2	着	_	AUX	AS	Aspect=Prog	1	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+3	这些	_	DET	DT	_	6	det	_	Pinyin=zhèxiē|Gloss=these|HanViet=giá ta|Trad=這些
+4	美丽	_	ADJ	JJ	_	6	amod	_	Pinyin=měilì|Gloss=beautiful|HanViet=mỹ lệ|Trad=美麗
+5	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	作品	_	NOUN	NN	_	1	obj	_	Pinyin=zuòpǐn|Gloss=work (of art)|HanViet=tác phẩm
+7	，	_	PUNCT	,	_	1	punct	_	_
+8	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	深深	_	ADJ	JJ	_	11	advmod	_	Pinyin=shēnshēn|Gloss=deep|HanViet=thâm thâm
+10	地	_	SCONJ	DEV	_	9	mark:adv	_	Pinyin=dì|Gloss=earth|HanViet=địa
+11	感受	_	VERB	VV	_	0	root	_	Pinyin=gǎnshòu|Gloss=to sense|HanViet=cảm thọ
+12	到	_	VERB	VV	_	11	mark	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+13	了	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+14	古代	_	NOUN	NN	_	15	compound	_	Pinyin=gǔdài|Gloss=ancient times|HanViet=cổ đại
+15	人	_	PART	SFN	_	17	nmod	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+16	的	_	PART	DEC	Case=Gen	15	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	智慧	_	NOUN	NN	_	11	obj	_	Pinyin=zhìhuì|Gloss=wisdom; intelligence|HanViet=trí tuệ
+18	和	_	CCONJ	CC	_	20	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+19	想象	_	VERB	VV	_	20	compound	_	Pinyin=xiǎngxiàng|Gloss=to imagine; to envision|HanViet=tưởng tượng
+20	力	_	PART	SFN	_	17	conj	_	Pinyin=lì|Gloss=power|HanViet=lực
+21	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l5-04-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# newpar
+# text = 另外，博物馆还设置了一个互动区。
+# translation = In addition, the museum had also set up an interactive area.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	另外	_	ADV	RB	_	6	advmod	_	Pinyin=lìngwài|Gloss=additional|HanViet=lánh ngoại
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	博物	_	NOUN	NN	_	4	compound	_	Pinyin=bówù|Gloss=natural science|HanViet=bác vật
+4	馆	_	PART	SFN	_	6	nsubj	_	Pinyin=guǎn|Gloss=building|HanViet=quán|Trad=館
+5	还	_	SCONJ	RB	_	6	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+6	设置	_	VERB	VV	_	0	root	_	Pinyin=shèzhì|Gloss=to set up; to install|HanViet=thiết trí|Trad=設置
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+9	个	_	NOUN	NNB	_	11	nmod	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	互动	_	VERB	VV	_	11	compound	_	Pinyin=hùdòng|Gloss=to interact|HanViet=hỗ động|Trad=互動
+11	区	_	PART	SFN	_	6	obj	_	Pinyin=qū|Gloss=area|HanViet=khu|Trad=區
+12	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l5-04-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 观众可以通过屏幕亲自体验古代人做手工的过程，孩子们都玩得特别开心。
+# translation = Visitors could use screens to experience for themselves how ancient people made handicrafts, and the children had a great time.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	观众	_	NOUN	NN	_	6	nsubj	_	Pinyin=guānzhòng|Gloss=spectators; audience; visitors (to an exhibition etc)|HanViet=quan chúng|Trad=觀眾
+2	可以	_	AUX	MD	_	6	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+3	通过	_	ADP	IN	_	4	case	_	Pinyin=tōngguò|Gloss=to pass through; to get through|HanViet=thông quá,qua|Trad=通過
+4	屏幕	_	NOUN	NN	_	6	obl	_	Pinyin=píngmù|Gloss=screen (TV, computer or movie)|HanViet=bình,bính màn,mạc
+5	亲自	_	ADV	RB	_	6	advmod	_	Pinyin=qīnzì|Gloss=personally|HanViet=thân tự|Trad=親自
+6	体验	_	VERB	VV	_	0	root	_	Pinyin=tǐyàn|Gloss=to experience for oneself|HanViet=thể nghiệm|Trad=體驗
+7	古代	_	NOUN	NN	_	8	compound	_	Pinyin=gǔdài|Gloss=ancient times|HanViet=cổ đại
+8	人	_	PART	SFN	_	9	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+9	做	_	VERB	VV	_	12	acl:relcl	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+10	手工	_	NOUN	NN	_	9	obj	_	Pinyin=shǒugōng|Gloss=handwork|HanViet=thủ công
+11	的	_	SCONJ	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	过程	_	NOUN	NN	_	6	obj	_	Pinyin=guòchéng|Gloss=course of events; process|HanViet=quá,qua trình|Trad=過程
+13	，	_	PUNCT	,	_	17	punct	_	_
+14	孩子	_	NOUN	NN	_	15	compound	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+15	们	_	PART	SFN	Number=Plur	17	nsubj	_	Pinyin=men|Gloss=plural marker for pronouns, and nouns referring to individuals|HanViet=môn|Trad=們
+16	都	_	SCONJ	RB	_	17	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+17	玩得	_	VERB	VV	_	6	parataxis	_	Pinyin=wándé|Gloss=玩 to play + 得 to obtain|GlossFrom=parts|HanViet=ngoạn đắc
+18	特别	_	ADV	RB	_	19	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+19	开心	_	ADJ	JJ	_	17	xcomp	_	Pinyin=kāixīn|Gloss=to feel happy|HanViet=khai tâm|Trad=開心
+20	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l5-04-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 离开的时候，我买了几张明信片作为纪念。
+# translation = When we left, I bought a few postcards as souvenirs.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	离开	_	VERB	VV	_	3	acl:relcl	_	Pinyin=líkāi|Gloss=to depart; to leave|HanViet=ly khai|Trad=離開
+2	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	时候	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	买	_	VERB	VV	_	0	root	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	几	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+9	张	_	NOUN	NNB	_	11	nmod	_	Pinyin=zhāng|Gloss=to open up|HanViet=trương|Trad=張
+10	明信	_	VERB	VV	_	11	compound	_	Pinyin=míngxìn|Gloss=明 Ming Dynasty (1368–1644) + 信 letter|GlossFrom=parts|HanViet=minh tín
+11	片	_	PART	SFN	_	12	nsubj	_	Pinyin=piàn|Gloss=thin piece|HanViet=phiến
+12	作	_	VERB	VV	_	6	ccomp	_	Pinyin=zuò|Gloss=to do; to engage in|HanViet=tác
+13	为	_	VERB	VC	_	12	mark	_	Pinyin=wéi|Gloss=as (in the capacity of)|HanViet=vị,vì|Trad=為
+14	纪念	_	NOUN	NN	_	12	obj	_	Pinyin=jìniàn|Gloss=to commemorate; to honor the memory of|HanViet=kỷ niệm|Trad=紀念
+15	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l5-04-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 这次参观让我明白，博物馆并不是一个无聊的地方，而是了解历史的一扇窗户。
+# translation = This visit made me realize that a museum is not a boring place, but a window for understanding history.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	次	_	NOUN	NNB	_	1	clf	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+3	参观	_	NOUN	NN	_	4	nsubj	_	Pinyin=cānguān|Gloss=to visit (a place, e.g. museum or factory); to tour; to look around|HanViet=tham quan|Trad=參觀
+4	让	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	明白	_	VERB	VV	_	4	ccomp	_	Pinyin=míngbái|Gloss=clear; obvious; unequivocal|HanViet=minh bạch
+7	，	_	PUNCT	,	_	19	punct	_	_
+8	博物	_	NOUN	NN	_	9	compound	_	Pinyin=bówù|Gloss=natural science|HanViet=bác vật
+9	馆	_	PART	SFN	_	19	nsubj	_	Pinyin=guǎn|Gloss=building|HanViet=quán|Trad=館
+10	并	_	SCONJ	RB	_	16	mark	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+11	不是	_	AUX	VC	Polarity=Neg	16	cop	_	Pinyin=búshì|Gloss=no|HanViet=_ thị
+12	一	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+13	个	_	NOUN	NNB	_	12	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+14	无聊	_	ADJ	JJ	_	16	amod	_	Pinyin=wúliáo|Gloss=bored|HanViet=vô liêu|Trad=無聊
+15	的	_	SCONJ	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	地方	_	NOUN	NN	_	19	advcl	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+17	，	_	PUNCT	,	_	16	punct	_	_
+18	而是	_	SCONJ	RB	_	19	mark	_	Pinyin=érshì|Gloss=rather|HanViet=nhi thị
+19	了解	_	VERB	VV	_	4	parataxis	_	Pinyin=liǎojiě|Gloss=to understand; to know about|HanViet=liễu giải|Trad=瞭解
+20	历史	_	NOUN	NN	_	24	nmod	_	Pinyin=lìshǐ|Gloss=history|HanViet=lịch sử|Trad=歷史
+21	的	_	PART	DEC	Case=Gen	20	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+22	一	_	NUM	CD	NumType=Card	24	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+23	扇	_	NOUN	NNB	_	22	clf	_	Pinyin=shàn|Gloss=fan|HanViet=phiến
+24	窗户	_	NOUN	NN	_	19	obj	_	Pinyin=chuānghù|Gloss=window|HanViet=song hộ|Trad=窗戶
+25	。	_	PUNCT	.	_	4	punct	_	_

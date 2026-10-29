@@ -1,0 +1,356 @@
+# sent_id = korwus-graded-l4-04-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# newpar
+# text = 在我们家，有一种特别的饺子做法，已经留下来三十多年了。
+# translation = In our family there is a special way of making dumplings that has been handed down for more than thirty years.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	VERB	VV	_	14	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	我们	_	PRON	PRP	Number=Plur|Person=1	3	compound	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+3	家	_	PART	SFN	_	1	obj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	有	_	VERB	VV	_	14	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+6	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+7	种	_	NOUN	NNB	_	6	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+8	特别	_	ADJ	JJ	_	11	amod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	饺子	_	NOUN	NN	_	11	nmod	_	Pinyin=jiǎozi|Gloss=dumpling|HanViet=cảo tử|Trad=餃子
+11	做法	_	NOUN	NN	_	5	obj	_	Pinyin=zuòfǎ|Gloss=way of handling sth|HanViet=tố pháp
+12	，	_	PUNCT	,	_	5	punct	_	_
+13	已经	_	ADV	RB	_	14	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+14	留下	_	VERB	VV	_	0	root	_	Pinyin=liúxià|Gloss=to leave behind|HanViet=lưu hạ
+15	来	_	VERB	VV	_	14	mark	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+16	三十多	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=sānshíduō|Gloss=三十 thirty + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=tam thập đa
+17	年	_	NOUN	NNB	_	14	obj	_	Pinyin=nián|Gloss=year|HanViet=niên
+18	了	_	PART	UH	_	14	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+19	。	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = korwus-graded-l4-04-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 这种做法是奶奶年轻的时候跟她的妈妈学的。
+# translation = Grandma learned it from her mother when she was young.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	种	_	NOUN	NNB	_	1	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+3	做法	_	NOUN	NN	_	4	nsubj	_	Pinyin=zuòfǎ|Gloss=way of handling sth|HanViet=tố pháp
+4	是	_	VERB	VC	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	奶奶	_	NOUN	NN	_	6	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+6	年轻	_	ADJ	JJ	_	8	amod	_	Pinyin=niánqīng|Gloss=young|HanViet=niên khinh|Trad=年輕
+7	的	_	SCONJ	DEC	_	6	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	时候	_	NOUN	NN	_	13	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+9	跟	_	ADP	IN	_	12	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+10	她	_	PRON	PRP	Person=3	12	det	_	Pinyin=tā|Gloss=she|HanViet=tha
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	妈妈	_	NOUN	NN	_	13	obl	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+13	学	_	VERB	VV	_	4	ccomp	_	Pinyin=xué|Gloss=to learn|HanViet=học|Trad=學
+14	的	_	PART	UH	_	4	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l4-04-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 后来，她又把这个方法教给了我妈妈。
+# translation = Later, she taught the method to my mom.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	后来	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=hòulái|Gloss=afterwards; later|HanViet=hậu lai|Trad=後來
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	她	_	PRON	PRP	Person=3	9	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+4	又	_	SCONJ	RB	_	9	mark	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+5	把	_	ADP	BB	_	8	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+6	这	_	DET	DT	_	8	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+7	个	_	NOUN	NNB	_	6	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	方法	_	NOUN	NN	_	9	obl:patient	_	Pinyin=fāngfǎ|Gloss=method; way; technique; procedure|HanViet=phương pháp
+9	教给	_	VERB	VV	_	0	root	_	Pinyin=jiāogěi|Gloss=教 to teach; to instruct + 给 to|GlossFrom=parts|HanViet=giao,giáo cấp|Trad=教給
+10	了	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	我	_	PRON	PRP	Person=1	12	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+12	妈妈	_	NOUN	NN	_	9	iobj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+13	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l4-04-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 每年春节，全家人都会聚在一起，一边聊天，一边包饺子。
+# translation = Every Spring Festival, the whole family gets together and makes dumplings while chatting.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	每年	_	DET	DT	_	2	det	_	Pinyin=měinián|Gloss=every year|HanViet=mỗi niên
+2	春节	_	NOUN	NN	_	15	nmod:tmod	_	Pinyin=chūnjié|Gloss=Spring Festival (Chinese New Year)|HanViet=xuân tiết|Trad=春節
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	全	_	DET	DT	_	5	det	_	Pinyin=quán|Gloss=all|HanViet=toàn
+5	家人	_	NOUN	NN	_	15	nsubj	_	Pinyin=jiārén|Gloss=family member|HanViet=gia nhân
+6	都	_	SCONJ	RB	_	8	mark	_	Pinyin=dū|Gloss=capital city|HanViet=đô
+7	会	_	AUX	MD	_	8	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+8	聚在	_	VERB	VV	_	12	advcl	_	Pinyin=jùzài|Gloss=聚 to assemble; to gather (transitive or intransitive) + 在 to exist; to be alive|GlossFrom=parts|HanViet=tụ tại
+9	一起	_	NOUN	NN	_	8	obj	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+10	，	_	PUNCT	,	_	8	punct	_	_
+11	一边	_	ADV	RB	_	12	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+12	聊天	_	VERB	VV	_	15	advcl	_	Pinyin=liáotiān|Gloss=to chat; to gossip|HanViet=liêu thiên
+13	，	_	PUNCT	,	_	12	punct	_	_
+14	一边	_	ADV	RB	_	15	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+15	包	_	VERB	VV	_	0	root	_	Pinyin=bāo|Gloss=to cover|HanViet=bao
+16	饺子	_	NOUN	NN	_	15	obj	_	Pinyin=jiǎozi|Gloss=dumpling|HanViet=cảo tử|Trad=餃子
+17	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = korwus-graded-l4-04-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 奶奶的饺子之所以好吃，是因为她有自己的小办法。
+# translation = The reason Grandma's dumplings are so tasty is that she has her own little tricks.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	奶奶	_	NOUN	NN	_	3	nmod	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	饺子	_	NOUN	NN	_	6	nsubj	_	Pinyin=jiǎozi|Gloss=dumpling|HanViet=cảo tử|Trad=餃子
+4	之	_	PART	DEC	Case=Gen	3	case	_	Pinyin=zhī|Gloss=(possessive particle, literary equivalent of 的[de5])|HanViet=chi
+5	所以	_	SCONJ	RB	_	6	mark	_	Pinyin=suǒyǐ|Gloss=therefore|HanViet=sở dĩ
+6	好吃	_	ADJ	JJ	_	8	csubj	_	Pinyin=hǎochī|Gloss=tasty; delicious|HanViet=hảo cật
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	是	_	VERB	VC	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+9	因为	_	ADP	IN	_	8	xcomp	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+10	她	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+11	有	_	VERB	VV	_	9	ccomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+12	自己	_	PRON	PRD	_	15	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+13	的	_	PART	DEC	Case=Gen	12	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	小	_	PART	PFA	_	15	case	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+15	办法	_	NOUN	NN	_	11	obj	_	Pinyin=bànfǎ|Gloss=way of handling sth; means; measure; (practical) solution to a problem|HanViet=biện pháp|Trad=辦法
+16	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l4-04-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 她总是在肉里加一点儿切得很细的白菜，再放少量的盐和酱油。
+# translation = She always adds a little finely chopped Chinese cabbage to the meat, and then a small amount of salt and soy sauce.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	总是	_	VERB	VC	_	0	root	_	Pinyin=zǒngshì|Gloss=always|HanViet=tổng thị|Trad=總是
+3	在	_	ADP	IN	_	6	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	肉里加	_	NOUN	NN	_	6	nmod	_	Pinyin=ròulǐjiā|Gloss=肉 meat + 里加 Riga, capital of Latvia|GlossFrom=parts|HanViet=nhục lý gia
+5	一点	_	ADJ	JJ	_	6	amod	_	Pinyin=yìdiǎn|Gloss=a bit; a little bit|HanViet=nhất điểm|Trad=一點
+6	儿	_	NOUN	NN	_	7	obl	_	Pinyin=ér|Gloss=child|HanViet=nhi|Trad=兒
+7	切得	_	VERB	VV	_	12	advcl	_	Pinyin=qièdé|Gloss=切 to cut; to slice; to carve + 得 to obtain|GlossFrom=parts|HanViet=thiết đắc
+8	很细	_	ADJ	JJ	_	10	amod	_	Pinyin=hěnxì|Gloss=很 very; quite + 细 thin or slender|GlossFrom=parts|HanViet=ngận tế|Trad=很細
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	白菜	_	NOUN	NN	_	7	obj	_	Pinyin=báicài|Gloss=Chinese cabbage, esp. napa cabbage (Brassica rapa subsp. pekinensis)|HanViet=bạch thái
+11	，	_	PUNCT	,	_	7	punct	_	_
+12	再放	_	VERB	VV	_	2	xcomp	_	Pinyin=zàifàng|Gloss=再 again; once more; re- + 放 to put|GlossFrom=parts|HanViet=tái phóng
+13	少量	_	ADJ	JJ	_	15	amod	_	Pinyin=shǎoliàng|Gloss=a smidgen|HanViet=thiểu lượng
+14	的	_	SCONJ	DEC	_	13	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	盐	_	NOUN	NN	_	12	obj	_	Pinyin=yán|Gloss=salt|HanViet=diêm|Trad=鹽
+16	和	_	CCONJ	CC	_	17	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+17	酱油	_	NOUN	NN	_	15	conj	_	Pinyin=jiàngyóu|Gloss=soy sauce|HanViet=tương dầu|Trad=醬油
+18	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l4-04-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 和面的时候，她也有自己的标准，面不能太软，也不能太硬。
+# translation = When kneading the dough, she has her own standard too: the dough can't be too soft, and it can't be too hard either.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	和	_	ADP	IN	_	3	case	_	Pinyin=huó|Gloss=to combine a powdery substance (flour, plaster etc) with water|HanViet=hoà
+2	面的	_	NOUN	NN	_	3	nmod	_	Pinyin=miàndī|Gloss=abbr. of 麵包車的士/面包车的士[mian4 bao1 che1 di1 shi4]|HanViet=diện đích
+3	时候	_	NOUN	NN	_	7	obl	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	她	_	PRON	PRP	Person=3	7	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+6	也	_	SCONJ	RB	_	7	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+7	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+8	自己	_	PRON	PRD	_	10	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	标准	_	NOUN	NN	_	7	obj	_	Pinyin=biāozhǔn|Gloss=standard; norm; criterion|HanViet=tiêu chuẩn|Trad=標準
+11	，	_	PUNCT	,	_	14	punct	_	_
+12	面	_	NOUN	NN	_	14	nsubj	_	Pinyin=miàn|Gloss=face|HanViet=diện
+13	不能	_	AUX	MD	Polarity=Neg	14	aux	_	Pinyin=bùnéng|Gloss=cannot|HanViet=bất năng
+14	太软	_	ADJ	JJ	_	7	parataxis	_	Pinyin=tàiruǎn|Gloss=太 highest + 软 soft|GlossFrom=parts|HanViet=thái nhuyễn|Trad=太軟
+15	，	_	PUNCT	,	_	18	punct	_	_
+16	也	_	CCONJ	CC	_	18	cc	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+17	不能	_	AUX	MD	Polarity=Neg	18	aux	_	Pinyin=bùnéng|Gloss=cannot|HanViet=bất năng
+18	太硬	_	ADJ	JJ	_	14	conj	_	Pinyin=tàiyìng|Gloss=太 highest + 硬 hard; stiff; solid|GlossFrom=parts|HanViet=thái ngạnh
+19	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l4-04-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 小时候我包的饺子总是破，奶奶从来不批评我，只是耐心地教我一遍又一遍。
+# translation = When I was little, my dumplings always fell apart, but Grandma never criticized me; she just patiently taught me again and again.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	小	_	PART	PFA	_	2	case	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+2	时候	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+3	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	包	_	VERB	VV	_	6	acl:relcl	_	Pinyin=bāo|Gloss=to cover|HanViet=bao
+5	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	饺子	_	NOUN	NN	_	7	nsubj	_	Pinyin=jiǎozi|Gloss=dumpling|HanViet=cảo tử|Trad=餃子
+7	总是	_	VERB	VC	_	0	root	_	Pinyin=zǒngshì|Gloss=always|HanViet=tổng thị|Trad=總是
+8	破	_	VERB	VV	_	7	xcomp	_	Pinyin=pò|Gloss=broken|HanViet=phá
+9	，	_	PUNCT	,	_	7	punct	_	_
+10	奶奶	_	NOUN	NN	_	13	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+11	从来	_	ADV	RB	_	13	advmod	_	Pinyin=cónglái|Gloss=always|HanViet=tòng,tùng lai|Trad=從來
+12	不	_	ADV	RB	Polarity=Neg	13	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+13	批评	_	VERB	VV	_	17	advcl	_	Pinyin=pīpíng|Gloss=to criticize; criticism|HanViet=phê bình|Trad=批評
+14	我	_	PRON	PRP	Person=1	13	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+15	，	_	PUNCT	,	_	13	punct	_	_
+16	只	_	ADV	RB	_	17	advmod	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+17	是	_	VERB	VC	_	7	parataxis	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+18	耐心	_	ADJ	JJ	_	20	advmod	_	Pinyin=nàixīn|Gloss=to be patient|HanViet=nại tâm
+19	地	_	SCONJ	DEV	_	18	mark:adv	_	Pinyin=dì|Gloss=earth|HanViet=địa
+20	教我	_	VERB	VV	_	17	xcomp	_	Pinyin=jiàowǒ|Gloss=教 to teach; to instruct + 我 I; me; my|GlossFrom=parts|HanViet=giáo ngã
+21	一	_	NUM	CD	NumType=Card	22	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+22	遍	_	NOUN	NNB	_	20	obj	_	Pinyin=biàn|Gloss=everywhere|HanViet=biến
+23	又	_	CCONJ	CC	_	25	cc	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+24	一	_	NUM	CD	NumType=Card	25	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+25	遍	_	NOUN	NNB	_	22	conj	_	Pinyin=biàn|Gloss=everywhere|HanViet=biến
+26	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l4-04-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 现在奶奶老了，手也没有以前那么方便了。
+# translation = Now Grandma is old, and her hands don't work as easily as they used to.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	奶奶	_	NOUN	NN	_	3	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+3	老了	_	VERB	VV	_	7	advcl	_	Pinyin=lǎole|Gloss=老 prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity + 了 (completed action marker)|GlossFrom=parts|HanViet=lão liễu
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	手	_	NOUN	NN	_	7	nsubj	_	Pinyin=shǒu|Gloss=hand|HanViet=thủ
+6	也	_	SCONJ	RB	_	7	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+7	没有	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+8	以前	_	NOUN	NN	_	10	nmod:tmod	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+9	那么	_	ADV	RB	_	10	advmod	_	Pinyin=nàme|Gloss=like that; in that way; to that extent|HanViet=na ma|Trad=那麼
+10	方便	_	ADJ	JJ	_	7	xcomp	_	Pinyin=fāngbiàn|Gloss=convenient; suitable|HanViet=phương tiện
+11	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l4-04-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 去年春节，第一次由我来负责包饺子。
+# translation = Last Spring Festival, I was in charge of making the dumplings for the first time.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	去年	_	NOUN	NN	_	2	nmod	_	Pinyin=qùnián|Gloss=last year|HanViet=khứ,khử niên
+2	春节	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=chūnjié|Gloss=Spring Festival (Chinese New Year)|HanViet=xuân tiết|Trad=春節
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	第一	_	NUM	CD	NumType=Ord	5	nummod	_	Pinyin=dìyī|Gloss=first|HanViet=đệ nhất
+5	次	_	NOUN	NNB	_	6	obl	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+6	由	_	VERB	VV	_	0	root	_	Pinyin=yóu|Gloss=to follow|HanViet=do
+7	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	来	_	SCONJ	RB	_	9	mark	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+9	负责	_	VERB	VV	_	6	ccomp	_	Pinyin=fùzé|Gloss=to be responsible for; to be in charge of; to bear responsibility for|HanViet=phụ trách|Trad=負責
+10	包	_	VERB	VV	_	9	xcomp	_	Pinyin=bāo|Gloss=to cover|HanViet=bao
+11	饺子	_	NOUN	NN	_	10	obj	_	Pinyin=jiǎozi|Gloss=dumpling|HanViet=cảo tử|Trad=餃子
+12	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l4-04-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 家人吃完以后都说，味道和奶奶做的完全一样。
+# translation = When my family finished eating, they all said the taste was exactly the same as Grandma's.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	家人	_	NOUN	NN	_	5	nsubj	_	Pinyin=jiārén|Gloss=family member|HanViet=gia nhân
+2	吃完	_	VERB	VV	_	5	advcl	_	Pinyin=chīwán|Gloss=to finish eating|HanViet=cật hoàn
+3	以后	_	ADP	IN	_	2	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+4	都	_	SCONJ	RB	_	5	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+5	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+6	，	_	PUNCT	,	_	13	punct	_	_
+7	味道	_	NOUN	NN	_	13	nsubj	_	Pinyin=wèidào|Gloss=flavor; taste|HanViet=vị đạo
+8	和	_	ADP	IN	_	9	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+9	奶奶	_	NOUN	NN	_	10	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+10	做	_	VERB	VV	_	13	ccomp	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+11	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	完全	_	ADV	RB	_	13	advmod	_	Pinyin=wánquán|Gloss=complete; whole|HanViet=hoàn toàn
+13	一样	_	ADJ	JJ	_	5	ccomp	_	Pinyin=yīyàng|Gloss=same|HanViet=nhất dạng|Trad=一樣
+14	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l4-04-12
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 听到这句话，我心里感到很骄傲。
+# translation = Hearing this, I felt very proud.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	听到	_	VERB	VV	_	6	advcl	_	Pinyin=tīngdào|Gloss=to hear|HanViet=thính đáo|Trad=聽到
+2	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+3	句话	_	NOUN	NN	_	1	obj	_	Pinyin=jùhuà|Gloss=句 sentence + 话 dialect|GlossFrom=parts|HanViet=câu,cú thoại|Trad=句話
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	心里	_	VERB	VV	_	0	root	_	Pinyin=xīnlǐ|Gloss=chest|HanViet=tâm lý|Trad=心裡
+7	感到	_	VERB	VV	_	6	xcomp	_	Pinyin=gǎndào|Gloss=to feel; to sense; to perceive|HanViet=cảm đáo
+8	很	_	ADV	RB	_	9	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+9	骄傲	_	ADJ	JJ	_	7	xcomp	_	Pinyin=jiāoào|Gloss=pride|HanViet=kiêu ngạo|Trad=驕傲
+10	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l4-04-13
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 我想，这种做法留下来的不仅是一种味道，更是一家人的感情。
+# translation = I think what this way of cooking hands down is not only a flavor but, even more, a family's love.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	想	_	AUX	MD	_	0	root	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+3	，	_	PUNCT	,	_	21	punct	_	_
+4	这	_	DET	DT	_	6	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+5	种	_	NOUN	NNB	_	4	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+6	做法	_	NOUN	NN	_	7	nsubj	_	Pinyin=zuòfǎ|Gloss=way of handling sth|HanViet=tố pháp
+7	留	_	VERB	VV	_	14	csubj	_	Pinyin=liú|Gloss=to leave (a message etc)|HanViet=lưu
+8	下来	_	VERB	VV	_	7	mark	_	Pinyin=xiàlái|Gloss=to come down|HanViet=hạ lai|Trad=下來
+9	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	不仅	_	ADP	IN	_	14	case	_	Pinyin=bùjǐn|Gloss=not just; not limited to|HanViet=bất cận|Trad=不僅
+11	是	_	AUX	VC	_	14	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+12	一	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+13	种	_	NOUN	NNB	_	12	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+14	味道	_	NOUN	NN	_	21	acl	_	Pinyin=wèidào|Gloss=flavor; taste|HanViet=vị đạo
+15	，	_	PUNCT	,	_	14	punct	_	_
+16	更是	_	AUX	VC	_	21	cop	_	Pinyin=gèngshì|Gloss=even more (so)|HanViet=càng,cánh thị
+17	一	_	NUM	CD	NumType=Card	19	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+18	家	_	NOUN	NNB	_	17	clf	_	Pinyin=jiā|Gloss=home|HanViet=gia
+19	人	_	NOUN	NN	_	21	nmod	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+20	的	_	PART	DEC	Case=Gen	19	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+21	感情	_	NOUN	NN	_	2	ccomp	_	Pinyin=gǎnqíng|Gloss=emotion; sentiment|HanViet=cảm tình
+22	。	_	PUNCT	.	_	2	punct	_	_

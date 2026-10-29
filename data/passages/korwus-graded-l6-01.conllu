@@ -1,0 +1,293 @@
+# sent_id = korwus-graded-l6-01-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# newpar
+# text = 近年来，人工智能迅速普及到各个行业，给职场带来了巨大的冲击。
+# translation = In recent years, artificial intelligence has rapidly spread across every industry, bringing a huge shock to the workplace.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	近年	_	NOUN	NN	_	12	nmod:tmod	_	Pinyin=jìnnián|Gloss=recent year(s)|HanViet=cận niên
+2	来	_	ADP	IN	_	1	case	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	人工	_	NOUN	NN	_	5	nmod	_	Pinyin=réngōng|Gloss=artificial|HanViet=nhân công
+5	智能	_	NOUN	NN	_	12	nsubj	_	Pinyin=zhìnéng|Gloss=intelligent|HanViet=trí năng
+6	迅速	_	ADV	RB	_	7	advmod	_	Pinyin=xùnsù|Gloss=rapid|HanViet=tấn tốc
+7	普及	_	VERB	VV	_	12	advcl	_	Pinyin=pǔjí|Gloss=to spread extensively|HanViet=phổ cập
+8	到	_	VERB	VV	_	7	mark	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+9	各个	_	DET	DT	_	10	det	_	Pinyin=gègè|Gloss=every|HanViet=các cá|Trad=各個
+10	行业	_	NOUN	NN	_	7	obj	_	Pinyin=hángyè|Gloss=trade; profession; industry; business|HanViet=hàng,hạng nghiệp|Trad=行業
+11	，	_	PUNCT	,	_	7	punct	_	_
+12	给职场	_	VERB	VV	_	0	root	_	Pinyin=gěizhíchǎng|Gloss=给 to + 职场 workplace|GlossFrom=parts|HanViet=cấp chức trường|Trad=給職場
+13	带来	_	VERB	VV	_	12	xcomp	_	Pinyin=dàilái|Gloss=to bring|HanViet=đới lai|Trad=帶來
+14	了	_	AUX	AS	Aspect=Perf	13	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+15	巨大	_	ADJ	JJ	_	17	amod	_	Pinyin=jùdà|Gloss=huge; immense; enormous; gigantic|HanViet=cự đại
+16	的	_	SCONJ	DEC	_	15	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	冲击	_	NOUN	NN	_	13	obj	_	Pinyin=chōngjī|Gloss=to attack|HanViet=xung kích|Trad=衝擊
+18	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l6-01-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 许多重复、单调的工作已经由软件承担，效率显著提高。
+# translation = Many repetitive, monotonous tasks are already handled by software, and efficiency has risen markedly.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	许多	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=xǔduō|Gloss=many|HanViet=hứa đa|Trad=許多
+2	重复	_	VERB	VV	_	6	acl:relcl	_	Pinyin=chóngfù|Gloss=to repeat|HanViet=trùng phức|Trad=重複
+3	、	_	PUNCT	EC	_	4	punct	_	_
+4	单调	_	ADJ	JJ	_	2	conj	_	Pinyin=dāndiào|Gloss=monotonous|HanViet=đơn,đan điệu|Trad=單調
+5	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	工作	_	NOUN	NN	_	8	nsubj	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+7	已经	_	ADV	RB	_	8	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+8	由	_	ADP	IN	_	0	root	_	Pinyin=yóu|Gloss=to follow|HanViet=do
+9	软件	_	NOUN	NN	_	10	nsubj	_	Pinyin=ruǎnjiàn|Gloss=software|HanViet=nhuyễn kiện|Trad=軟件
+10	承担	_	VERB	VV	_	8	ccomp	_	Pinyin=chéngdān|Gloss=to undertake|HanViet=thừa đảm,đam|Trad=承擔
+11	，	_	PUNCT	,	_	14	punct	_	_
+12	效率	_	NOUN	NN	_	14	nsubj	_	Pinyin=xiàolǜ|Gloss=efficiency|HanViet=hiệu luật
+13	显著	_	ADV	RB	_	14	advmod	_	Pinyin=xiǎnzhù|Gloss=outstanding|HanViet=hiển trứ|Trad=顯著
+14	提高	_	VERB	VV	_	8	parataxis	_	Pinyin=tígāo|Gloss=to raise|HanViet=đề cao
+15	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l6-01-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 然而，不少员工对此感到焦虑，担心自己的岗位会被取代。
+# translation = However, quite a few employees feel anxious about this, worried that their positions will be taken over.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	然而	_	SCONJ	RB	_	9	mark	_	Pinyin=ránér|Gloss=however; but; yet|HanViet=nhiên nhi
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	不少	_	ADJ	JJ	_	4	amod	_	Pinyin=bùshǎo|Gloss=many; quite a few; a good number of|HanViet=bất thiểu
+4	员工	_	NOUN	NN	_	9	nsubj	_	Pinyin=yuángōng|Gloss=staff; personnel; employee|HanViet=viên công|Trad=員工
+5	对此	_	VERB	VV	_	9	advcl	_	Pinyin=duìcǐ|Gloss=对 right; correct + 此 this; these|GlossFrom=parts|HanViet=đối thử|Trad=對此
+6	感到	_	VERB	VV	_	5	xcomp	_	Pinyin=gǎndào|Gloss=to feel; to sense; to perceive|HanViet=cảm đáo
+7	焦虑	_	ADJ	JJ	_	6	xcomp	_	Pinyin=jiāolǜ|Gloss=anxious|HanViet=tiêu lự|Trad=焦慮
+8	，	_	PUNCT	,	_	5	punct	_	_
+9	担心	_	VERB	VV	_	0	root	_	Pinyin=dānxīn|Gloss=anxious|HanViet=đảm,đam tâm|Trad=擔心
+10	自己	_	PRON	PRD	_	12	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	岗位	_	NOUN	NN	_	15	nsubj:pass	_	Pinyin=gǎngwèi|Gloss=a post; a job|HanViet=cương vị|Trad=崗位
+13	会	_	AUX	MD	_	15	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+14	被	_	AUX	BB	Voice=Pass	15	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+15	取代	_	VERB	VV	_	9	ccomp	_	Pinyin=qǔdài|Gloss=to replace|HanViet=thủ đại
+16	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l6-01-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 事实上，技术淘汰的往往是某些任务，而不是整个职业。
+# translation = In fact, what technology eliminates is often certain tasks, not entire professions.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	事实	_	NOUN	NN	_	15	obl	_	Pinyin=shìshí|Gloss=fact|HanViet=sự thực|Trad=事實
+2	上	_	ADP	IN	_	1	case	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	技术	_	NOUN	NN	_	5	nsubj	_	Pinyin=jìshù|Gloss=technology; technique; skill|HanViet=kỹ thuật|Trad=技術
+5	淘汰	_	VERB	VV	_	10	csubj	_	Pinyin=táotài|Gloss=to wash out|HanViet=đào thải
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	往往	_	ADV	RB	_	10	advmod	_	Pinyin=wǎngwǎng|Gloss=usually|HanViet=vãng vãng
+8	是	_	AUX	VC	_	10	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+9	某些	_	DET	DT	_	10	det	_	Pinyin=mǒuxiē|Gloss=some; certain (things)|HanViet=mỗ ta
+10	任务	_	NOUN	NN	_	15	acl	_	Pinyin=rènwù|Gloss=mission; assignment; task; duty; role|HanViet=nhiệm vụ|Trad=任務
+11	，	_	PUNCT	,	_	10	punct	_	_
+12	而	_	SCONJ	RB	_	15	mark	_	Pinyin=ér|Gloss=and|HanViet=nhi
+13	不是	_	AUX	VC	Polarity=Neg	15	cop	_	Pinyin=búshì|Gloss=no|HanViet=_ thị
+14	整个	_	DET	DT	_	15	det	_	Pinyin=zhěnggè|Gloss=whole|HanViet=chỉnh cá|Trad=整個
+15	职业	_	NOUN	NN	_	0	root	_	Pinyin=zhíyè|Gloss=occupation; profession; vocation|HanViet=chức nghiệp|Trad=職業
+16	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = korwus-graded-l6-01-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 善于利用新工具的人，反而能够摆脱机械的劳动，把精力投入到更有创造性的环节。
+# translation = People who are good at using new tools can instead escape mechanical labor and put their energy into more creative parts of the work.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	善	_	VERB	VV	_	7	acl:relcl	_	Pinyin=shàn|Gloss=good (virtuous)|HanViet=thiện
+2	于	_	VERB	VV	_	1	mark	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+3	利用	_	VERB	VV	_	1	xcomp	_	Pinyin=lìyòng|Gloss=to exploit|HanViet=lợi dụng
+4	新	_	PART	PFA	_	5	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+5	工具	_	NOUN	NN	_	3	obj	_	Pinyin=gōngjù|Gloss=tool|HanViet=công cụ
+6	的	_	SCONJ	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	人	_	NOUN	NN	_	11	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+8	，	_	PUNCT	,	_	1	punct	_	_
+9	反而	_	SCONJ	RB	_	11	mark	_	Pinyin=fǎnér|Gloss=on the contrary; instead|HanViet=phản nhi
+10	能够	_	AUX	MD	_	11	aux	_	Pinyin=nénggòu|Gloss=to be capable of|HanViet=năng cú|Trad=能夠
+11	摆脱	_	VERB	VV	_	18	advcl	_	Pinyin=bǎituō|Gloss=to break away from|HanViet=bài thoát|Trad=擺脫
+12	机械	_	NOUN	NN	_	14	nmod	_	Pinyin=jīxiè|Gloss=machine|HanViet=cơ giới|Trad=機械
+13	的	_	PART	DEC	Case=Gen	12	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	劳动	_	NOUN	NN	_	11	obj	_	Pinyin=láodòng|Gloss=work|HanViet=lao,lạo động|Trad=勞動
+15	，	_	PUNCT	,	_	11	punct	_	_
+16	把	_	ADP	BB	_	17	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+17	精力	_	NOUN	NN	_	18	obl:patient	_	Pinyin=jīnglì|Gloss=energy (physical or mental)|HanViet=tinh lực
+18	投入	_	VERB	VV	_	0	root	_	Pinyin=tóurù|Gloss=to throw into|HanViet=đầu nhập
+19	到	_	VERB	VV	_	18	mark	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+20	更有	_	VERB	VV	_	24	acl:relcl	_	Pinyin=gèngyǒu|Gloss=更 to change or replace + 有 to have; there is|GlossFrom=parts|HanViet=càng,cánh hữu
+21	创造	_	VERB	VV	_	22	compound	_	Pinyin=chuàngzào|Gloss=to create|HanViet=sáng tạo|Trad=創造
+22	性	_	PART	SFN	_	20	obj	_	Pinyin=xìng|Gloss=nature|HanViet=tính
+23	的	_	SCONJ	DEC	_	20	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+24	环节	_	NOUN	NN	_	18	obj	_	Pinyin=huánjié|Gloss=(zoology) segment (of the body of a worm, centipede etc)|HanViet=hoàn tiết|Trad=環節
+25	。	_	PUNCT	.	_	18	punct	_	_
+
+# sent_id = korwus-graded-l6-01-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 比如，律师可以借助程序筛选资料，从而抽出时间思考案子的关键。
+# translation = For example, a lawyer can use a program to sift through materials, freeing up time to think about the crux of a case.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	比如	_	VERB	VV	_	0	root	_	Pinyin=bǐrú|Gloss=for example; for instance; such as|HanViet=tỷ,bỉ như
+2	，	_	PUNCT	,	_	11	punct	_	_
+3	律师	_	NOUN	NN	_	11	nsubj	_	Pinyin=lǜshī|Gloss=lawyer|HanViet=luật sư|Trad=律師
+4	可以	_	AUX	MD	_	11	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+5	借助	_	VERB	VV	_	11	advcl	_	Pinyin=jièzhù|Gloss=to draw support from|HanViet=tá,tạ trợ|Trad=藉助
+6	程序	_	NOUN	NN	_	7	nsubj	_	Pinyin=chéngxù|Gloss=procedures|HanViet=trình tự
+7	筛选	_	VERB	VV	_	5	ccomp	_	Pinyin=shāixuǎn|Gloss=to filter|HanViet=si tuyển|Trad=篩選
+8	资料	_	NOUN	NN	_	7	obj	_	Pinyin=zīliào|Gloss=material|HanViet=tư liệu|Trad=資料
+9	，	_	PUNCT	,	_	5	punct	_	_
+10	从而	_	SCONJ	RB	_	11	mark	_	Pinyin=cóngér|Gloss=thus; thereby|HanViet=tòng,tùng nhi|Trad=從而
+11	抽出	_	VERB	VV	_	1	ccomp	_	Pinyin=chōuchū|Gloss=to take out|HanViet=trừu xuất
+12	时间	_	NOUN	NN	_	13	obl	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+13	思考	_	VERB	VV	_	16	acl:relcl	_	Pinyin=sīkǎo|Gloss=to reflect on|HanViet=tư,tứ khảo
+14	案子	_	NOUN	NN	_	13	obj	_	Pinyin=ànzi|Gloss=long table; counter|HanViet=án tử
+15	的	_	SCONJ	DEC	_	13	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	关键	_	NOUN	NN	_	11	obj	_	Pinyin=guānjiàn|Gloss=crucial point|HanViet=quan kiện|Trad=關鍵
+17	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l6-01-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 不过，人工智能并不是无所不能的，它的判断有时会出现错误，甚至会凭空编出根本不存在的信息。
+# translation = But artificial intelligence is not all-powerful: its judgments are sometimes wrong, and it may even invent information that does not exist at all.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	不过	_	SCONJ	RB	_	7	mark	_	Pinyin=bùguò|Gloss=only|HanViet=bất quá,qua|Trad=不過
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	人工	_	NOUN	NN	_	4	nmod	_	Pinyin=réngōng|Gloss=artificial|HanViet=nhân công
+4	智能	_	NOUN	NN	_	7	nsubj	_	Pinyin=zhìnéng|Gloss=intelligent|HanViet=trí năng
+5	并	_	SCONJ	RB	_	7	mark	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+6	不是	_	AUX	VC	Polarity=Neg	7	cop	_	Pinyin=búshì|Gloss=no|HanViet=_ thị
+7	无所不能	_	ADJ	JJ	_	0	root	_	Pinyin=wúsuǒbùnéng|Gloss=omnipotent|HanViet=vô sở bất năng|Trad=無所不能
+8	的	_	PART	UH	_	7	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	，	_	PUNCT	,	_	21	punct	_	_
+10	它	_	PRON	PRP	Person=3	12	det	_	Pinyin=tā|Gloss=it|HanViet=tha
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	判断	_	NOUN	NN	_	21	nsubj	_	Pinyin=pànduàn|Gloss=to judge; to determine; judgment|HanViet=phán đoạn,đoán|Trad=判斷
+13	有时	_	ADV	RB	_	15	advmod	_	Pinyin=yǒushí|Gloss=sometimes; now and then|HanViet=hữu thời|Trad=有時
+14	会	_	AUX	MD	_	15	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+15	出现	_	VERB	VV	_	21	advcl	_	Pinyin=chūxiàn|Gloss=to appear; to arise; to emerge; to show up|HanViet=xuất hiện|Trad=出現
+16	错误	_	NOUN	NN	_	15	obj	_	Pinyin=cuòwù|Gloss=mistaken; false; wrong|HanViet=thác ngộ|Trad=錯誤
+17	，	_	PUNCT	,	_	15	punct	_	_
+18	甚至	_	SCONJ	RB	_	21	mark	_	Pinyin=shènzhì|Gloss=even; so much so that|HanViet=thậm chí
+19	会	_	AUX	MD	_	21	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+20	凭空	_	ADV	RB	_	21	advmod	_	Pinyin=píngkōng|Gloss=baseless (lie)|HanViet=bằng không|Trad=憑空
+21	编出	_	VERB	VV	_	7	parataxis	_	Pinyin=biānchū|Gloss=编 to weave + 出 to go out; to come out|GlossFrom=parts|HanViet=biên xuất|Trad=編出
+22	根本	_	ADV	RB	_	24	advmod	_	Pinyin=gēnběn|Gloss=fundamental|HanViet=căn bản
+23	不	_	ADV	RB	Polarity=Neg	24	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+24	存在	_	VERB	VV	_	26	acl:relcl	_	Pinyin=cúnzài|Gloss=to exist|HanViet=tồn tại
+25	的	_	SCONJ	DEC	_	24	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+26	信息	_	NOUN	NN	_	21	obj	_	Pinyin=xìnxī|Gloss=information; news; message|HanViet=tín tức
+27	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l6-01-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 因此，人类的监督和检验依然必不可少。
+# translation = Therefore, human supervision and checking remain essential.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	因	_	ADP	IN	_	2	case	_	Pinyin=yīn|Gloss=cause|HanViet=nhân
+2	此	_	PRON	PRD	_	11	nmod	_	Pinyin=cǐ|Gloss=this; these|HanViet=thử
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	人类	_	NOUN	NN	_	6	nmod	_	Pinyin=rénlèi|Gloss=humanity|HanViet=nhân loại|Trad=人類
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	监督	_	NOUN	NN	_	11	nsubj	_	Pinyin=jiāndū|Gloss=to supervise; to oversee; to inspect|HanViet=giam,giám đốc|Trad=監督
+7	和	_	CCONJ	CC	_	8	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+8	检验	_	NOUN	NN	_	6	conj	_	Pinyin=jiǎnyàn|Gloss=to inspect|HanViet=kiểm nghiệm|Trad=檢驗
+9	依然	_	ADV	RB	_	11	advmod	_	Pinyin=yīrán|Gloss=still; as before|HanViet=y nhiên
+10	必	_	AUX	MD	_	11	aux	_	Pinyin=bì|Gloss=certainly|HanViet=tất
+11	不可少	_	ADJ	JJ	_	0	root	_	Pinyin=bùkěshǎo|Gloss=indispensable; essential|HanViet=bất khả thiểu
+12	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l6-01-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 企业在引进新技术时，也应当重视员工的培训，而不是只顾着降低成本。
+# translation = When companies bring in new technology, they should also value employee training instead of focusing only on cutting costs.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	企业	_	NOUN	NN	_	16	nsubj	_	Pinyin=qǐyè|Gloss=company; firm; enterprise; corporation|HanViet=xí nghiệp|Trad=企業
+2	在	_	VERB	VV	_	16	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	引进	_	VERB	VV	_	2	xcomp	_	Pinyin=yǐnjìn|Gloss=to recommend|HanViet=dẫn tiến|Trad=引進
+4	新	_	PART	PFA	_	5	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+5	技术	_	NOUN	NN	_	3	obj	_	Pinyin=jìshù|Gloss=technology; technique; skill|HanViet=kỹ thuật|Trad=技術
+6	时	_	ADP	IN	_	2	mark	_	Pinyin=shí|Gloss=o'clock|HanViet=thời|Trad=時
+7	，	_	PUNCT	,	_	2	punct	_	_
+8	也	_	SCONJ	RB	_	10	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+9	应当	_	AUX	MD	_	10	aux	_	Pinyin=yīngdāng|Gloss=should; ought to|HanViet=ưng đương,đang|Trad=應當
+10	重视	_	VERB	VV	_	16	advcl	_	Pinyin=zhòngshì|Gloss=to attach importance to sth; to value|HanViet=trọng thị|Trad=重視
+11	员工	_	NOUN	NN	_	13	nmod	_	Pinyin=yuángōng|Gloss=staff; personnel; employee|HanViet=viên công|Trad=員工
+12	的	_	PART	DEC	Case=Gen	11	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	培训	_	NOUN	NN	_	10	obj	_	Pinyin=péixùn|Gloss=to cultivate|HanViet=bồi huấn|Trad=培訓
+14	，	_	PUNCT	,	_	10	punct	_	_
+15	而	_	SCONJ	RB	_	16	mark	_	Pinyin=ér|Gloss=and|HanViet=nhi
+16	不是	_	VERB	VC	Polarity=Neg	0	root	_	Pinyin=búshì|Gloss=no|HanViet=_ thị
+17	只顾	_	VERB	VV	_	16	xcomp	_	Pinyin=zhǐgù|Gloss=to focus solely on; to pay attention only to; to be preoccupied with|HanViet=chỉ cố|Trad=只顧
+18	着	_	AUX	AS	Aspect=Prog	17	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+19	降低	_	VERB	VV	_	17	xcomp	_	Pinyin=jiàngdī|Gloss=to reduce; to lower; to bring down|HanViet=giáng đê
+20	成本	_	NOUN	NN	_	19	obj	_	Pinyin=chéngběn|Gloss=(manufacturing, production etc) costs|HanViet=thành bản
+21	。	_	PUNCT	.	_	16	punct	_	_
+
+# sent_id = korwus-graded-l6-01-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 说到底，决定未来的不是机器本身，而是我们如何掌握它。
+# translation = In the end, what decides the future is not the machines themselves but how we master them.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+2	到底	_	VERB	VV	_	1	xcomp	_	Pinyin=dàodǐ|Gloss=finally|HanViet=đáo để
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	决定	_	VERB	VV	_	11	csubj	_	Pinyin=juédìng|Gloss=to decide; to determine; to make up one's mind|HanViet=quyết định|Trad=決定
+5	未来	_	NOUN	NN	_	8	nmod	_	Pinyin=wèilái|Gloss=future|HanViet=vị,mùi lai|Trad=未來
+6	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	不是	_	AUX	VC	Polarity=Neg	8	cop	_	Pinyin=búshì|Gloss=no|HanViet=_ thị
+8	机器	_	NOUN	NN	_	4	ccomp	_	Pinyin=jīqì|Gloss=machine|HanViet=cơ khí|Trad=機器
+9	本身	_	PRON	PRD	_	8	appos	_	Pinyin=běnshēn|Gloss=itself|HanViet=bản thân
+10	，	_	PUNCT	,	_	4	punct	_	_
+11	而是	_	VERB	VC	_	1	ccomp	_	Pinyin=érshì|Gloss=rather|HanViet=nhi thị
+12	我们	_	PRON	PRP	Number=Plur|Person=1	14	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+13	如何	_	ADV	RB	_	14	advmod	_	Pinyin=rúhé|Gloss=how|HanViet=như hà
+14	掌握	_	VERB	VV	_	11	ccomp	_	Pinyin=zhǎngwò|Gloss=to grasp (often fig.)|HanViet=chưởng ác
+15	它	_	PRON	PRP	Person=3	14	obj	_	Pinyin=tā|Gloss=it|HanViet=tha
+16	。	_	PUNCT	.	_	11	punct	_	_

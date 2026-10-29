@@ -1,0 +1,231 @@
+# sent_id = korwus-graded-l3-u14-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 这个周末，我打扫了一下自己的房间。
+# translation = This weekend, I gave my room a cleaning.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	周末	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=zhōumò|Gloss=weekend|HanViet=chu mạt|Trad=週末
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	打扫	_	VERB	VV	_	0	root	_	Pinyin=dǎsǎo|Gloss=to clean|HanViet=đả tảo|Trad=打掃
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	一下	_	PRON	PRD	_	11	nmod	_	Pinyin=yīxià|Gloss=(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)|HanViet=nhất hạ
+9	自己	_	PRON	PRD	_	11	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+10	的	_	PART	DEC	Case=Gen	9	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	房间	_	NOUN	NN	_	6	obj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+12	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u14-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我一边听音乐，一边打扫。
+# translation = I listened to music while I cleaned.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	一边	_	ADV	RB	_	3	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+3	听	_	VERB	VV	_	7	advcl	_	Pinyin=tīng|Gloss=to listen to; to hear|HanViet=thính|Trad=聽
+4	音乐	_	NOUN	NN	_	3	obj	_	Pinyin=yīnyuè|Gloss=music|HanViet=âm nhạc|Trad=音樂
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	一边	_	ADV	RB	_	7	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+7	打扫	_	VERB	VV	_	0	root	_	Pinyin=dǎsǎo|Gloss=to clean|HanViet=đả tảo|Trad=打掃
+8	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u14-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 在床下面，我看见一个旧包，里面有一张地图和几张卡。
+# translation = Under the bed, I found an old bag with a map and a few cards inside.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	VERB	VV	_	6	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	床	_	NOUN	NN	_	3	nmod	_	Pinyin=chuáng|Gloss=bed; couch (furniture that one can lie down on) (CL:張/张[zhang1])|HanViet=sàng
+3	下面	_	NOUN	NN	_	1	obj	_	Pinyin=xiàmiàn|Gloss=below|HanViet=hạ diện
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	看见	_	VERB	VV	_	0	root	_	Pinyin=kànjiàn|Gloss=to see; to catch sight of|HanViet=khán kiến|Trad=看見
+7	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+8	个	_	NOUN	NNB	_	10	nmod	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+9	旧	_	PART	PFA	_	10	case	_	Pinyin=jiù|Gloss=old|HanViet=cựu|Trad=舊
+10	包	_	PART	SFN	_	6	obj	_	Pinyin=bāo|Gloss=to cover|HanViet=bao
+11	，	_	PUNCT	,	_	13	punct	_	_
+12	里面	_	NOUN	NN	_	13	nsubj	_	Pinyin=lǐmiàn|Gloss=inside|HanViet=lý diện|Trad=裡面
+13	有	_	VERB	VV	_	6	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+14	一	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+15	张	_	NOUN	NNB	_	14	clf	_	Pinyin=zhāng|Gloss=to open up|HanViet=trương|Trad=張
+16	地图	_	NOUN	NN	_	13	obj	_	Pinyin=dìtú|Gloss=map|HanViet=địa đồ|Trad=地圖
+17	和	_	CCONJ	CC	_	20	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+18	几	_	NUM	CD	NumType=Card	20	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+19	张	_	NOUN	NNB	_	18	clf	_	Pinyin=zhāng|Gloss=to open up|HanViet=trương|Trad=張
+20	卡	_	NOUN	NN	_	16	conj	_	Pinyin=kǎ|Gloss=to stop|HanViet=ca,tạp,khải
+21	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u14-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 地图是叔叔给我的，他说以后要带我去很多地方。
+# translation = The map was from my uncle; he said he would take me to lots of places someday.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	地图	_	NOUN	NN	_	4	nsubj	_	Pinyin=dìtú|Gloss=map|HanViet=địa đồ|Trad=地圖
+2	是	_	AUX	VC	_	3	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	叔叔	_	NOUN	NN	_	4	nsubj	_	Pinyin=shūshū|Gloss=father's younger brother; paternal uncle|HanViet=thúc thúc
+4	给	_	VERB	VV	_	0	root	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+5	我	_	PRON	PRP	Person=1	4	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	的	_	PART	UH	_	4	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	，	_	PUNCT	,	_	9	punct	_	_
+8	他	_	PRON	PRP	Person=3	9	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+9	说	_	VERB	VV	_	4	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+10	以后	_	NOUN	NN	_	14	nmod:tmod	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+11	要	_	AUX	MD	_	14	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+12	带	_	VERB	VV	_	14	advcl	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+13	我	_	PRON	PRP	Person=1	12	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+14	去	_	VERB	VV	_	9	ccomp	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+15	很多	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+16	地方	_	NOUN	NN	_	14	obj	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+17	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u14-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 卡是我的两个姐妹写的，她们希望我的外语水平提高得快一些。
+# translation = The cards were written by my two sisters; they hoped my foreign language would improve a little faster.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	卡	_	PROPN	NNP	_	8	nsubj	_	Pinyin=kǎ|Gloss=to stop|HanViet=ca,tạp,khải
+2	是	_	AUX	VC	_	8	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	我	_	PRON	PRP	Person=1	7	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	两	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+6	个	_	NOUN	NNB	_	5	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	姐妹	_	NOUN	NN	_	8	nsubj	_	Pinyin=jiěmèi|Gloss=sisters|HanViet=tỷ,thư muội
+8	写	_	VERB	VV	_	0	root	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+9	的	_	PART	UH	_	8	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	，	_	PUNCT	,	_	12	punct	_	_
+11	她们	_	PRON	PRP	Number=Plur|Person=3	12	nsubj	_	Pinyin=tāmen|Gloss=they; them (females)|HanViet=tha môn|Trad=她們
+12	希望	_	VERB	VV	_	8	parataxis	_	Pinyin=xīwàng|Gloss=to hope|HanViet=hy vọng
+13	我	_	PRON	PRP	Person=1	16	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+14	的	_	PART	DEC	Case=Gen	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	外语	_	NOUN	NN	_	16	nmod	_	Pinyin=wàiyǔ|Gloss=foreign language|HanViet=ngoại ngữ|Trad=外語
+16	水平	_	NOUN	NN	_	17	nsubj	_	Pinyin=shuǐpíng|Gloss=horizontal; level|HanViet=thuỷ bình
+17	提高	_	VERB	VV	_	12	ccomp	_	Pinyin=tígāo|Gloss=to raise|HanViet=đề cao
+18	得	_	PART	DEV	_	17	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+19	快	_	ADJ	JJ	_	17	xcomp	_	Pinyin=kuài|Gloss=rapid|HanViet=khoái
+20	一些	_	ADJ	JJ	_	17	xcomp	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+21	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u14-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我们已经好久没有见面了，大概有三年了吧。
+# translation = We hadn't seen each other in a long time, probably about three years.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	9	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	已经	_	ADV	RB	_	4	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+3	好久	_	ADV	RB	_	4	advmod	_	Pinyin=hǎojiǔ|Gloss=(coll.) a long time|HanViet=hảo cửu
+4	没有	_	VERB	VV	Polarity=Neg	9	advcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+5	见面	_	VERB	VV	_	4	xcomp	_	Pinyin=jiànmiàn|Gloss=to meet; to see each other|HanViet=kiến diện|Trad=見面
+6	了	_	PART	UH	_	4	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	，	_	PUNCT	,	_	4	punct	_	_
+8	大概	_	ADV	RB	_	9	advmod	_	Pinyin=dàgài|Gloss=roughly|HanViet=đại khái
+9	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+10	三	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=sān|Gloss=three|HanViet=tam
+11	年	_	NOUN	NNB	_	9	obj	_	Pinyin=nián|Gloss=year|HanViet=niên
+12	了	_	PART	UH	_	9	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	吧	_	PART	UH	_	9	discourse	_	Pinyin=ba|Gloss=(modal particle indicating suggestion or surmise)|HanViet=ba
+14	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u14-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我马上给她们打了电话，大家决定下个月见面。
+# translation = I called them right away, and we all decided to meet next month.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	马上	_	ADV	RB	_	5	advmod	_	Pinyin=mǎshàng|Gloss=at once|HanViet=mã thượng|Trad=馬上
+3	给	_	VERB	VV	_	5	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+4	她们	_	PRON	PRP	Number=Plur|Person=3	3	obj	_	Pinyin=tāmen|Gloss=they; them (females)|HanViet=tha môn|Trad=她們
+5	打	_	VERB	VV	_	0	root	_	Pinyin=dǎ|Gloss=to hit; to strike|HanViet=đả
+6	了	_	AUX	AS	Aspect=Perf	5	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	电话	_	NOUN	NN	_	5	obj	_	Pinyin=diànhuà|Gloss=telephone|HanViet=điện thoại|Trad=電話
+8	，	_	PUNCT	,	_	10	punct	_	_
+9	大家	_	PRON	PRD	_	10	nsubj	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+10	决定	_	VERB	VV	_	5	parataxis	_	Pinyin=juédìng|Gloss=to decide; to determine; to make up one's mind|HanViet=quyết định|Trad=決定
+11	下	_	DET	DT	_	13	det	_	Pinyin=xià|Gloss=down|HanViet=hạ
+12	个	_	NOUN	NNB	_	11	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+13	月	_	NOUN	NN	_	14	obl	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+14	见面	_	VERB	VV	_	10	xcomp	_	Pinyin=jiànmiàn|Gloss=to meet; to see each other|HanViet=kiến diện|Trad=見面
+15	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u14-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 打扫完房间，已经十二点了，我也饿了。
+# translation = By the time I finished cleaning, it was already twelve o'clock, and I was hungry too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	打扫	_	VERB	VV	_	7	advcl	_	Pinyin=dǎsǎo|Gloss=to clean|HanViet=đả tảo|Trad=打掃
+2	完	_	VERB	VV	_	1	mark	_	Pinyin=wán|Gloss=to finish|HanViet=hoàn
+3	房间	_	NOUN	NN	_	1	obj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	已经	_	ADV	RB	_	7	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+6	十二	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=shíèr|Gloss=twelve|HanViet=thập nhị
+7	点	_	NOUN	NNB	_	0	root	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+8	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	，	_	PUNCT	,	_	12	punct	_	_
+10	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+11	也	_	SCONJ	RB	_	12	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+12	饿	_	ADJ	JJ	_	7	parataxis	_	Pinyin=è|Gloss=hungry|HanViet=ngạ|Trad=餓
+13	了	_	PART	UH	_	12	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+14	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u14-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 看来，这次打扫还挺有用的。
+# translation = It seems this cleaning turned out to be pretty useful.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	看来	_	VERB	VV	_	0	root	_	Pinyin=kànlái|Gloss=apparently|HanViet=khán lai|Trad=看來
+2	，	_	PUNCT	,	_	7	punct	_	_
+3	这	_	DET	DT	_	4	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+4	次	_	NOUN	NNB	_	5	obl	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+5	打扫	_	VERB	VV	_	7	csubj	_	Pinyin=dǎsǎo|Gloss=to clean|HanViet=đả tảo|Trad=打掃
+6	还	_	SCONJ	RB	_	7	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+7	挺	_	VERB	VV	_	1	ccomp	_	Pinyin=tǐng|Gloss=straight|HanViet=đĩnh
+8	有用	_	ADJ	JJ	_	7	xcomp	_	Pinyin=yǒuyòng|Gloss=useful|HanViet=hữu dụng
+9	的	_	PART	UH	_	7	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	。	_	PUNCT	.	_	1	punct	_	_

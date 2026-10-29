@@ -1,0 +1,69 @@
+# sent_id = sample-1-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 2
+# text = 我每天早上七点起床。
+# grammar_points = gf0025-5:0-0;gf0025-7:3-3;gf0025-44:3-4
+1	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	每天	_	DET	DT	_	5	det	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+3	早上	_	NOUN	NN	_	5	nmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+4	七	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=qī|Gloss=seven|HanViet=thất
+5	点	_	NOUN	NNB	_	6	obl	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+6	起床	_	VERB	VV	_	0	root	_	Pinyin=qǐchuáng|Gloss=to get out of bed; to get up|HanViet=khởi sàng
+7	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = sample-1-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 2
+# text = 我喝一杯茶，吃面包。
+# grammar_points = gf0025-5:0-0;gf0025-7:2-2;gf0025-8:3-3;gf0025-23:2-3
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	喝	_	VERB	VV	_	0	root	_	Pinyin=hē|Gloss=to drink|HanViet=húp
+3	一	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+4	杯	_	NOUN	NNB	_	3	clf	_	Pinyin=bēi|Gloss=cup|HanViet=bôi
+5	茶	_	NOUN	NN	_	2	obj	_	Pinyin=chá|Gloss=tea|HanViet=trà
+6	，	_	PUNCT	,	_	2	punct	_	_
+7	吃面	_	VERB	VV	_	8	compound	_	Pinyin=chīmiàn|HanViet=cật miến|Trad=吃麵|GlossFrom=parts|Gloss=吃 to eat; to consume + 面 face
+8	包	_	PART	SFN	_	5	conj	_	Pinyin=bāo|Gloss=to cover|HanViet=bao
+9	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = sample-1-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 3
+# text = 然后我去学校学习汉语。
+# grammar_points = gf0025-5:1-1
+1	然后	_	ADV	RB	_	5	advmod	_	Pinyin=ránhòu|Gloss=then; after that; afterwards|HanViet=nhiên hậu|Trad=然後
+2	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	去	_	VERB	VV	_	5	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+4	学校	_	NOUN	NN	_	3	obj	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+5	学习	_	VERB	VV	_	0	root	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+6	汉	_	PROPN	NNP	_	7	compound	_	Pinyin=hàn|Gloss=Han ethnic group|HanViet=hán|Trad=漢
+7	语	_	PART	SFN	_	5	obj	_	Pinyin=yǔ|Gloss=dialect|HanViet=ngữ|Trad=語
+8	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = sample-1-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 1
+# text = 我喜欢我的老师。
+# grammar_points = gf0025-5:0-0;gf0025-5:2-2;gf0025-20:3-3;gf0025-82:3-3;gf0025-131:4-4
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+3	我	_	PRON	PRP	Person=1	5	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	老师	_	NOUN	NN	_	2	obj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+6	。	_	PUNCT	.	_	2	punct	_	_

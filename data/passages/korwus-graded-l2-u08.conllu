@@ -1,0 +1,220 @@
+# sent_id = korwus-graded-l2-u08-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# newpar
+# text = 我的爱好是跑步，我妹妹的爱好是跳舞。
+# translation = My hobby is running, and my younger sister's hobby is dancing.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	3	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	爱好	_	NOUN	NN	_	5	nsubj	_	Pinyin=àihào|Gloss=to like; to be fond of; to take pleasure in; to be keen on|HanViet=ái hiếu|Trad=愛好
+4	是	_	AUX	VC	_	5	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	跑步	_	VERB	VV	_	0	root	_	Pinyin=pǎobù|Gloss=to run|HanViet=bào bộ
+6	，	_	PUNCT	,	_	12	punct	_	_
+7	我	_	PRON	PRP	Person=1	8	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	妹妹	_	NOUN	NN	_	10	nmod	_	Pinyin=mèimèi|Gloss=younger sister|HanViet=muội muội
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	爱好	_	NOUN	NN	_	12	nsubj	_	Pinyin=àihào|Gloss=to like; to be fond of; to take pleasure in; to be keen on|HanViet=ái hiếu|Trad=愛好
+11	是	_	AUX	VC	_	12	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+12	跳舞	_	NOUN	NN	_	5	parataxis	_	Pinyin=tiàowǔ|Gloss=to dance|HanViet=khiêu vũ
+13	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l2-u08-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 早上，我们经常一起去学校后面跑步。
+# translation = In the mornings, we often go running together behind the school.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	早上	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	我们	_	PRON	PRP	Number=Plur|Person=1	9	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+4	经常	_	ADV	RB	_	9	advmod	_	Pinyin=jīngcháng|Gloss=frequently; constantly; regularly; often|HanViet=kinh thường|Trad=經常
+5	一起	_	NOUN	NN	_	9	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+6	去	_	VERB	VV	_	9	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+7	学校	_	NOUN	NN	_	8	nmod	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+8	后面	_	NOUN	NN	_	6	obj	_	Pinyin=hòumiàn|Gloss=the back; the rear; the last bit|HanViet=hậu diện|Trad=後面
+9	跑步	_	VERB	VV	_	0	root	_	Pinyin=pǎobù|Gloss=to run|HanViet=bào bộ
+10	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l2-u08-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 那儿离我们家非常近，走路五分钟就到了。
+# translation = It's very close to our home; it only takes five minutes to walk there.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那儿	_	PRON	PRD	_	12	nsubj	_	Pinyin=nàr|Gloss=there|HanViet=na nhi|Trad=那兒
+2	离	_	ADP	IN	_	4	case	_	Pinyin=lí|Gloss=to leave|HanViet=ly|Trad=離
+3	我们	_	PRON	PRP	Number=Plur|Person=1	4	compound	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+4	家	_	PART	SFN	_	6	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+5	非常	_	ADV	RB	_	6	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+6	近	_	ADJ	JJ	_	12	advcl	_	Pinyin=jìn|Gloss=near|HanViet=cận
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	走路	_	VERB	VV	_	12	advcl	_	Pinyin=zǒulù|Gloss=to walk; to go on foot|HanViet=tẩu lộ
+9	五	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=wǔ|Gloss=five|HanViet=ngũ
+10	分钟	_	NOUN	NNB	_	8	obj	_	Pinyin=fēnzhōng|Gloss=minute|HanViet=phân chung|Trad=分鐘
+11	就	_	SCONJ	RB	_	12	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+12	到	_	VERB	VV	_	0	root	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+13	了	_	PART	UH	_	12	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+14	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l2-u08-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 跑了一会儿，妹妹说她累了，想回去。
+# translation = After running for a while, my sister said she was tired and wanted to go back.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	跑	_	VERB	VV	_	0	root	_	Pinyin=pǎo|Gloss=to run|HanViet=bào
+2	了	_	AUX	AS	Aspect=Perf	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	一会儿	_	ADJ	JJ	_	1	xcomp	_	Pinyin=yīhuìr|Gloss=a moment|HanViet=nhất hội nhi|Trad=一會兒
+4	，	_	PUNCT	,	_	6	punct	_	_
+5	妹妹	_	NOUN	NN	_	6	nsubj	_	Pinyin=mèimèi|Gloss=younger sister|HanViet=muội muội
+6	说	_	VERB	VV	_	1	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+7	她	_	PRON	PRP	Person=3	8	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+8	累	_	ADJ	JJ	_	6	ccomp	_	Pinyin=lèi|Gloss=tired|HanViet=luỵ
+9	了	_	PART	UH	_	8	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	，	_	PUNCT	,	_	12	punct	_	_
+11	想	_	AUX	MD	_	12	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+12	回去	_	VERB	VV	_	6	ccomp	_	Pinyin=huíqù|Gloss=to return|HanViet=hồi khứ,khử
+13	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l2-u08-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我看了一下手表，说：“我们再跑一下吧。”
+# translation = I looked at my watch and said, "Let's run a little longer."
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	看	_	VERB	VV	_	7	advcl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	一下	_	ADJ	JJ	_	5	amod	_	Pinyin=yīxià|Gloss=(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)|HanViet=nhất hạ
+5	手表	_	NOUN	NN	_	2	obj	_	Pinyin=shǒubiǎo|Gloss=wristwatch|HanViet=thủ biểu|Trad=手錶
+6	，	_	PUNCT	,	_	2	punct	_	_
+7	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+8	：	_	PUNCT	:	_	12	punct	_	_
+9	“	_	PUNCT	``	_	12	punct	_	_
+10	我们	_	PRON	PRP	Number=Plur|Person=1	12	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+11	再	_	ADV	RB	_	12	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+12	跑	_	VERB	VV	_	7	ccomp	_	Pinyin=pǎo|Gloss=to run|HanViet=bào
+13	一下	_	PRON	WP	_	12	obj	_	Pinyin=yīxià|Gloss=(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try)|HanViet=nhất hạ
+14	吧	_	PART	UH	PartType=Int	12	discourse	_	Pinyin=ba|Gloss=(modal particle indicating suggestion or surmise)|HanViet=ba
+15	。	_	PUNCT	.	_	12	punct	_	_
+16	”	_	PUNCT	''	_	12	punct	_	_
+
+# sent_id = korwus-graded-l2-u08-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 虽然她已经累了，但是她还是跑下去了。
+# translation = Even though she was already tired, she kept going.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	虽然	_	ADP	IN	_	4	case	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+2	她	_	PRON	PRP	Person=3	4	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+3	已经	_	ADV	RB	_	4	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+4	累	_	ADJ	JJ	_	10	ccomp	_	Pinyin=lèi|Gloss=tired|HanViet=luỵ
+5	了	_	PART	UH	_	4	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	，	_	PUNCT	,	_	4	punct	_	_
+7	但是	_	SCONJ	RB	_	10	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+8	她	_	PRON	PRP	Person=3	10	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+9	还是	_	SCONJ	RB	_	10	mark	_	Pinyin=háishì|Gloss=still (as before)|HanViet=hoàn thị|Trad=還是
+10	跑	_	VERB	VV	_	0	root	_	Pinyin=pǎo|Gloss=to run|HanViet=bào
+11	下去	_	VERB	VV	_	10	mark	_	Pinyin=xiàqù|Gloss=to go down|HanViet=hạ khứ,khử
+12	了	_	PART	UH	_	10	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l2-u08-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 晚上，妹妹让我跟她一起去跳舞，还给我介绍了她的跳舞老师。
+# translation = In the evening, my sister had me go dancing with her, and she introduced me to her dance teacher.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	妹妹	_	NOUN	NN	_	4	nsubj	_	Pinyin=mèimèi|Gloss=younger sister|HanViet=muội muội
+4	让	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+5	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	跟	_	ADP	IN	_	7	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+7	她	_	PRON	PRP	Person=3	9	obl	_	Pinyin=tā|Gloss=she|HanViet=tha
+8	一起	_	NOUN	NN	_	9	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+9	去	_	VERB	VV	_	4	ccomp	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+10	跳舞	_	VERB	VV	_	9	xcomp	_	Pinyin=tiàowǔ|Gloss=to dance|HanViet=khiêu vũ
+11	，	_	PUNCT	,	_	4	punct	_	_
+12	还	_	SCONJ	RB	_	15	mark	_	Pinyin=huán|Gloss=to pay back|HanViet=hoàn|Trad=還
+13	给	_	VERB	VV	_	15	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+14	我	_	PRON	PRP	Person=1	13	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+15	介绍	_	VERB	VV	_	4	ccomp	_	Pinyin=jièshào|Gloss=to introduce (sb to sb)|HanViet=giới thiệu|Trad=介紹
+16	了	_	AUX	AS	Aspect=Perf	15	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+17	她	_	PRON	PRP	Person=3	20	det	_	Pinyin=tā|Gloss=she|HanViet=tha
+18	的	_	PART	DEC	Case=Gen	17	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	跳舞	_	NOUN	NN	_	20	nmod	_	Pinyin=tiàowǔ|Gloss=to dance|HanViet=khiêu vũ
+20	老师	_	NOUN	NN	_	15	obj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+21	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = korwus-graded-l2-u08-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 老师说，跳舞对身体也很有好处。
+# translation = The teacher said dancing is good for your health too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	老师	_	NOUN	NN	_	2	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	9	punct	_	_
+4	跳舞	_	VERB	VV	_	9	csubj	_	Pinyin=tiàowǔ|Gloss=to dance|HanViet=khiêu vũ
+5	对	_	ADP	IN	_	6	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+6	身体	_	NOUN	NN	_	9	obl	_	Pinyin=shēntǐ|Gloss=the body|HanViet=thân thể|Trad=身體
+7	也	_	SCONJ	RB	_	9	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+8	很	_	ADV	RB	_	9	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+9	有	_	VERB	VV	_	2	ccomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+10	好处	_	NOUN	NN	_	9	obj	_	Pinyin=hǎochù|Gloss=easy to get along with|HanViet=hảo xứ|Trad=好處
+11	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l2-u08-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 现在星期六我也跟妹妹去跳舞。
+# translation = Now I go dancing with my sister on Saturdays too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	2	nmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	星期	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+3	六	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+4	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	也	_	SCONJ	RB	_	9	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+6	跟	_	ADP	IN	_	7	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+7	妹妹	_	NOUN	NN	_	9	obl	_	Pinyin=mèimèi|Gloss=younger sister|HanViet=muội muội
+8	去	_	SCONJ	RB	_	9	mark	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+9	跳舞	_	VERB	VV	_	0	root	_	Pinyin=tiàowǔ|Gloss=to dance|HanViet=khiêu vũ
+10	。	_	PUNCT	.	_	9	punct	_	_

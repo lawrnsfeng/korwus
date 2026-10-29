@@ -1,0 +1,310 @@
+# sent_id = korwus-graded-l3-u17-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# newpar
+# text = 我叔叔是一个出租车司机。
+# translation = My uncle is a taxi driver.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	叔叔	_	NOUN	NN	_	8	nsubj	_	Pinyin=shūshū|Gloss=father's younger brother; paternal uncle|HanViet=thúc thúc
+3	是	_	AUX	VC	_	8	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	出租	_	VERB	VV	_	7	compound	_	Pinyin=chūzū|Gloss=to rent|HanViet=xuất tô
+7	车	_	PART	SFN	_	8	nmod	_	Pinyin=chē|Gloss=car|HanViet=xa|Trad=車
+8	司机	_	NOUN	NN	_	0	root	_	Pinyin=sījī|Gloss=chauffeur; driver|HanViet=ti,tư cơ|Trad=司機
+9	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u17-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他是东北人，这个工作他已经做了十几年了。
+# translation = He is from the Northeast and has been doing this job for more than ten years.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	4	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	是	_	AUX	VC	_	4	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	东北	_	NOUN	NN	_	4	compound	_	Pinyin=dōngběi|Gloss=Northeast China; Manchuria|HanViet=đông bắc|Trad=東北
+4	人	_	PART	SFN	_	0	root	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+5	，	_	PUNCT	,	_	11	punct	_	_
+6	这	_	DET	DT	_	8	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+7	个	_	NOUN	NNB	_	6	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	工作	_	NOUN	NN	_	11	nsubj	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+9	他	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+10	已经	_	ADV	RB	_	11	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+11	做	_	VERB	VV	_	4	parataxis	_	Pinyin=zuò|Gloss=to make; to produce|HanViet=tố
+12	了	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	十几	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=shíjǐ|Gloss=more than ten; a dozen or more|HanViet=thập kỷ|Trad=十幾
+14	年	_	NOUN	NNB	_	11	obj	_	Pinyin=nián|Gloss=year|HanViet=niên
+15	了	_	PART	UH	_	11	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+16	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u17-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他早上七点出门，晚上九点才回来。
+# translation = He leaves home at seven in the morning and doesn't get back until nine at night.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	早上	_	NOUN	NN	_	4	nmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+3	七	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=qī|Gloss=seven|HanViet=thất
+4	点	_	NOUN	NNB	_	5	obl	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+5	出门	_	VERB	VV	_	11	advcl	_	Pinyin=chūmén|Gloss=to go out|HanViet=xuất môn|Trad=出門
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	晚上	_	NOUN	NN	_	9	nmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+8	九	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=jiǔ|Gloss=nine|HanViet=cửu
+9	点	_	NOUN	NNB	_	11	nmod:tmod	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+10	才	_	SCONJ	RB	_	11	mark	_	Pinyin=cái|Gloss=ability; talent|HanViet=tài
+11	回来	_	VERB	VV	_	0	root	_	Pinyin=huílái|Gloss=to return; to come back|HanViet=hồi lai|Trad=回來
+12	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l3-u17-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他喜欢一边开车，一边听新闻。
+# translation = He likes to listen to the news while he drives.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	7	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	喜欢	_	VERB	VV	_	7	advcl	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+3	一边	_	ADV	RB	_	4	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+4	开车	_	VERB	VV	_	2	xcomp	_	Pinyin=kāichē|Gloss=to drive a car (or train etc)|HanViet=khai xa|Trad=開車
+5	，	_	PUNCT	,	_	2	punct	_	_
+6	一边	_	ADV	RB	_	7	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+7	听	_	VERB	VV	_	0	root	_	Pinyin=tīng|Gloss=to listen to; to hear|HanViet=thính|Trad=聽
+8	新闻	_	NOUN	NN	_	7	obj	_	Pinyin=xīnwén|Gloss=news|HanViet=tân văn|Trad=新聞
+9	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u17-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他总是带着一些糖，客人里有孩子的时候，他就给他们几块。
+# translation = He always carries some candy, and when there are children among his passengers, he gives them a few pieces.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	总是	_	VERB	VC	_	0	root	_	Pinyin=zǒngshì|Gloss=always|HanViet=tổng thị|Trad=總是
+3	带	_	VERB	VV	_	2	xcomp	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+4	着	_	AUX	AS	Aspect=Prog	3	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+5	一些	_	ADJ	JJ	_	6	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+6	糖	_	NOUN	NN	_	3	obj	_	Pinyin=táng|Gloss=sugar|HanViet=đường
+7	，	_	PUNCT	,	_	17	punct	_	_
+8	客人	_	NOUN	NN	_	10	nsubj	_	Pinyin=kèrén|Gloss=visitor; guest|HanViet=khách nhân
+9	里	_	ADP	IN	_	8	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+10	有	_	VERB	VV	_	13	acl:relcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+11	孩子	_	NOUN	NN	_	10	obj	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+12	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	时候	_	NOUN	NN	_	17	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+14	，	_	PUNCT	,	_	13	punct	_	_
+15	他	_	PRON	PRP	Person=3	17	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+16	就	_	SCONJ	RB	_	17	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+17	给	_	VERB	VV	_	2	parataxis	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+18	他们	_	PRON	PRP	Number=Plur|Person=3	17	iobj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+19	几	_	NUM	CD	NumType=Card	20	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+20	块	_	NOUN	NNB	_	17	obj	_	Pinyin=kuài|Gloss=lump; chunk; piece|HanViet=khối|Trad=塊
+21	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u17-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 有一次，一个外国客人带着两个大箱子上了车，要去机场。
+# translation = Once, a foreign passenger got in with two big suitcases, heading for the airport.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+2	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+3	次	_	NOUN	NNB	_	1	obj	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+6	个	_	NOUN	NNB	_	5	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	外国	_	NOUN	NN	_	8	nmod	_	Pinyin=wàiguó|Gloss=foreign country|HanViet=ngoại quốc|Trad=外國
+8	客人	_	NOUN	NN	_	20	nsubj	_	Pinyin=kèrén|Gloss=visitor; guest|HanViet=khách nhân
+9	带	_	VERB	VV	_	15	advcl	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+10	着	_	AUX	AS	Aspect=Prog	9	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+11	两	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+12	个	_	NOUN	NNB	_	11	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+13	大	_	PART	PFA	_	14	case	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+14	箱子	_	NOUN	NN	_	9	obj	_	Pinyin=xiāngzi|Gloss=suitcase|HanViet=rương tử
+15	上	_	VERB	VV	_	20	advcl	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+16	了	_	AUX	AS	Aspect=Perf	15	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+17	车	_	NOUN	NN	_	15	obj	_	Pinyin=chē|Gloss=car|HanViet=xa|Trad=車
+18	，	_	PUNCT	,	_	9	punct	_	_
+19	要	_	AUX	MD	_	20	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+20	去	_	VERB	VV	_	1	parataxis	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+21	机场	_	NOUN	NN	_	20	obj	_	Pinyin=jīchǎng|Gloss=airport; airfield|HanViet=cơ trường|Trad=機場
+22	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l3-u17-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 客人走了以后，叔叔发现后面有一张纸，上面有很多笔记。
+# translation = After the passenger left, my uncle found a sheet of paper in the back covered with notes.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	客人	_	NOUN	NN	_	2	nsubj	_	Pinyin=kèrén|Gloss=visitor; guest|HanViet=khách nhân
+2	走	_	VERB	VV	_	0	root	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	以后	_	ADP	IN	_	2	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+5	，	_	PUNCT	,	_	7	punct	_	_
+6	叔叔	_	NOUN	NN	_	7	nsubj	_	Pinyin=shūshū|Gloss=father's younger brother; paternal uncle|HanViet=thúc thúc
+7	发现	_	VERB	VV	_	2	parataxis	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+8	后面	_	NOUN	NN	_	9	nsubj	_	Pinyin=hòumiàn|Gloss=the back; the rear; the last bit|HanViet=hậu diện|Trad=後面
+9	有	_	VERB	VV	_	7	ccomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+10	一	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+11	张	_	NOUN	NNB	_	10	clf	_	Pinyin=zhāng|Gloss=to open up|HanViet=trương|Trad=張
+12	纸	_	NOUN	NN	_	9	obj	_	Pinyin=zhǐ|Gloss=paper (CL:張/张[zhang1],沓[da2])|HanViet=chỉ|Trad=紙
+13	，	_	PUNCT	,	_	9	punct	_	_
+14	上面	_	NOUN	NN	_	15	obl	_	Pinyin=shàngmiàn|Gloss=on top of|HanViet=thượng diện
+15	有	_	VERB	VV	_	7	ccomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+16	很多	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+17	笔记	_	NOUN	NN	_	15	obj	_	Pinyin=bǐjì|Gloss=to take down (in writing)|HanViet=bút ký|Trad=筆記
+18	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u17-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 叔叔想，这张纸可能很重要，就马上开车回机场，把纸还给了那个客人。
+# translation = My uncle thought the paper might be important, so he drove straight back to the airport and returned it to the passenger.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	叔叔	_	NOUN	NN	_	2	nsubj	_	Pinyin=shūshū|Gloss=father's younger brother; paternal uncle|HanViet=thúc thúc
+2	想	_	AUX	MD	_	9	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	这	_	DET	DT	_	6	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+5	张	_	NOUN	NNB	_	4	clf	_	Pinyin=zhāng|Gloss=to open up|HanViet=trương|Trad=張
+6	纸	_	NOUN	NN	_	9	nsubj	_	Pinyin=zhǐ|Gloss=paper (CL:張/张[zhang1],沓[da2])|HanViet=chỉ|Trad=紙
+7	可能	_	AUX	MD	_	9	aux	_	Pinyin=kěnéng|Gloss=might (happen)|HanViet=khả năng
+8	很	_	ADV	RB	_	9	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+9	重要	_	ADJ	JJ	_	20	advcl	_	Pinyin=zhòngyào|Gloss=important; significant; major|HanViet=trọng yếu
+10	，	_	PUNCT	,	_	9	punct	_	_
+11	就	_	SCONJ	RB	_	14	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+12	马上	_	ADV	RB	_	14	advmod	_	Pinyin=mǎshàng|Gloss=at once|HanViet=mã thượng|Trad=馬上
+13	开车	_	VERB	VV	_	14	advcl	_	Pinyin=kāichē|Gloss=to drive a car (or train etc)|HanViet=khai xa|Trad=開車
+14	回	_	VERB	VV	_	20	advcl	_	Pinyin=huí|Gloss=Hui ethnic group (Chinese Muslims)|HanViet=hồi
+15	机场	_	NOUN	NN	_	14	obj	_	Pinyin=jīchǎng|Gloss=airport; airfield|HanViet=cơ trường|Trad=機場
+16	，	_	PUNCT	,	_	14	punct	_	_
+17	把	_	ADP	BB	_	18	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+18	纸	_	NOUN	NN	_	20	obl:patient	_	Pinyin=zhǐ|Gloss=paper (CL:張/张[zhang1],沓[da2])|HanViet=chỉ|Trad=紙
+19	还	_	SCONJ	RB	_	20	mark	_	Pinyin=huán|Gloss=to pay back|HanViet=hoàn|Trad=還
+20	给	_	VERB	VV	_	0	root	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+21	了	_	AUX	AS	Aspect=Perf	20	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+22	那	_	DET	DT	_	24	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+23	个	_	NOUN	NNB	_	22	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+24	客人	_	NOUN	NN	_	20	obj	_	Pinyin=kèrén|Gloss=visitor; guest|HanViet=khách nhân
+25	。	_	PUNCT	.	_	20	punct	_	_
+
+# sent_id = korwus-graded-l3-u17-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 那个客人非常高兴，还请叔叔和他一起照相。
+# translation = The passenger was very happy and even asked my uncle to take a photo with him.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那	_	DET	DT	_	3	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	客人	_	NOUN	NN	_	8	nsubj	_	Pinyin=kèrén|Gloss=visitor; guest|HanViet=khách nhân
+4	非常	_	ADV	RB	_	5	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+5	高兴	_	ADJ	JJ	_	8	advcl	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	还	_	SCONJ	RB	_	8	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+8	请	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=qǐng|Gloss=to ask|HanViet=thỉnh|Trad=請
+9	叔叔	_	NOUN	NN	_	13	nsubj	_	Pinyin=shūshū|Gloss=father's younger brother; paternal uncle|HanViet=thúc thúc
+10	和	_	ADP	IN	_	11	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+11	他	_	PRON	PRP	Person=3	13	obl	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+12	一起	_	NOUN	NN	_	13	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+13	照相	_	VERB	VV	_	8	ccomp	_	Pinyin=zhàoxiàng|Gloss=to take a photograph|HanViet=chiếu tướng
+14	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u17-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 后来，他给叔叔的公司发了一封邮件，谢谢叔叔的帮助。
+# translation = Later, he sent an email to my uncle's company thanking him for his help.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	后来	_	NOUN	NN	_	14	nmod:tmod	_	Pinyin=hòulái|Gloss=afterwards; later|HanViet=hậu lai|Trad=後來
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	他	_	PRON	PRP	Person=3	14	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	给	_	VERB	VV	_	8	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+5	叔叔	_	NOUN	NN	_	7	nmod	_	Pinyin=shūshū|Gloss=father's younger brother; paternal uncle|HanViet=thúc thúc
+6	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	公司	_	NOUN	NN	_	4	obj	_	Pinyin=gōngsī|Gloss=company; firm; corporation|HanViet=công ti,tư
+8	发	_	VERB	VV	_	14	advcl	_	Pinyin=fā|Gloss=to send out|HanViet=phát|Trad=發
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	一	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+11	封	_	NOUN	NNB	_	10	clf	_	Pinyin=fēng|Gloss=to confer|HanViet=phong
+12	邮件	_	NOUN	NN	_	8	obj	_	Pinyin=yóujiàn|Gloss=mail|HanViet=bưu kiện|Trad=郵件
+13	，	_	PUNCT	,	_	8	punct	_	_
+14	谢谢	_	VERB	VV	_	0	root	_	Pinyin=xièxiè|Gloss=to thank|HanViet=tạ tạ|Trad=謝謝
+15	叔叔	_	NOUN	NN	_	17	nmod	_	Pinyin=shūshū|Gloss=father's younger brother; paternal uncle|HanViet=thúc thúc
+16	的	_	PART	DEC	Case=Gen	15	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	帮助	_	NOUN	NN	_	14	obj	_	Pinyin=bāngzhù|Gloss=assistance; aid|HanViet=bang trợ|Trad=幫助
+18	。	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = korwus-graded-l3-u17-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 叔叔说，开了一天的车，腿非常累，可是遇到这样的事，他心里很高兴。
+# translation = My uncle says that after a whole day of driving his legs are very tired, but when something like this happens, he feels happy inside.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	叔叔	_	NOUN	NN	_	2	nsubj	_	Pinyin=shūshū|Gloss=father's younger brother; paternal uncle|HanViet=thúc thúc
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	4	punct	_	_
+4	开	_	VERB	VV	_	2	xcomp	_	Pinyin=kāi|Gloss=to open (transitive or intransitive)|HanViet=khai|Trad=開
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	一	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+7	天	_	NOUN	NNB	_	9	nmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+8	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	车	_	NOUN	NN	_	4	obj	_	Pinyin=chē|Gloss=car|HanViet=xa|Trad=車
+10	，	_	PUNCT	,	_	13	punct	_	_
+11	腿	_	NOUN	NN	_	13	nsubj	_	Pinyin=tuǐ|Gloss=leg|HanViet=thối
+12	非常	_	ADV	RB	_	13	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+13	累	_	ADJ	JJ	_	2	parataxis	_	Pinyin=lèi|Gloss=tired|HanViet=luỵ
+14	，	_	PUNCT	,	_	16	punct	_	_
+15	可是	_	SCONJ	RB	_	16	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+16	遇到	_	VERB	VV	_	22	advcl	_	Pinyin=yùdào|Gloss=to meet; to run into; to come across|HanViet=ngộ đáo
+17	这样	_	PRON	PRD	_	19	det	_	Pinyin=zhèyàng|Gloss=this way; like this; so|HanViet=giá dạng|Trad=這樣
+18	的	_	PART	DEC	Case=Gen	17	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	事	_	NOUN	NN	_	16	obj	_	Pinyin=shì|Gloss=matter|HanViet=sự
+20	，	_	PUNCT	,	_	16	punct	_	_
+21	他	_	PRON	PRP	Person=3	22	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+22	心里	_	VERB	VV	_	2	ccomp	_	Pinyin=xīnlǐ|Gloss=chest|HanViet=tâm lý|Trad=心裡
+23	很	_	ADV	RB	_	24	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+24	高兴	_	ADJ	JJ	_	22	xcomp	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+25	。	_	PUNCT	.	_	2	punct	_	_

@@ -1,0 +1,130 @@
+# sent_id = korwus-graded-l1-u04-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 我有三个孩子，他们的问题非常多。
+# translation = I have three children, and they ask a great many questions.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+3	三	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=sān|Gloss=three|HanViet=tam
+4	个	_	NOUN	NNB	_	3	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	孩子	_	NOUN	NN	_	2	obj	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+6	，	_	PUNCT	,	_	11	punct	_	_
+7	他们	_	PRON	PRP	Number=Plur|Person=3	9	det	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+8	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	问题	_	NOUN	NN	_	11	nsubj	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+10	非常	_	ADV	RB	_	11	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+11	多	_	ADJ	JJ	_	2	parataxis	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+12	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l1-u04-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 今天，我们去买中国吃的。
+# translation = Today we went to buy Chinese food.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	今天	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	我们	_	PRON	PRP	Number=Plur|Person=1	4	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+4	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+5	买	_	VERB	VV	_	4	xcomp	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+6	中国	_	PROPN	NNP	_	7	nsubj	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+7	吃	_	VERB	VV	_	5	ccomp	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+8	的	_	PART	UH	_	4	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l1-u04-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 他们什么都想买。
+# translation = They wanted to buy everything.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他们	_	PRON	PRP	Number=Plur|Person=3	2	det	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+2	什么	_	PRON	WP	_	5	nsubj	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+3	都	_	SCONJ	RB	_	5	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+4	想	_	AUX	MD	_	5	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+5	买	_	VERB	VV	_	0	root	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+6	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l1-u04-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我对他们说，不要买了，我们家还有。
+# translation = I told them to stop buying, because we still have some at home.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	对	_	ADP	IN	_	3	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+3	他们	_	PRON	PRP	Number=Plur|Person=3	4	obl	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+4	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+5	，	_	PUNCT	,	_	7	punct	_	_
+6	不要	_	AUX	MD	Polarity=Neg	7	aux	_	Pinyin=búyào|Gloss=don't!; must not|HanViet=_ yếu
+7	买	_	VERB	VV	_	4	xcomp	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+8	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	，	_	PUNCT	,	_	13	punct	_	_
+10	我们	_	PRON	PRP	Number=Plur|Person=1	11	compound	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+11	家	_	PART	SFN	_	13	nsubj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+12	还	_	SCONJ	RB	_	13	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+13	有	_	VERB	VV	_	4	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+14	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l1-u04-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 一个孩子想知道，我们什么时候再来。
+# translation = One of the kids wanted to know when we would come again.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	孩子	_	NOUN	NN	_	5	nsubj	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+4	想	_	AUX	MD	_	5	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+5	知道	_	VERB	VV	_	0	root	_	Pinyin=zhīdào|Gloss=to know; to become aware of|HanViet=tri đạo
+6	，	_	PUNCT	,	_	10	punct	_	_
+7	我们	_	PRON	PRP	Number=Plur|Person=1	10	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+8	什么	_	PRON	WP	_	9	nmod	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+9	时候	_	NOUN	NN	_	10	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+10	再来	_	VERB	VV	_	5	ccomp	_	Pinyin=zàilái|Gloss=再 again; once more; re- + 来 to come|GlossFrom=parts|HanViet=tái lai|Trad=再來
+11	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l1-u04-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我说，我们下个月再到这里来。
+# translation = I said we'd come back here next month.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	11	punct	_	_
+4	我们	_	PRON	PRP	Number=Plur|Person=1	11	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	下	_	DET	DT	_	7	det	_	Pinyin=xià|Gloss=down|HanViet=hạ
+6	个	_	NOUN	NNB	_	5	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	月	_	NOUN	NN	_	11	nmod:tmod	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+8	再	_	ADV	RB	_	11	advmod	_	Pinyin=zài|Gloss=again; once more; re-|HanViet=tái
+9	到	_	VERB	VV	_	11	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+10	这里	_	PRON	PRD	_	9	obj	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+11	来	_	VERB	VV	_	2	ccomp	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+12	。	_	PUNCT	.	_	2	punct	_	_

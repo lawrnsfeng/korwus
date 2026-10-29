@@ -1,0 +1,260 @@
+# sent_id = korwus-graded-l3-u02-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 我们这个城市有很多外国人。
+# translation = Our city has many foreigners.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	4	nmod	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	这	_	DET	DT	_	4	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+3	个	_	NOUN	NNB	_	2	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+4	城市	_	NOUN	NN	_	5	nsubj	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+5	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+6	很多	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+7	外国	_	NOUN	NN	_	8	compound	_	Pinyin=wàiguó|Gloss=foreign country|HanViet=ngoại quốc|Trad=外國
+8	人	_	PART	SFN	_	5	obj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+9	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u02-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 在路上，在地铁里，你能听见很多种不同的语言。
+# translation = On the street and on the subway, you can hear many different languages.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	VERB	VV	_	10	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	路上	_	NOUN	NN	_	1	obj	_	Pinyin=lùshàng|Gloss=on the road|HanViet=lộ thượng
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	在	_	VERB	VV	_	10	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	地铁	_	NOUN	NN	_	4	obj	_	Pinyin=dìtiě|Gloss=underground railway; subway|HanViet=địa thiết|Trad=地鐵
+6	里	_	ADP	IN	_	5	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+7	，	_	PUNCT	,	_	4	punct	_	_
+8	你	_	PRON	PRP	Person=2	10	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+9	能	_	AUX	MD	_	10	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+10	听见	_	VERB	VV	_	0	root	_	Pinyin=tīngjiàn|Gloss=to hear|HanViet=thính kiến|Trad=聽見
+11	很	_	ADV	RB	_	13	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+12	多	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+13	种	_	NOUN	NNB	_	12	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+14	不同	_	ADJ	JJ	_	16	amod	_	Pinyin=bùtóng|Gloss=different|HanViet=bất đồng
+15	的	_	SCONJ	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	语言	_	NOUN	NN	_	10	obj	_	Pinyin=yǔyán|Gloss=language|HanViet=ngữ ngôn|Trad=語言
+17	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l3-u02-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我家旁边住着一位外国先生，他会说三四种语言。
+# translation = A foreign man lives next door to me, and he speaks three or four languages.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	compound	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	家	_	PART	SFN	_	3	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+3	旁边	_	NOUN	NN	_	4	nsubj	_	Pinyin=pángbiān|Gloss=side; adjacent place|HanViet=bàng biên|Trad=旁邊
+4	住	_	VERB	VV	_	0	root	_	Pinyin=zhù|Gloss=to live; to reside; to stay|HanViet=trú,trụ
+5	着	_	AUX	AS	Aspect=Prog	4	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+6	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+7	位	_	NOUN	NNB	_	6	clf	_	Pinyin=wèi|Gloss=position|HanViet=vị
+8	外国	_	NOUN	NN	_	9	nmod	_	Pinyin=wàiguó|Gloss=foreign country|HanViet=ngoại quốc|Trad=外國
+9	先生	_	NOUN	NN	_	4	obj	_	Pinyin=xiānshēng|Gloss=teacher|HanViet=tiên sinh
+10	，	_	PUNCT	,	_	13	punct	_	_
+11	他	_	PRON	PRP	Person=3	13	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+12	会	_	AUX	MD	_	13	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+13	说	_	VERB	VV	_	4	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+14	三	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=sān|Gloss=three|HanViet=tam
+15	四	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=sì|Gloss=four|HanViet=tứ
+16	种	_	NOUN	NNB	_	15	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+17	语言	_	NOUN	NN	_	13	obj	_	Pinyin=yǔyán|Gloss=language|HanViet=ngữ ngôn|Trad=語言
+18	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u02-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 他说，他小时候一直在不同的地方生活，所以不同地方的话他都能说一些。
+# translation = He says he lived in different places as a child, so he can speak some of the language of each place.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	21	punct	_	_
+4	他	_	PRON	PRP	Person=3	12	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+5	小	_	PART	PFA	_	6	case	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+6	时候	_	NOUN	NN	_	12	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+7	一直	_	ADV	RB	_	12	advmod	_	Pinyin=yìzhí|Gloss=straight (in a straight line)|HanViet=nhất trực
+8	在	_	VERB	VV	_	12	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+9	不同	_	ADJ	JJ	_	11	amod	_	Pinyin=bùtóng|Gloss=different|HanViet=bất đồng
+10	的	_	SCONJ	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	地方	_	NOUN	NN	_	8	obj	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+12	生活	_	VERB	VV	_	2	ccomp	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+13	，	_	PUNCT	,	_	21	punct	_	_
+14	所以	_	SCONJ	RB	_	21	mark	_	Pinyin=suǒyǐ|Gloss=therefore|HanViet=sở dĩ
+15	不同	_	ADJ	JJ	_	16	amod	_	Pinyin=bùtóng|Gloss=different|HanViet=bất đồng
+16	地方	_	NOUN	NN	_	21	obl	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+17	的话	_	PART	UH	_	16	discourse	_	Pinyin=dehuà|Gloss=if (coming after a conditional clause)|HanViet=đích thoại|Trad=的話
+18	他	_	PRON	PRP	Person=3	21	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+19	都	_	SCONJ	RB	_	21	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+20	能	_	AUX	MD	_	21	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+21	说	_	VERB	VV	_	2	ccomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+22	一些	_	ADJ	JJ	_	21	xcomp	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+23	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u02-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 去年，为了能跟他说话，我决定开始学他的语言。
+# translation = Last year, so that I could talk with him, I decided to start learning his language.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	去年	_	NOUN	NN	_	10	nmod:tmod	_	Pinyin=qùnián|Gloss=last year|HanViet=khứ,khử niên
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	为了	_	ADP	IN	_	7	case	_	Pinyin=wèile|Gloss=for; for the purpose of; in order to|HanViet=vị,vì liễu|Trad=為了
+4	能	_	AUX	MD	_	7	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+5	跟	_	ADP	IN	_	6	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+6	他	_	PRON	PRP	Person=3	7	obl	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+7	说话	_	VERB	VV	_	10	xcomp	_	Pinyin=shuōhuà|Gloss=to speak|HanViet=thuyết thoại|Trad=說話
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	决定	_	VERB	VV	_	0	root	_	Pinyin=juédìng|Gloss=to decide; to determine; to make up one's mind|HanViet=quyết định|Trad=決定
+11	开始	_	VERB	VV	_	10	xcomp	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+12	学	_	VERB	VV	_	11	xcomp	_	Pinyin=xué|Gloss=to learn|HanViet=học|Trad=學
+13	他	_	PRON	PRP	Person=3	15	det	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+14	的	_	PART	DEC	Case=Gen	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	语言	_	NOUN	NN	_	12	obj	_	Pinyin=yǔyán|Gloss=language|HanViet=ngữ ngôn|Trad=語言
+16	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l3-u02-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 开始我觉得非常难，但是学了几个月，我发现这种语言里有一些词跟我们的语言一样。
+# translation = At first I found it very hard, but after studying for a few months, I found that some words in this language are the same as in ours.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	开始	_	VERB	VV	_	0	root	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+2	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	觉得	_	VERB	VV	_	1	ccomp	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+4	非常	_	ADV	RB	_	5	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+5	难	_	ADJ	JJ	_	3	xcomp	_	Pinyin=nán|Gloss=difficult (to...)|HanViet=nan|Trad=難
+6	，	_	PUNCT	,	_	3	punct	_	_
+7	但是	_	SCONJ	RB	_	8	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+8	学	_	VERB	VV	_	15	advcl	_	Pinyin=xué|Gloss=to learn|HanViet=học|Trad=學
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	几	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+11	个	_	NOUN	NNB	_	10	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+12	月	_	NOUN	NN	_	8	obj	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+13	，	_	PUNCT	,	_	8	punct	_	_
+14	我	_	PRON	PRP	Person=1	15	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+15	发现	_	VERB	VV	_	1	parataxis	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+16	这	_	DET	DT	_	18	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+17	种	_	NOUN	NNB	_	16	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+18	语言	_	NOUN	NN	_	20	nsubj	_	Pinyin=yǔyán|Gloss=language|HanViet=ngữ ngôn|Trad=語言
+19	里	_	ADP	IN	_	18	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+20	有	_	VERB	VV	_	15	xcomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+21	一些	_	ADJ	JJ	_	22	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+22	词	_	NOUN	NN	_	27	nsubj	_	Pinyin=cí|Gloss=word|HanViet=từ|Trad=詞
+23	跟	_	ADP	IN	_	26	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+24	我们	_	PRON	PRP	Number=Plur|Person=1	26	det	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+25	的	_	PART	DEC	Case=Gen	24	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+26	语言	_	NOUN	NN	_	27	nmod	_	Pinyin=yǔyán|Gloss=language|HanViet=ngữ ngôn|Trad=語言
+27	一样	_	ADJ	JJ	_	20	ccomp	_	Pinyin=yīyàng|Gloss=same|HanViet=nhất dạng|Trad=一樣
+28	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l3-u02-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 现在我能跟他说一点儿了，他很高兴。
+# translation = Now I can talk with him a little, and he is happy about it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	能	_	AUX	MD	_	6	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+4	跟	_	ADP	IN	_	5	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+5	他	_	PRON	PRP	Person=3	6	obl	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+6	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+7	一点儿	_	ADJ	JJ	_	6	xcomp	_	Pinyin=yīdiǎnr|Gloss=erhua variant of 一點/一点[yi1 dian3]|HanViet=nhất điểm nhi|Trad=一點兒
+8	了	_	PART	UH	_	6	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	，	_	PUNCT	,	_	12	punct	_	_
+10	他	_	PRON	PRP	Person=3	12	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+11	很	_	ADV	RB	_	12	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+12	高兴	_	ADJ	JJ	_	6	parataxis	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+13	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u02-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我相信，在这样的城市里，最好会说两种或三种语言。
+# translation = I believe that in a city like this, it's best to speak two or three languages.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	相信	_	VERB	VV	_	0	root	_	Pinyin=xiāngxìn|Gloss=to believe; to be convinced; to accept as true|HanViet=tương tín
+3	，	_	PUNCT	,	_	12	punct	_	_
+4	在	_	VERB	VV	_	7	acl:relcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	这样	_	PRON	PRD	_	7	det	_	Pinyin=zhèyàng|Gloss=this way; like this; so|HanViet=giá dạng|Trad=這樣
+6	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	城市	_	NOUN	NN	_	12	obl	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+8	里	_	ADP	IN	_	7	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+9	，	_	PUNCT	,	_	7	punct	_	_
+10	最好	_	ADV	RB	_	12	advmod	_	Pinyin=zuìhǎo|Gloss=best|HanViet=tối hảo
+11	会	_	AUX	MD	_	12	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+12	说	_	VERB	VV	_	2	ccomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+13	两	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+14	种	_	NOUN	NNB	_	18	nmod	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+15	或	_	CCONJ	CC	_	17	cc	_	Pinyin=huò|Gloss=maybe|HanViet=hoặc
+16	三	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=sān|Gloss=three|HanViet=tam
+17	种	_	NOUN	NNB	_	14	conj	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+18	语言	_	NOUN	NN	_	12	obj	_	Pinyin=yǔyán|Gloss=language|HanViet=ngữ ngôn|Trad=語言
+19	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u02-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 大家说的语言不一样也没事，重要的是都想认识新朋友。
+# translation = It's fine that people speak different languages; what matters is that everyone wants to make new friends.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	大家	_	PRON	PRD	_	2	nsubj	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+2	说	_	VERB	VV	_	4	acl:relcl	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	语言	_	NOUN	NN	_	6	nsubj	_	Pinyin=yǔyán|Gloss=language|HanViet=ngữ ngôn|Trad=語言
+5	不	_	ADV	RB	Polarity=Neg	6	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+6	一样	_	ADJ	JJ	_	0	root	_	Pinyin=yíyàng|Gloss=same|HanViet=nhất dạng|Trad=一樣
+7	也	_	SCONJ	RB	_	8	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+8	没事	_	VERB	VV	Polarity=Neg	6	xcomp	_	Pinyin=méishì|Gloss=it's not important|HanViet=một sự|Trad=沒事
+9	，	_	PUNCT	,	_	12	punct	_	_
+10	重要	_	ADJ	JJ	_	12	csubj	_	Pinyin=zhòngyào|Gloss=important; significant; major|HanViet=trọng yếu
+11	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	是	_	VERB	VC	_	6	parataxis	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+13	都	_	SCONJ	RB	_	15	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+14	想	_	AUX	MD	_	15	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+15	认识	_	VERB	VV	_	12	xcomp	_	Pinyin=rènshí|Gloss=to know|HanViet=nhận thức|Trad=認識
+16	新	_	PART	PFA	_	17	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+17	朋友	_	NOUN	NN	_	15	obj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+18	。	_	PUNCT	.	_	6	punct	_	_

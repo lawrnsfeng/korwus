@@ -1,0 +1,234 @@
+# sent_id = korwus-graded-l3-u16-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 春天到了。
+# translation = Spring has come.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	春天	_	NOUN	NN	_	2	nsubj	_	Pinyin=chūntiān|Gloss=spring (season)|HanViet=xuân thiên
+2	到	_	VERB	VV	_	0	root	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+3	了	_	PART	UH	_	2	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u16-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 早上六点，外面还很安静。
+# translation = At six in the morning, it's still very quiet outside.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	早上	_	NOUN	NN	_	3	nmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+2	六	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+3	点	_	NOUN	NN	_	8	nmod	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	外面	_	NOUN	NN	_	8	nsubj	_	Pinyin=wàimiàn|Gloss=outside (also pr. [wai4 mian5] for this sense)|HanViet=ngoại diện
+6	还	_	SCONJ	RB	_	8	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+7	很	_	ADV	RB	_	8	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+8	安静	_	ADJ	JJ	_	0	root	_	Pinyin=ānjìng|Gloss=quiet|HanViet=an tĩnh|Trad=安靜
+9	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u16-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我洗了脸，就去家旁边的公园跑步。
+# translation = I wash my face and go running in the park next to my home.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	洗	_	VERB	VV	_	12	advcl	_	Pinyin=xǐ|Gloss=to wash; to bathe|HanViet=tẩy
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	脸	_	NOUN	NN	_	2	obj	_	Pinyin=liǎn|Gloss=face|HanViet=kiểm|Trad=臉
+5	，	_	PUNCT	,	_	2	punct	_	_
+6	就	_	SCONJ	RB	_	12	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+7	去	_	VERB	VV	_	12	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+8	家	_	NOUN	NN	_	9	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+9	旁边	_	NOUN	NN	_	11	nmod	_	Pinyin=pángbiān|Gloss=side; adjacent place|HanViet=bàng biên|Trad=旁邊
+10	的	_	PART	DEC	Case=Gen	9	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	公园	_	NOUN	NN	_	7	obj	_	Pinyin=gōngyuán|Gloss=park (for public recreation)|HanViet=công viên|Trad=公園
+12	跑步	_	VERB	VV	_	0	root	_	Pinyin=pǎobù|Gloss=to run|HanViet=bào bộ
+13	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l3-u16-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 公园里有好多花，那边有一些老人在跳舞。
+# translation = There are lots of flowers in the park, and over there some old people are dancing.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	公园	_	NOUN	NN	_	3	nsubj	_	Pinyin=gōngyuán|Gloss=park (for public recreation)|HanViet=công viên|Trad=公園
+2	里	_	NOUN	NN	_	1	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+3	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+4	好多	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=hǎoduō|Gloss=many|HanViet=hảo đa
+5	花	_	NOUN	NN	_	3	obj	_	Pinyin=huā|Gloss=flower|HanViet=hoa
+6	，	_	PUNCT	,	_	8	punct	_	_
+7	那边	_	ADV	RB	_	8	advmod	_	Pinyin=nàbiān|Gloss=over there|HanViet=na biên|Trad=那邊
+8	有	_	VERB	VV	_	3	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+9	一些	_	ADJ	JJ	_	10	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+10	老人	_	NOUN	NN	_	11	nsubj	_	Pinyin=lǎorén|Gloss=old man or woman|HanViet=lão nhân
+11	在	_	VERB	VV	_	8	ccomp	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+12	跳舞	_	VERB	VV	_	11	xcomp	_	Pinyin=tiàowǔ|Gloss=to dance|HanViet=khiêu vũ
+13	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u16-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我的邻居王奶奶也在那里，她在这里跳舞已经十年以上了。
+# translation = My neighbor Grandma Wang is there too; she has been dancing here for more than ten years.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	3	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	邻居	_	NOUN	NN	_	7	nsubj	_	Pinyin=línjū|Gloss=neighbor|HanViet=lân cư|Trad=鄰居
+4	王	_	PROPN	NNP	_	5	nmod	_	Pinyin=wáng|Gloss=king or monarch|HanViet=vương
+5	奶奶	_	NOUN	NN	_	3	appos	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+6	也	_	SCONJ	RB	_	7	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+7	在	_	VERB	VV	_	0	root	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+8	那里	_	PRON	PRD	_	7	obj	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+9	，	_	PUNCT	,	_	13	punct	_	_
+10	她	_	PRON	PRP	Person=3	13	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+11	在	_	VERB	VV	_	13	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+12	这里	_	PRON	PRD	_	11	obj	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+13	跳舞	_	VERB	VV	_	7	parataxis	_	Pinyin=tiàowǔ|Gloss=to dance|HanViet=khiêu vũ
+14	已经	_	ADV	RB	_	16	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+15	十	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=shí|Gloss=ten|HanViet=thập
+16	年	_	NOUN	NNB	_	13	obl	_	Pinyin=nián|Gloss=year|HanViet=niên
+17	以上	_	ADP	IN	_	16	case	_	Pinyin=yǐshàng|Gloss=that level or higher; that amount or more|HanViet=dĩ thượng
+18	了	_	PART	UH	_	13	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+19	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u16-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 她说春天的早上最舒服，还能听见鸟叫。
+# translation = She says spring mornings are the most pleasant, and you can hear the birds singing.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	春天	_	NOUN	NN	_	5	nmod	_	Pinyin=chūntiān|Gloss=spring (season)|HanViet=xuân thiên
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	早上	_	NOUN	NN	_	7	nsubj	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+6	最	_	ADV	RB	_	7	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+7	舒服	_	ADJ	JJ	_	11	advcl	_	Pinyin=shūfú|Gloss=comfortable|HanViet=thư phục
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	还	_	SCONJ	RB	_	11	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+10	能	_	AUX	MD	_	11	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+11	听见	_	VERB	VV	_	2	ccomp	_	Pinyin=tīngjiàn|Gloss=to hear|HanViet=thính kiến|Trad=聽見
+12	鸟	_	NOUN	NN	_	13	nsubj	_	Pinyin=niǎo|Gloss=bird|HanViet=điểu|Trad=鳥
+13	叫	_	VERB	VV	_	11	ccomp	_	Pinyin=jiào|Gloss=to shout|HanViet=khiếu
+14	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u16-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 跑步以后，王奶奶给了我一些新鲜的水果，还把她的电话号码给了我，让我明天早上也来跳舞。
+# translation = After my run, Grandma Wang gives me some fresh fruit and her phone number, and asks me to come dance tomorrow morning too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	跑步	_	VERB	VV	_	24	advcl	_	Pinyin=pǎobù|Gloss=to run|HanViet=bào bộ
+2	以后	_	ADP	IN	_	1	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	王	_	NOUN	NN	_	5	nmod	_	Pinyin=wáng|Gloss=king or monarch|HanViet=vương
+5	奶奶	_	NOUN	NN	_	24	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+6	给	_	VERB	VV	_	24	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	我	_	PRON	PRP	Person=1	12	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	一些	_	ADJ	JJ	_	12	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+10	新鲜	_	ADJ	JJ	_	12	amod	_	Pinyin=xīnxiān|Gloss=fresh (experience, food etc)|HanViet=tân tiên|Trad=新鮮
+11	的	_	SCONJ	DEC	_	10	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	水果	_	NOUN	NN	_	6	obj	_	Pinyin=shuǐguǒ|Gloss=fruit|HanViet=thuỷ quả
+13	，	_	PUNCT	,	_	6	punct	_	_
+14	还	_	SCONJ	RB	_	20	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+15	把	_	ADP	BB	_	19	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+16	她	_	PRON	PRP	Person=3	19	det	_	Pinyin=tā|Gloss=she|HanViet=tha
+17	的	_	PART	DEC	Case=Gen	16	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	电话	_	NOUN	NN	_	19	nmod	_	Pinyin=diànhuà|Gloss=telephone|HanViet=điện thoại|Trad=電話
+19	号码	_	NOUN	NN	_	20	obl:patient	_	Pinyin=hàomǎ|Gloss=number|HanViet=hiệu mã|Trad=號碼
+20	给	_	VERB	VV	_	24	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+21	了	_	AUX	AS	Aspect=Perf	20	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+22	我	_	PRON	PRP	Person=1	20	iobj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+23	，	_	PUNCT	,	_	20	punct	_	_
+24	让	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+25	我	_	PRON	PRP	Person=1	30	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+26	明天	_	NOUN	NN	_	27	nmod	_	Pinyin=míngtiān|Gloss=tomorrow|HanViet=minh thiên
+27	早上	_	NOUN	NN	_	30	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+28	也	_	SCONJ	RB	_	30	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+29	来	_	SCONJ	RB	_	30	mark	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+30	跳舞	_	VERB	VV	_	24	ccomp	_	Pinyin=tiàowǔ|Gloss=to dance|HanViet=khiêu vũ
+31	。	_	PUNCT	.	_	24	punct	_	_
+
+# sent_id = korwus-graded-l3-u16-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 回去以后，我先洗澡，然后一边吃早饭，一边把刚才在公园里的事告诉了妈妈。
+# translation = Back home, I take a bath first, then tell Mom what just happened in the park over breakfast.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	回去	_	VERB	VV	_	21	advcl	_	Pinyin=huíqù|Gloss=to return|HanViet=hồi khứ,khử
+2	以后	_	ADP	IN	_	1	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	我	_	PRON	PRP	Person=1	21	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	先	_	ADV	RB	_	6	advmod	_	Pinyin=xiān|Gloss=beforehand; first; earlier|HanViet=tiên
+6	洗澡	_	VERB	VV	_	21	advcl	_	Pinyin=xǐzǎo|Gloss=to bathe|HanViet=tẩy táo
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	然后	_	ADV	RB	_	10	advmod	_	Pinyin=ránhòu|Gloss=then; after that; afterwards|HanViet=nhiên hậu|Trad=然後
+9	一边	_	ADV	RB	_	10	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+10	吃	_	VERB	VV	_	21	advcl	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+11	早饭	_	NOUN	NN	_	10	obj	_	Pinyin=zǎofàn|Gloss=breakfast|HanViet=tảo phạn|Trad=早飯
+12	，	_	PUNCT	,	_	10	punct	_	_
+13	一边	_	ADV	RB	_	21	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+14	把	_	ADP	BB	_	20	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+15	刚才	_	ADV	RB	_	16	advmod	_	Pinyin=gāngcái|Gloss=just now|HanViet=cương tài|Trad=剛才
+16	在	_	VERB	VV	_	20	acl:relcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+17	公园	_	NOUN	NN	_	16	obj	_	Pinyin=gōngyuán|Gloss=park (for public recreation)|HanViet=công viên|Trad=公園
+18	里	_	NOUN	NN	_	17	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+19	的	_	SCONJ	DEC	_	16	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+20	事	_	NOUN	NN	_	21	obl:patient	_	Pinyin=shì|Gloss=matter|HanViet=sự
+21	告诉	_	VERB	VV	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+22	了	_	AUX	AS	Aspect=Perf	21	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+23	妈妈	_	NOUN	NN	_	21	obj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+24	。	_	PUNCT	.	_	21	punct	_	_
+
+# sent_id = korwus-graded-l3-u16-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我很高兴有这样的邻居。
+# translation = I'm very glad to have a neighbor like her.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	很	_	ADV	RB	_	3	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+3	高兴	_	ADV	RB	_	4	advmod	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+4	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+5	这样	_	PRON	PRD	_	7	det	_	Pinyin=zhèyàng|Gloss=this way; like this; so|HanViet=giá dạng|Trad=這樣
+6	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	邻居	_	NOUN	NN	_	4	obj	_	Pinyin=línjū|Gloss=neighbor|HanViet=lân cư|Trad=鄰居
+8	。	_	PUNCT	.	_	4	punct	_	_

@@ -1,0 +1,257 @@
+# sent_id = korwus-graded-l3-u18-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 下个星期，经理让我去上海工作三天。
+# translation = Next week, my manager is sending me to Shanghai to work for three days.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	下	_	DET	DT	_	3	det	_	Pinyin=xià|Gloss=down|HanViet=hạ
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	星期	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	经理	_	NOUN	NN	_	6	nsubj	_	Pinyin=jīnglǐ|Gloss=manager|HanViet=kinh lý|Trad=經理
+6	让	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+7	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	去	_	VERB	VV	_	10	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+9	上海	_	PROPN	NNP	_	8	obj	_	Pinyin=shànghǎi|Gloss=Shanghai municipality (short name 滬/沪[Hu4])|HanViet=thượng hải
+10	工作	_	VERB	VV	_	6	ccomp	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+11	三	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=sān|Gloss=three|HanViet=tam
+12	天	_	NOUN	NNB	_	10	obl	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+13	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u18-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 晚上，我在屋子里准备行李。
+# translation = In the evening, I got my luggage ready in my room.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	在	_	VERB	VV	_	7	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	屋子	_	NOUN	NN	_	4	obj	_	Pinyin=wūzi|Gloss=house|HanViet=ốc tử
+6	里	_	NOUN	NN	_	5	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+7	准备	_	VERB	VV	_	0	root	_	Pinyin=zhǔnbèi|Gloss=preparation|HanViet=chuẩn bị|Trad=準備
+8	行李	_	NOUN	NN	_	7	obj	_	Pinyin=xínglǐ|Gloss=luggage|HanViet=hành,hạnh lý
+9	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u18-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我的箱子太旧了，所以我从同事那里借了一个新的。
+# translation = My suitcase was too old, so I borrowed a new one from a coworker.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	3	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	箱子	_	NOUN	NN	_	4	nsubj	_	Pinyin=xiāngzi|Gloss=suitcase|HanViet=rương tử
+4	太旧	_	ADJ	JJ	_	0	root	_	Pinyin=tàijiù|Gloss=太 highest + 旧 old|GlossFrom=parts|HanViet=thái cựu|Trad=太舊
+5	了	_	PART	UH	_	4	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	，	_	PUNCT	,	_	12	punct	_	_
+7	所以	_	SCONJ	RB	_	12	mark	_	Pinyin=suǒyǐ|Gloss=therefore|HanViet=sở dĩ
+8	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+9	从	_	ADP	IN	_	11	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+10	同事	_	NOUN	NN	_	11	nmod	_	Pinyin=tóngshì|Gloss=colleague; co-worker|HanViet=đồng sự
+11	那里	_	PRON	PRD	_	12	obl	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+12	借	_	VERB	VV	_	4	parataxis	_	Pinyin=jiè|Gloss=to borrow|HanViet=tá
+13	了	_	AUX	AS	Aspect=Perf	12	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+14	一	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+15	个	_	NOUN	NNB	_	14	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+16	新	_	ADJ	JJ	_	12	ccomp	_	Pinyin=xīn|Gloss=new|HanViet=tân
+17	的	_	PART	UH	_	12	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u18-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我在箱子里放了三件衬衫和一条裤子，电脑放在衣服中间。
+# translation = I put three shirts and a pair of pants in the suitcase, with my computer in the middle of the clothes.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	在	_	ADP	IN	_	3	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	箱子	_	NOUN	NN	_	5	obl	_	Pinyin=xiāngzi|Gloss=suitcase|HanViet=rương tử
+4	里	_	ADP	IN	_	3	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+5	放	_	VERB	VV	_	0	root	_	Pinyin=fàng|Gloss=to put|HanViet=phóng
+6	了	_	AUX	AS	Aspect=Perf	5	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	三	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=sān|Gloss=three|HanViet=tam
+8	件	_	NOUN	NNB	_	7	clf	_	Pinyin=jiàn|Gloss=item|HanViet=kiện
+9	衬衫	_	NOUN	NN	_	5	obj	_	Pinyin=chènshān|Gloss=shirt|HanViet=sấn sam|Trad=襯衫
+10	和	_	CCONJ	CC	_	13	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+11	一	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+12	条	_	NOUN	NNB	_	11	clf	_	Pinyin=tiáo|Gloss=strip|HanViet=điều|Trad=條
+13	裤子	_	NOUN	NN	_	9	conj	_	Pinyin=kùzi|Gloss=trousers; pants|HanViet=khố tử|Trad=褲子
+14	，	_	PUNCT	,	_	16	punct	_	_
+15	电脑	_	NOUN	NN	_	16	nsubj	_	Pinyin=diànnǎo|Gloss=computer|HanViet=điện não|Trad=電腦
+16	放	_	VERB	VV	_	5	parataxis	_	Pinyin=fàng|Gloss=to put|HanViet=phóng
+17	在	_	VERB	VV	_	16	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+18	衣服	_	NOUN	NN	_	16	obj	_	Pinyin=yīfú|Gloss=clothes|HanViet=y phục
+19	中间	_	NOUN	NN	_	18	acl	_	Pinyin=zhōngjiān|Gloss=the middle; the inside|HanViet=trung gian|Trad=中間
+20	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u18-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 妻子看了天气，说那边比这里冷，让我多带一件衣服。
+# translation = My wife checked the weather, said it's colder there than here, and told me to pack an extra piece of clothing.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	妻子	_	NOUN	NN	_	2	nsubj	_	Pinyin=qīzǐ|Gloss=wife and children|HanViet=thê tử,tý
+2	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	天气	_	NOUN	NN	_	2	obj	_	Pinyin=tiānqì|Gloss=weather|HanViet=thiên khí|Trad=天氣
+5	，	_	PUNCT	,	_	6	punct	_	_
+6	说	_	VERB	VV	_	2	parataxis	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+7	那边	_	PRON	PRD	_	12	nsubj	_	Pinyin=nàbiān|Gloss=over there|HanViet=na biên|Trad=那邊
+8	比	_	ADP	IN	_	9	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+9	这里	_	PRON	PRD	_	10	nmod	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+10	冷	_	ADJ	JJ	_	12	advcl	_	Pinyin=lěng|Gloss=cold|HanViet=lạnh
+11	，	_	PUNCT	,	_	10	punct	_	_
+12	让	_	VERB	VV	Voice=Cau	6	ccomp	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+13	我	_	PRON	PRP	Person=1	15	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+14	多	_	ADV	RB	_	15	advmod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+15	带	_	VERB	VV	_	12	ccomp	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+16	一	_	NUM	CD	NumType=Card	18	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+17	件	_	NOUN	NNB	_	16	clf	_	Pinyin=jiàn|Gloss=item|HanViet=kiện
+18	衣服	_	NOUN	NN	_	15	obj	_	Pinyin=yīfú|Gloss=clothes|HanViet=y phục
+19	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u18-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 经理给我的东西有二十多页，我打算在飞机上看。
+# translation = The documents my manager gave me are over twenty pages long, and I plan to read them on the plane.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	经理	_	NOUN	NN	_	6	nsubj	_	Pinyin=jīnglǐ|Gloss=manager|HanViet=kinh lý|Trad=經理
+2	给	_	VERB	VV	_	6	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+3	我	_	PRON	PRP	Person=1	5	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	东西	_	NOUN	NN	_	2	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+6	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+7	二十多	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=èrshíduō|Gloss=over 20|HanViet=nhị thập đa
+8	页	_	NOUN	NNB	_	6	obj	_	Pinyin=yè|Gloss=page|HanViet=hiệt|Trad=頁
+9	，	_	PUNCT	,	_	11	punct	_	_
+10	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+11	打算	_	VERB	VV	_	6	parataxis	_	Pinyin=dǎsuàn|Gloss=to plan|HanViet=đả toán
+12	在	_	ADP	IN	_	13	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+13	飞机	_	NOUN	NN	_	15	obl	_	Pinyin=fēijī|Gloss=airplane|HanViet=phi cơ|Trad=飛機
+14	上	_	ADP	IN	_	13	case	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+15	看	_	VERB	VV	_	11	xcomp	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+16	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u18-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 公司给我找的饭店很方便，过一条马路就到上班的地方了。
+# translation = The hotel the company found for me is very convenient: just cross one street and I'm at the office.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	公司	_	NOUN	NN	_	4	nsubj	_	Pinyin=gōngsī|Gloss=company; firm; corporation|HanViet=công ti,tư
+2	给	_	VERB	VV	_	4	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+3	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	找	_	VERB	VV	_	6	acl:relcl	_	Pinyin=zhǎo|Gloss=to try to find|HanViet=trảo
+5	的	_	SCONJ	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	饭店	_	NOUN	NN	_	8	nsubj	_	Pinyin=fàndiàn|Gloss=restaurant|HanViet=phạn điếm|Trad=飯店
+7	很	_	ADV	RB	_	8	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+8	方便	_	ADJ	JJ	_	0	root	_	Pinyin=fāngbiàn|Gloss=convenient; suitable|HanViet=phương tiện
+9	，	_	PUNCT	,	_	15	punct	_	_
+10	过	_	AUX	AS	Aspect=Perf	15	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+11	一	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+12	条	_	NOUN	NNB	_	11	clf	_	Pinyin=tiáo|Gloss=strip|HanViet=điều|Trad=條
+13	马路	_	NOUN	NN	_	15	nsubj	_	Pinyin=mǎlù|Gloss=street|HanViet=mã lộ|Trad=馬路
+14	就	_	SCONJ	RB	_	15	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+15	到	_	VERB	VV	_	8	parataxis	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+16	上班	_	VERB	VV	_	18	acl:relcl	_	Pinyin=shàngbān|Gloss=to go to work|HanViet=thượng ban
+17	的	_	SCONJ	DEC	_	16	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	地方	_	NOUN	NN	_	15	obj	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+19	了	_	PART	UH	_	15	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+20	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u18-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 听说那里有一个很有名的表演，有机会的话，我也想看一次。
+# translation = I hear there's a very famous show there, and if I get the chance, I'd like to see it too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	听说	_	VERB	VV	_	0	root	_	Pinyin=tīngshuō|Gloss=to hear (sth said)|HanViet=thính thuyết|Trad=聽說
+2	那里	_	PRON	PRD	_	3	nsubj	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+3	有	_	VERB	VV	_	1	ccomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+4	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	很	_	ADV	RB	_	7	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+7	有名	_	ADJ	JJ	_	9	amod	_	Pinyin=yǒumíng|Gloss=famous|HanViet=hữu danh
+8	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	表演	_	NOUN	NN	_	3	obj	_	Pinyin=biǎoyǎn|Gloss=play|HanViet=biểu diễn
+10	，	_	PUNCT	,	_	18	punct	_	_
+11	有	_	VERB	VV	_	18	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+12	机会	_	NOUN	NN	_	11	obj	_	Pinyin=jīhuì|Gloss=opportunity|HanViet=cơ hội|Trad=機會
+13	的话	_	PART	UH	_	11	discourse	_	Pinyin=dehuà|Gloss=if (coming after a conditional clause)|HanViet=đích thoại|Trad=的話
+14	，	_	PUNCT	,	_	11	punct	_	_
+15	我	_	PRON	PRP	Person=1	18	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+16	也	_	SCONJ	RB	_	18	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+17	想	_	AUX	MD	_	18	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+18	看	_	VERB	VV	_	3	parataxis	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+19	一	_	NUM	CD	NumType=Card	20	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+20	次	_	NOUN	NNB	_	18	obl	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+21	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l3-u18-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 可是箱子里的东西多极了，最后妻子帮我把一些不用的东西拿了出来。
+# translation = But the suitcase was much too full, so in the end my wife helped me take out some things I didn't need.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	可是	_	SCONJ	RB	_	7	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+2	箱子	_	NOUN	NN	_	5	nmod	_	Pinyin=xiāngzi|Gloss=suitcase|HanViet=rương tử
+3	里	_	ADP	IN	_	2	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+4	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	东西	_	NOUN	NN	_	7	nsubj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+6	多	_	ADV	RB	_	7	advmod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+7	极	_	ADJ	JJ	_	0	root	_	Pinyin=jí|Gloss=extremely|HanViet=cực|Trad=極
+8	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	，	_	PUNCT	,	_	12	punct	_	_
+10	最后	_	NOUN	NN	_	12	nmod:tmod	_	Pinyin=zuìhòu|Gloss=final; last; ultimate|HanViet=tối hậu|Trad=最後
+11	妻子	_	NOUN	NN	_	12	nsubj	_	Pinyin=qīzi|Gloss=wife|HanViet=thê tử,tý
+12	帮	_	VERB	VV	Voice=Cau	7	parataxis	_	Pinyin=bāng|Gloss=to help|HanViet=bang|Trad=幫
+13	我	_	PRON	PRP	Person=1	19	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+14	把	_	ADP	BB	_	18	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+15	一些	_	ADJ	JJ	_	18	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+16	不用	_	VERB	VV	Polarity=Neg	18	acl:relcl	_	Pinyin=bùyòng|Gloss=need not|HanViet=bất dụng
+17	的	_	SCONJ	DEC	_	16	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	东西	_	NOUN	NN	_	19	obl:patient	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+19	拿	_	VERB	VV	_	12	ccomp	_	Pinyin=ná|Gloss=to hold|HanViet=nã
+20	了	_	PART	UH	_	19	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+21	出来	_	VERB	VV	_	19	mark	_	Pinyin=chūlái|Gloss=to come out|HanViet=xuất lai|Trad=出來
+22	。	_	PUNCT	.	_	7	punct	_	_

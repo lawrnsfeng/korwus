@@ -1,0 +1,1792 @@
+# sent_id = ud-pud-w01130099
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 20世纪90年代，拉费蒂又发布了两张唱片，随后被音乐家汤姆·罗宾逊称为“重大回归”。
+# translation = Rafferty released two further albums in the 1990s in what musician Tom Robinson later described as "a major return to form".
+# source = UD Chinese-PUD w01130099
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-7:9-9;gf0025-21:8-8;gf0025-23:9-10;gf0025-41:8-8;gf0025-64:6-6;gf0025-132:15-15;gf0025-139:10-10;gf0025-157:14-14;gf0025-185:14-19;gf0025-204:0-0;gf0025-204:2-2
+1	20	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=20
+2	世纪	_	NOUN	NNB	_	4	compound	_	Pinyin=shìjì|Gloss=century|HanViet=thế kỷ|Trad=世紀
+3	90	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=90
+4	年代	_	NOUN	NNB	_	8	obl:tmod	_	Pinyin=niándài|Gloss=a decade of a century (e.g. the Sixties)|HanViet=niên đại
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	拉费蒂	_	PROPN	NNP	_	8	nsubj	_	Pinyin=lāfèidì|HanViet=lạp phí đế|GlossFrom=parts|Gloss=拉 to pull + 费 to cost + 蒂 stem (of fruit)|Trad=拉費蒂
+7	又	_	ADV	RB	_	8	advmod	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+8	发布	_	VERB	VV	_	20	csubj	_	Pinyin=fābù|Gloss=to release|HanViet=phát bố|Trad=發佈
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	两	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+11	张	_	NOUN	NNB	_	12	clf	_	Pinyin=zhāng|Gloss=to open up|HanViet=trương|Trad=張
+12	唱片	_	NOUN	NN	_	8	obj	_	Pinyin=chàngpiàn|Gloss=gramophone record|HanViet=xướng phiến
+13	，	_	PUNCT	,	_	8	punct	_	_
+14	随后	_	ADV	RB	_	20	advmod	_	Pinyin=suíhòu|Gloss=afterward; later; subsequently; following that|HanViet=tuỳ hậu|Trad=隨後
+15	被	_	ADP	BB	Voice=Pass	16	case	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+16	音乐家	_	NOUN	NN	_	20	obl:agent	_	Pinyin=yīnyuèjiā|Gloss=musician|HanViet=âm nhạc gia|Trad=音樂家
+17	汤姆	_	PROPN	NNP	_	16	appos	_	Pinyin=tāngmǔ|Gloss=Tom (name)|HanViet=thang mẫu|Trad=湯姆
+18	·	_	PUNCT	/	_	19	punct	_	_
+19	罗宾逊	_	PROPN	NNP	_	16	flat:name	_	Pinyin=luóbīnxùn|Gloss=Robinson (name)|HanViet=la tân tốn|Trad=羅賓遜
+20	称	_	VERB	VV	_	0	root	_	Pinyin=chēng|Gloss=to weigh|HanViet=xưng|Trad=稱
+21	为	_	VERB	VC	_	20	mark:prt	_	Pinyin=wéi|Gloss=as (in the capacity of)|HanViet=vị,vì|Trad=為
+22	“	_	PUNCT	``	_	24	punct	_	_
+23	重大	_	ADJ	JJ	_	24	amod	_	Pinyin=zhòngdà|Gloss=great|HanViet=trọng đại
+24	回归	_	NOUN	NN	_	20	obj	_	Pinyin=huíguī|Gloss=to return to|HanViet=hồi quy|Trad=迴歸
+25	”	_	PUNCT	''	_	24	punct	_	_
+26	。	_	PUNCT	.	_	20	punct	_	_
+
+# sent_id = ud-pud-w01125034
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 在下议院决定他的候选人资格无效并宣布得票第二名获胜之前，威尔克斯两次被选举成功随后又遭取消候选人资格。
+# translation = Wilkes was re-elected and expelled twice more, before the House of Commons resolved that his candidature was invalid and declared the runner-up as the victor.
+# source = UD Chinese-PUD w01125034
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-1:1-1;gf0025-5:4-4;gf0025-7:18-18;gf0025-16:0-0;gf0025-20:5-5;gf0025-23:18-19;gf0025-59:1-1;gf0025-59:19-19;gf0025-64:24-24;gf0025-82:5-5;gf0025-95:15-15;gf0025-120:12-12;gf0025-149:9-9;gf0025-157:20-20;gf0025-185:20-21;gf0025-230:9-9;gf0025-244:0-1
+1	在	_	ADP	IN	_	26	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	下	_	NOUN	NN	_	3	compound	_	Pinyin=xià|Gloss=down|HanViet=hạ
+3	议院	_	NOUN	NN	_	11	nsubj	_	Pinyin=yìyuàn|Gloss=parliament|HanViet=nghị viện|Trad=議院
+4	决定	_	VERB	VV	_	11	advcl	_	Pinyin=juédìng|Gloss=to decide; to determine; to make up one's mind|HanViet=quyết định|Trad=決定
+5	他	_	PRON	PRP	Person=3	8	nmod	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+6	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	候选人	_	VERB	VV	_	8	compound	_	Pinyin=hòuxuǎnrén|Gloss=candidate|HanViet=hậu tuyển nhân|Trad=候選人
+8	资格	_	NOUN	NN	_	9	nsubj	_	Pinyin=zīgé|Gloss=qualifications|HanViet=tư cách|Trad=資格
+9	无效	_	ADJ	JJ	_	4	ccomp	_	Pinyin=wúxiào|Gloss=not valid|HanViet=vô hiệu|Trad=無效
+10	并	_	ADV	RB	_	11	advmod	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+11	宣布	_	VERB	VV	_	26	dep	_	Pinyin=xuānbù|Gloss=to declare|HanViet=tuyên bố|Trad=宣佈
+12	得票	_	VERB	VV	_	15	advcl	_	Pinyin=dépiào|Gloss=vote-getting|HanViet=đắc phiếu
+13	第二	_	ADJ	CD	NumType=Ord	14	amod	_	Pinyin=dìèr|Gloss=second|HanViet=đệ nhị
+14	名	_	NOUN	NNB	_	12	obj	_	Pinyin=míng|Gloss=name|HanViet=danh
+15	获胜	_	VERB	VV	_	11	obj	_	Pinyin=huòshèng|Gloss=to win|HanViet=hoạch thắng|Trad=獲勝
+16	之前	_	ADP	IN	_	11	mark	_	Pinyin=zhīqián|Gloss=before|HanViet=chi tiền
+17	，	_	PUNCT	,	_	11	punct	_	_
+18	威尔克斯	_	PROPN	NNP	_	26	nsubj	_	Pinyin=wēiěrkèsī|HanViet=uy nhĩ khắc tư|GlossFrom=parts|Gloss=威 power + 尔 thus + 克 (Tw) abbr. for 克羅埃西亞/克罗埃西亚[Ke4 luo2 ai1 xi1 ya4], Croatia + 斯 Slovakia|Trad=威爾克斯
+19	两	_	NUM	CD	NumType=Card	20	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+20	次	_	NOUN	NNB	_	22	obl	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+21	被	_	AUX	BB	Voice=Pass	22	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+22	选举	_	VERB	VV	_	26	advcl	_	Pinyin=xuǎnjǔ|Gloss=to elect|HanViet=tuyển cử|Trad=選舉
+23	成功	_	ADJ	JJ	_	22	xcomp	_	Pinyin=chénggōng|Gloss=to succeed|HanViet=thành công
+24	随后	_	ADV	RB	_	26	advmod	_	Pinyin=suíhòu|Gloss=afterward; later; subsequently; following that|HanViet=tuỳ hậu|Trad=隨後
+25	又	_	ADV	RB	_	26	advmod	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+26	遭	_	VERB	VV	_	0	root	_	Pinyin=zāo|Gloss=to suffer; to meet with (usu. misfortune)|HanViet=tao
+27	取消	_	VERB	VV	_	26	xcomp	_	Pinyin=qǔxiāo|Gloss=to cancel; to call off; to revoke; to rescind|HanViet=thủ tiêu
+28	候选人	_	VERB	VV	_	29	compound	_	Pinyin=hòuxuǎnrén|Gloss=candidate|HanViet=hậu tuyển nhân|Trad=候選人
+29	资格	_	NOUN	NN	_	27	obj	_	Pinyin=zīgé|Gloss=qualifications|HanViet=tư cách|Trad=資格
+30	。	_	PUNCT	.	_	26	punct	_	_
+
+# sent_id = ud-pud-w01113074
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 就职之前，佐科维希望即将离任的总统尤多约夫承担责任，作出通过进一步减少补助来提高油价的决定。
+# translation = Prior to taking office Jokowi sought for outgoing President Yudhoyono to take responsibility for the decision to further increase fuel prices by further removing subsidies.
+# source = UD Chinese-PUD w01113074
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-7:16-16;gf0025-20:7-7;gf0025-20:23-23;gf0025-82:7-7;gf0025-82:23-23;gf0025-95:1-1;gf0025-218:5-5
+1	就职	_	VERB	VV	_	5	advcl	_	Pinyin=jiùzhí|Gloss=to take office; to assume a post|HanViet=tựu chức|Trad=就職
+2	之前	_	ADP	IN	_	1	mark	_	Pinyin=zhīqián|Gloss=before|HanViet=chi tiền
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	佐科维	_	PROPN	NNP	_	5	nsubj	_	Pinyin=zuǒkēwéi|HanViet=tá khoa duy|GlossFrom=parts|Gloss=佐 to assist + 科 branch of study + 维 to preserve|Trad=佐科維
+5	希望	_	VERB	VV	_	0	root	_	Pinyin=xīwàng|Gloss=to hope|HanViet=hy vọng
+6	即将	_	ADV	RB	_	7	advmod	_	Pinyin=jíjiāng|Gloss=about to; on the point of; soon|HanViet=tức tương|Trad=即將
+7	离任	_	VERB	VV	_	9	acl:relcl	_	Pinyin=lírèn|Gloss=to leave office|HanViet=ly nhiệm|Trad=離任
+8	的	_	PART	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	总统	_	NOUN	NN	_	14	nsubj	_	Pinyin=zǒngtǒng|Gloss=president (of a country)|HanViet=tổng thống|Trad=總統
+10	尤多约夫	_	PROPN	NNP	_	9	appos	_	Pinyin=yóuduōyuēfū|HanViet=vưu đa ước phu|GlossFrom=parts|Gloss=尤 outstanding + 多 many; much; more; a lot of + 约 to weigh in a balance or on a scale + 夫 husband|Trad=尤多約夫
+11	承担	_	VERB	VV	_	14	advcl	_	Pinyin=chéngdān|Gloss=to undertake|HanViet=thừa đảm,đam|Trad=承擔
+12	责任	_	NOUN	NN	_	11	obj	_	Pinyin=zérèn|Gloss=responsibility; duty; liability|HanViet=trách nhiệm|Trad=責任
+13	，	_	PUNCT	,	_	11	punct	_	_
+14	作出	_	VERB	VV	_	5	ccomp	_	Pinyin=zuòchū|Gloss=to put out|HanViet=tác xuất
+15	通过	_	ADP	IN	_	19	mark	_	Pinyin=tōngguò|Gloss=to pass through; to get through|HanViet=thông quá,qua|Trad=通過
+16	进	_	VERB	VV	_	19	advcl	_	Pinyin=jìn|Gloss=to go forward|HanViet=tiến|Trad=進
+17	一	_	NUM	CD	NumType=Card	18	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+18	步	_	NOUN	NNB	_	16	obj	_	Pinyin=bù|Gloss=a step|HanViet=bộ
+19	减少	_	VERB	VV	_	22	xcomp	_	Pinyin=jiǎnshǎo|Gloss=to lessen; to decrease; to reduce; to lower|HanViet=giảm thiểu|Trad=減少
+20	补助	_	NOUN	NN	_	19	obj	_	Pinyin=bǔzhù|Gloss=to subsidize|HanViet=bổ trợ|Trad=補助
+21	来	_	ADV	RB	_	22	mark:prt	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+22	提高	_	VERB	VV	_	25	acl:relcl	_	Pinyin=tígāo|Gloss=to raise|HanViet=đề cao
+23	油价	_	NOUN	NN	_	22	obj	_	Pinyin=yóujià|Gloss=oil (petroleum) price|HanViet=dầu giá|Trad=油價
+24	的	_	PART	DEC	_	22	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+25	决定	_	NOUN	NN	_	14	obj	_	Pinyin=juédìng|Gloss=to decide; to determine; to make up one's mind|HanViet=quyết định|Trad=決定
+26	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = ud-pud-w01045006
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 加勒比海直到1492年才被欧亚大陆所知，当时克里斯托弗·哥伦布正在寻找海路前往亚洲，并首次驶入了加勒比海域。
+# translation = The Caribbean Sea had been unknown to the populations of Eurasia until 1492, when Christopher Columbus first sailed into Caribbean waters on a quest to find a sea route to Asia.
+# source = UD Chinese-PUD w01045006
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-11:16-16;gf0025-11:16-17;gf0025-11:17-17;gf0025-21:26-26;gf0025-23:2-3;gf0025-41:26-26;gf0025-42:16-20;gf0025-42:17-20;gf0025-44:2-3;gf0025-60:3-3;gf0025-68:4-4;gf0025-144:4-4;gf0025-149:23-23;gf0025-157:5-5;gf0025-185:5-10;gf0025-204:2-2;gf0025-230:23-23;gf0025-370:4-4
+1	加勒比海	_	PROPN	NNP	_	11	nsubj:pass	_	Pinyin=jiālèbǐhǎi|Gloss=Caribbean Sea|HanViet=gia lặc tỷ,bỉ hải
+2	直到	_	ADP	IN	_	4	case	_	Pinyin=zhídào|Gloss=until|HanViet=trực đáo
+3	1492	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=1492
+4	年	_	NOUN	NNB	_	11	obl	_	Pinyin=nián|Gloss=year|HanViet=niên
+5	才	_	ADV	RB	_	11	advmod	_	Pinyin=cái|Gloss=ability; talent|HanViet=tài
+6	被	_	ADP	BB	Voice=Pass	9	case	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+7	欧	_	PROPN	NNP	_	9	compound	_	Pinyin=ōu|Gloss=Europe (abbr. for 歐洲/欧洲[Ou1 zhou1])|HanViet=âu|Trad=歐
+8	亚	_	PROPN	NNP	_	9	compound	_	Pinyin=yà|Gloss=Asia|HanViet=á|Trad=亞
+9	大陆	_	NOUN	NN	_	11	obl:agent	_	Pinyin=dàlù|Gloss=mainland China (reference to the PRC)|HanViet=đại lục|Trad=大陸
+10	所	_	ADV	RB	_	11	mark:prt	_	Pinyin=suǒ|Gloss=actually|HanViet=sở
+11	知	_	VERB	VV	_	26	dep	_	Pinyin=zhī|Gloss=to know|HanViet=tri
+12	，	_	PUNCT	,	_	11	punct	_	_
+13	当时	_	NOUN	NN	_	26	obl:tmod	_	Pinyin=dāngshí|Gloss=then; at that time|HanViet=đương,đang thời|Trad=當時
+14	克里斯托弗	_	PROPN	NNP	_	26	nsubj	_	Pinyin=kèlǐsītuōfú|Gloss=(Warren) Christopher|HanViet=khắc lý tư thác phất
+15	·	_	PUNCT	/	_	16	punct	_	_
+16	哥伦布	_	PROPN	NNP	_	14	flat:name	_	Pinyin=gēlúnbù|Gloss=Cristóbal Colón or Christopher Columbus (1451-1506)|HanViet=ca luân bố|Trad=哥倫布
+17	正	_	ADV	RB	_	21	advmod	_	Pinyin=zhèng|Gloss=straight|HanViet=chính,chánh
+18	在	_	ADV	RB	_	21	advmod	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+19	寻找	_	VERB	VV	_	21	advcl	_	Pinyin=xúnzhǎo|Gloss=to seek; to look for|HanViet=tầm trảo|Trad=尋找
+20	海路	_	NOUN	NN	_	19	obj	_	Pinyin=hǎilù|HanViet=hải lộ|GlossFrom=parts|Gloss=海 ocean + 路 road (CL:條/条[tiao2])
+21	前往	_	VERB	VV	_	26	advcl	_	Pinyin=qiánwǎng|Gloss=to leave for; to proceed towards; to go to|HanViet=tiền vãng
+22	亚洲	_	PROPN	NNP	_	21	obj	_	Pinyin=yàzhōu|Gloss=Asia (abbr. for 亞細亞洲/亚细亚洲[Ya4 xi4 ya4 Zhou1])|HanViet=á châu|Trad=亞洲
+23	，	_	PUNCT	,	_	21	punct	_	_
+24	并	_	ADV	RB	_	26	advmod	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+25	首次	_	NUM	CD	NumType=Card	26	obl	_	Pinyin=shǒucì|Gloss=first|HanViet=thủ,thú thứ
+26	驶入	_	VERB	VV	_	0	root	_	Pinyin=shǐrù|Gloss=(of a car, ship, train etc) to enter|HanViet=sử nhập|Trad=駛入
+27	了	_	AUX	AS	Aspect=Perf	26	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+28	加勒比	_	PROPN	NNP	_	29	compound	_	Pinyin=jiālèbǐ|Gloss=Caribbean|HanViet=gia lặc tỷ,bỉ
+29	海域	_	NOUN	NN	_	26	obj	_	Pinyin=hǎiyù|Gloss=sea area|HanViet=hải vực
+30	。	_	PUNCT	.	_	26	punct	_	_
+
+# sent_id = ud-pud-w01107063
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 有时，希区柯克的电影刻画挣扎于母子关系的人物形象。
+# translation = Hitchcock's films sometimes feature characters struggling in their relationships with their mothers.
+# source = UD Chinese-PUD w01107063
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-11:0-0;gf0025-20:3-3;gf0025-20:10-10;gf0025-82:3-3;gf0025-82:10-10;gf0025-132:8-8
+1	有时	_	ADV	RB	_	6	advmod	_	Pinyin=yǒushí|Gloss=sometimes; now and then|HanViet=hữu thời|Trad=有時
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	希区柯克	_	PROPN	NNP	_	5	nmod	_	Pinyin=xīqūkēkè|HanViet=hy khu kha khắc|GlossFrom=parts|Gloss=希 to hope + 区 area + 柯 (literary) branch; stem; stalk + 克 (Tw) abbr. for 克羅埃西亞/克罗埃西亚[Ke4 luo2 ai1 xi1 ya4], Croatia|Trad=希區柯克
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	电影	_	NOUN	NN	_	6	nsubj	_	Pinyin=diànyǐng|Gloss=movie; film|HanViet=điện ảnh|Trad=電影
+6	刻画	_	VERB	VV	_	0	root	_	Pinyin=kèhuà|Gloss=to portray|HanViet=khắc hoạ,hoạch|Trad=刻畫
+7	挣扎	_	VERB	VV	_	13	acl:relcl	_	Pinyin=zhēngzhá|Gloss=to struggle|HanViet=tranh trát|Trad=掙扎
+8	于	_	VERB	VV	_	7	mark:prt	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+9	母子	_	NOUN	NN	_	10	compound	_	Pinyin=mǔzi|Gloss=mother and child|HanViet=mẫu tử
+10	关系	_	NOUN	NN	_	7	obj	_	Pinyin=guānxì|Gloss=relation; relationship; connection|HanViet=quan hệ|Trad=關係
+11	的	_	PART	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	人物	_	NOUN	NN	_	13	compound	_	Pinyin=rénwù|Gloss=person; personage; figure (esp. sb of importance)|HanViet=nhân vật
+13	形象	_	NOUN	NN	_	6	obj	_	Pinyin=xíngxiàng|Gloss=image|HanViet=hình tượng
+14	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = ud-pud-w01035083
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 栖息地被破坏后，人类也会无法直接使用自然栖息地。
+# translation = Humans also lose direct uses of natural habitat when habitat is destroyed.
+# source = UD Chinese-PUD w01035083
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-1:3-3;gf0025-2:7-7;gf0025-13:6-6;gf0025-157:1-1;gf0025-185:1-2
+1	栖息地	_	VERB	VV	_	3	nsubj:pass	_	Pinyin=qīxīdì|Gloss=habitat|HanViet=thê tức địa|Trad=棲息地
+2	被	_	AUX	BB	Voice=Pass	3	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+3	破坏	_	VERB	VV	_	9	dep	_	Pinyin=pòhuài|Gloss=destruction|HanViet=phá hoại|Trad=破壞
+4	后	_	ADP	IN	_	3	mark	_	Pinyin=hòu|Gloss=empress|HanViet=hậu|Trad=後
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	人类	_	NOUN	NN	_	9	nsubj	_	Pinyin=rénlèi|Gloss=humanity|HanViet=nhân loại|Trad=人類
+7	也	_	ADV	RB	_	9	advmod	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+8	会	_	AUX	MD	_	9	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+9	无法	_	VERB	VV	_	0	root	_	Pinyin=wúfǎ|Gloss=unable to; incapable of|HanViet=vô pháp|Trad=無法
+10	直接	_	ADV	RB	_	11	advmod	_	Pinyin=zhíjiē|Gloss=directly; direct|HanViet=trực tiếp
+11	使用	_	VERB	VV	_	9	xcomp	_	Pinyin=shǐyòng|Gloss=to use|HanViet=sử,sứ dụng
+12	自然	_	NOUN	NN	_	13	compound	_	Pinyin=zìrán|Gloss=nature|HanViet=tự nhiên
+13	栖息地	_	VERB	VV	_	11	obj	_	Pinyin=qīxīdì|Gloss=habitat|HanViet=thê tức địa|Trad=棲息地
+14	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = ud-pud-w01049051
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 这通常包括低水平的发展，例如乡村野餐区、长凳和小径。
+# translation = It usually involves a low level of development, such as rustic picnic areas, benches and trails.
+# source = UD Chinese-PUD w01049051
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-6:0-0;gf0025-19:12-12;gf0025-20:4-4;gf0025-82:4-4;gf0025-131:13-13;gf0025-145:1-1
+1	这	_	PRON	PRD	_	3	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	通常	_	ADV	RB	_	3	advmod	_	Pinyin=tōngcháng|Gloss=regular; usual; normal|HanViet=thông thường
+3	包括	_	VERB	VV	_	0	root	_	Pinyin=bāokuò|Gloss=to comprise|HanViet=bao quát
+4	低水平	_	NOUN	NN	_	6	nmod	_	Pinyin=dīshuǐpíng|HanViet=đê thuỷ bình|GlossFrom=parts|Gloss=低 low + 水平 horizontal; level
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	发展	_	NOUN	NN	_	8	nsubj	_	Pinyin=fāzhǎn|Gloss=development|HanViet=phát triển|Trad=發展
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	例如	_	VERB	VV	_	3	ccomp	_	Pinyin=lìrú|Gloss=for example; for instance; such as|HanViet=lệ như
+9	乡村	_	NOUN	NN	_	10	compound	_	Pinyin=xiāngcūn|Gloss=rustic|HanViet=hương thôn|Trad=鄉村
+10	野餐区	_	VERB	VV	_	8	obj	_	Pinyin=yěcānqū|HanViet=dã xan khu|GlossFrom=parts|Gloss=野餐 picnic + 区 area|Trad=野餐區
+11	、	_	PUNCT	EC	_	12	punct	_	_
+12	长凳	_	NOUN	NN	_	10	conj	_	Pinyin=chángdèng|Gloss=pew|HanViet=trưởng đắng|Trad=長凳
+13	和	_	CCONJ	CC	_	14	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+14	小径	_	NOUN	NN	_	10	conj	_	Pinyin=xiǎojìng|Gloss=alley; trail|HanViet=tiểu kính|Trad=小徑
+15	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = ud-pud-w05007080
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 追求和平的尝试在1415年春天告终，安立奎决定实施他的计划：侵略整个法国。
+# translation = The attempts at making peace finally ended in spring of 1415 and Enrique decided to execute his plan: an invasion of the entire Kingdom of France.
+# source = UD Chinese-PUD w05007080
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:13-13;gf0025-16:4-4;gf0025-20:2-2;gf0025-20:14-14;gf0025-23:5-6;gf0025-44:5-6;gf0025-60:6-6;gf0025-82:2-2;gf0025-82:14-14;gf0025-204:5-5
+1	追求	_	VERB	VV	_	4	acl:relcl	_	Pinyin=zhuīqiú|Gloss=to pursue (a goal etc) stubbornly|HanViet=truy cầu
+2	和平	_	NOUN	NN	_	1	obj	_	Pinyin=hépíng|Gloss=peace|HanViet=hoà bình
+3	的	_	PART	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	尝试	_	NOUN	NN	_	9	nsubj	_	Pinyin=chángshì|Gloss=to try (to see what it's like or whether one can do it)|HanViet=thường thí|Trad=嘗試
+5	在	_	ADP	IN	_	8	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+6	1415	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=1415
+7	年	_	NOUN	NNB	_	8	compound	_	Pinyin=nián|Gloss=year|HanViet=niên
+8	春天	_	NOUN	NN	_	9	obl	_	Pinyin=chūntiān|Gloss=spring (season)|HanViet=xuân thiên
+9	告终	_	VERB	VV	_	12	dep	_	Pinyin=gàozhōng|Gloss=to end; to come to an end|HanViet=cáo chung|Trad=告終
+10	，	_	PUNCT	,	_	9	punct	_	_
+11	安立奎	_	PROPN	NNP	_	12	nsubj	_	Pinyin=ānlìkuí|HanViet=an lập khuê|GlossFrom=parts|Gloss=安 (bound form) calm; peaceful + 立 to stand + 奎 crotch
+12	决定	_	VERB	VV	_	0	root	_	Pinyin=juédìng|Gloss=to decide; to determine; to make up one's mind|HanViet=quyết định|Trad=決定
+13	实施	_	VERB	VV	_	12	xcomp	_	Pinyin=shíshī|Gloss=to implement|HanViet=thực thi,thí|Trad=實施
+14	他	_	PRON	PRP	Person=3	16	nmod	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+15	的	_	PART	DEC	Case=Gen	14	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	计划	_	NOUN	NN	_	13	obj	_	Pinyin=jìhuà|Gloss=plan|HanViet=kế hoạch|Trad=計劃
+17	：	_	PUNCT	:	_	18	punct	_	_
+18	侵略	_	VERB	VV	_	16	appos	_	Pinyin=qīnlüè|Gloss=to invade|HanViet=xâm lược
+19	整个	_	DET	DT	_	20	det	_	Pinyin=zhěnggè|Gloss=whole|HanViet=chỉnh cá|Trad=整個
+20	法国	_	PROPN	NNP	_	18	obj	_	Pinyin=fǎguó|Gloss=France|HanViet=pháp quốc|Trad=法國
+21	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = ud-pud-n01004017
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 他们的成绩属于4年级的全国平均水平，且优于8年级的全国平均水平。
+# translation = They are at the national average in grade 4 and better than national average in grade 8.
+# source = UD Chinese-PUD n01004017
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:0-0;gf0025-20:1-1;gf0025-20:7-7;gf0025-20:17-17;gf0025-30:2-13;gf0025-82:1-1;gf0025-82:7-7;gf0025-82:17-17;gf0025-132:0-0;gf0025-470:12-12
+1	他们	_	PRON	PRP	Number=Plur|Person=3	3	nmod	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	成绩	_	NOUN	NN	_	14	nsubj	_	Pinyin=chéngjì|Gloss=achievement|HanViet=thành tích|Trad=成績
+4	属	_	VERB	VV	_	14	advcl	_	Pinyin=shǔ|Gloss=category|HanViet=thuộc|Trad=屬
+5	于	_	VERB	VV	_	4	mark:prt	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+6	4	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=4
+7	年级	_	NOUN	NN	_	11	nmod	_	Pinyin=niánjí|Gloss=grade|HanViet=niên cấp|Trad=年級
+8	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	全国	_	NOUN	NN	_	11	compound	_	Pinyin=quánguó|Gloss=whole nation|HanViet=toàn quốc|Trad=全國
+10	平均	_	ADJ	JJ	_	11	amod	_	Pinyin=píngjūn|Gloss=average; on average|HanViet=bình quân
+11	水平	_	NOUN	NN	_	4	obj	_	Pinyin=shuǐpíng|Gloss=horizontal; level|HanViet=thuỷ bình
+12	，	_	PUNCT	,	_	4	punct	_	_
+13	且	_	ADV	RB	_	14	advmod	_	Pinyin=qiě|Gloss=and|HanViet=thả
+14	优	_	ADJ	JJ	_	0	root	_	Pinyin=yōu|Gloss=excellent|HanViet=ưu|Trad=優
+15	于	_	VERB	VV	_	14	mark:prt	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+16	8	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=8
+17	年级	_	NOUN	NN	_	21	nmod	_	Pinyin=niánjí|Gloss=grade|HanViet=niên cấp|Trad=年級
+18	的	_	PART	DEC	Case=Gen	17	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	全国	_	NOUN	NN	_	21	compound	_	Pinyin=quánguó|Gloss=whole nation|HanViet=toàn quốc|Trad=全國
+20	平均	_	ADJ	JJ	_	21	amod	_	Pinyin=píngjūn|Gloss=average; on average|HanViet=bình quân
+21	水平	_	NOUN	NN	_	14	obj	_	Pinyin=shuǐpíng|Gloss=horizontal; level|HanViet=thuỷ bình
+22	。	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = ud-pud-n01031021
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 他补充说：“这是在寻找男性激素避孕方法的正确组合的漫长旅程中的一小步。”
+# translation = He added: "This has been one step in a long journey of finding the right combination for male hormonal contraception."
+# source = UD Chinese-PUD n01031021
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:0-0;gf0025-6:5-5;gf0025-7:21-21;gf0025-16:7-7;gf0025-20:13-13;gf0025-20:16-16;gf0025-20:20-20;gf0025-36:6-6;gf0025-82:13-13;gf0025-82:16-16;gf0025-82:20-20;gf0025-131:22-22;gf0025-244:7-19
+1	他	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	补充	_	VERB	VV	_	0	root	_	Pinyin=bǔchōng|Gloss=to replenish|HanViet=bổ sung|Trad=補充
+3	说	_	VERB	VV	_	2	xcomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+4	：	_	PUNCT	:	_	23	punct	_	_
+5	“	_	PUNCT	``	_	23	punct	_	_
+6	这	_	PRON	PRD	_	23	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+7	是	_	AUX	VC	_	23	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+8	在	_	ADP	IN	_	23	nmod	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+9	寻找	_	VERB	VV	_	19	acl:relcl	_	Pinyin=xúnzhǎo|Gloss=to seek; to look for|HanViet=tầm trảo|Trad=尋找
+10	男性	_	NOUN	NN	_	13	compound	_	Pinyin=nánxìng|Gloss=the male sex|HanViet=nam tính
+11	激素	_	NOUN	NN	_	13	compound	_	Pinyin=jīsù|Gloss=hormone|HanViet=kích tố
+12	避孕	_	NOUN	NN	_	13	compound	_	Pinyin=bìyùn|Gloss=contraception|HanViet=tị dựng
+13	方法	_	NOUN	NN	_	16	nmod	_	Pinyin=fāngfǎ|Gloss=method; way; technique; procedure|HanViet=phương pháp
+14	的	_	PART	DEC	Case=Gen	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	正确	_	ADJ	JJ	_	16	amod	_	Pinyin=zhèngquè|Gloss=correct; sound; right; proper|HanViet=chính,chánh xác|Trad=正確
+16	组合	_	NOUN	NN	_	9	obj	_	Pinyin=zǔhé|Gloss=to assemble; to combine; to compose|HanViet=tổ hợp,hiệp|Trad=組合
+17	的	_	PART	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	漫长	_	ADJ	JJ	_	19	amod	_	Pinyin=màncháng|Gloss=very long|HanViet=mạn trường|Trad=漫長
+19	旅程	_	NOUN	NN	_	8	obj	_	Pinyin=lǚchéng|Gloss=journey|HanViet=lữ trình
+20	中	_	ADP	IN	_	19	case:loc	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+21	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+22	一	_	NUM	CD	NumType=Card	23	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+23	小步	_	NOUN	NN	_	3	ccomp	_	Pinyin=xiǎobù|HanViet=tiểu bộ|GlossFrom=parts|Gloss=小 small + 步 a step
+24	。	_	PUNCT	.	_	23	punct	_	_
+25	”	_	PUNCT	''	_	23	punct	_	_
+
+# sent_id = ud-pud-w01066008
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 泰国每天的吉祥颜色是根据工作日表格来分配的，下面带有一个链接，可以打开当周各天的菩萨图片。
+# translation = Thai auspicious colours of the day are given in the table of weekdays, followed below it by a link to the Buddha images for each day of the week.
+# source = UD Chinese-PUD w01066008
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-7:15-15;gf0025-8:16-16;gf0025-20:2-2;gf0025-20:11-11;gf0025-20:23-23;gf0025-23:15-16;gf0025-49:19-19;gf0025-82:2-2;gf0025-82:11-11;gf0025-82:23-23;gf0025-136:20-20;gf0025-228:6-6
+1	泰国	_	PROPN	NNP	_	5	compound	_	Pinyin=tàiguó|Gloss=Thailand|HanViet=thái quốc|Trad=泰國
+2	每天	_	DET	DT	_	5	nmod	_	Pinyin=měitiān|Gloss=every day|HanViet=mỗi thiên
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	吉祥	_	ADJ	JJ	_	5	amod	_	Pinyin=jíxiáng|Gloss=lucky|HanViet=cát tường
+5	颜色	_	NOUN	NN	_	6	nsubj	_	Pinyin=yánsè|Gloss=color|HanViet=nhan sắc|Trad=顏色
+6	是	_	VERB	VC	_	15	dep	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+7	根据	_	ADP	IN	_	9	case	_	Pinyin=gēnjù|Gloss=according to|HanViet=căn cứ|Trad=根據
+8	工作日	_	VERB	VV	_	9	compound	_	Pinyin=gōngzuòrì|Gloss=workday|HanViet=công tác nhật
+9	表格	_	NOUN	NN	_	11	obl	_	Pinyin=biǎogé|Gloss=form; table|HanViet=biểu cách
+10	来	_	ADV	RB	_	11	mark:prt	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+11	分配	_	VERB	VV	_	6	xcomp	_	Pinyin=fēnpèi|Gloss=to distribute|HanViet=phân phối
+12	的	_	PART	UH	_	6	discourse:sp	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	，	_	PUNCT	,	_	6	punct	_	_
+14	下面	_	NOUN	NN	_	15	nsubj	_	Pinyin=xiàmiàn|Gloss=below|HanViet=hạ diện
+15	带有	_	VERB	VV	_	0	root	_	Pinyin=dàiyǒu|Gloss=to have as a feature or characteristic; to have an element of (confidence, sweetness, malevolence etc); to carry (a pathogen, connotation etc)|HanViet=đới hữu|Trad=帶有
+16	一	_	NUM	CD	NumType=Card	17	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+17	个	_	NOUN	NNB	_	18	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+18	链接	_	NOUN	NN	_	21	nsubj	_	Pinyin=liànjiē|Gloss=to link; to catenate|HanViet=liên tiếp|Trad=鏈接
+19	，	_	PUNCT	,	_	18	punct	_	_
+20	可以	_	AUX	MD	_	21	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+21	打开	_	VERB	VV	_	15	ccomp	_	Pinyin=dǎkāi|Gloss=to open|HanViet=đả khai|Trad=打開
+22	当周	_	NOUN	NN	_	23	compound	_	Pinyin=dāngzhōu|HanViet=đương,đang chu|GlossFrom=parts|Gloss=当 (onom.) dong + 周 Zhou Dynasty (1046–256 BC)|Trad=當週
+23	各天	_	DET	DT	_	26	nmod	_	Pinyin=gètiān|HanViet=các thiên|GlossFrom=parts|Gloss=各 each + 天 day
+24	的	_	PART	DEC	Case=Gen	23	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+25	菩萨	_	NOUN	NN	_	26	compound	_	Pinyin=púsà|Gloss=(Buddhism) bodhisattva|HanViet=bồ tát|Trad=菩薩
+26	图片	_	NOUN	NN	_	21	obj	_	Pinyin=túpiàn|Gloss=picture; photograph|HanViet=đồ phiến|Trad=圖片
+27	。	_	PUNCT	.	_	21	punct	_	_
+
+# sent_id = ud-pud-w02019085
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 第二年，也就是1977年，由于他的媒体对美国的态度很友好，他收到了美国友谊荣誉勋章。
+# translation = In the following year, 1977, he received the distinction of the American Friendship Medal for the friendly position of his press toward the USA.
+# source = UD Chinese-PUD w02019085
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:9-9;gf0025-5:19-19;gf0025-9:16-16;gf0025-13:3-3;gf0025-20:10-10;gf0025-20:14-14;gf0025-21:21-21;gf0025-23:5-6;gf0025-41:21-21;gf0025-44:5-6;gf0025-60:1-1;gf0025-60:6-6;gf0025-73:12-12;gf0025-82:10-10;gf0025-82:14-14;gf0025-120:0-0;gf0025-155:8-8;gf0025-204:5-5
+1	第二	_	ADJ	CD	NumType=Ord	2	amod	_	Pinyin=dìèr|Gloss=second|HanViet=đệ nhị
+2	年	_	NOUN	NNB	_	7	nsubj	_	Pinyin=nián|Gloss=year|HanViet=niên
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	也	_	ADV	RB	_	7	advmod	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+5	就是	_	AUX	VC	_	7	cop	_	Pinyin=jiùshì|Gloss=exactly; precisely|HanViet=tựu thị
+6	1977	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=1977
+7	年	_	NOUN	NNB	_	21	dep	_	Pinyin=nián|Gloss=year|HanViet=niên
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	由于	_	ADP	IN	_	18	mark	_	Pinyin=yóuyú|Gloss=due to|HanViet=do ư|Trad=由於
+10	他	_	PRON	PRP	Person=3	12	nmod	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	媒体	_	NOUN	NN	_	16	compound	_	Pinyin=méitǐ|Gloss=media, esp. news media|HanViet=môi thể|Trad=媒體
+13	对	_	ADP	IN	_	16	nmod	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+14	美国	_	PROPN	NNP	_	13	obj	_	Pinyin=měiguó|Gloss=United States; USA; US|HanViet=mỹ quốc|Trad=美國
+15	的	_	PART	DEC	Case=Gen	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	态度	_	NOUN	NN	_	18	nsubj	_	Pinyin=tàidù|Gloss=manner|HanViet=thái độ|Trad=態度
+17	很	_	ADV	RB	_	18	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+18	友好	_	ADJ	JJ	_	21	xcomp	_	Pinyin=yǒuhǎo|Gloss=friendly; amicable|HanViet=hữu hảo
+19	，	_	PUNCT	,	_	18	punct	_	_
+20	他	_	PRON	PRP	Person=3	21	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+21	收到	_	VERB	VV	_	0	root	_	Pinyin=shōudào|Gloss=to receive|HanViet=thu đáo
+22	了	_	AUX	AS	Aspect=Perf	21	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+23	美国	_	PROPN	NNP	_	26	compound	_	Pinyin=měiguó|Gloss=United States; USA; US|HanViet=mỹ quốc|Trad=美國
+24	友谊	_	NOUN	NN	_	26	compound	_	Pinyin=yǒuyì|Gloss=companionship|HanViet=hữu nghị|Trad=友誼
+25	荣誉	_	NOUN	NN	_	26	compound	_	Pinyin=róngyù|Gloss=honor|HanViet=vinh dự|Trad=榮譽
+26	勋章	_	NOUN	NN	_	21	obj	_	Pinyin=xūnzhāng|Gloss=medal; decoration|HanViet=huân chương|Trad=勳章
+27	。	_	PUNCT	.	_	21	punct	_	_
+
+# sent_id = ud-pud-n03010012
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 根据费加罗报的说法，政府的计划能够省出4200万欧元，其中1550万欧元可以供安保使用。
+# translation = According to Le Figaro, this government plan could free up 42 million euros, of which 15.5 million would go towards security.
+# source = UD Chinese-PUD n03010012
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-20:2-2;gf0025-20:6-6;gf0025-49:18-18;gf0025-57:10-10;gf0025-57:15-15;gf0025-82:2-2;gf0025-82:6-6;gf0025-204:10-10;gf0025-204:15-15;gf0025-228:0-0
+1	根据	_	ADP	IN	_	4	case	_	Pinyin=gēnjù|Gloss=according to|HanViet=căn cứ|Trad=根據
+2	费加罗报	_	PROPN	NNP	_	4	nmod	_	Pinyin=fèijiāluóbào|Gloss=Le Figaro|HanViet=phí gia la báo|Trad=費加羅報
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	说法	_	NOUN	NN	_	20	obl	_	Pinyin=shuōfǎ|Gloss=to expound Buddhist teachings|HanViet=thuyết pháp|Trad=說法
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	政府	_	NOUN	NN	_	8	nmod	_	Pinyin=zhèngfǔ|Gloss=government|HanViet=chính phủ
+7	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	计划	_	NOUN	NN	_	10	nsubj	_	Pinyin=jìhuà|Gloss=plan|HanViet=kế hoạch|Trad=計劃
+9	能够	_	AUX	MD	_	10	aux	_	Pinyin=nénggòu|Gloss=to be capable of|HanViet=năng cú|Trad=能夠
+10	省出	_	VERB	VV	_	20	dep	_	Pinyin=shěngchū|HanViet=tỉnh xuất|GlossFrom=parts|Gloss=省 to save; to economize; to be frugal + 出 to go out; to come out
+11	4200万	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=4200wàn|Trad=4200萬
+12	欧	_	PROPN	NNP	_	13	compound	_	Pinyin=ōu|Gloss=Europe (abbr. for 歐洲/欧洲[Ou1 zhou1])|HanViet=âu|Trad=歐
+13	元	_	NOUN	NNB	_	10	obj	_	Pinyin=yuán|Gloss=Yuan dynasty (1279–1368)|HanViet=nguyên
+14	，	_	PUNCT	,	_	10	punct	_	_
+15	其中	_	NOUN	NN	_	18	compound	_	Pinyin=qízhōng|Gloss=among|HanViet=kỳ trung
+16	1550万	_	NUM	CD	NumType=Card	18	nummod	_	Pinyin=1550wàn|Trad=1550萬
+17	欧	_	PROPN	NNP	_	18	compound	_	Pinyin=ōu|Gloss=Europe (abbr. for 歐洲/欧洲[Ou1 zhou1])|HanViet=âu|Trad=歐
+18	元	_	NOUN	NNB	_	20	nsubj	_	Pinyin=yuán|Gloss=Yuan dynasty (1279–1368)|HanViet=nguyên
+19	可以	_	AUX	MD	_	20	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+20	供	_	VERB	VV	_	0	root	_	Pinyin=gōng|Gloss=to provide; to supply|HanViet=cung
+21	安保	_	NOUN	NN	_	22	nsubj	_	Pinyin=ānbǎo|Gloss=security|HanViet=an bảo
+22	使用	_	VERB	VV	_	20	ccomp	_	Pinyin=shǐyòng|Gloss=to use|HanViet=sử,sứ dụng
+23	。	_	PUNCT	.	_	20	punct	_	_
+
+# sent_id = ud-pud-n01114012
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 他警告说，现在国民保健署正处于“巨大的压力”之下，并敦促公众为他们自己的健康承担更多的责任。
+# translation = Warning that the NHS was now under "enormous pressure," he urged the public to take more responsibility for their own health.
+# source = UD Chinese-PUD n01114012
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:0-0;gf0025-5:21-21;gf0025-11:7-7;gf0025-20:12-12;gf0025-20:23-23;gf0025-20:27-27;gf0025-42:7-8;gf0025-54:22-22;gf0025-76:20-20;gf0025-82:12-12;gf0025-82:23-23;gf0025-82:27-27;gf0025-132:21-21;gf0025-149:17-17;gf0025-153:20-20;gf0025-230:17-17
+1	他	_	PRON	PRP	Person=3	19	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	警告	_	VERB	VV	_	19	advcl	_	Pinyin=jǐnggào|Gloss=to warn|HanViet=cảnh cáo
+3	说	_	VERB	VV	_	2	xcomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+4	，	_	PUNCT	,	_	9	punct	_	_
+5	现在	_	NOUN	NN	_	9	obl:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+6	国民	_	NOUN	NN	_	7	compound	_	Pinyin=guómín|Gloss=nationals|HanViet=quốc dân|Trad=國民
+7	保健署	_	NOUN	NN	_	9	nsubj	_	Pinyin=bǎojiànshǔ|HanViet=bảo kiện thự|GlossFrom=parts|Gloss=保健 health protection + 署 office
+8	正	_	ADV	RB	_	9	advmod	_	Pinyin=zhèng|Gloss=straight|HanViet=chính,chánh
+9	处	_	VERB	VV	_	3	xcomp	_	Pinyin=chǔ|Gloss=to reside|HanViet=xứ|Trad=處
+10	于	_	VERB	VV	_	9	mark:prt	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+11	“	_	PUNCT	``	_	14	punct	_	_
+12	巨大	_	ADJ	JJ	_	14	amod	_	Pinyin=jùdà|Gloss=huge; immense; enormous; gigantic|HanViet=cự đại
+13	的	_	PART	DEC	_	12	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	压力	_	NOUN	NN	_	9	obj	_	Pinyin=yālì|Gloss=pressure|HanViet=áp lực|Trad=壓力
+15	”	_	PUNCT	''	_	14	punct	_	_
+16	之下	_	ADP	IN	_	14	case:loc	_	Pinyin=zhīxià|Gloss=under|HanViet=chi hạ
+17	，	_	PUNCT	,	_	2	punct	_	_
+18	并	_	ADV	RB	_	19	advmod	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+19	敦促	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=dūncù|Gloss=to press|HanViet=đôn xúc
+20	公众	_	NOUN	NN	_	26	nsubj	_	Pinyin=gōngzhòng|Gloss=public|HanViet=công chúng|Trad=公眾
+21	为	_	ADP	IN	_	25	case	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+22	他们	_	PRON	PRP	Number=Plur|Person=3	25	nmod	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+23	自己	_	PRON	PRD	_	22	appos	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+24	的	_	PART	DEC	Case=Gen	22	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+25	健康	_	NOUN	NN	_	26	obl	_	Pinyin=jiànkāng|Gloss=health|HanViet=kiện khang
+26	承担	_	VERB	VV	_	19	ccomp	_	Pinyin=chéngdān|Gloss=to undertake|HanViet=thừa đảm,đam|Trad=承擔
+27	更多	_	ADJ	JJ	_	29	amod	_	Pinyin=gèngduō|HanViet=càng,cánh đa|GlossFrom=parts|Gloss=更 to change or replace + 多 many; much; more; a lot of
+28	的	_	PART	DEC	_	27	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+29	责任	_	NOUN	NN	_	26	obj	_	Pinyin=zérèn|Gloss=responsibility; duty; liability|HanViet=trách nhiệm|Trad=責任
+30	。	_	PUNCT	.	_	19	punct	_	_
+
+# sent_id = ud-pud-n01021007
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = ”不幸的是再次证明了，少数人替多数人毁坏了它”黑客论坛的创始人杰西卡·拉布罗卡在解释其关闭原因的一则消息中写道。
+# translation = "Unfortunately once again the few ruin it for the many," wrote Jesse LaBrocca, founder of Hack Forums, in a message explaining why the section was being closed.
+# source = UD Chinese-PUD n01021007
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-7:30-30;gf0025-16:24-24;gf0025-20:2-2;gf0025-20:19-19;gf0025-20:29-29;gf0025-21:6-6;gf0025-21:14-14;gf0025-23:30-31;gf0025-41:6-6;gf0025-41:14-14;gf0025-54:15-15;gf0025-82:2-2;gf0025-82:19-19;gf0025-82:29-29;gf0025-244:24-33;gf0025-293:4-4
+1	”	_	PUNCT	''	_	4	punct	_	_
+2	不幸	_	ADJ	JJ	_	4	csubj	_	Pinyin=bùxìng|Gloss=misfortune|HanViet=bất hạnh
+3	的	_	PART	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	是	_	VERB	VC	_	35	dep	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	再次	_	ADV	RB	_	6	advmod	_	Pinyin=zàicì|Gloss=once more; once again|HanViet=tái thứ
+6	证明	_	VERB	VV	_	4	xcomp	_	Pinyin=zhèngmíng|Gloss=proof|HanViet=chứng minh|Trad=證明
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=liǎo|Gloss=to finish|HanViet=liễu
+8	，	_	PUNCT	,	_	14	punct	_	_
+9	少数	_	ADJ	JJ	_	10	amod	_	Pinyin=shǎoshù|Gloss=small number|HanViet=thiểu số|Trad=少數
+10	人	_	NOUN	NN	_	14	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+11	替	_	VERB	VV	_	14	advcl	_	Pinyin=tì|Gloss=to substitute for|HanViet=thế
+12	多数	_	ADJ	JJ	_	13	amod	_	Pinyin=duōshù|Gloss=majority; most|HanViet=đa số|Trad=多數
+13	人	_	NOUN	NN	_	11	obj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+14	毁坏	_	VERB	VV	_	6	ccomp	_	Pinyin=huǐhuài|Gloss=to damage|HanViet=huỷ hoại|Trad=毀壞
+15	了	_	AUX	AS	Aspect=Perf	14	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+16	它	_	PRON	PRP	Person=3	14	obj	_	Pinyin=tā|Gloss=it|HanViet=tha
+17	”	_	PUNCT	''	_	4	punct	_	_
+18	黑客	_	NOUN	NN	_	19	compound	_	Pinyin=hēikè|Gloss=(computing) (loanword) hacker|HanViet=hắc khách
+19	论坛	_	NOUN	NN	_	21	obl	_	Pinyin=lùntán|Gloss=forum (for discussion)|HanViet=luận đàn|Trad=論壇
+20	的	_	PART	DEC	Case=Gen	19	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+21	创始人	_	VERB	VV	_	35	nsubj	_	Pinyin=chuàngshǐrén|Gloss=creator; founder; initiator|HanViet=sáng thuỷ nhân|Trad=創始人
+22	杰西卡	_	PROPN	NNP	_	21	appos	_	Pinyin=jiéxīkǎ|Gloss=Jessica (name)|HanViet=kiệt tây ca,tạp,khải|Trad=傑西卡
+23	·	_	PUNCT	/	_	24	punct	_	_
+24	拉布罗卡	_	PROPN	NNP	_	21	flat:name	_	Pinyin=lābùluókǎ|HanViet=lạp bố la ca,tạp,khải|GlossFrom=parts|Gloss=拉布 (Hong Kong) to filibuster + 罗 gauze + 卡 to stop|Trad=拉布羅卡
+25	在	_	ADP	IN	_	33	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+26	解释	_	VERB	VV	_	33	acl:relcl	_	Pinyin=jiěshì|Gloss=explanation|HanViet=giải thích|Trad=解釋
+27	其	_	PRON	PRP	Person=3	29	compound	_	Pinyin=qí|Gloss=his|HanViet=kỳ
+28	关闭	_	NOUN	NN	_	29	compound	_	Pinyin=guānbì|Gloss=to close; to shut (a window etc)|HanViet=quan bế|Trad=關閉
+29	原因	_	NOUN	NN	_	26	obj	_	Pinyin=yuányīn|Gloss=cause|HanViet=nguyên nhân
+30	的	_	PART	DEC	_	26	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+31	一	_	NUM	CD	NumType=Card	32	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+32	则	_	NOUN	NNB	_	33	clf	_	Pinyin=zé|Gloss=(literary) (conjunction used to express contrast with a previous clause) but; then|HanViet=tắc|Trad=則
+33	消息	_	NOUN	NN	_	35	obl	_	Pinyin=xiāoxī|Gloss=(piece of) news; information|HanViet=tiêu tức
+34	中	_	ADP	IN	_	33	case:loc	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+35	写道	_	VERB	VV	_	0	root	_	Pinyin=xiědào|Gloss=to write (used before or after a quoted passage)|HanViet=tả đạo|Trad=寫道
+36	。	_	PUNCT	.	_	35	punct	_	_
+
+# sent_id = ud-pud-n01116021
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 对峙时，她脖子前伸，青筋暴起，手不断抖动。
+# translation = Her neck pushes forward in vein-accentuating confrontation, her hands shake.
+# source = UD Chinese-PUD n01116021
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:3-3;gf0025-132:4-4
+1	对峙	_	VERB	VV	_	13	dep	_	Pinyin=duìzhì|Gloss=(of mountains etc) to stand facing each other|HanViet=đối trĩ|Trad=對峙
+2	时	_	ADP	IN	_	1	mark	_	Pinyin=shí|Gloss=o'clock|HanViet=thời|Trad=時
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	她	_	PRON	PRP	Person=3	5	compound	_	Pinyin=tā|Gloss=she|HanViet=tha
+5	脖子	_	NOUN	NN	_	6	nsubj	_	Pinyin=bózi|Gloss=neck|HanViet=bột tử
+6	前伸	_	VERB	VV	_	13	dep	_	Pinyin=qiánshēn|HanViet=tiền thân|GlossFrom=parts|Gloss=前 front + 伸 to stretch
+7	，	_	PUNCT	,	_	6	punct	_	_
+8	青筋	_	NOUN	NN	_	9	nsubj	_	Pinyin=qīngjīn|Gloss=veins|HanViet=thanh cân
+9	暴起	_	VERB	VV	_	13	dep	_	Pinyin=bàoqǐ|HanViet=bạo khởi|GlossFrom=parts|Gloss=暴 sudden + 起 to rise
+10	，	_	PUNCT	,	_	9	punct	_	_
+11	手	_	NOUN	NN	_	13	nsubj	_	Pinyin=shǒu|Gloss=hand|HanViet=thủ
+12	不断	_	ADV	RB	_	13	advmod	_	Pinyin=bùduàn|Gloss=unceasing|HanViet=bất đoạn,đoán|Trad=不斷
+13	抖动	_	VERB	VV	_	0	root	_	Pinyin=dǒudòng|Gloss=to quiver|HanViet=đẩu động|Trad=抖動
+14	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = ud-pud-w01134062
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 1955年，三岛开始接受举重训练，每星期训练三次，在生命的最后15年内，从未中断。
+# translation = In 1955, Mishima took up weight training and his workout regimen of three sessions per week was not disrupted for the final 15 years of his life.
+# source = UD Chinese-PUD w01134062
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-7:12-12;gf0025-16:15-15;gf0025-20:17-17;gf0025-23:0-1;gf0025-23:12-13;gf0025-23:19-20;gf0025-44:0-1;gf0025-44:19-20;gf0025-59:13-13;gf0025-60:1-1;gf0025-60:20-20;gf0025-82:17-17;gf0025-100:11-13;gf0025-138:9-9;gf0025-180:11-13;gf0025-204:0-0;gf0025-204:19-19;gf0025-535:24-24
+1	1955	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=1955
+2	年	_	NOUN	NNB	_	12	obl:tmod	_	Pinyin=nián|Gloss=year|HanViet=niên
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	三岛	_	PROPN	NNP	_	12	nsubj	_	Pinyin=sāndǎo|HanViet=tam đảo|GlossFrom=parts|Gloss=三 three + 岛 island|Trad=三島
+5	开始	_	VERB	VV	_	12	advcl	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+6	接受	_	VERB	VV	_	5	xcomp	_	Pinyin=jiēshòu|Gloss=to accept (a suggestion, punishment, bribe etc); to acquiesce|HanViet=tiếp thọ
+7	举重	_	NOUN	NN	_	8	compound	_	Pinyin=jǔzhòng|Gloss=to lift weights|HanViet=cử trọng|Trad=舉重
+8	训练	_	NOUN	NN	_	6	obj	_	Pinyin=xùnliàn|Gloss=to train|HanViet=huấn luyện|Trad=訓練
+9	，	_	PUNCT	,	_	5	punct	_	_
+10	每	_	DET	DT	_	11	det	_	Pinyin=měi|Gloss=each|HanViet=mỗi
+11	星期	_	NOUN	NN	_	12	obl:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+12	训练	_	VERB	VV	_	26	dep	_	Pinyin=xùnliàn|Gloss=to train|HanViet=huấn luyện|Trad=訓練
+13	三	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=sān|Gloss=three|HanViet=tam
+14	次	_	NOUN	NNB	_	12	obl	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+15	，	_	PUNCT	,	_	12	punct	_	_
+16	在	_	ADP	IN	_	21	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+17	生命	_	NOUN	NN	_	21	nmod	_	Pinyin=shēngmìng|Gloss=life (as the characteristic of living beings)|HanViet=sinh mệnh
+18	的	_	PART	DEC	Case=Gen	17	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	最后	_	NOUN	NN	_	21	compound	_	Pinyin=zuìhòu|Gloss=final; last; ultimate|HanViet=tối hậu|Trad=最後
+20	15	_	NUM	CD	NumType=Card	21	nummod	_	Pinyin=15
+21	年	_	NOUN	NNB	_	26	obl	_	Pinyin=nián|Gloss=year|HanViet=niên
+22	内	_	ADP	IN	_	21	case:loc	_	Pinyin=nèi|Gloss=inside|HanViet=nội|Trad=內
+23	，	_	PUNCT	,	_	21	punct	_	_
+24	从	_	ADV	RB	_	26	advmod	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+25	未	_	ADV	RB	Polarity=Neg	26	advmod	_	Pinyin=wèi|Gloss=not yet|HanViet=vị,mùi
+26	中断	_	VERB	VV	_	0	root	_	Pinyin=zhōngduàn|Gloss=to cut short|HanViet=trung đoạn,đoán|Trad=中斷
+27	。	_	PUNCT	.	_	26	punct	_	_
+
+# sent_id = ud-pud-w01051032
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 在匆忙抓捕加低斯时，拉美西斯二世犯了重大的战术错误。
+# translation = In his haste to capture Kadesh, Ramesses II committed a major tactical error.
+# source = UD Chinese-PUD w01051032
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-16:0-0;gf0025-20:11-11;gf0025-21:9-9;gf0025-41:9-9;gf0025-82:11-11
+1	在	_	ADP	IN	_	3	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	匆忙	_	ADV	RB	_	3	advmod	_	Pinyin=cōngmáng|Gloss=hasty|HanViet=thông mang
+3	抓捕	_	VERB	VV	_	9	xcomp	_	Pinyin=zhuābǔ|Gloss=to seize|HanViet=trảo bắt
+4	加低斯	_	PROPN	NNP	_	3	obj	_	Pinyin=jiādīsī|HanViet=gia đê tư|GlossFrom=parts|Gloss=加 Canada (abbr. for 加拿大[Jia1 na2 da4]) + 低 low + 斯 Slovakia
+5	时	_	ADP	IN	_	3	mark	_	Pinyin=shí|Gloss=o'clock|HanViet=thời|Trad=時
+6	，	_	PUNCT	,	_	3	punct	_	_
+7	拉美西斯	_	PROPN	NNP	_	9	nsubj	_	Pinyin=lāměixīsī|Gloss=Rameses (name of pharaoh)|HanViet=lạp mỹ tây tư
+8	二世	_	PROPN	NNP	_	7	flat:name	_	Pinyin=èrshì|Gloss=the Second (of numbered kings)|HanViet=nhị thế
+9	犯	_	VERB	VV	_	0	root	_	Pinyin=fàn|Gloss=to violate|HanViet=phạm
+10	了	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	重大	_	ADJ	JJ	_	14	amod	_	Pinyin=zhòngdà|Gloss=great|HanViet=trọng đại
+12	的	_	PART	DEC	_	11	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	战术	_	NOUN	NN	_	14	compound	_	Pinyin=zhànshù|Gloss=tactics|HanViet=chiến thuật|Trad=戰術
+14	错误	_	NOUN	NN	_	9	obj	_	Pinyin=cuòwù|Gloss=mistaken; false; wrong|HanViet=thác ngộ|Trad=錯誤
+15	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = ud-pud-w01127096
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 此时，她的投资人极度奢华的花费和一系列错误的投资，使得她几乎破产。
+# translation = By this time, extravagant spending and a string of bad investments by her investors had left her nearly broke.
+# source = UD Chinese-PUD w01127096
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:2-2;gf0025-5:18-18;gf0025-7:11-11;gf0025-19:10-10;gf0025-20:3-3;gf0025-20:8-8;gf0025-20:14-14;gf0025-82:3-3;gf0025-82:8-8;gf0025-82:14-14;gf0025-222:19-19
+1	此时	_	NOUN	NN	_	18	obl:tmod	_	Pinyin=cǐshí|Gloss=now|HanViet=thử thời|Trad=此時
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	她	_	PRON	PRP	Person=3	6	nmod	_	Pinyin=tā|Gloss=she|HanViet=tha
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	投资	_	NOUN	NN	_	6	compound	_	Pinyin=tóuzī|Gloss=investment|HanViet=đầu tư|Trad=投資
+6	人	_	NOUN	NN	_	10	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+7	极度	_	ADV	RB	_	8	advmod	_	Pinyin=jídù|Gloss=extremely|HanViet=cực độ|Trad=極度
+8	奢华	_	ADJ	JJ	_	10	acl:relcl	_	Pinyin=shēhuá|Gloss=luxurious|HanViet=xa hoa|Trad=奢華
+9	的	_	PART	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	花费	_	NOUN	NN	_	18	nsubj	_	Pinyin=huāfèi|Gloss=expense|HanViet=hoa phí|Trad=花費
+11	和	_	CCONJ	CC	_	16	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+12	一	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+13	系列	_	NOUN	NN	_	16	compound	_	Pinyin=xìliè|Gloss=series|HanViet=hệ liệt
+14	错误	_	ADJ	JJ	_	16	amod	_	Pinyin=cuòwù|Gloss=mistaken; false; wrong|HanViet=thác ngộ|Trad=錯誤
+15	的	_	PART	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	投资	_	NOUN	NN	_	10	conj	_	Pinyin=tóuzī|Gloss=investment|HanViet=đầu tư|Trad=投資
+17	，	_	PUNCT	,	_	10	punct	_	_
+18	使得	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=shǐde|Gloss=usable; serviceable|HanViet=sử,sứ đắc
+19	她	_	PRON	PRP	Person=3	21	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+20	几乎	_	ADV	RB	_	21	advmod	_	Pinyin=jīhū|Gloss=almost; nearly; practically|HanViet=cơ,ky hồ|Trad=幾乎
+21	破产	_	VERB	VV	_	18	ccomp	_	Pinyin=pòchǎn|Gloss=to go bankrupt|HanViet=phá sản|Trad=破產
+22	。	_	PUNCT	.	_	18	punct	_	_
+
+# sent_id = ud-pud-n01095004
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 在我们那个年代，他们还没有这些，那些没有孩子的人通过反对来表达所有他们对现代教育方式的厌恶。
+# translation = They didn’t have them in our day, and people without children express through their disapproval all their hatred of modern parenting.
+# source = UD Chinese-PUD n01095004
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:1-1;gf0025-5:6-6;gf0025-5:21-21;gf0025-6:2-2;gf0025-6:9-9;gf0025-6:11-11;gf0025-8:3-3;gf0025-13:7-7;gf0025-16:0-0;gf0025-20:14-14;gf0025-20:26-26;gf0025-63:7-7;gf0025-73:22-22;gf0025-82:14-14;gf0025-82:26-26;gf0025-132:1-1;gf0025-132:6-6;gf0025-132:13-13;gf0025-132:21-21;gf0025-142:7-7;gf0025-223:7-7
+1	在	_	ADP	IN	_	5	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	我们	_	PRON	PRP	Number=Plur|Person=1	5	compound	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+3	那	_	DET	DT	_	4	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+4	个	_	NOUN	NNB	_	5	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	年代	_	NOUN	NN	_	20	obl	_	Pinyin=niándài|Gloss=a decade of a century (e.g. the Sixties)|HanViet=niên đại
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	他们	_	PRON	PRP	Number=Plur|Person=3	9	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+8	还	_	ADV	RB	_	9	advmod	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+9	没有	_	VERB	VV	Polarity=Neg	20	dep	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+10	这些	_	DET	DT	_	9	obj	_	Pinyin=zhèxiē|Gloss=these|HanViet=giá ta|Trad=這些
+11	，	_	PUNCT	,	_	9	punct	_	_
+12	那些	_	DET	DT	_	16	det	_	Pinyin=nàxiē|Gloss=those|HanViet=na ta
+13	没有	_	VERB	VV	Polarity=Neg	16	acl:relcl	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+14	孩子	_	NOUN	NN	_	13	obj	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+15	的	_	PART	DEC	_	13	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	人	_	NOUN	NN	_	20	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+17	通过	_	ADP	IN	_	18	mark	_	Pinyin=tōngguò|Gloss=to pass through; to get through|HanViet=thông quá,qua|Trad=通過
+18	反对	_	VERB	VV	_	20	xcomp	_	Pinyin=fǎnduì|Gloss=to oppose; to be against; to object to|HanViet=phản đối|Trad=反對
+19	来	_	ADV	RB	_	20	mark:prt	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+20	表达	_	VERB	VV	_	0	root	_	Pinyin=biǎodá|Gloss=to express; to convey|HanViet=biểu đạt|Trad=表達
+21	所有	_	DET	DT	_	28	det	_	Pinyin=suǒyǒu|Gloss=all|HanViet=sở hữu
+22	他们	_	PRON	PRP	Number=Plur|Person=3	28	compound	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+23	对	_	ADP	IN	_	28	nmod	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+24	现代	_	NOUN	NN	_	26	compound	_	Pinyin=xiàndài|Gloss=Hyundai, South Korean company|HanViet=hiện đại|Trad=現代
+25	教育	_	NOUN	NN	_	26	compound	_	Pinyin=jiàoyù|Gloss=to educate|HanViet=giáo dục
+26	方式	_	NOUN	NN	_	23	obj	_	Pinyin=fāngshì|Gloss=way; method; manner; mode; pattern (of behavior etc)|HanViet=phương thức
+27	的	_	PART	DEC	Case=Gen	23	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+28	厌恶	_	NOUN	NN	_	20	obj	_	Pinyin=yànwù|Gloss=to loathe|HanViet=yếm ố|Trad=厭惡
+29	。	_	PUNCT	.	_	20	punct	_	_
+
+# sent_id = ud-pud-w04010030
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 但是，由于他们两人之间非正式的合作导致的法律纠纷，两人之间的友谊出现了破裂。
+# translation = However, the friendship has fallen apart due to unofficial collaborations between the two, which has given rise to legal disputes.
+# source = UD Chinese-PUD w04010030
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:3-3;gf0025-7:4-4;gf0025-7:16-16;gf0025-20:9-9;gf0025-20:12-12;gf0025-20:19-19;gf0025-21:22-22;gf0025-23:4-5;gf0025-23:16-17;gf0025-41:22-22;gf0025-78:0-0;gf0025-82:9-9;gf0025-82:12-12;gf0025-82:19-19;gf0025-132:3-3;gf0025-155:2-2
+1	但是	_	ADV	RB	_	22	advmod	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	由于	_	ADP	IN	_	15	case	_	Pinyin=yóuyú|Gloss=due to|HanViet=do ư|Trad=由於
+4	他们	_	PRON	PRP	Number=Plur|Person=3	11	compound	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+5	两	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+6	人	_	NOUN	NN	_	4	appos	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+7	之间	_	ADP	IN	_	4	case:loc	_	Pinyin=zhījiān|Gloss=(after a noun) between; among; amid|HanViet=chi gian|Trad=之間
+8	非	_	VERB	VC	_	11	acl:relcl	_	Pinyin=fēi|Gloss=to not be; not|HanViet=phi
+9	正式	_	ADJ	JJ	_	8	xcomp	_	Pinyin=zhèngshì|Gloss=formal; official|HanViet=chính,chánh thức
+10	的	_	PART	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	合作	_	NOUN	NN	_	12	nsubj	_	Pinyin=hézuò|Gloss=to cooperate; to collaborate; to work together|HanViet=hợp,hiệp tác
+12	导致	_	VERB	VV	_	15	acl:relcl	_	Pinyin=dǎozhì|Gloss=to lead to; to create; to cause; to bring about|HanViet=đạo trí|Trad=導致
+13	的	_	PART	DEC	_	12	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	法律	_	NOUN	NN	_	15	compound	_	Pinyin=fǎlǜ|Gloss=law|HanViet=pháp luật
+15	纠纷	_	NOUN	NN	_	22	obl	_	Pinyin=jiūfēn|Gloss=dispute|HanViet=củ phân|Trad=糾紛
+16	，	_	PUNCT	,	_	15	punct	_	_
+17	两	_	NUM	CD	NumType=Card	18	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+18	人	_	NOUN	NN	_	21	nmod	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+19	之间	_	ADP	IN	_	18	case:loc	_	Pinyin=zhījiān|Gloss=(after a noun) between; among; amid|HanViet=chi gian|Trad=之間
+20	的	_	PART	DEC	Case=Gen	18	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+21	友谊	_	NOUN	NN	_	22	nsubj	_	Pinyin=yǒuyì|Gloss=companionship|HanViet=hữu nghị|Trad=友誼
+22	出现	_	VERB	VV	_	0	root	_	Pinyin=chūxiàn|Gloss=to appear; to arise; to emerge; to show up|HanViet=xuất hiện|Trad=出現
+23	了	_	AUX	AS	Aspect=Perf	22	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+24	破裂	_	NOUN	NN	_	22	obj	_	Pinyin=pòliè|Gloss=to burst; to rupture|HanViet=phá liệt
+25	。	_	PUNCT	.	_	22	punct	_	_
+
+# sent_id = ud-pud-w01075038
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 这项研究说明了这三项因素是放弃叛乱的收益指标，因此较低的放弃收益会鼓励叛乱的发生。
+# translation = The study interpreted these three factors as proxies for earnings forgone by rebellion, and therefore that lower forgone earnings encourage rebellion.
+# source = UD Chinese-PUD w01075038
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-2:22-22;gf0025-6:0-0;gf0025-6:5-5;gf0025-7:6-6;gf0025-20:12-12;gf0025-20:19-19;gf0025-20:25-25;gf0025-21:4-4;gf0025-23:6-7;gf0025-36:9-9;gf0025-41:4-4;gf0025-82:12-12;gf0025-82:19-19;gf0025-82:25-25;gf0025-160:16-17;gf0025-361:17-17;gf0025-375:16-16
+1	这	_	DET	DT	_	2	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	项	_	NOUN	NNB	_	3	clf	_	Pinyin=xiàng|Gloss=back of neck|HanViet=hạng|Trad=項
+3	研究	_	NOUN	NN	_	4	nsubj	_	Pinyin=yánjiū|Gloss=research|HanViet=nghiên cứu
+4	说明	_	VERB	VV	_	24	dep	_	Pinyin=shuōmíng|Gloss=to explain|HanViet=thuyết minh|Trad=說明
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	这	_	DET	DT	_	8	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+7	三	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=sān|Gloss=three|HanViet=tam
+8	项	_	NOUN	NNB	_	9	clf	_	Pinyin=xiàng|Gloss=back of neck|HanViet=hạng|Trad=項
+9	因素	_	NOUN	NN	_	15	nsubj	_	Pinyin=yīnsù|Gloss=element|HanViet=nhân tố
+10	是	_	AUX	VC	_	15	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+11	放弃	_	VERB	VV	_	15	acl:relcl	_	Pinyin=fàngqì|Gloss=to renounce; to abandon; to give up|HanViet=phóng khí|Trad=放棄
+12	叛乱	_	VERB	VV	_	11	xcomp	_	Pinyin=pànluàn|Gloss=armed rebellion|HanViet=phản loạn|Trad=叛亂
+13	的	_	PART	DEC	_	11	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	收益	_	NOUN	NN	_	15	compound	_	Pinyin=shōuyì|Gloss=earnings|HanViet=thu ích
+15	指标	_	NOUN	NN	_	4	ccomp	_	Pinyin=zhǐbiāo|Gloss=(production) target; quota|HanViet=chỉ tiêu|Trad=指標
+16	，	_	PUNCT	,	_	4	punct	_	_
+17	因	_	ADP	IN	_	18	case	_	Pinyin=yīn|Gloss=cause|HanViet=nhân
+18	此	_	PRON	PRD	_	24	obl	_	Pinyin=cǐ|Gloss=this; these|HanViet=thử
+19	较低	_	ADJ	JJ	_	22	amod	_	Pinyin=jiàodī|HanViet=giảo đê|GlossFrom=parts|Gloss=较 (bound form) to compare + 低 low|Trad=較低
+20	的	_	PART	DEC	_	19	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+21	放弃	_	NOUN	NN	_	22	compound	_	Pinyin=fàngqì|Gloss=to renounce; to abandon; to give up|HanViet=phóng khí|Trad=放棄
+22	收益	_	NOUN	NN	_	24	nsubj	_	Pinyin=shōuyì|Gloss=earnings|HanViet=thu ích
+23	会	_	AUX	MD	_	24	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+24	鼓励	_	VERB	VV	_	0	root	_	Pinyin=gǔlì|Gloss=to encourage|HanViet=cổ lệ|Trad=鼓勵
+25	叛乱	_	VERB	VV	_	27	acl:relcl	_	Pinyin=pànluàn|Gloss=armed rebellion|HanViet=phản loạn|Trad=叛亂
+26	的	_	PART	DEC	_	25	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+27	发生	_	NOUN	NN	_	24	obj	_	Pinyin=fāshēng|Gloss=to happen; to occur; to take place; to arise (e.g. 發生問題/发生问题[fa1 sheng1 wen4 ti2] "a problem arises")|HanViet=phát sinh|Trad=發生
+28	。	_	PUNCT	.	_	24	punct	_	_
+
+# sent_id = ud-pud-w02001041
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 为了娱乐大众，在1925年建了一个露天剧场在圣·迈克尔教堂前的大台阶上，此剧场现在仍在吸引各种各样的观众。
+# translation = Founded in 1925 as games for everyman, the open air theater on the great steps in front of St. Michael still attracts a diverse public.
+# source = UD Chinese-PUD w02001041
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-1:18-18;gf0025-1:21-21;gf0025-7:9-9;gf0025-8:10-10;gf0025-11:27-27;gf0025-16:4-4;gf0025-20:19-19;gf0025-20:31-31;gf0025-21:8-8;gf0025-23:5-6;gf0025-23:9-10;gf0025-41:8-8;gf0025-42:27-28;gf0025-44:5-6;gf0025-60:6-6;gf0025-82:19-19;gf0025-82:31-31;gf0025-138:29-29;gf0025-156:0-0;gf0025-202:0-0;gf0025-204:5-5;gf0025-244:4-21;gf0025-361:23-23
+1	为了	_	ADP	IN	_	2	mark	_	Pinyin=wèile|Gloss=for; for the purpose of; in order to|HanViet=vị,vì liễu|Trad=為了
+2	娱乐	_	VERB	VV	_	8	xcomp	_	Pinyin=yúlè|Gloss=to entertain|HanViet=ngu lạc|Trad=娛樂
+3	大众	_	NOUN	NN	_	2	obj	_	Pinyin=dàzhòng|Gloss=Volkswagen (automobile manufacturer)|HanViet=đại chúng|Trad=大眾
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	在	_	ADP	IN	_	7	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+6	1925	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=1925
+7	年	_	NOUN	NNB	_	8	obl	_	Pinyin=nián|Gloss=year|HanViet=niên
+8	建	_	VERB	VV	_	29	dep	_	Pinyin=jiàn|Gloss=to establish|HanViet=kiến
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+11	个	_	NOUN	NNB	_	13	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+12	露天	_	ADJ	JJ	_	13	amod	_	Pinyin=lùtiān|Gloss=outdoors|HanViet=lộ thiên
+13	剧场	_	NOUN	NN	_	14	nsubj	_	Pinyin=jùchǎng|Gloss=theater|HanViet=kịch trường|Trad=劇場
+14	在	_	VERB	VV	_	8	ccomp	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+15	圣	_	NOUN	NN	_	17	compound	_	Pinyin=shèng|Gloss=(bound form) peerless (in wisdom, moral virtue, skill etc)|HanViet=thánh|Trad=聖
+16	·	_	PUNCT	/	_	15	punct	_	_
+17	迈克尔	_	PROPN	NNP	_	18	compound	_	Pinyin=màikèěr|Gloss=(name) Michael|HanViet=mại khắc nhĩ|Trad=邁克爾
+18	教堂	_	NOUN	NN	_	21	nmod	_	Pinyin=jiàotáng|Gloss=church; chapel|HanViet=giáo đường
+19	前	_	ADP	IN	_	18	case:loc	_	Pinyin=qián|Gloss=front|HanViet=tiền
+20	的	_	PART	DEC	Case=Gen	18	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+21	大台阶	_	NOUN	NN	_	14	obj	_	Pinyin=dàtáijiē|HanViet=đại đài giai|GlossFrom=parts|Gloss=大 big; large; great + 台阶 steps|Trad=大臺階
+22	上	_	ADP	IN	_	21	case:loc	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+23	，	_	PUNCT	,	_	8	punct	_	_
+24	此	_	DET	DT	_	25	det	_	Pinyin=cǐ|Gloss=this; these|HanViet=thử
+25	剧场	_	NOUN	NN	_	29	nsubj	_	Pinyin=jùchǎng|Gloss=theater|HanViet=kịch trường|Trad=劇場
+26	现在	_	NOUN	NN	_	29	obl:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+27	仍	_	ADV	RB	_	29	advmod	_	Pinyin=réng|Gloss=still; yet|HanViet=nhưng
+28	在	_	ADV	RB	_	29	advmod	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+29	吸引	_	VERB	VV	_	0	root	_	Pinyin=xīyǐn|Gloss=to attract; to appeal to; to fascinate|HanViet=hấp dẫn
+30	各种	_	DET	DT	_	31	compound	_	Pinyin=gèzhǒng|Gloss=every kind of; all kinds of; various|HanViet=các chủng|Trad=各種
+31	各样	_	DET	DT	_	33	nmod	_	Pinyin=gèyàng|Gloss=many different types|HanViet=các dạng|Trad=各樣
+32	的	_	PART	DEC	Case=Gen	31	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+33	观众	_	NOUN	NN	_	29	obj	_	Pinyin=guānzhòng|Gloss=spectators; audience; visitors (to an exhibition etc)|HanViet=quan chúng|Trad=觀眾
+34	。	_	PUNCT	.	_	29	punct	_	_
+
+# sent_id = ud-pud-n01051007
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 它是在婴儿中发现的最常见的肿瘤，发生率为35000分之一。
+# translation = It is the most common tumour found in babies, occurring in one of every 35,000 births.
+# source = UD Chinese-PUD n01051007
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-9:7-7;gf0025-16:2-2;gf0025-20:6-6;gf0025-20:9-9;gf0025-36:1-1;gf0025-54:0-0;gf0025-82:6-6;gf0025-82:9-9;gf0025-132:3-3;gf0025-244:2-4
+1	它	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=it|HanViet=tha
+2	是	_	AUX	VC	_	11	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	在	_	ADP	IN	_	4	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	婴儿	_	NOUN	NN	_	6	obl	_	Pinyin=yīngér|Gloss=infant|HanViet=anh nhi|Trad=嬰兒
+5	中	_	ADP	IN	_	4	case:loc	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+6	发现	_	VERB	VV	_	11	acl:relcl	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+7	的	_	PART	DEC	_	6	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	最	_	ADV	RB	_	9	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+9	常见	_	ADJ	JJ	_	11	amod	_	Pinyin=chángjiàn|Gloss=commonly seen|HanViet=thường kiến|Trad=常見
+10	的	_	PART	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	肿瘤	_	NOUN	NN	_	15	dep	_	Pinyin=zhǒngliú|Gloss=tumor|HanViet=trũng lựu|Trad=腫瘤
+12	，	_	PUNCT	,	_	11	punct	_	_
+13	发生率	_	VERB	VV	_	15	nsubj	_	Pinyin=fāshēnglǜ|Gloss=rate of occurrence|HanViet=phát sinh _|Trad=發生率
+14	为	_	AUX	VC	_	15	cop	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+15	35000分之一	_	NUM	CD	NumType=Card	0	root	_	Pinyin=35000fēnzhīyī
+16	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = ud-pud-w01078013
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 本书在多个段落中详细探讨了战争对人类社会及文化的伤害。
+# translation = It specifically discusses in several passages the socially and culturally degenerative effects of war on humanity itself.
+# source = UD Chinese-PUD w01078013
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-8:3-3;gf0025-16:1-1;gf0025-20:15-15;gf0025-21:8-8;gf0025-23:2-3;gf0025-41:8-8;gf0025-73:10-10;gf0025-82:15-15;gf0025-244:1-5;gf0025-432:13-13
+1	本书	_	NOUN	NN	_	8	nsubj	_	Pinyin=běnshū|HanViet=bản thư|GlossFrom=parts|Gloss=本 (bound form) root; stem + 书 book|Trad=本書
+2	在	_	ADP	IN	_	5	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	多	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+4	个	_	NOUN	NNB	_	5	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	段落	_	NOUN	NN	_	8	obl	_	Pinyin=duànluò|Gloss=phase|HanViet=đoạn lạc
+6	中	_	ADP	IN	_	5	case:loc	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+7	详细	_	ADV	RB	_	8	advmod	_	Pinyin=xiángxì|Gloss=detailed|HanViet=tường tế|Trad=詳細
+8	探讨	_	VERB	VV	_	0	root	_	Pinyin=tàntǎo|Gloss=to investigate|HanViet=thám thảo|Trad=探討
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	战争	_	NOUN	NN	_	17	compound	_	Pinyin=zhànzhēng|Gloss=war; conflict|HanViet=chiến tranh|Trad=戰爭
+11	对	_	ADP	IN	_	17	nmod	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+12	人类	_	NOUN	NN	_	13	compound	_	Pinyin=rénlèi|Gloss=humanity|HanViet=nhân loại|Trad=人類
+13	社会	_	NOUN	NN	_	11	obj	_	Pinyin=shèhuì|Gloss=society|HanViet=xã hội|Trad=社會
+14	及	_	CCONJ	CC	_	15	cc	_	Pinyin=jí|Gloss=and|HanViet=cập
+15	文化	_	NOUN	NN	_	13	conj	_	Pinyin=wénhuà|Gloss=culture|HanViet=văn hoá
+16	的	_	PART	DEC	Case=Gen	11	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	伤害	_	NOUN	NN	_	8	obj	_	Pinyin=shānghài|Gloss=to injure; to harm|HanViet=thương hại|Trad=傷害
+18	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = ud-pud-n01030005
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 一名警方发言人告诉美联社发生了“口角”继而演变为“语言冲突”，但无人员伤亡报告。
+# translation = A police spokesman told the Associated Press there was "an exchange of words" followed by an "altercation" but that no injuries had been reported.
+# source = UD Chinese-PUD n01030005
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-7:0-0;gf0025-21:7-7;gf0025-23:0-1;gf0025-41:7-7;gf0025-78:19-19;gf0025-433:11-11
+1	一	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+2	名	_	NOUN	NNB	_	4	clf	_	Pinyin=míng|Gloss=name|HanViet=danh
+3	警方	_	NOUN	NN	_	4	compound	_	Pinyin=jǐngfāng|Gloss=police|HanViet=cảnh phương
+4	发言人	_	VERB	VV	_	5	nsubj	_	Pinyin=fāyánrén|Gloss=spokesperson|HanViet=phát ngôn nhân|Trad=發言人
+5	告诉	_	VERB	VV	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+6	美联社	_	PROPN	NNP	_	5	obj	_	Pinyin=měiliánshè|Gloss=Associated Press (AP)|HanViet=mỹ liên xã|Trad=美聯社
+7	发生	_	VERB	VV	_	21	advcl	_	Pinyin=fāshēng|Gloss=to happen; to occur; to take place; to arise (e.g. 發生問題/发生问题[fa1 sheng1 wen4 ti2] "a problem arises")|HanViet=phát sinh|Trad=發生
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	“	_	PUNCT	``	_	10	punct	_	_
+10	口角	_	NOUN	NN	_	7	obj	_	Pinyin=kǒujiǎo|Gloss=corner of the mouth|HanViet=khẩu giác,giốc,góc
+11	”	_	PUNCT	''	_	10	punct	_	_
+12	继而	_	ADV	RB	_	13	advmod	_	Pinyin=jìér|Gloss=then|HanViet=kế nhi|Trad=繼而
+13	演变	_	VERB	VV	_	21	advcl	_	Pinyin=yǎnbiàn|Gloss=to develop; to evolve|HanViet=diễn biến|Trad=演變
+14	为	_	VERB	VC	_	13	mark:prt	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+15	“	_	PUNCT	``	_	17	punct	_	_
+16	语言	_	NOUN	NN	_	17	compound	_	Pinyin=yǔyán|Gloss=language|HanViet=ngữ ngôn|Trad=語言
+17	冲突	_	NOUN	NN	_	13	obj	_	Pinyin=chōngtū|Gloss=conflict|HanViet=xung đột|Trad=衝突
+18	”	_	PUNCT	''	_	17	punct	_	_
+19	，	_	PUNCT	,	_	13	punct	_	_
+20	但	_	ADV	RB	_	21	advmod	_	Pinyin=dàn|Gloss=but; yet; however; still|HanViet=đãn
+21	无	_	VERB	VV	_	5	xcomp	_	Pinyin=wú|Gloss=not to have|HanViet=vô|Trad=無
+22	人员	_	NOUN	NN	_	23	nsubj	_	Pinyin=rényuán|Gloss=staff|HanViet=nhân viên|Trad=人員
+23	伤亡	_	VERB	VV	_	24	amod	_	Pinyin=shāngwáng|Gloss=casualties|HanViet=thương vong|Trad=傷亡
+24	报告	_	NOUN	NN	_	21	obj	_	Pinyin=bàogào|Gloss=to inform|HanViet=báo cáo|Trad=報告
+25	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = ud-pud-w02007061
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 奥斯曼人想要阻碍谷物被进一步转运，因为他们对谷物有很大的需求。
+# translation = The Ottomans wanted to prevent grain from being further transported because they had a great need for it.
+# source = UD Chinese-PUD w02007061
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-3:1-1;gf0025-3:2-2;gf0025-5:12-12;gf0025-7:7-7;gf0025-20:17-17;gf0025-37:15-15;gf0025-73:13-13;gf0025-82:17-17;gf0025-132:12-12;gf0025-155:11-11;gf0025-157:5-5;gf0025-185:5-9
+1	奥斯曼人	_	PROPN	NNP	_	4	nsubj	_	Pinyin=àosīmànrén|HanViet=ảo,áo tư mạn nhân|GlossFrom=parts|Gloss=奥斯曼 Ottoman (empire) + 人 person; people|Trad=奧斯曼人
+2	想	_	AUX	MD	_	4	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+3	要	_	AUX	MD	_	4	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+4	阻碍	_	VERB	VV	_	0	root	_	Pinyin=zǔài|Gloss=to obstruct|HanViet=trở ngại|Trad=阻礙
+5	谷物	_	NOUN	NN	_	10	nsubj:pass	_	Pinyin=gǔwù|Gloss=cereal|HanViet=cốc vật|Trad=穀物
+6	被	_	AUX	BB	Voice=Pass	10	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+7	进	_	VERB	VV	_	10	advcl	_	Pinyin=jìn|Gloss=to go forward|HanViet=tiến|Trad=進
+8	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+9	步	_	NOUN	NNB	_	7	obj	_	Pinyin=bù|Gloss=a step|HanViet=bộ
+10	转运	_	VERB	VV	_	4	ccomp	_	Pinyin=zhuǎnyùn|Gloss=to forward; to transfer; to transship|HanViet=chuyển vận|Trad=轉運
+11	，	_	PUNCT	,	_	16	punct	_	_
+12	因为	_	ADP	IN	_	16	mark	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+13	他们	_	PRON	PRP	Number=Plur|Person=3	16	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+14	对	_	ADP	IN	_	15	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+15	谷物	_	NOUN	NN	_	16	obl	_	Pinyin=gǔwù|Gloss=cereal|HanViet=cốc vật|Trad=穀物
+16	有	_	VERB	VV	_	4	xcomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+17	很大	_	ADJ	JJ	_	19	amod	_	Pinyin=hěndà|HanViet=ngận đại|GlossFrom=parts|Gloss=很 very; quite + 大 big; large; great
+18	的	_	PART	DEC	_	17	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	需求	_	NOUN	NN	_	16	obj	_	Pinyin=xūqiú|Gloss=requirement|HanViet=nhu cầu
+20	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = ud-pud-w01147122
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 2015年8月之前，凯莎并未透露多少自己即将发布的第三张录音室专辑的信息。
+# translation = As of August 2015, Kesha has released little information about her upcoming third studio album.
+# source = UD Chinese-PUD w01147122
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-20:14-14;gf0025-20:19-19;gf0025-23:0-1;gf0025-44:0-1;gf0025-44:2-3;gf0025-54:11-11;gf0025-60:1-1;gf0025-82:14-14;gf0025-82:19-19;gf0025-95:4-4;gf0025-120:15-15;gf0025-139:16-16;gf0025-149:7-7;gf0025-204:0-0;gf0025-218:12-12;gf0025-230:7-7;gf0025-535:8-8
+1	2015	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=2015
+2	年	_	NOUN	NNB	_	4	compound	_	Pinyin=nián|Gloss=year|HanViet=niên
+3	8	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=8
+4	月	_	NOUN	NNB	_	10	obl:tmod	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+5	之前	_	ADP	IN	_	4	case:loc	_	Pinyin=zhīqián|Gloss=before|HanViet=chi tiền
+6	，	_	PUNCT	,	_	4	punct	_	_
+7	凯莎	_	PROPN	NNP	_	10	nsubj	_	Pinyin=kǎishā|HanViet=khải sa|GlossFrom=parts|Gloss=凯 (bound form) triumphal music + 莎 katydid (family Tettigoniidae)|Trad=凱莎
+8	并	_	ADV	RB	_	9	advmod	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+9	未	_	ADV	RB	Polarity=Neg	10	advmod	_	Pinyin=wèi|Gloss=not yet|HanViet=vị,mùi
+10	透露	_	VERB	VV	_	0	root	_	Pinyin=tòulù|Gloss=to leak out|HanViet=thấu lộ
+11	多少	_	NUM	CD	NumType=Card	21	nummod	_	Pinyin=duōshǎo|Gloss=number; amount|HanViet=đa thiểu
+12	自己	_	PRON	PRD	_	14	nsubj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+13	即将	_	ADV	RB	_	14	advmod	_	Pinyin=jíjiāng|Gloss=about to; on the point of; soon|HanViet=tức tương|Trad=即將
+14	发布	_	VERB	VV	_	19	acl:relcl	_	Pinyin=fābù|Gloss=to release|HanViet=phát bố|Trad=發佈
+15	的	_	PART	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	第三	_	ADJ	CD	NumType=Ord	17	amod	_	Pinyin=dìsān|HanViet=đệ tam|GlossFrom=parts|Gloss=第 (prefix indicating ordinal number, as in 第六[di4 liu4] "sixth") + 三 three
+17	张	_	NOUN	NNB	_	19	clf	_	Pinyin=zhāng|Gloss=to open up|HanViet=trương|Trad=張
+18	录音室	_	VERB	VV	_	19	compound	_	Pinyin=lùyīnshì|Gloss=recording studio|HanViet=lục âm thất|Trad=錄音室
+19	专辑	_	NOUN	NN	_	21	nmod	_	Pinyin=zhuānjí|Gloss=album|HanViet=chuyên tập|Trad=專輯
+20	的	_	PART	DEC	Case=Gen	19	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+21	信息	_	NOUN	NN	_	10	obj	_	Pinyin=xìnxī|Gloss=information; news; message|HanViet=tín tức
+22	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = ud-pud-n01146046
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我认为日本政府希望借由完成磁浮线的建设看到日本经济大幅增长。
+# translation = By completing this maglev line, I think the government is expecting bigger economical development in Japan.
+# source = UD Chinese-PUD n01146046
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:0-0;gf0025-20:8-8;gf0025-82:8-8;gf0025-136:6-6
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	认为	_	VERB	VV	_	0	root	_	Pinyin=rènwéi|Gloss=to believe; to think; to consider; to feel|HanViet=nhận vi|Trad=認為
+3	日本	_	PROPN	NNP	_	4	compound	_	Pinyin=rìběn|Gloss=Japan|HanViet=nhật bản
+4	政府	_	NOUN	NN	_	5	nsubj	_	Pinyin=zhèngfǔ|Gloss=government|HanViet=chính phủ
+5	希望	_	VERB	VV	_	2	ccomp	_	Pinyin=xīwàng|Gloss=to hope|HanViet=hy vọng
+6	借由	_	ADP	IN	_	7	mark	_	Pinyin=jièyóu|Gloss=by means of; through; by|HanViet=tá,tạ do|Trad=藉由
+7	完成	_	VERB	VV	_	11	xcomp	_	Pinyin=wánchéng|Gloss=to complete; to accomplish|HanViet=hoàn thành
+8	磁浮线	_	VERB	VV	_	10	nmod	_	Pinyin=cífúxiàn|HanViet=từ phù tuyến|GlossFrom=parts|Gloss=磁浮 maglev (type of train) + 线 thread|Trad=磁浮線
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	建设	_	NOUN	NN	_	7	obj	_	Pinyin=jiànshè|Gloss=to build; to construct; to establish; to develop; to institute|HanViet=kiến thiết|Trad=建設
+11	看到	_	VERB	VV	_	5	xcomp	_	Pinyin=kàndào|Gloss=to see|HanViet=khán đáo
+12	日本	_	PROPN	NNP	_	13	compound	_	Pinyin=rìběn|Gloss=Japan|HanViet=nhật bản
+13	经济	_	NOUN	NN	_	15	nsubj	_	Pinyin=jīngjì|Gloss=economy|HanViet=kinh tế|Trad=經濟
+14	大幅	_	ADV	RB	_	15	advmod	_	Pinyin=dàfú|Gloss=large-format (picture, banner, photo etc)|HanViet=đại bức
+15	增长	_	VERB	VV	_	11	ccomp	_	Pinyin=zēngzhǎng|Gloss=to grow; to increase|HanViet=tăng trưởng|Trad=增長
+16	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = ud-pud-w03005015
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 很大程度上由于希腊的地理条件（几乎每个岛屿、山谷和平原都被海洋或山脉于外界隔开了），希腊被分成了许多个小型自治城区。
+# translation = Greece was divided into many small, self-governing communities, a pattern largely dictated by Greek geography: every island, valley and plain is cut off from its neighbours by the sea or mountain ranges.
+# source = UD Chinese-PUD w03005015
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-1:2-2;gf0025-8:32-32;gf0025-10:16-16;gf0025-19:14-14;gf0025-20:5-5;gf0025-21:24-24;gf0025-21:30-30;gf0025-23:31-32;gf0025-41:24-24;gf0025-41:30-30;gf0025-68:16-16;gf0025-77:19-19;gf0025-82:5-5;gf0025-131:33-33;gf0025-155:3-3;gf0025-157:17-17;gf0025-157:28-28;gf0025-185:17-23;gf0025-185:28-29;gf0025-209:16-24;gf0025-222:9-9;gf0025-371:21-21
+1	很大	_	ADJ	JJ	_	2	amod	_	Pinyin=hěndà|HanViet=ngận đại|GlossFrom=parts|Gloss=很 very; quite + 大 big; large; great
+2	程度	_	NOUN	NN	_	30	obl	_	Pinyin=chéngdù|Gloss=degree; level; extent|HanViet=trình độ
+3	上	_	ADP	IN	_	2	case:loc	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+4	由于	_	ADP	IN	_	8	case	_	Pinyin=yóuyú|Gloss=due to|HanViet=do ư|Trad=由於
+5	希腊	_	PROPN	NNP	_	8	nmod	_	Pinyin=xīlà|Gloss=Greece|HanViet=hy lạp|Trad=希臘
+6	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	地理	_	NOUN	NN	_	8	compound	_	Pinyin=dìlǐ|Gloss=geography|HanViet=địa lý
+8	条件	_	NOUN	NN	_	30	obl	_	Pinyin=tiáojiàn|Gloss=condition; circumstance; term; factor|HanViet=điều kiện|Trad=條件
+9	（	_	PUNCT	(	_	24	punct	_	_
+10	几乎	_	ADV	RB	_	24	advmod	_	Pinyin=jīhū|Gloss=almost; nearly; practically|HanViet=cơ,ky hồ|Trad=幾乎
+11	每个	_	DET	DT	_	12	det	_	Pinyin=měigè|Gloss=each; every|HanViet=mỗi cá|Trad=每個
+12	岛屿	_	NOUN	NN	_	24	nsubj:pass	_	Pinyin=dǎoyǔ|Gloss=island|HanViet=đảo tự|Trad=島嶼
+13	、	_	PUNCT	EC	_	14	punct	_	_
+14	山谷	_	NOUN	NN	_	12	conj	_	Pinyin=shāngǔ|Gloss=valley|HanViet=sơn cốc
+15	和	_	CCONJ	CC	_	16	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+16	平原	_	NOUN	NN	_	12	conj	_	Pinyin=píngyuán|Gloss=field|HanViet=bình nguyên
+17	都	_	ADV	RB	_	24	advmod	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+18	被	_	ADP	BB	Voice=Pass	19	case	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+19	海洋	_	NOUN	NN	_	24	obl:agent	_	Pinyin=hǎiyáng|Gloss=ocean|HanViet=hải dương
+20	或	_	CCONJ	CC	_	21	cc	_	Pinyin=huò|Gloss=maybe|HanViet=hoặc
+21	山脉	_	NOUN	NN	_	19	conj	_	Pinyin=shānmài|Gloss=mountain range|HanViet=sơn mạch|Trad=山脈
+22	于	_	ADP	IN	_	23	case	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+23	外界	_	NOUN	NN	_	24	obl	_	Pinyin=wàijiè|Gloss=the outside world|HanViet=ngoại giới
+24	隔开	_	VERB	VV	_	8	appos	_	Pinyin=gékāi|Gloss=to separate|HanViet=cách khai|Trad=隔開
+25	了	_	AUX	AS	Aspect=Perf	24	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+26	）	_	PUNCT	)	_	24	punct	_	_
+27	，	_	PUNCT	,	_	8	punct	_	_
+28	希腊	_	PROPN	NNP	_	30	nsubj:pass	_	Pinyin=xīlà|Gloss=Greece|HanViet=hy lạp|Trad=希臘
+29	被	_	AUX	BB	Voice=Pass	30	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+30	分成	_	VERB	VV	_	0	root	_	Pinyin=fēnchéng|Gloss=to divide (into)|HanViet=phân thành
+31	了	_	AUX	AS	Aspect=Perf	30	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+32	许多	_	NUM	CD	NumType=Card	33	nummod	_	Pinyin=xǔduō|Gloss=many|HanViet=hứa đa|Trad=許多
+33	个	_	NOUN	NNB	_	36	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+34	小型	_	NOUN	NN	_	36	compound	_	Pinyin=xiǎoxíng|Gloss=small scale|HanViet=tiểu hình
+35	自治	_	NOUN	NN	_	36	compound	_	Pinyin=zìzhì|Gloss=autonomy|HanViet=tự trị
+36	城区	_	NOUN	NN	_	30	obj	_	Pinyin=chéngqū|Gloss=Cheng District or Chengqu, a district of Shanwei City 汕尾市[Shan4 wei3 Shi4], Guangdong|HanViet=thành khu|Trad=城區
+37	。	_	PUNCT	.	_	30	punct	_	_
+
+# sent_id = ud-pud-w01025086
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 撤退的消息让丹麦大众十分震惊，他们曾认为丹内维尔克是坚不可摧的，梅塞将军也被随即被解除指挥权。
+# translation = News of the retreat came as a great shock to Danish public opinion which had considered the Danevirke to be impregnable, and General de Meza was promptly relieved of his command.
+# source = UD Chinese-PUD w01025086
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:9-9;gf0025-13:19-19;gf0025-20:1-1;gf0025-20:15-15;gf0025-61:6-6;gf0025-82:1-1;gf0025-82:15-15;gf0025-132:9-9;gf0025-157:22-22;gf0025-185:20-23;gf0025-185:22-23;gf0025-187:3-7
+1	撤退	_	VERB	VV	_	3	acl:relcl	_	Pinyin=chètuì|Gloss=to retreat|HanViet=triệt thoái
+2	的	_	PART	DEC	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	消息	_	NOUN	NN	_	4	nsubj	_	Pinyin=xiāoxī|Gloss=(piece of) news; information|HanViet=tiêu tức
+4	让	_	VERB	VV	Voice=Cau	24	dep	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+5	丹麦	_	PROPN	NNP	_	6	compound	_	Pinyin=dānmài|Gloss=Denmark|HanViet=đan mạch|Trad=丹麥
+6	大众	_	NOUN	NN	_	8	nsubj	_	Pinyin=dàzhòng|Gloss=Volkswagen (automobile manufacturer)|HanViet=đại chúng|Trad=大眾
+7	十分	_	ADV	RB	_	8	advmod	_	Pinyin=shífēn|Gloss=very|HanViet=thập phân
+8	震惊	_	ADJ	JJ	_	4	ccomp	_	Pinyin=zhènjīng|Gloss=to shock|HanViet=chấn kinh|Trad=震驚
+9	，	_	PUNCT	,	_	4	punct	_	_
+10	他们	_	PRON	PRP	Number=Plur|Person=3	12	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+11	曾	_	ADV	RB	_	12	advmod	_	Pinyin=céng|Gloss=once|HanViet=từng
+12	认为	_	VERB	VV	_	24	dep	_	Pinyin=rènwéi|Gloss=to believe; to think; to consider; to feel|HanViet=nhận vi|Trad=認為
+13	丹内维尔克	_	PROPN	NNP	_	14	nsubj	_	Pinyin=dānnèiwéiěrkè|HanViet=đan nội duy nhĩ khắc|GlossFrom=parts|Gloss=丹 red + 内 inside + 维 to preserve + 尔 thus + 克 (Tw) abbr. for 克羅埃西亞/克罗埃西亚[Ke4 luo2 ai1 xi1 ya4], Croatia|Trad=丹內維爾克
+14	是	_	VERB	VC	_	12	ccomp	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+15	坚不可摧	_	VERB	VV	_	14	xcomp	_	Pinyin=jiānbùkěcuī|Gloss=(idiom) invulnerable; indestructible; impregnable|HanViet=kiên bất khả tồi|Trad=堅不可摧
+16	的	_	PART	UH	_	14	discourse:sp	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+17	，	_	PUNCT	,	_	12	punct	_	_
+18	梅塞	_	PROPN	NNP	_	19	compound	_	Pinyin=méisāi|HanViet=mai tắc|GlossFrom=parts|Gloss=梅 plum + 塞 to plug; to stop up; to stuff in
+19	将军	_	NOUN	NN	_	24	nsubj:pass	_	Pinyin=jiāngjūn|Gloss=general|HanViet=tương quân|Trad=將軍
+20	也	_	ADV	RB	_	24	advmod	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+21	被	_	X	XX	_	24	dep	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+22	随即	_	ADV	RB	_	24	advmod	_	Pinyin=suíjí|Gloss=immediately|HanViet=tuỳ tức|Trad=隨即
+23	被	_	AUX	BB	Voice=Pass	24	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+24	解除	_	VERB	VV	_	0	root	_	Pinyin=jiěchú|Gloss=to remove|HanViet=giải trừ
+25	指挥权	_	VERB	VV	_	24	obj	_	Pinyin=zhǐhuīquán|HanViet=chỉ huy quyền|GlossFrom=parts|Gloss=指挥 to conduct + 权 authority|Trad=指揮權
+26	。	_	PUNCT	.	_	24	punct	_	_
+
+# sent_id = ud-pud-w01073054
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 编辑惠勒斯蒂芬在工作上给了吉卜林很大压力，但是基普林的写作兴致势不可挡。
+# translation = Stephen Wheeler, the editor, worked Kipling hard, but Kipling's need to write was unstoppable.
+# source = UD Chinese-PUD w01073054
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-1:4-4;gf0025-16:2-2;gf0025-20:13-13;gf0025-21:6-6;gf0025-41:6-6;gf0025-78:11-11;gf0025-82:13-13;gf0025-109:5-9;gf0025-244:2-4
+1	编辑	_	NOUN	NN	_	6	nsubj	_	Pinyin=biānjí|Gloss=to edit|HanViet=biên tập|Trad=編輯
+2	惠勒斯蒂芬	_	PROPN	NNP	_	1	appos	_	Pinyin=huìlēisīdìfēn|HanViet=huệ lặc tư đế phân,phần|GlossFrom=parts|Gloss=惠 (bound form) act of kindness (from a superior) + 勒 (literary) bridle; halter; headstall + 斯蒂芬 Stephen or Steven (name)
+3	在	_	ADP	IN	_	4	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	工作	_	NOUN	NN	_	6	obl	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+5	上	_	ADP	IN	_	4	case:loc	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+6	给	_	VERB	VV	_	17	dep	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	吉卜林	_	PROPN	NNP	_	6	iobj	_	Pinyin=jíbolín|HanViet=cát _ lâm|GlossFrom=parts|Gloss=吉 short name for Jilin 吉林[Ji2 lin2] + 卜 (bound form) to divine + 林 Japanese surname Hayashi
+9	很大	_	ADJ	JJ	_	10	amod	_	Pinyin=hěndà|HanViet=ngận đại|GlossFrom=parts|Gloss=很 very; quite + 大 big; large; great
+10	压力	_	NOUN	NN	_	6	obj	_	Pinyin=yālì|Gloss=pressure|HanViet=áp lực|Trad=壓力
+11	，	_	PUNCT	,	_	6	punct	_	_
+12	但是	_	ADV	RB	_	17	advmod	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+13	基普林	_	PROPN	NNP	_	16	nmod	_	Pinyin=jīpǔlín|HanViet=cơ phổ lâm|GlossFrom=parts|Gloss=基普 kip (Laotian currency) + 林 Japanese surname Hayashi
+14	的	_	PART	DEC	Case=Gen	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	写作	_	NOUN	NN	_	16	compound	_	Pinyin=xiězuò|Gloss=to write|HanViet=tả tác|Trad=寫作
+16	兴致	_	NOUN	NN	_	17	nsubj	_	Pinyin=xīngzhì|Gloss=mood|HanViet=hứng trí|Trad=興致
+17	势不可挡	_	VERB	VV	_	0	root	_	Pinyin=shìbùkědǎng|HanViet=thế bất khả đảng|GlossFrom=parts|Gloss=势 power + 不可 cannot; should not; must not + 挡 to resist|Trad=勢不可擋
+18	。	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = ud-pud-w01069094
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 它与奥斯曼帝国在地中海的斗争，大大限制了其部署兵力对抗荷兰叛军的军事能力。
+# translation = Its struggle against the Ottoman Empire in the Mediterranean Sea put serious limits on the military power it could deploy against the rebels in the Netherlands.
+# source = UD Chinese-PUD w01069094
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-20:6-6;gf0025-20:18-18;gf0025-21:11-11;gf0025-41:11-11;gf0025-54:0-0;gf0025-56:9-9;gf0025-82:6-6;gf0025-82:18-18;gf0025-373:1-1
+1	它	_	PRON	PRP	Person=3	8	compound	_	Pinyin=tā|Gloss=it|HanViet=tha
+2	与	_	ADP	IN	_	4	case	_	Pinyin=yǔ|Gloss=(formal) and; together with (linking parallel nouns, verbs, or phrases)|HanViet=dữ|Trad=與
+3	奥斯曼	_	PROPN	NNP	_	4	compound	_	Pinyin=àosīmàn|Gloss=Ottoman (empire)|HanViet=ảo,áo tư mạn|Trad=奧斯曼
+4	帝国	_	NOUN	NN	_	8	nmod	_	Pinyin=dìguó|Gloss=empire|HanViet=đế quốc|Trad=帝國
+5	在	_	VERB	VV	_	8	acl:relcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+6	地中海	_	PROPN	NNP	_	5	obj	_	Pinyin=dìzhōnghǎi|Gloss=Mediterranean Sea|HanViet=địa trung hải
+7	的	_	PART	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	斗争	_	NOUN	NN	_	11	nsubj	_	Pinyin=dòuzhēng|Gloss=a struggle|HanViet=đấu tranh|Trad=鬥爭
+9	，	_	PUNCT	,	_	8	punct	_	_
+10	大大	_	ADV	RB	_	11	advmod	_	Pinyin=dàdà|Gloss=greatly|HanViet=đại đại
+11	限制	_	VERB	VV	_	0	root	_	Pinyin=xiànzhì|Gloss=to restrict|HanViet=hạn chế
+12	了	_	AUX	AS	Aspect=Perf	11	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	其	_	PRON	PRP	Person=3	16	nsubj	_	Pinyin=qí|Gloss=his|HanViet=kỳ
+14	部署	_	VERB	VV	_	16	advcl	_	Pinyin=bùshǔ|Gloss=to dispose|HanViet=bộ thự
+15	兵力	_	NOUN	NN	_	14	obj	_	Pinyin=bīnglì|Gloss=military strength|HanViet=binh lực
+16	对抗	_	VERB	VV	_	21	acl:relcl	_	Pinyin=duìkàng|Gloss=to withstand|HanViet=đối kháng|Trad=對抗
+17	荷兰	_	PROPN	NNP	_	18	compound	_	Pinyin=hélán|Gloss=Holland; the Netherlands|HanViet=hà lan|Trad=荷蘭
+18	叛军	_	NOUN	NN	_	16	obl	_	Pinyin=pànjūn|Gloss=rebel army|HanViet=phản quân|Trad=叛軍
+19	的	_	PART	DEC	_	16	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+20	军事	_	NOUN	NN	_	21	compound	_	Pinyin=jūnshì|Gloss=military affairs; (attributive) military|HanViet=quân sự|Trad=軍事
+21	能力	_	NOUN	NN	_	11	obj	_	Pinyin=nénglì|Gloss=capability|HanViet=năng lực
+22	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = ud-pud-n01096006
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 英国乃至全世界都缺少拥有开发有效防御所需的技能的人才。
+# translation = The world – and by extension the UK – is facing a shortage of people with the skills needed to mount an effective defence.
+# source = UD Chinese-PUD n01096006
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-10:4-4;gf0025-20:12-12;gf0025-20:14-14;gf0025-68:4-4;gf0025-82:12-12;gf0025-82:14-14;gf0025-426:11-11;gf0025-469:1-1
+1	英国	_	PROPN	NNP	_	6	nsubj	_	Pinyin=yīngguó|Gloss=United Kingdom (UK); Britain|HanViet=anh quốc|Trad=英國
+2	乃至	_	CCONJ	CC	_	4	cc	_	Pinyin=nǎizhì|Gloss=and even; to go so far as to|HanViet=nãi chí
+3	全	_	DET	DT	_	4	det	_	Pinyin=quán|Gloss=all|HanViet=toàn
+4	世界	_	NOUN	NN	_	1	conj	_	Pinyin=shìjiè|Gloss=world|HanViet=thế giới
+5	都	_	ADV	RB	_	6	advmod	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+6	缺少	_	VERB	VV	_	0	root	_	Pinyin=quēshǎo|Gloss=lack|HanViet=khuyết thiểu
+7	拥有	_	VERB	VV	_	16	acl:relcl	_	Pinyin=yōngyǒu|Gloss=to have; to possess; to own|HanViet=ủng hữu|Trad=擁有
+8	开发	_	VERB	VV	_	12	csubj	_	Pinyin=kāifā|Gloss=to exploit (a resource); to open up (for development); to develop|HanViet=khai phát|Trad=開發
+9	有效	_	ADJ	JJ	_	10	amod	_	Pinyin=yǒuxiào|Gloss=effective|HanViet=hữu hiệu
+10	防御	_	NOUN	NN	_	8	obj	_	Pinyin=fángyù|Gloss=defense|HanViet=phòng ngự|Trad=防禦
+11	所	_	ADV	RB	_	12	mark:prt	_	Pinyin=suǒ|Gloss=actually|HanViet=sở
+12	需	_	VERB	VV	_	14	acl:relcl	_	Pinyin=xū|Gloss=to require|HanViet=nhu
+13	的	_	PART	DEC	_	12	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	技能	_	NOUN	NN	_	7	obj	_	Pinyin=jìnéng|Gloss=technical ability|HanViet=kỹ năng
+15	的	_	PART	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	人才	_	NOUN	NN	_	6	obj	_	Pinyin=réncái|Gloss=talent|HanViet=nhân tài
+17	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = ud-pud-w01117034
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 她发现向小说转型很容易，并且解释道：“每一本书都是一个学习曲线，你必须保持开放的心态。”
+# translation = She found the transition to fiction easy, explaining, "Every book is a learning curve, and you have to keep an open mind."
+# source = UD Chinese-PUD w01117034
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:0-0;gf0025-5:23-23;gf0025-7:14-14;gf0025-7:18-18;gf0025-8:15-15;gf0025-8:19-19;gf0025-9:5-5;gf0025-20:27-27;gf0025-23:14-15;gf0025-23:18-19;gf0025-71:2-2;gf0025-82:27-27;gf0025-131:3-3;gf0025-138:13-13;gf0025-154:2-2;gf0025-160:8-8;gf0025-195:8-8
+1	她	_	PRON	PRP	Person=3	10	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	发现	_	VERB	VV	_	10	advcl	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+3	向	_	ADP	IN	_	4	case	_	Pinyin=xiàng|Gloss=towards|HanViet=hướng
+4	小说	_	NOUN	NN	_	5	obl	_	Pinyin=xiǎoshuō|Gloss=novel|HanViet=tiểu thuyết|Trad=小說
+5	转型	_	VERB	VV	_	7	csubj	_	Pinyin=zhuǎnxíng|Gloss=to undergo fundamental change; to transition; to transform|HanViet=chuyển hình|Trad=轉型
+6	很	_	ADV	RB	_	7	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+7	容易	_	ADJ	JJ	_	2	ccomp	_	Pinyin=róngyì|Gloss=easy; straightforward|HanViet=dung dịch,dị
+8	，	_	PUNCT	,	_	2	punct	_	_
+9	并且	_	ADV	RB	_	10	advmod	_	Pinyin=bìngqiě|Gloss=and; besides; moreover; furthermore; in addition|HanViet=tịnh,tính thả|Trad=並且
+10	解释	_	VERB	VV	_	0	root	_	Pinyin=jiěshì|Gloss=explanation|HanViet=giải thích|Trad=解釋
+11	道	_	VERB	VV	_	10	xcomp	_	Pinyin=dào|Gloss=road; path (CL:條/条[tiao2],股[gu3])|HanViet=đạo
+12	：	_	PUNCT	:	_	26	punct	_	_
+13	“	_	PUNCT	``	_	26	punct	_	_
+14	每	_	DET	DT	_	16	det	_	Pinyin=měi|Gloss=each|HanViet=mỗi
+15	一	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+16	本	_	NOUN	NNB	_	17	clf	_	Pinyin=běn|Gloss=(bound form) root; stem|HanViet=bản
+17	书	_	NOUN	NN	_	22	nsubj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+18	都是	_	AUX	VC	_	22	cop	_	Pinyin=dōushì|HanViet=đô thị|GlossFrom=parts|Gloss=都 all; both; entirely + 是 to be (followed by substantives only)
+19	一	_	NUM	CD	NumType=Card	20	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+20	个	_	NOUN	NNB	_	22	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+21	学习	_	NOUN	NN	_	22	compound	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+22	曲线	_	NOUN	NN	_	26	dep	_	Pinyin=qūxiàn|Gloss=curve|HanViet=khúc tuyến|Trad=曲線
+23	，	_	PUNCT	,	_	22	punct	_	_
+24	你	_	PRON	PRP	Person=2	26	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+25	必须	_	AUX	MD	_	26	aux	_	Pinyin=bìxū|Gloss=must; to have to|HanViet=tất tu|Trad=必須
+26	保持	_	VERB	VV	_	11	ccomp	_	Pinyin=bǎochí|Gloss=to keep|HanViet=bảo trì
+27	开放	_	ADJ	JJ	_	29	amod	_	Pinyin=kāifàng|Gloss=to bloom|HanViet=khai phóng|Trad=開放
+28	的	_	PART	DEC	_	27	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+29	心态	_	NOUN	NN	_	26	obj	_	Pinyin=xīntài|Gloss=attitude (of the heart)|HanViet=tâm thái|Trad=心態
+30	。	_	PUNCT	.	_	26	punct	_	_
+31	”	_	PUNCT	''	_	26	punct	_	_
+
+# sent_id = ud-pud-w01030096
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 欧洲的主要河流均来自瑞士，例如莱茵河、罗讷河、茵河、提契诺河和宝河，所有河流均有源头来自阿尔卑斯山脉。
+# translation = Major European rivers flow from Switzerland, such as the Rhine, the Rhône, the Inn, the Ticino and the Po, all of which have headwaters in the Alps and flow into neighbouring countries, finally emptying into the North Sea, the Mediterranean Sea, the Adriatic Sea and the Black Sea.
+# source = UD Chinese-PUD w01030096
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-19:17-17;gf0025-20:1-1;gf0025-37:23-23;gf0025-82:1-1;gf0025-132:24-24;gf0025-224:6-6
+1	欧洲	_	PROPN	NNP	_	4	nmod	_	Pinyin=ōuzhōu|Gloss=Europe (abbr. for 歐羅巴洲/欧罗巴洲[Ou1 luo2 ba1 Zhou1])|HanViet=âu châu|Trad=歐洲
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	主要	_	ADJ	JJ	_	4	amod	_	Pinyin=zhǔyào|Gloss=main; principal; major; primary|HanViet=chủ,chúa yếu
+4	河流	_	NOUN	NN	_	10	nsubj	_	Pinyin=héliú|Gloss=river|HanViet=hà lưu
+5	均	_	ADV	RB	_	6	advmod	_	Pinyin=jūn|Gloss=(bound form) equal; uniform; even|HanViet=quân
+6	来	_	VERB	VV	_	10	advcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+7	自	_	ADP	IN	_	8	case	_	Pinyin=zì|Gloss=(bound form) self; oneself|HanViet=tự
+8	瑞士	_	PROPN	NNP	_	6	obl	_	Pinyin=ruìshì|Gloss=Switzerland|HanViet=thuỵ sĩ
+9	，	_	PUNCT	,	_	6	punct	_	_
+10	例如	_	VERB	VV	_	24	dep	_	Pinyin=lìrú|Gloss=for example; for instance; such as|HanViet=lệ như
+11	莱茵河	_	PROPN	NNP	_	10	obj	_	Pinyin=láiyīnhé|Gloss=Rhine River|HanViet=lai nhân hà|Trad=萊茵河
+12	、	_	PUNCT	EC	_	13	punct	_	_
+13	罗讷河	_	PROPN	NNP	_	11	conj	_	Pinyin=luónèhé|Gloss=Rhone River, France|HanViet=la nột hà|Trad=羅訥河
+14	、	_	PUNCT	EC	_	15	punct	_	_
+15	茵河	_	PROPN	NNP	_	11	conj	_	Pinyin=yīnhé|HanViet=nhân hà|GlossFrom=parts|Gloss=茵 mattress + 河 river (CL:條/条[tiao2],道[dao4])
+16	、	_	PUNCT	EC	_	17	punct	_	_
+17	提契诺河	_	PROPN	NNP	_	11	conj	_	Pinyin=tíqìnuòhé|HanViet=đề khế,khất nặc hà|GlossFrom=parts|Gloss=提 to carry (hanging down from the hand) + 契 to carve + 诺 to consent + 河 river (CL:條/条[tiao2],道[dao4])|Trad=提契諾河
+18	和	_	CCONJ	CC	_	19	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+19	宝河	_	PROPN	NNP	_	11	conj	_	Pinyin=bǎohé|HanViet=bảo hà|GlossFrom=parts|Gloss=宝 jewel + 河 river (CL:條/条[tiao2],道[dao4])|Trad=寶河
+20	，	_	PUNCT	,	_	10	punct	_	_
+21	所有	_	DET	DT	_	22	det	_	Pinyin=suǒyǒu|Gloss=all|HanViet=sở hữu
+22	河流	_	NOUN	NN	_	24	nsubj	_	Pinyin=héliú|Gloss=river|HanViet=hà lưu
+23	均	_	ADV	RB	_	24	advmod	_	Pinyin=jūn|Gloss=(bound form) equal; uniform; even|HanViet=quân
+24	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+25	源头	_	NOUN	NN	_	26	nsubj	_	Pinyin=yuántóu|Gloss=source; origin; fountainhead|HanViet=nguyên đầu|Trad=源頭
+26	来	_	VERB	VV	_	24	ccomp	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+27	自	_	VERB	VV	_	26	mark:prt	_	Pinyin=zì|Gloss=(bound form) self; oneself|HanViet=tự
+28	阿尔卑斯	_	PROPN	NNP	_	29	compound	_	Pinyin=āěrbēisī|Gloss=alps (mountain range)|HanViet=a nhĩ ti tư|Trad=阿爾卑斯
+29	山脉	_	NOUN	NN	_	26	obj	_	Pinyin=shānmài|Gloss=mountain range|HanViet=sơn mạch|Trad=山脈
+30	。	_	PUNCT	.	_	24	punct	_	_
+
+# sent_id = ud-pud-w01003056
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 花岗岩岛屿包括塞舌尔和刁曼岛，火山岩岛屿则如圣赫勒拿岛。
+# translation = Granite islands include Seychelles and Tioman and volcanic islands such as Saint Helena.
+# source = UD Chinese-PUD w01003056
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-19:4-4
+1	花岗岩	_	NOUN	NN	_	2	compound	_	Pinyin=huāgǎngyán|Gloss=granite|HanViet=hoa cương nham|Trad=花崗岩
+2	岛屿	_	NOUN	NN	_	3	nsubj	_	Pinyin=dǎoyǔ|Gloss=island|HanViet=đảo tự|Trad=島嶼
+3	包括	_	VERB	VV	_	11	dep	_	Pinyin=bāokuò|Gloss=to comprise|HanViet=bao quát
+4	塞舌尔	_	PROPN	NNP	_	3	obj	_	Pinyin=sāishéěr|Gloss=the Seychelles|HanViet=tắc thiệt nhĩ|Trad=塞舌爾
+5	和	_	CCONJ	CC	_	6	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+6	刁曼岛	_	PROPN	NNP	_	4	conj	_	Pinyin=diāomàndǎo|HanViet=điêu mạn đảo|GlossFrom=parts|Gloss=刁 artful + 曼岛 Isle of Man, British Isles (Tw)|Trad=刁曼島
+7	，	_	PUNCT	,	_	3	punct	_	_
+8	火山岩	_	NOUN	NN	_	9	compound	_	Pinyin=huǒshānyán|Gloss=volcanic rock|HanViet=hoả sơn nham
+9	岛屿	_	NOUN	NN	_	11	nsubj	_	Pinyin=dǎoyǔ|Gloss=island|HanViet=đảo tự|Trad=島嶼
+10	则	_	ADV	RB	_	11	advmod	_	Pinyin=zé|Gloss=(literary) (conjunction used to express contrast with a previous clause) but; then|HanViet=tắc|Trad=則
+11	如	_	VERB	VV	_	0	root	_	Pinyin=rú|Gloss=as|HanViet=như
+12	圣赫勒拿岛	_	PROPN	NNP	_	11	obj	_	Pinyin=shènghèlènádǎo|Gloss=Saint Helena|HanViet=thánh hách lặc nã đảo|Trad=聖赫勒拿島
+13	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = ud-pud-w01030093
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 虽然此区域只占据欧洲地表的11%，但阿尔卑斯山脉为欧洲低海拔地区，特别是在干旱地区和夏季月份，提供了高达90%的水资源。
+# translation = Although the area is only about 11 percent of the surface area of Europe, the Alps provide up to 90 percent of water to lowland Europe, particularly to arid areas and during the summer months.
+# source = UD Chinese-PUD w01030093
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-16:20-20;gf0025-19:23-23;gf0025-20:7-7;gf0025-20:31-31;gf0025-21:28-28;gf0025-41:28-28;gf0025-61:18-18;gf0025-62:3-3;gf0025-76:13-13;gf0025-78:0-0;gf0025-78:10-10;gf0025-82:7-7;gf0025-82:31-31;gf0025-113:0-10;gf0025-153:13-13;gf0025-361:1-1
+1	虽然	_	SCONJ	IN	_	5	mark	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+2	此	_	DET	DT	_	3	det	_	Pinyin=cǐ|Gloss=this; these|HanViet=thử
+3	区域	_	NOUN	NN	_	5	nsubj	_	Pinyin=qūyù|Gloss=area|HanViet=khu vực|Trad=區域
+4	只	_	ADV	RB	_	5	advmod	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+5	占据	_	VERB	VV	_	28	advcl	_	Pinyin=zhànjù|Gloss=to occupy; to hold|HanViet=chiếm cứ|Trad=佔據
+6	欧洲	_	PROPN	NNP	_	7	compound	_	Pinyin=ōuzhōu|Gloss=Europe (abbr. for 歐羅巴洲/欧罗巴洲[Ou1 luo2 ba1 Zhou1])|HanViet=âu châu|Trad=歐洲
+7	地表	_	NOUN	NN	_	9	nmod	_	Pinyin=dìbiǎo|Gloss=the surface (of the earth)|HanViet=địa biểu
+8	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	11%	_	NUM	CD	NumType=Card	5	obj	_	Pinyin=11%
+10	，	_	PUNCT	,	_	5	punct	_	_
+11	但	_	ADV	RB	_	28	advmod	_	Pinyin=dàn|Gloss=but; yet; however; still|HanViet=đãn
+12	阿尔卑斯	_	PROPN	NNP	_	13	compound	_	Pinyin=āěrbēisī|Gloss=alps (mountain range)|HanViet=a nhĩ ti tư|Trad=阿爾卑斯
+13	山脉	_	NOUN	NN	_	28	nsubj	_	Pinyin=shānmài|Gloss=mountain range|HanViet=sơn mạch|Trad=山脈
+14	为	_	ADP	IN	_	17	case	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+15	欧洲	_	PROPN	NNP	_	17	compound	_	Pinyin=ōuzhōu|Gloss=Europe (abbr. for 歐羅巴洲/欧罗巴洲[Ou1 luo2 ba1 Zhou1])|HanViet=âu châu|Trad=歐洲
+16	低海拔	_	NOUN	NN	_	17	compound	_	Pinyin=dīhǎibá|HanViet=đê hải bạt|GlossFrom=parts|Gloss=低 low + 海拔 height above sea level
+17	地区	_	NOUN	NN	_	28	obl	_	Pinyin=dìqū|Gloss=region; area (informal or geographical term)|HanViet=địa khu|Trad=地區
+18	，	_	PUNCT	,	_	17	punct	_	_
+19	特别	_	ADV	RB	_	20	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+20	是	_	VERB	VC	_	28	dep	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+21	在	_	ADP	IN	_	23	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+22	干旱	_	NOUN	NN	_	23	compound	_	Pinyin=gānhàn|Gloss=drought|HanViet=can hạn|Trad=乾旱
+23	地区	_	NOUN	NN	_	20	obl	_	Pinyin=dìqū|Gloss=region; area (informal or geographical term)|HanViet=địa khu|Trad=地區
+24	和	_	CCONJ	CC	_	26	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+25	夏季	_	NOUN	NN	_	26	compound	_	Pinyin=xiàjì|Gloss=summer|HanViet=hạ quý
+26	月份	_	NOUN	NN	_	23	conj	_	Pinyin=yuèfèn|Gloss=month|HanViet=nguyệt phần
+27	，	_	PUNCT	,	_	20	punct	_	_
+28	提供	_	VERB	VV	_	0	root	_	Pinyin=tígōng|Gloss=to offer|HanViet=đề cung
+29	了	_	AUX	AS	Aspect=Perf	28	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+30	高达	_	VERB	VV	_	34	acl:relcl	_	Pinyin=gāodá|Gloss=Gundam, Japanese animation franchise|HanViet=cao đạt|Trad=高達
+31	90%	_	NUM	CD	NumType=Card	30	obj	_	Pinyin=90%
+32	的	_	PART	DEC	_	30	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+33	水	_	NOUN	NN	_	34	compound	_	Pinyin=shuǐ|Gloss=Shui ethnic group|HanViet=thuỷ
+34	资源	_	NOUN	NN	_	28	obj	_	Pinyin=zīyuán|Gloss=natural resource (such as water or minerals)|HanViet=tư nguyên|Trad=資源
+35	。	_	PUNCT	.	_	28	punct	_	_
+
+# sent_id = ud-pud-n01002042
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 希拉里的巨额银行帐户使政府支出的突破了新上限。
+# translation = The new spending is fueled by Clinton’s large bank account.
+# source = UD Chinese-PUD n01002042
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-20:1-1;gf0025-20:8-8;gf0025-21:10-10;gf0025-41:10-10;gf0025-82:1-1;gf0025-82:8-8;gf0025-187:5-9
+1	希拉里	_	PROPN	NNP	_	5	nmod	_	Pinyin=xīlālǐ|Gloss=Hillary (name)|HanViet=hy lạp lý
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	巨额	_	NOUN	NN	_	5	compound	_	Pinyin=jùé|Gloss=a huge sum; an enormous amount (of money)|HanViet=cự ngạch|Trad=鉅額
+4	银行	_	NOUN	NN	_	5	compound	_	Pinyin=yínháng|Gloss=bank|HanViet=ngân hàng,hạng|Trad=銀行
+5	帐户	_	NOUN	NN	_	6	nsubj	_	Pinyin=zhànghù|HanViet=trướng hộ|GlossFrom=parts|Gloss=帐 (bound form) curtain; tent; canopy + 户 a household|Trad=帳戶
+6	使	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=shǐ|Gloss=to make|HanViet=sử,sứ
+7	政府	_	NOUN	NN	_	8	nsubj	_	Pinyin=zhèngfǔ|Gloss=government|HanViet=chính phủ
+8	支出	_	VERB	VV	_	10	csubj	_	Pinyin=zhīchū|Gloss=to spend; to pay out|HanViet=chi xuất
+9	的	_	PART	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	突破	_	VERB	VV	_	6	ccomp	_	Pinyin=tūpò|Gloss=to break through|HanViet=đột phá
+11	了	_	AUX	AS	Aspect=Perf	10	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	新上限	_	NOUN	NN	_	10	obj	_	Pinyin=xīnshàngxiàn|HanViet=tân thượng hạn|GlossFrom=parts|Gloss=新 new + 上限 upper bound
+13	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = ud-pud-n01055038
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 这不仅适用于娱乐内容，同样也适用于教育，科研，以及也许最重要的是，政治言论。
+# translation = This would not only apply to entertainment content, but equally to education, to scientific research and, perhaps most importantly, to political discourse.
+# source = UD Chinese-PUD n01055038
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-6:0-0;gf0025-9:17-17;gf0025-13:8-8;gf0025-20:19-19;gf0025-36:20-20;gf0025-67:16-16;gf0025-82:19-19;gf0025-230:15-15
+1	这	_	PRON	PRD	_	10	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	不仅	_	ADP	IN	_	3	mark	_	Pinyin=bùjǐn|Gloss=not just; not limited to|HanViet=bất cận|Trad=不僅
+3	适用	_	ADJ	JJ	_	10	xcomp	_	Pinyin=shìyòng|Gloss=to be applicable|HanViet=thích dụng|Trad=適用
+4	于	_	VERB	VV	_	3	mark:prt	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+5	娱乐	_	NOUN	NN	_	6	compound	_	Pinyin=yúlè|Gloss=to entertain|HanViet=ngu lạc|Trad=娛樂
+6	内容	_	NOUN	NN	_	3	obj	_	Pinyin=nèiróng|Gloss=content; substance; details|HanViet=nội dung|Trad=內容
+7	，	_	PUNCT	,	_	3	punct	_	_
+8	同样	_	ADV	RB	_	10	advmod	_	Pinyin=tóngyàng|Gloss=same; equal; similar|HanViet=đồng dạng|Trad=同樣
+9	也	_	ADV	RB	_	10	advmod	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+10	适用	_	ADJ	JJ	_	24	dep	_	Pinyin=shìyòng|Gloss=to be applicable|HanViet=thích dụng|Trad=適用
+11	于	_	VERB	VV	_	10	mark:prt	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+12	教育	_	NOUN	NN	_	10	obj	_	Pinyin=jiàoyù|Gloss=to educate|HanViet=giáo dục
+13	，	_	PUNCT	,	_	14	punct	_	_
+14	科研	_	NOUN	NN	_	12	conj	_	Pinyin=kēyán|Gloss=(scientific) research|HanViet=khoa nghiên
+15	，	_	PUNCT	,	_	10	punct	_	_
+16	以及	_	ADV	RB	_	24	advmod	_	Pinyin=yǐjí|Gloss=and; as well as|HanViet=dĩ cập
+17	也许	_	ADV	RB	_	24	advmod	_	Pinyin=yěxǔ|Gloss=perhaps; maybe|HanViet=dã hứa|Trad=也許
+18	最	_	ADV	RB	_	19	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+19	重要	_	ADJ	JJ	_	24	csubj	_	Pinyin=zhòngyào|Gloss=important; significant; major|HanViet=trọng yếu
+20	的	_	PART	DEC	_	19	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+21	是	_	AUX	VC	_	24	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+22	，	_	PUNCT	,	_	21	punct	_	_
+23	政治	_	NOUN	NN	_	24	compound	_	Pinyin=zhèngzhì|Gloss=politics|HanViet=chính trị
+24	言论	_	NOUN	NN	_	0	root	_	Pinyin=yánlùn|Gloss=expression of opinion|HanViet=ngôn luận|Trad=言論
+25	。	_	PUNCT	.	_	24	punct	_	_
+
+# sent_id = ud-pud-n03005025
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 在这条信息里，前司法部部长谴责布里斯·奥尔特弗是一个“法西斯分子”、“愚蠢内政部长”和一个”暴徒“。
+# translation = In the message, the former Minister for Justice accused Brice Hortefeux of being a 'fascist', 'Minister (moron) of the Interior' and a 'thug'.
+# source = UD Chinese-PUD n03005025
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-1:4-4;gf0025-6:1-1;gf0025-7:13-13;gf0025-7:26-26;gf0025-8:14-14;gf0025-8:27-27;gf0025-16:0-0;gf0025-19:25-25;gf0025-23:13-14;gf0025-23:26-27;gf0025-36:12-12;gf0025-58:2-2;gf0025-132:17-17
+1	在	_	ADP	IN	_	4	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+3	条	_	NOUN	NNB	_	4	clf	_	Pinyin=tiáo|Gloss=strip|HanViet=điều|Trad=條
+4	信息	_	NOUN	NN	_	9	obl	_	Pinyin=xìnxī|Gloss=information; news; message|HanViet=tín tức
+5	里	_	ADP	IN	_	4	case:loc	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+6	，	_	PUNCT	,	_	4	punct	_	_
+7	前司法部	_	NOUN	NN	_	8	compound	_	Pinyin=qiánsīfǎbù|HanViet=tiền ti,tư pháp bộ|GlossFrom=parts|Gloss=前司 (coll.) previous company one worked at + 法 France + 部 ministry
+8	部长	_	NOUN	NN	_	9	nsubj	_	Pinyin=bùzhǎng|Gloss=head of a (government etc) department|HanViet=bộ trưởng|Trad=部長
+9	谴责	_	VERB	VV	_	0	root	_	Pinyin=qiǎnzé|Gloss=to denounce|HanViet=khiển trách|Trad=譴責
+10	布里斯	_	PROPN	NNP	_	18	nsubj	_	Pinyin=bùlǐsī|HanViet=bố lý tư|GlossFrom=parts|Gloss=布 to announce + 里 lining + 斯 Slovakia
+11	·	_	PUNCT	/	_	12	punct	_	_
+12	奥尔特弗	_	PROPN	NNP	_	10	flat:name	_	Pinyin=àoěrtèfú|HanViet=ảo,áo nhĩ đặc phất|GlossFrom=parts|Gloss=奥 (bound form) Austria (abbr. for 奧地利/奥地利[Ao4 di4 li4]) + 尔 thus + 特 special + 弗 (literary) not|Trad=奧爾特弗
+13	是	_	AUX	VC	_	18	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+14	一	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+15	个	_	NOUN	NNB	_	18	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+16	“	_	PUNCT	``	_	18	punct	_	_
+17	法西斯	_	PROPN	NNP	_	18	compound	_	Pinyin=fǎxīsī|Gloss=fascist (loanword)|HanViet=pháp tây tư
+18	分子	_	NOUN	NN	_	9	ccomp	_	Pinyin=fènzǐ|Gloss=member of a class or group; people of a certain type|HanViet=phận,phần tử,tý
+19	”	_	PUNCT	''	_	18	punct	_	_
+20	、	_	PUNCT	EC	_	24	punct	_	_
+21	“	_	PUNCT	``	_	24	punct	_	_
+22	愚蠢	_	ADJ	JJ	_	24	compound	_	Pinyin=yúchǔn|Gloss=silly|HanViet=ngu xuẩn
+23	内政	_	NOUN	NN	_	24	compound	_	Pinyin=nèizhèng|Gloss=internal affairs (of a country)|HanViet=nội chính|Trad=內政
+24	部长	_	NOUN	NN	_	18	conj	_	Pinyin=bùzhǎng|Gloss=head of a (government etc) department|HanViet=bộ trưởng|Trad=部長
+25	”	_	PUNCT	''	_	24	punct	_	_
+26	和	_	CCONJ	CC	_	30	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+27	一	_	NUM	CD	NumType=Card	28	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+28	个	_	NOUN	NNB	_	30	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+29	”	_	PUNCT	''	_	28	punct	_	_
+30	暴徒	_	NOUN	NN	_	18	conj	_	Pinyin=bàotú|Gloss=bandit|HanViet=bạo đồ
+31	“	_	PUNCT	)	_	18	punct	_	_
+32	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = ud-pud-n01068029
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 选区位于克斯蒂文以北，那里的选民有62％支持离开欧盟。
+# translation = The constituency is in the council area of North Kesteven, where 62% of voters backed leaving the EU.
+# source = UD Chinese-PUD n01068029
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-6:6-6;gf0025-20:7-7;gf0025-37:9-9;gf0025-82:7-7;gf0025-103:9-10;gf0025-136:12-12
+1	选区	_	NOUN	NN	_	2	nsubj	_	Pinyin=xuǎnqū|Gloss=electoral district|HanViet=tuyển khu|Trad=選區
+2	位	_	VERB	VV	_	10	dep	_	Pinyin=wèi|Gloss=position|HanViet=vị
+3	于	_	VERB	VV	_	2	mark:prt	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+4	克斯蒂文	_	PROPN	NNP	_	2	obj	_	Pinyin=kèsīdìwén|HanViet=khắc tư đế văn|GlossFrom=parts|Gloss=克 (Tw) abbr. for 克羅埃西亞/克罗埃西亚[Ke4 luo2 ai1 xi1 ya4], Croatia + 斯蒂文 Steven (name)
+5	以北	_	ADP	NN	_	4	case:loc	_	Pinyin=yǐběi|Gloss=to the north of (suffix)|HanViet=dĩ bắc
+6	，	_	PUNCT	,	_	2	punct	_	_
+7	那里	_	PRON	PRD	_	9	nmod	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+8	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	选民	_	NOUN	NN	_	10	nsubj	_	Pinyin=xuǎnmín|Gloss=voter|HanViet=tuyển dân|Trad=選民
+10	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+11	62％	_	NUM	CD	NumType=Card	12	nsubj	_	Pinyin=62％
+12	支持	_	VERB	VV	_	10	ccomp	_	Pinyin=zhīchí|Gloss=to be in favor of|HanViet=chi trì
+13	离开	_	VERB	VV	_	12	xcomp	_	Pinyin=líkāi|Gloss=to depart; to leave|HanViet=ly khai|Trad=離開
+14	欧盟	_	PROPN	NNP	_	13	obj	_	Pinyin=ōuméng|Gloss=European Union|HanViet=âu minh|Trad=歐盟
+15	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = ud-pud-n01125030
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 当然，我们对制造东西越来越痴迷，这与可触产品的流行紧密相关。
+# translation = Of course, the tactile trend is closely linked to our growing obsession with making things.
+# source = UD Chinese-PUD n01125030
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:2-2;gf0025-6:9-9;gf0025-20:14-14;gf0025-30:9-17;gf0025-73:3-3;gf0025-82:14-14;gf0025-92:6-6;gf0025-132:2-2;gf0025-149:0-0;gf0025-373:10-10
+1	当然	_	ADV	RB	_	18	advmod	_	Pinyin=dāngrán|Gloss=only natural|HanViet=đương,đang nhiên|Trad=當然
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	我们	_	PRON	PRP	Number=Plur|Person=1	8	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+4	对	_	ADP	IN	_	5	mark	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+5	制造	_	VERB	VV	_	8	xcomp	_	Pinyin=zhìzào|Gloss=to manufacture; to make|HanViet=chế tạo|Trad=製造
+6	东西	_	NOUN	NN	_	5	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+7	越来越	_	ADV	RB	_	8	advmod	_	Pinyin=yuèláiyuè|Gloss=more and more|HanViet=việt lai việt|Trad=越來越
+8	痴迷	_	ADJ	JJ	_	18	dep	_	Pinyin=chīmí|Gloss=infatuated|HanViet=si mê
+9	，	_	PUNCT	,	_	8	punct	_	_
+10	这	_	PRON	PRD	_	18	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+11	与	_	ADP	IN	_	16	case	_	Pinyin=yǔ|Gloss=(formal) and; together with (linking parallel nouns, verbs, or phrases)|HanViet=dữ|Trad=與
+12	可	_	AUX	MD	_	13	aux	_	Pinyin=kě|Gloss=(prefix) can; may; able to; -able|HanViet=khả
+13	触	_	VERB	VV	_	14	amod	_	Pinyin=chù|Gloss=to touch|HanViet=xúc|Trad=觸
+14	产品	_	NOUN	NN	_	16	nmod	_	Pinyin=chǎnpǐn|Gloss=goods|HanViet=sản phẩm|Trad=產品
+15	的	_	PART	DEC	Case=Gen	14	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	流行	_	NOUN	NN	_	18	obl	_	Pinyin=liúxíng|Gloss=(of a contagious disease etc) to spread; to propagate|HanViet=lưu hành,hạnh
+17	紧密	_	ADV	RB	_	18	advmod	_	Pinyin=jǐnmì|Gloss=inseparably close|HanViet=khẩn mật|Trad=緊密
+18	相关	_	ADJ	JJ	_	0	root	_	Pinyin=xiāngguān|Gloss=related|HanViet=tương quan|Trad=相關
+19	。	_	PUNCT	.	_	18	punct	_	_
+
+# sent_id = ud-pud-w01080128
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 马其顿东部紧邻色雷斯的边境现在被奈斯托斯河（也叫麦斯塔河）所包围。
+# translation = The Macedonian eastern border with Thrace was now secured at the river Nestus (Mesta).
+# source = UD Chinese-PUD w01080128
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-13:10-10;gf0025-20:4-4;gf0025-82:4-4;gf0025-157:7-7;gf0025-185:7-15
+1	马其顿	_	PROPN	NNP	_	2	compound	_	Pinyin=mǎqídùn|Gloss=Macedonia|HanViet=mã kỳ đốn|Trad=馬其頓
+2	东部	_	NOUN	NN	_	3	nsubj	_	Pinyin=dōngbù|Gloss=the east|HanViet=đông bộ|Trad=東部
+3	紧邻	_	VERB	VV	_	6	acl:relcl	_	Pinyin=jǐnlín|Gloss=to be right next to|HanViet=khẩn lân|Trad=緊鄰
+4	色雷斯	_	PROPN	NNP	_	3	obj	_	Pinyin=sèléisī|HanViet=sắc lôi tư|GlossFrom=parts|Gloss=色 color + 雷 thunder + 斯 Slovakia
+5	的	_	PART	DEC	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	边境	_	NOUN	NN	_	16	nsubj:pass	_	Pinyin=biānjìng|Gloss=frontier; border|HanViet=biên cảnh|Trad=邊境
+7	现在	_	NOUN	NN	_	16	obl:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+8	被	_	AUX	BB	Voice=Pass	16	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+9	奈斯托斯河	_	PROPN	NNP	_	16	obj	_	Pinyin=nàisītuōsīhé|HanViet=nại tư thác tư hà|GlossFrom=parts|Gloss=奈 used for its phonetic value in writing foreign words + 斯 Slovakia + 托 to hold up in one's hand; to support with one's palm + 斯 Slovakia + 河 river (CL:條/条[tiao2],道[dao4])
+10	（	_	PUNCT	(	_	12	punct	_	_
+11	也	_	ADV	RB	_	12	advmod	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+12	叫	_	VERB	VV	_	9	parataxis	_	Pinyin=jiào|Gloss=to shout|HanViet=khiếu
+13	麦斯塔河	_	PROPN	NNP	_	12	obj	_	Pinyin=màisītǎhé|HanViet=mạch tư tháp hà|GlossFrom=parts|Gloss=麦 wheat; barley; oats + 斯 Slovakia + 塔 pagoda (abbr. for 塔婆[ta3 po2], a loanword from Sanskrit stūpa); tower; pylon (CL:座[zuo4]) + 河 river (CL:條/条[tiao2],道[dao4])|Trad=麥斯塔河
+14	）	_	PUNCT	)	_	12	punct	_	_
+15	所	_	ADV	RB	_	16	mark:prt	_	Pinyin=suǒ|Gloss=actually|HanViet=sở
+16	包围	_	VERB	VV	_	0	root	_	Pinyin=bāowéi|Gloss=to surround; to encircle; to hem in|HanViet=bao vi,vây|Trad=包圍
+17	。	_	PUNCT	.	_	16	punct	_	_
+
+# sent_id = ud-pud-n01137003
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 在这个假期，很多名人、粉丝甚至CNN的记者都穿戴得像《怪奇物语》里面的人物一样。
+# translation = Celebrities, fans and even CNN reporters are dressing up like "Stranger Things" characters this holiday.
+# source = UD Chinese-PUD n01137003
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-6:1-1;gf0025-8:2-2;gf0025-10:13-13;gf0025-16:0-0;gf0025-20:11-11;gf0025-20:22-22;gf0025-68:13-13;gf0025-79:15-15;gf0025-82:11-11;gf0025-82:22-22;gf0025-99:14-18;gf0025-231:9-9;gf0025-258:9-9
+1	在	_	ADP	IN	_	4	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	这	_	DET	DT	_	3	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+3	个	_	NOUN	NNB	_	4	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+4	假期	_	NOUN	NN	_	15	obl	_	Pinyin=jiàqī|Gloss=holiday period; vacation|HanViet=giá kỳ
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	很多	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=hěnduō|HanViet=ngận đa|GlossFrom=parts|Gloss=很 very; quite + 多 many; much; more; a lot of
+7	名人	_	NOUN	NN	_	15	nsubj	_	Pinyin=míngrén|Gloss=personage|HanViet=danh nhân
+8	、	_	PUNCT	EC	_	9	punct	_	_
+9	粉丝	_	NOUN	NN	_	7	conj	_	Pinyin=fěnsī|Gloss=bean vermicelli; mung bean starch noodles; cellophane noodles|HanViet=phấn tơ|Trad=粉絲
+10	甚至	_	CCONJ	CC	_	13	cc	_	Pinyin=shènzhì|Gloss=even; so much so that|HanViet=thậm chí
+11	CNN	_	X	FW	_	13	nmod	_	Pinyin=CNN
+12	的	_	PART	DEC	Case=Gen	11	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	记者	_	NOUN	NN	_	7	conj	_	Pinyin=jìzhě|Gloss=reporter; journalist|HanViet=ký giả|Trad=記者
+14	都	_	ADV	RB	_	15	advmod	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+15	穿戴	_	VERB	VV	_	0	root	_	Pinyin=chuāndài|Gloss=to dress; to be dressed|HanViet=xuyên đội
+16	得	_	PART	DEV	_	15	mark:prt	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+17	像	_	ADP	IN	_	24	case	_	Pinyin=xiàng|Gloss=to resemble|HanViet=tượng
+18	《	_	PUNCT	(	_	20	punct	_	_
+19	怪奇	_	ADJ	JJ	_	20	amod	_	Pinyin=guàiqí|HanViet=quái kỳ|GlossFrom=parts|Gloss=怪 odd; strange; uncanny + 奇 odd (number)
+20	物语	_	NOUN	NN	_	22	compound	_	Pinyin=wùyǔ|Gloss=monogatari|HanViet=vật ngữ|Trad=物語
+21	》	_	PUNCT	)	_	20	punct	_	_
+22	里面	_	NOUN	NN	_	24	nmod	_	Pinyin=lǐmiàn|Gloss=inside|HanViet=lý diện|Trad=裡面
+23	的	_	PART	DEC	Case=Gen	22	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+24	人物	_	NOUN	NN	_	25	nmod	_	Pinyin=rénwù|Gloss=person; personage; figure (esp. sb of importance)|HanViet=nhân vật
+25	一样	_	ADJ	JJ	_	15	xcomp	_	Pinyin=yīyàng|Gloss=same|HanViet=nhất dạng|Trad=一樣
+26	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = ud-pud-n01043014
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 它的年度预算超过十四亿美元，员工超过6000人。
+# translation = Its annual budget is more than $1.4 billion, and it employs more than 6,000 people.
+# source = UD Chinese-PUD n01043014
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-20:1-1;gf0025-23:11-12;gf0025-54:0-0;gf0025-57:5-5;gf0025-82:1-1;gf0025-204:11-11
+1	它	_	PRON	PRP	Person=3	4	nmod	_	Pinyin=tā|Gloss=it|HanViet=tha
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	年度	_	NOUN	NN	_	4	compound	_	Pinyin=niándù|Gloss=year (e.g. school year, fiscal year)|HanViet=niên độ
+4	预算	_	NOUN	NN	_	5	nsubj	_	Pinyin=yùsuàn|Gloss=budget|HanViet=dự toán|Trad=預算
+5	超过	_	VERB	VV	_	11	dep	_	Pinyin=chāoguò|Gloss=to surpass|HanViet=siêu quá,qua|Trad=超過
+6	十四亿	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=shísìyì|HanViet=thập tứ ức|GlossFrom=parts|Gloss=十四 fourteen; 14 + 亿 100 million|Trad=十四億
+7	美	_	PROPN	NNP	_	8	compound	_	Pinyin=měi|Gloss=(bound form) the Americas (abbr. for 美洲[Mei3 zhou1])|HanViet=mỹ
+8	元	_	NOUN	NNB	_	5	obj	_	Pinyin=yuán|Gloss=Yuan dynasty (1279–1368)|HanViet=nguyên
+9	，	_	PUNCT	,	_	5	punct	_	_
+10	员工	_	NOUN	NN	_	11	nsubj	_	Pinyin=yuángōng|Gloss=staff; personnel; employee|HanViet=viên công|Trad=員工
+11	超过	_	VERB	VV	_	0	root	_	Pinyin=chāoguò|Gloss=to surpass|HanViet=siêu quá,qua|Trad=超過
+12	6000	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=6000
+13	人	_	NOUN	NN	_	11	obj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+14	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = ud-pud-n03004003
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 11月3日星期四，圣戈当（上加龙地区）市长决定暂停于2014年与政府签订的城市发展条约。
+# translation = On Thursday, the 3rd of November, the mayor of Saint-Gaudens (in the Haute-Garonne region) decided to suspend the urban development agreement with the government formed in 2014.
+# source = UD Chinese-PUD n03004003
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-1:9-9;gf0025-7:5-5;gf0025-20:22-22;gf0025-23:17-18;gf0025-44:0-1;gf0025-44:2-3;gf0025-44:17-18;gf0025-60:18-18;gf0025-82:22-22;gf0025-181:14-18;gf0025-181:15-18;gf0025-182:14-18;gf0025-182:15-18;gf0025-204:17-17;gf0025-371:16-16;gf0025-373:19-19
+1	11	_	NUM	CD	NumType=Card	2	nummod	_	Pinyin=11
+2	月	_	NOUN	NNB	_	4	compound	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+3	3	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=3
+4	日	_	NOUN	NNB	_	15	obl:tmod	_	Pinyin=rì|Gloss=(bound form) sun|HanViet=nhật
+5	星期	_	NOUN	NN	_	4	appos	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+6	四	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=sì|Gloss=four|HanViet=tứ
+7	，	_	PUNCT	,	_	4	punct	_	_
+8	圣戈当	_	PROPN	NNP	_	14	compound	_	Pinyin=shènggēdāng|HanViet=thánh qua đương,đang|GlossFrom=parts|Gloss=圣 (literary) to dig with persistent effort (e.g. to gather wild vegetables) + 戈 dagger-axe + 当 (onom.) dong|Trad=聖戈當
+9	（	_	PUNCT	(	_	12	punct	_	_
+10	上	_	NOUN	NN	_	12	compound	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+11	加龙	_	PROPN	NNP	_	12	compound	_	Pinyin=jiālóng|HanViet=gia long|GlossFrom=parts|Gloss=加 Canada (abbr. for 加拿大[Jia1 na2 da4]) + 龙 Chinese dragon; loong|Trad=加龍
+12	地区	_	NOUN	NN	_	14	compound	_	Pinyin=dìqū|Gloss=region; area (informal or geographical term)|HanViet=địa khu|Trad=地區
+13	）	_	PUNCT	)	_	12	punct	_	_
+14	市长	_	NOUN	NN	_	15	nsubj	_	Pinyin=shìzhǎng|Gloss=mayor|HanViet=thị trưởng|Trad=市長
+15	决定	_	VERB	VV	_	0	root	_	Pinyin=juédìng|Gloss=to decide; to determine; to make up one's mind|HanViet=quyết định|Trad=決定
+16	暂停	_	VERB	VV	_	15	xcomp	_	Pinyin=zàntíng|Gloss=to suspend|HanViet=tạm đình|Trad=暫停
+17	于	_	ADP	IN	_	19	case	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+18	2014	_	NUM	CD	NumType=Card	19	nummod	_	Pinyin=2014
+19	年	_	NOUN	NNB	_	22	obl	_	Pinyin=nián|Gloss=year|HanViet=niên
+20	与	_	ADP	IN	_	21	case	_	Pinyin=yǔ|Gloss=(formal) and; together with (linking parallel nouns, verbs, or phrases)|HanViet=dữ|Trad=與
+21	政府	_	NOUN	NN	_	22	obl	_	Pinyin=zhèngfǔ|Gloss=government|HanViet=chính phủ
+22	签订	_	VERB	VV	_	26	acl:relcl	_	Pinyin=qiāndìng|Gloss=to agree to and sign (a treaty etc)|HanViet=thiêm đính|Trad=簽訂
+23	的	_	PART	DEC	_	22	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+24	城市	_	NOUN	NN	_	26	compound	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+25	发展	_	NOUN	NN	_	26	compound	_	Pinyin=fāzhǎn|Gloss=development|HanViet=phát triển|Trad=發展
+26	条约	_	NOUN	NN	_	16	obj	_	Pinyin=tiáoyuē|Gloss=treaty|HanViet=điều ước|Trad=條約
+27	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = ud-pud-w05006058
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 另一方面，外部的历史包括西班牙语使用者的历史、他们的历史变迁和复兴以及西班牙语的社会运用。
+# translation = On the other hand, external history contains references to the history of Spanish speakers, their historical vicissitudes and the social use of the language.
+# source = UD Chinese-PUD w05006058
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:13-13;gf0025-7:1-1;gf0025-19:17-17;gf0025-20:5-5;gf0025-20:10-10;gf0025-20:14-14;gf0025-20:21-21;gf0025-82:5-5;gf0025-82:10-10;gf0025-82:14-14;gf0025-82:21-21;gf0025-132:13-13;gf0025-230:19-19;gf0025-428:0-0
+1	另	_	DET	DT	_	3	det	_	Pinyin=lìng|Gloss=other|HanViet=lánh
+2	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yì|Gloss=one|HanViet=nhất
+3	方面	_	NOUN	NN	_	8	obl	_	Pinyin=fāngmiàn|Gloss=respect|HanViet=phương diện
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	外部	_	NOUN	NN	_	7	nmod	_	Pinyin=wàibù|Gloss=the outside; (attributive) external|HanViet=ngoại bộ
+6	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	历史	_	NOUN	NN	_	8	nsubj	_	Pinyin=lìshǐ|Gloss=history|HanViet=lịch sử|Trad=歷史
+8	包括	_	VERB	VV	_	0	root	_	Pinyin=bāokuò|Gloss=to comprise|HanViet=bao quát
+9	西班牙语	_	PROPN	NNP	_	10	compound	_	Pinyin=xībānyáyǔ|Gloss=Spanish language|HanViet=tây ban nha ngữ|Trad=西班牙語
+10	使用者	_	VERB	VV	_	12	nmod	_	Pinyin=shǐyòngzhě|Gloss=(Tw) user|HanViet=sử,sứ dụng giả
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	历史	_	NOUN	NN	_	8	obj	_	Pinyin=lìshǐ|Gloss=history|HanViet=lịch sử|Trad=歷史
+13	、	_	PUNCT	EC	_	17	punct	_	_
+14	他们	_	PRON	PRP	Number=Plur|Person=3	17	nmod	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+15	的	_	PART	DEC	Case=Gen	14	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	历史	_	NOUN	NN	_	17	compound	_	Pinyin=lìshǐ|Gloss=history|HanViet=lịch sử|Trad=歷史
+17	变迁	_	NOUN	NN	_	12	conj	_	Pinyin=biànqiān|Gloss=changes|HanViet=biến thiên|Trad=變遷
+18	和	_	CCONJ	CC	_	19	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+19	复兴	_	NOUN	NN	_	12	conj	_	Pinyin=fùxīng|Gloss=to revive|HanViet=phục hưng|Trad=復興
+20	以及	_	CCONJ	CC	_	24	cc	_	Pinyin=yǐjí|Gloss=and; as well as|HanViet=dĩ cập
+21	西班牙语	_	PROPN	NNP	_	24	nmod	_	Pinyin=xībānyáyǔ|Gloss=Spanish language|HanViet=tây ban nha ngữ|Trad=西班牙語
+22	的	_	PART	DEC	Case=Gen	21	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+23	社会	_	NOUN	NN	_	24	compound	_	Pinyin=shèhuì|Gloss=society|HanViet=xã hội|Trad=社會
+24	运用	_	NOUN	NN	_	12	conj	_	Pinyin=yùnyòng|Gloss=to use|HanViet=vận dụng|Trad=運用
+25	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = ud-pud-w01083007
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 对罗曼诺夫王朝的理想愿景使他对国家的实际情况视而不见。
+# translation = This idealized vision of the Romanov monarchy blinded him to the actual state of his country.
+# source = UD Chinese-PUD w01083007
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-5:7-7;gf0025-20:3-3;gf0025-20:10-10;gf0025-73:0-0;gf0025-73:8-8;gf0025-82:3-3;gf0025-82:10-10;gf0025-132:9-9;gf0025-187:6-13
+1	对	_	ADP	IN	_	6	nmod	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+2	罗曼诺夫	_	PROPN	NNP	_	3	compound	_	Pinyin=luómànnuòfū|HanViet=la mạn nặc phu|GlossFrom=parts|Gloss=罗曼诺 Romano (name) + 夫 husband|Trad=羅曼諾夫
+3	王朝	_	NOUN	NN	_	1	obj	_	Pinyin=wángcháo|Gloss=dynasty|HanViet=vương triều
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	理想	_	NOUN	NN	_	6	compound	_	Pinyin=lǐxiǎng|Gloss=an ideal|HanViet=lý tưởng
+6	愿景	_	NOUN	NN	_	7	nsubj	_	Pinyin=yuànjǐng|Gloss=vision (of the future)|HanViet=nguyện cảnh|Trad=願景
+7	使	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=shǐ|Gloss=to make|HanViet=sử,sứ
+8	他	_	PRON	PRP	Person=3	14	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+9	对	_	ADP	IN	_	13	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+10	国家	_	NOUN	NN	_	13	nmod	_	Pinyin=guójiā|Gloss=country; nation; state|HanViet=quốc gia|Trad=國家
+11	的	_	PART	DEC	Case=Gen	10	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	实际	_	NOUN	NN	_	13	compound	_	Pinyin=shíjì|Gloss=reality|HanViet=thực tế|Trad=實際
+13	情况	_	NOUN	NN	_	14	obl	_	Pinyin=qíngkuàng|Gloss=circumstances; state of affairs; situation|HanViet=tình huống|Trad=情況
+14	视而不见	_	VERB	VV	_	7	ccomp	_	Pinyin=shìérbùjiàn|Gloss=(idiom) to turn a blind eye to; to ignore|HanViet=thị nhi bất kiến|Trad=視而不見
+15	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = ud-pud-n01129010
+# tree_source = ud-pud
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 这是最常见的国土安全问题。
+# translation = This is a homeland security issue of the most existential kind.
+# source = UD Chinese-PUD n01129010
+# license = CC BY-SA 3.0
+# grammar_points = gf0025-6:0-0;gf0025-9:2-2;gf0025-20:4-4;gf0025-36:1-1;gf0025-82:4-4
+1	这	_	PRON	PRD	_	8	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	是	_	AUX	VC	_	8	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	最	_	ADV	RB	_	4	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+4	常见	_	ADJ	JJ	_	8	amod	_	Pinyin=chángjiàn|Gloss=commonly seen|HanViet=thường kiến|Trad=常見
+5	的	_	PART	DEC	_	4	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	国土	_	NOUN	NN	_	8	compound	_	Pinyin=guótǔ|Gloss=country's territory|HanViet=quốc thổ|Trad=國土
+7	安全	_	NOUN	NN	_	8	compound	_	Pinyin=ānquán|Gloss=safe; secure|HanViet=an toàn
+8	问题	_	NOUN	NN	_	0	root	_	Pinyin=wèntí|Gloss=question|HanViet=vấn đề|Trad=問題
+9	。	_	PUNCT	.	_	8	punct	_	_

@@ -1,0 +1,423 @@
+{
+  "sources": [
+    {
+      "id": "tatoeba",
+      "name": "Tatoeba",
+      "version": "",
+      "license": "CC BY 2.0 FR",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+      "url": "https://tatoeba.org",
+      "citation": "Tatoeba, https://tatoeba.org (sentence ids kept per sentence)",
+      "used_for": "Mandarin sentences and their English translations"
+    },
+    {
+      "id": "ud-gsdsimp",
+      "name": "UD Chinese-GSDSimp",
+      "version": "",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://github.com/UniversalDependencies/UD_Chinese-GSDSimp",
+      "citation": "Universal Dependencies, UD_Chinese-GSDSimp",
+      "used_for": "Wikipedia sentences, with gold (hand-annotated) trees"
+    },
+    {
+      "id": "ud-cfl",
+      "name": "UD Chinese-CFL",
+      "version": "",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://github.com/UniversalDependencies/UD_Chinese-CFL",
+      "citation": "Universal Dependencies, UD_Chinese-CFL",
+      "used_for": "Learner essays, with gold (hand-annotated) trees"
+    },
+    {
+      "id": "ud-beginner",
+      "name": "UD Chinese-Beginner",
+      "version": "",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "url": "https://github.com/UniversalDependencies/UD_Chinese-Beginner",
+      "citation": "Universal Dependencies, UD_Chinese-Beginner",
+      "used_for": "Learner textbook sentences, with gold (hand-annotated) trees"
+    },
+    {
+      "id": "ud-pud",
+      "name": "UD Chinese-PUD",
+      "version": "",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "url": "https://github.com/UniversalDependencies/UD_Chinese-PUD",
+      "citation": "Universal Dependencies, UD_Chinese-PUD",
+      "used_for": "News sentences, converted to simplified, with gold (hand-annotated) trees"
+    },
+    {
+      "id": "stanza-gsdsimp",
+      "name": "Stanza (zh-hans, GSDSimp models)",
+      "version": "1.15.0",
+      "license": "Apache-2.0",
+      "license_url": "https://github.com/stanfordnlp/stanza/blob/main/LICENSE",
+      "url": "https://stanfordnlp.github.io/stanza/",
+      "citation": "Qi et al. 2020, Stanza: A Python Natural Language Processing Toolkit for Many Human Languages",
+      "used_for": "Machine trees: word split, word class and relations for Tatoeba and the passages"
+    },
+    {
+      "id": "cc-cedict",
+      "name": "CC-CEDICT",
+      "version": "2026-10-22",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://www.mdbg.net/chinese/dictionary?page=cedict",
+      "citation": "CC-CEDICT, MDBG",
+      "used_for": "English glosses"
+    },
+    {
+      "id": "wiktionary",
+      "name": "Wiktionary (kaikki.org extraction)",
+      "version": "2026-10-26",
+      "license": "CC BY-SA 4.0 / GFDL",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://kaikki.org/dictionary/Chinese/",
+      "citation": "Wiktionary contributors, extracted by Tatu Ylonen's wiktextract (kaikki.org); changed here: senses filtered, glosses shortened",
+      "used_for": "Every Mandarin sense of a word, grouped by word class, under All senses; the senses of a grammar point's listed words, quoted as its second source"
+    },
+    {
+      "id": "pypinyin",
+      "name": "pypinyin",
+      "version": "0.55.0",
+      "license": "MIT",
+      "license_url": "https://github.com/mozillazg/python-pinyin/blob/master/LICENSE.txt",
+      "url": "https://github.com/mozillazg/python-pinyin",
+      "citation": "mozillazg/python-pinyin",
+      "used_for": "Pinyin with tone marks"
+    },
+    {
+      "id": "hanviet-table",
+      "name": "hanviet-pinyin-words",
+      "version": "2.1.7",
+      "license": "MIT",
+      "license_url": "https://github.com/ph0ngp/hanviet-pinyin-wordlist",
+      "url": "https://www.npmjs.com/package/hanviet-pinyin-words",
+      "citation": "Phong Phan, hanviet-pinyin-wordlist",
+      "used_for": "Hán Việt readings, chosen by each character's pinyin"
+    },
+    {
+      "id": "opencc",
+      "name": "OpenCC (opencc-python-reimplemented)",
+      "version": "0.1.7",
+      "license": "Apache-2.0",
+      "license_url": "https://github.com/yichen0831/opencc-python/blob/master/LICENSE.txt",
+      "url": "https://github.com/yichen0831/opencc-python",
+      "citation": "OpenCC, BYVoid; Python reimplementation by yichen0831",
+      "used_for": "Traditional characters (s2tw) and PUD's conversion to simplified (t2s)"
+    },
+    {
+      "id": "wubi86-table",
+      "name": "极点五笔 86 (ibus-table-chinese wubi-jidian86, Wubi 86 codes)",
+      "version": "4430145",
+      "license": "Freely redistributable without restriction",
+      "license_url": "https://github.com/mike-fabian/ibus-table-chinese/blob/4430145/tables/wubi-jidian/wubi-jidian86.txt",
+      "url": "https://github.com/mike-fabian/ibus-table-chinese",
+      "citation": "Wozy, 极点五笔 86 (极爽词库 6.0), converted by Chen Xing for ibus-table-chinese",
+      "used_for": "Wubi 86 codes of each character and word, their 简码 and candidate order, and the Wubi look-up"
+    },
+    {
+      "id": "wubi86-keys",
+      "name": "The Wubi 86 key chart, written for korwus",
+      "version": "",
+      "license": "MIT",
+      "license_url": "",
+      "url": "https://github.com/lawrnsfeng/qorwus/blob/master/qorwus/data/wubi86/keys.tsv",
+      "citation": "The 25-key layout of 王码五笔字型 86 (Wang Yongmin); roots and notes ours",
+      "used_for": "The roots on each Wubi 86 key, and which root gives each key of a code"
+    },
+    {
+      "id": "wubi98-table",
+      "name": "98wubi-tables (Wubi 98 full codes)",
+      "version": "6b8b6fb",
+      "license": "Unlicense",
+      "license_url": "https://github.com/yanhuacuo/98wubi-tables/blob/master/LICENSE",
+      "url": "https://github.com/yanhuacuo/98wubi-tables",
+      "citation": "yanhuacuo, 98wubi-tables (98五笔小组), spelling2.txt",
+      "used_for": "Wubi 98 code and roots of each character, and the Wubi look-up in Wubi 98"
+    },
+    {
+      "id": "unihan",
+      "name": "Unihan database (kRSUnicode)",
+      "version": "18.0.0",
+      "license": "Unicode-3.0",
+      "license_url": "https://www.unicode.org/license.txt",
+      "url": "https://www.unicode.org/charts/unihan.html",
+      "citation": "Unicode, Inc., Unicode Han Database (UAX #38), Unihan_RadicalStrokeCounts.txt",
+      "used_for": "The 部首 (Kangxi radical) of each character"
+    },
+    {
+      "id": "cjk-decomp",
+      "name": "CJK Decomposition Data (cjk-decomp)",
+      "version": "c29b391",
+      "license": "Apache-2.0",
+      "license_url": "https://github.com/amake/cjk-decomp/blob/master/LICENSE",
+      "url": "https://github.com/amake/cjk-decomp",
+      "citation": "Gavin Grover, CJK Decomposition Data; fork with fixes by amake",
+      "used_for": "The components of each character in the 部首 breakdown"
+    },
+    {
+      "id": "korwus-radicals",
+      "name": "The 214 Kangxi radicals, written for korwus",
+      "version": "",
+      "license": "MIT",
+      "license_url": "",
+      "url": "https://github.com/lawrnsfeng/qorwus/blob/master/qorwus/data/radicals/kangxi.tsv",
+      "citation": "Written for korwus from the Kangxi radical list (Unicode names, public facts)",
+      "used_for": "Radical forms, variants, stroke counts, Chinese names and English meanings"
+    },
+    {
+      "id": "hsk2025",
+      "name": "HSK 3.0 word and character lists (2025 syllabus)",
+      "version": "0.2.1",
+      "license": "MIT",
+      "license_url": "https://github.com/ivankra/hsk30/blob/master/LICENSE",
+      "url": "https://github.com/ivankra/hsk30",
+      "citation": "ivankra/hsk30, the HSK 3.0 lists as published for the 2025 exam",
+      "used_for": "Word and sentence levels"
+    },
+    {
+      "id": "gf0025-2021",
+      "name": "GF0025-2021 国际中文教育中文水平等级标准",
+      "version": "2021",
+      "license": "",
+      "license_url": "",
+      "url": "http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210329_523304.html",
+      "citation": "Ministry of Education of the PRC, GF0025-2021",
+      "used_for": "The grammar points and their levels"
+    },
+    {
+      "id": "hsk20",
+      "name": "HSK 2.0 word lists (2012)",
+      "version": "0.2.1",
+      "license": "MIT",
+      "license_url": "https://github.com/ivankra/hsk30/blob/master/LICENSE",
+      "url": "https://github.com/ivankra/hsk30",
+      "citation": "ivankra/hsk30",
+      "used_for": "Not used for levels; kept for comparison with older courses"
+    },
+    {
+      "id": "hsk30-grammar",
+      "name": "hsk30-grammar.csv",
+      "version": "",
+      "license": "MIT",
+      "license_url": "https://github.com/ivankra/hsk30/blob/master/LICENSE",
+      "url": "https://github.com/ivankra/hsk30/blob/master/hsk30-grammar.csv",
+      "citation": "ivankra/hsk30, GF0025-2021's grammar list as a table",
+      "used_for": "The grammar list the Grammar tab shows"
+    },
+    {
+      "id": "hsk2025-grammar",
+      "name": "新版HSK考试大纲 grammar list (2025), krmanik/HSK-3.0",
+      "version": "182692c",
+      "license": "Official syllabus text; the repository states no license for it",
+      "license_url": "",
+      "url": "https://github.com/krmanik/HSK-3.0/tree/main/New%20HSK%20(2025)/HSK%20Grammar",
+      "citation": "krmanik/HSK-3.0, the grammar of the 2025 HSK syllabus (新版HSK考试大纲) as JSON",
+      "used_for": "The 2025 level of each grammar point and the points new in 2025"
+    },
+    {
+      "id": "claude-explain",
+      "name": "Grammar explanations written by Claude",
+      "version": "claude-opus-5-5",
+      "license": "MIT / CC0",
+      "license_url": "",
+      "url": "https://github.com/lawrnsfeng/qorwus/blob/master/data/grammar/claims/claude.jsonl",
+      "citation": "Machine-written by Claude (Anthropic), not yet checked by a person",
+      "used_for": "The short English explanation claim of each grammar point in the Grammar tab"
+    },
+    {
+      "id": "claude-compare",
+      "name": "Easily confused word groups written by Claude",
+      "version": "claude-opus-5-5",
+      "license": "MIT / CC0",
+      "license_url": "",
+      "url": "https://github.com/lawrnsfeng/qorwus/blob/master/data/grammar/compare.jsonl",
+      "citation": "Machine-written by Claude (Anthropic), not yet checked by a person",
+      "used_for": "The contrast text and member notes of each easily confused group (#53)"
+    },
+    {
+      "id": "claude-translate",
+      "name": "English translations made by Claude",
+      "version": "claude-opus-5-5",
+      "license": "CC BY-SA 4.0, as the UD sentences they translate",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://github.com/lawrnsfeng/qorwus/blob/master/data/translations/claude.jsonl",
+      "citation": "Machine translation by Claude (Anthropic), not yet checked by a person",
+      "used_for": "The English of each UD GSDSimp and CFL sentence, labeled machine (#27)"
+    },
+    {
+      "id": "claude-sense",
+      "name": "Sense picks made by Claude",
+      "version": "claude-opus-5-5",
+      "license": "MIT / CC0",
+      "license_url": "",
+      "url": "https://github.com/lawrnsfeng/qorwus/blob/master/data/sense/llm.jsonl",
+      "citation": "Machine picks by Claude (Anthropic), not yet checked by a person",
+      "used_for": "Sense here for the HSK 1-3 tokens no rule settles, labeled with the run (#9)"
+    },
+    {
+      "id": "fazhan-hanyu",
+      "name": "发展汉语（第二版）初级读写 I and II",
+      "version": "2nd edition",
+      "license": "All rights reserved; private, served only after unlock",
+      "license_url": "",
+      "url": "",
+      "citation": "发展汉语（第二版）初级读写 I, II, Beijing Language and Culture University Press, ISBN 9787561933602, 9787561934616",
+      "used_for": "The locked reading passages of the two textbooks"
+    },
+    {
+      "id": "hskreading",
+      "name": "HSK Reading",
+      "version": "",
+      "license": "All rights reserved; private, served only after unlock",
+      "license_url": "",
+      "url": "https://hskreading.com/",
+      "citation": "",
+      "used_for": "Locked graded reading passages crawled for personal study (stories, #26)"
+    },
+    {
+      "id": "coco",
+      "name": "Coco Chinese",
+      "version": "",
+      "license": "All rights reserved; private, served only after unlock",
+      "license_url": "",
+      "url": "https://www.coco-chinese.com/chinese-stories",
+      "citation": "",
+      "used_for": "Locked graded reading passages crawled for personal study (stories, #26)"
+    },
+    {
+      "id": "chinesehskreading",
+      "name": "ChineseHSKReading",
+      "version": "",
+      "license": "All rights reserved; private, served only after unlock",
+      "license_url": "",
+      "url": "https://chinesehskreading.com/",
+      "citation": "",
+      "used_for": "Locked graded reading passages crawled for personal study (stories and lessons, #26)"
+    },
+    {
+      "id": "mandarinbean",
+      "name": "Mandarin Bean",
+      "version": "",
+      "license": "All rights reserved; private, served only after unlock",
+      "license_url": "",
+      "url": "https://mandarinbean.com/",
+      "citation": "",
+      "used_for": "Locked graded reading passages crawled for personal study (lessons, #26)"
+    },
+    {
+      "id": "digmandarin",
+      "name": "DigMandarin",
+      "version": "",
+      "license": "All rights reserved; private, served only after unlock",
+      "license_url": "",
+      "url": "https://www.digmandarin.com/",
+      "citation": "",
+      "used_for": "Locked graded reading passages crawled for personal study (articles, #26)"
+    },
+    {
+      "id": "korwus-graded",
+      "name": "Graded passages written by Claude for korwus",
+      "version": "claude-opus-5-5",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://github.com/lawrnsfeng/qorwus/blob/master/data/passages/korwus-graded.jsonl",
+      "citation": "Machine-written by Claude (Anthropic), not yet checked by a person",
+      "used_for": "A reading passage for each HSK 1-3 study path unit and passages for HSK 4-6 (#20); their English, labeled machine, is in data/translations/korwus-graded.jsonl"
+    },
+    {
+      "id": "korwus-written",
+      "name": "Written for korwus",
+      "version": "",
+      "license": "MIT / CC0",
+      "license_url": "",
+      "url": "https://github.com/lawrnsfeng/qorwus",
+      "citation": "",
+      "used_for": "The demo and the sample passages"
+    },
+    {
+      "id": "noto-sans-sc",
+      "name": "Noto Sans SC",
+      "version": "",
+      "license": "OFL-1.1",
+      "license_url": "https://openfontlicense.org",
+      "url": "https://fonts.google.com/noto/specimen/Noto+Sans+SC",
+      "citation": "Google, Noto Sans SC",
+      "used_for": "The embedded font, cut to the characters in the library"
+    },
+    {
+      "id": "noto-serif-sc",
+      "name": "Noto Serif SC",
+      "version": "2.003",
+      "license": "OFL-1.1",
+      "license_url": "https://openfontlicense.org",
+      "url": "https://fonts.google.com/noto/specimen/Noto+Serif+SC",
+      "citation": "Adobe, Noto Serif SC",
+      "used_for": "An optional text font / writing style, cut to the characters in the library"
+    },
+    {
+      "id": "lxgw-wenkai-lite",
+      "name": "LXGW WenKai Lite",
+      "version": "1.530",
+      "license": "OFL-1.1",
+      "license_url": "https://openfontlicense.org",
+      "url": "https://github.com/lxgw/LxgwWenKai-Lite",
+      "citation": "LXGW, LXGW WenKai Lite",
+      "used_for": "An optional text font / writing style, cut to the characters in the library"
+    },
+    {
+      "id": "zhuque-fangsong",
+      "name": "Zhuque Fangsong",
+      "version": "0.212",
+      "license": "OFL-1.1",
+      "license_url": "https://openfontlicense.org",
+      "url": "https://github.com/TrionesType/zhuque",
+      "citation": "JadeFoci, Zhuque Fangsong",
+      "used_for": "An optional text font / writing style, cut to the characters in the library"
+    },
+    {
+      "id": "zhi-mang-xing",
+      "name": "Zhi Mang Xing",
+      "version": "2.001",
+      "license": "OFL-1.1",
+      "license_url": "https://openfontlicense.org",
+      "url": "https://fonts.google.com/specimen/Zhi+Mang+Xing",
+      "citation": "The ZhiMangXing Project Authors, Zhi Mang Xing",
+      "used_for": "An optional text font / writing style, cut to the characters in the library"
+    },
+    {
+      "id": "liu-jian-mao-cao",
+      "name": "Liu Jian Mao Cao",
+      "version": "1.003",
+      "license": "OFL-1.1",
+      "license_url": "https://openfontlicense.org",
+      "url": "https://fonts.google.com/specimen/Liu+Jian+Mao+Cao",
+      "citation": "The Liu Jian Mao Cao Project Authors, Liu Jian Mao Cao",
+      "used_for": "An optional text font / writing style, cut to the characters in the library"
+    },
+    {
+      "id": "browser-speech",
+      "name": "Browser speech synthesis",
+      "version": "",
+      "license": "",
+      "license_url": "",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis",
+      "citation": "",
+      "used_for": "Reading words and sentences aloud with the browser's own voice"
+    }
+  ],
+  "fields": {
+    "pinyin": "pypinyin",
+    "gloss": "cc-cedict",
+    "hanviet": "hanviet-table",
+    "trad": "opencc",
+    "wubi": "wubi86-table",
+    "wubi98": "wubi98-table"
+  },
+  "level_standard": "hsk2025"
+}

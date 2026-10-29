@@ -1,0 +1,327 @@
+# sent_id = korwus-graded-l5-05-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# newpar
+# text = 小时候，我一直梦想能弹钢琴，可是家里条件有限，这个愿望始终没有实现。
+# translation = When I was little, I always dreamed of playing the piano, but our family's means were limited and that wish never came true.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	小	_	PART	PFA	_	2	case	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+2	时候	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	一直	_	ADV	RB	_	6	advmod	_	Pinyin=yìzhí|Gloss=straight (in a straight line)|HanViet=nhất trực
+6	梦想	_	VERB	VV	_	0	root	_	Pinyin=mèngxiǎng|Gloss=(fig.) to dream of|HanViet=mộng tưởng|Trad=夢想
+7	能	_	AUX	MD	_	8	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+8	弹	_	VERB	VV	_	6	xcomp	_	Pinyin=tán|Gloss=to pluck (a string)|HanViet=đạn|Trad=彈
+9	钢琴	_	NOUN	NN	_	8	obj	_	Pinyin=gāngqín|Gloss=piano|HanViet=cương cầm|Trad=鋼琴
+10	，	_	PUNCT	,	_	14	punct	_	_
+11	可是	_	SCONJ	RB	_	14	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+12	家里	_	NOUN	NN	_	13	nmod	_	Pinyin=jiālǐ|Gloss=home|HanViet=gia lý|Trad=家裡
+13	条件	_	NOUN	NN	_	14	nsubj	_	Pinyin=tiáojiàn|Gloss=condition; circumstance; term; factor|HanViet=điều kiện|Trad=條件
+14	有限	_	ADJ	JJ	_	6	parataxis	_	Pinyin=yǒuxiàn|Gloss=limited; finite|HanViet=hữu hạn
+15	，	_	PUNCT	,	_	20	punct	_	_
+16	这	_	DET	DT	_	18	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+17	个	_	NOUN	NNB	_	16	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+18	愿望	_	NOUN	NN	_	20	nsubj	_	Pinyin=yuànwàng|Gloss=desire|HanViet=nguyện vọng|Trad=願望
+19	始终	_	ADV	RB	_	20	advmod	_	Pinyin=shǐzhōng|Gloss=from beginning to end|HanViet=thuỷ chung|Trad=始終
+20	没有	_	VERB	VV	Polarity=Neg	6	parataxis	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+21	实现	_	VERB	VV	_	20	xcomp	_	Pinyin=shíxiàn|Gloss=to achieve; to implement; to realize; to bring about|HanViet=thực hiện|Trad=實現
+22	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l5-05-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 去年我四十岁生日的时候，丈夫送给我一架二手钢琴，还帮我报了一个成人钢琴班。
+# translation = Last year, on my fortieth birthday, my husband gave me a secondhand piano and also signed me up for an adult piano class.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	去年	_	NOUN	NN	_	7	nmod	_	Pinyin=qùnián|Gloss=last year|HanViet=khứ,khử niên
+2	我	_	PRON	PRP	Person=1	5	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	四十	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=sìshí|Gloss=forty|HanViet=tứ thập
+4	岁	_	NOUN	NNB	_	3	clf	_	Pinyin=suì|Gloss=years old|HanViet=tuế|Trad=歲
+5	生日	_	NOUN	NN	_	7	nmod	_	Pinyin=shēngrì|Gloss=birthday|HanViet=sinh nhật
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	时候	_	NOUN	NN	_	20	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	丈夫	_	NOUN	NN	_	20	nsubj	_	Pinyin=zhàngfū|Gloss=husband|HanViet=trượng phu
+10	送给	_	VERB	VV	_	20	advcl	_	Pinyin=sònggěi|Gloss=to send|HanViet=tống cấp|Trad=送給
+11	我	_	PRON	PRP	Person=1	10	iobj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+12	一	_	NUM	CD	NumType=Card	15	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+13	架	_	NOUN	NNB	_	12	clf	_	Pinyin=jià|Gloss=to support|HanViet=giá
+14	二手	_	ADJ	JJ	_	15	amod	_	Pinyin=èrshǒu|Gloss=indirectly acquired|HanViet=nhị thủ
+15	钢琴	_	NOUN	NN	_	10	obj	_	Pinyin=gāngqín|Gloss=piano|HanViet=cương cầm|Trad=鋼琴
+16	，	_	PUNCT	,	_	10	punct	_	_
+17	还	_	SCONJ	RB	_	20	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+18	帮	_	VERB	VV	Voice=Cau	20	advcl	_	Pinyin=bāng|Gloss=to help|HanViet=bang|Trad=幫
+19	我	_	PRON	PRP	Person=1	18	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+20	报	_	VERB	VV	_	0	root	_	Pinyin=bào|Gloss=to report; to inform; to announce|HanViet=báo|Trad=報
+21	了	_	AUX	AS	Aspect=Perf	20	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+22	一	_	NUM	CD	NumType=Card	23	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+23	个	_	NOUN	NNB	_	26	nmod	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+24	成人	_	NOUN	NN	_	26	nmod	_	Pinyin=chéngrén|Gloss=to reach adulthood|HanViet=thành nhân
+25	钢琴	_	NOUN	NN	_	26	compound	_	Pinyin=gāngqín|Gloss=piano|HanViet=cương cầm|Trad=鋼琴
+26	班	_	PART	SFN	_	20	obj	_	Pinyin=bān|Gloss=team; class; grade|HanViet=ban
+27	。	_	PUNCT	.	_	20	punct	_	_
+
+# sent_id = korwus-graded-l5-05-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# newpar
+# text = 第一次上课，我发现班上的同学年龄都跟我差不多，有退休的老师，也有公司的经理。
+# translation = At the first lesson, I found that my classmates were all about my age, including a retired teacher and a company manager.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	第一	_	NUM	CD	NumType=Ord	2	nummod	_	Pinyin=dìyī|Gloss=first|HanViet=đệ nhất
+2	次	_	NOUN	NNB	_	3	obl	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+3	上课	_	VERB	VV	_	6	advcl	_	Pinyin=shàngkè|Gloss=to go to class|HanViet=thượng khoá|Trad=上課
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	发现	_	VERB	VV	_	0	root	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+7	班	_	NOUN	NN	_	11	nmod	_	Pinyin=bān|Gloss=team; class; grade|HanViet=ban
+8	上	_	ADP	IN	_	7	case	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+9	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	同学	_	NOUN	NN	_	11	nmod	_	Pinyin=tóngxué|Gloss=to study at the same school|HanViet=đồng học|Trad=同學
+11	年龄	_	NOUN	NN	_	15	nsubj	_	Pinyin=niánlíng|Gloss=(a person's) age|HanViet=niên linh|Trad=年齡
+12	都	_	SCONJ	RB	_	15	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+13	跟	_	ADP	IN	_	14	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+14	我	_	PRON	PRP	Person=1	15	obl	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+15	差	_	VERB	VV	_	6	ccomp	_	Pinyin=chà|Gloss=different|HanViet=sai
+16	不多	_	ADJ	JJ	_	15	xcomp	_	Pinyin=buduō|Gloss=不 no; not so + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=bất đa
+17	，	_	PUNCT	,	_	6	punct	_	_
+18	有	_	VERB	VV	_	23	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+19	退休	_	VERB	VV	_	21	acl:relcl	_	Pinyin=tuìxiū|Gloss=to retire (from the workforce); to go into retirement|HanViet=thoái hưu
+20	的	_	SCONJ	DEC	_	19	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+21	老师	_	NOUN	NN	_	18	obj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+22	，	_	PUNCT	,	_	18	punct	_	_
+23	也有	_	VERB	VV	_	6	ccomp	_	Pinyin=yěyǒu|Gloss=也 also; too; as well; (not ...) either + 有 to have; there is|GlossFrom=parts|HanViet=dã hữu
+24	公司	_	NOUN	NN	_	26	nmod	_	Pinyin=gōngsī|Gloss=company; firm; corporation|HanViet=công ti,tư
+25	的	_	PART	DEC	Case=Gen	24	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+26	经理	_	NOUN	NN	_	23	obj	_	Pinyin=jīnglǐ|Gloss=manager|HanViet=kinh lý|Trad=經理
+27	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l5-05-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 大家虽然基础不同，但是都对音乐充满了热情。
+# translation = Although everyone had a different foundation, we were all full of enthusiasm for music.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	大家	_	NOUN	NN	_	10	nsubj	_	Pinyin=dàjiā|Gloss=everyone|HanViet=đại gia
+2	虽然	_	ADP	IN	_	4	case	_	Pinyin=suīrán|Gloss=although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc)|HanViet=tuy nhiên|Trad=雖然
+3	基础	_	NOUN	NN	_	4	nmod	_	Pinyin=jīchǔ|Gloss=base; foundation; basis|HanViet=cơ sở|Trad=基礎
+4	不同	_	ADJ	JJ	_	10	advcl	_	Pinyin=bùtóng|Gloss=different|HanViet=bất đồng
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	但是	_	SCONJ	RB	_	10	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+7	都	_	SCONJ	RB	_	10	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+8	对	_	ADP	IN	_	9	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+9	音乐	_	NOUN	NN	_	10	obl	_	Pinyin=yīnyuè|Gloss=music|HanViet=âm nhạc|Trad=音樂
+10	充满	_	VERB	VV	_	0	root	_	Pinyin=chōngmǎn|Gloss=full of|HanViet=sung mãn|Trad=充滿
+11	了	_	AUX	AS	Aspect=Perf	10	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	热情	_	NOUN	NN	_	10	obj	_	Pinyin=rèqíng|Gloss=cordial|HanViet=nhiệt tình|Trad=熱情
+13	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l5-05-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 老师说，成年人学乐器有自己的优势，因为我们理解能力强，也更懂得自觉安排时间。
+# translation = The teacher said adults have their own advantages in learning an instrument, because we understand things quickly and know better how to manage our time on our own.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	老师	_	NOUN	NN	_	2	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	，	_	PUNCT	,	_	21	punct	_	_
+4	成年	_	NOUN	NN	_	5	compound	_	Pinyin=chéngnián|Gloss=to grow to adulthood|HanViet=thành niên
+5	人	_	PART	SFN	_	6	compound	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+6	学	_	PART	SFN	_	7	nmod	_	Pinyin=xué|Gloss=to learn|HanViet=học|Trad=學
+7	乐器	_	NOUN	NN	_	8	nsubj	_	Pinyin=yuèqì|Gloss=musical instrument|HanViet=nhạc khí|Trad=樂器
+8	有	_	VERB	VV	_	21	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+9	自己	_	PRON	PRD	_	11	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+10	的	_	PART	DEC	Case=Gen	9	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	优势	_	NOUN	NN	_	8	obj	_	Pinyin=yōushì|Gloss=superiority|HanViet=ưu thế|Trad=優勢
+12	，	_	PUNCT	,	_	8	punct	_	_
+13	因为	_	ADP	IN	_	15	case	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+14	我们	_	PRON	PRP	Number=Plur|Person=1	15	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+15	理解	_	VERB	VV	_	21	ccomp	_	Pinyin=lǐjiě|Gloss=to comprehend; to understand|HanViet=lý giải
+16	能力	_	NOUN	NN	_	17	nsubj	_	Pinyin=nénglì|Gloss=capability|HanViet=năng lực
+17	强	_	ADJ	JJ	_	15	ccomp	_	Pinyin=qiáng|Gloss=strong|HanViet=cường|Trad=強
+18	，	_	PUNCT	,	_	15	punct	_	_
+19	也	_	SCONJ	RB	_	21	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+20	更	_	ADV	RB	_	21	advmod	_	Pinyin=gèng|Gloss=more|HanViet=càng,cánh
+21	懂得	_	VERB	VV	_	2	ccomp	_	Pinyin=dǒngde|Gloss=to understand; to know; to comprehend|HanViet=đổng đắc
+22	自觉	_	ADV	RB	_	23	advmod	_	Pinyin=zìjué|Gloss=to realize; to be aware of; to feel that; to be conscious of (sth relating to oneself)|HanViet=tự giác|Trad=自覺
+23	安排	_	VERB	VV	_	21	xcomp	_	Pinyin=ānpái|Gloss=to arrange|HanViet=an bài
+24	时间	_	NOUN	NN	_	23	obj	_	Pinyin=shíjiān|Gloss=(concept of) time|HanViet=thời gian|Trad=時間
+25	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l5-05-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# newpar
+# text = 当然，学习的过程并不轻松。
+# translation = Of course, the learning process isn't easy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	当然	_	ADV	RB	_	8	advmod	_	Pinyin=dāngrán|Gloss=only natural|HanViet=đương,đang nhiên|Trad=當然
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	学习	_	VERB	VV	_	5	acl:relcl	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+4	的	_	SCONJ	DEC	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	过程	_	NOUN	NN	_	8	nsubj	_	Pinyin=guòchéng|Gloss=course of events; process|HanViet=quá,qua trình|Trad=過程
+6	并	_	ADV	RB	_	7	advmod	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+7	不	_	ADV	RB	Polarity=Neg	8	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+8	轻松	_	ADJ	JJ	_	0	root	_	Pinyin=qīngsōng|Gloss=light|HanViet=khinh tông|Trad=輕鬆
+9	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l5-05-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 我的手指很僵硬，一首简单的曲子要练好几个星期才能弹得流利。
+# translation = My fingers are stiff, and I have to practice a simple piece for several weeks before I can play it fluently.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	3	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	手指	_	NOUN	NN	_	5	nsubj	_	Pinyin=shǒuzhǐ|Gloss=finger|HanViet=thủ chỉ
+4	很	_	ADV	RB	_	5	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+5	僵硬	_	ADJ	JJ	_	0	root	_	Pinyin=jiāngyìng|Gloss=stiff; rigid|HanViet=cương ngạnh
+6	，	_	PUNCT	,	_	19	punct	_	_
+7	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+8	首	_	NOUN	NNB	_	7	clf	_	Pinyin=shǒu|Gloss=head|HanViet=thủ,thú
+9	简单	_	ADJ	JJ	_	11	amod	_	Pinyin=jiǎndān|Gloss=simple; not complicated|HanViet=giản đơn,đan|Trad=簡單
+10	的	_	SCONJ	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	曲子	_	NOUN	NN	_	19	nsubj	_	Pinyin=qǔzi|Gloss=poem for singing|HanViet=khúc tử
+12	要练	_	VERB	VV	_	19	advcl	_	Pinyin=yàoliàn|Gloss=要 (bound form) to demand; to coerce + 练 to practice|GlossFrom=parts|HanViet=yếu luyện|Trad=要練
+13	好	_	ADV	RB	_	16	advmod	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+14	几	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+15	个	_	NOUN	NNB	_	14	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+16	星期	_	NOUN	NN	_	12	obj	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+17	才	_	SCONJ	RB	_	19	mark	_	Pinyin=cái|Gloss=ability; talent|HanViet=tài
+18	能	_	AUX	MD	_	19	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+19	弹得	_	VERB	VV	_	5	parataxis	_	Pinyin=dàndé|Gloss=弹 crossball + 得 to obtain|GlossFrom=parts|HanViet=đạn đắc|Trad=彈得
+20	流利	_	ADJ	JJ	_	19	xcomp	_	Pinyin=liúlì|Gloss=fluent|HanViet=lưu lợi
+21	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l5-05-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 有时候工作太累，我也想过放弃。
+# translation = Sometimes when work is too tiring, I've thought about giving up.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	有	_	VERB	VV	_	10	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+2	时候	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+3	工作	_	VERB	VV	_	1	ccomp	_	Pinyin=gōngzuò|Gloss=to work|HanViet=công tác
+4	太累	_	ADJ	JJ	_	1	ccomp	_	Pinyin=tàilèi|Gloss=太 highest + 累 to accumulate|GlossFrom=parts|HanViet=thái luỵ
+5	，	_	PUNCT	,	_	1	punct	_	_
+6	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	也	_	SCONJ	RB	_	10	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+8	想	_	AUX	MD	_	10	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+9	过	_	AUX	AS	Aspect=Perf	10	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+10	放弃	_	VERB	VV	_	0	root	_	Pinyin=fàngqì|Gloss=to renounce; to abandon; to give up|HanViet=phóng khí|Trad=放棄
+11	。	_	PUNCT	.	_	10	punct	_	_
+
+# sent_id = korwus-graded-l5-05-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 但是每当我坐在钢琴前，听到美妙的旋律，所有的烦恼好像都消失了。
+# translation = But whenever I sit at the piano and hear a beautiful melody, all my worries seem to disappear.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	但是	_	SCONJ	RB	_	18	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+2	每当	_	ADP	IN	_	4	case	_	Pinyin=měidāng|Gloss=whenever; every time|HanViet=mỗi đương,đang|Trad=每當
+3	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	坐在	_	VERB	VV	_	8	advcl	_	Pinyin=zuòzài|Gloss=坐 to sit + 在 to exist; to be alive|GlossFrom=parts|HanViet=toạ tại
+5	钢琴	_	NOUN	NN	_	4	obj	_	Pinyin=gāngqín|Gloss=piano|HanViet=cương cầm|Trad=鋼琴
+6	前	_	ADP	IN	_	4	mark	_	Pinyin=qián|Gloss=front|HanViet=tiền
+7	，	_	PUNCT	,	_	4	punct	_	_
+8	听到	_	VERB	VV	_	18	ccomp	_	Pinyin=tīngdào|Gloss=to hear|HanViet=thính đáo|Trad=聽到
+9	美妙	_	ADJ	JJ	_	11	amod	_	Pinyin=měimiào|Gloss=beautiful|HanViet=mỹ diệu
+10	的	_	SCONJ	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	旋律	_	NOUN	NN	_	8	obj	_	Pinyin=xuánlǜ|Gloss=melody|HanViet=hoàn luật
+12	，	_	PUNCT	,	_	8	punct	_	_
+13	所有	_	DET	DT	_	15	det	_	Pinyin=suǒyǒu|Gloss=all|HanViet=sở hữu
+14	的	_	PART	DEC	Case=Gen	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	烦恼	_	NOUN	NN	_	18	nsubj	_	Pinyin=fánnǎo|Gloss=to be worried|HanViet=phiền não|Trad=煩惱
+16	好像	_	ADV	RB	_	18	advmod	_	Pinyin=hǎoxiàng|Gloss=as if|HanViet=hảo tượng
+17	都	_	SCONJ	RB	_	18	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+18	消失	_	VERB	VV	_	0	root	_	Pinyin=xiāoshī|Gloss=to disappear; to fade away|HanViet=tiêu thất
+19	了	_	PART	UH	_	18	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+20	。	_	PUNCT	.	_	18	punct	_	_
+
+# sent_id = korwus-graded-l5-05-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 现在，我已经能完整地弹几首自己喜欢的歌了。
+# translation = Now I can already play several songs I like all the way through.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	已经	_	ADV	RB	_	8	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+5	能	_	AUX	MD	_	8	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+6	完整	_	ADJ	JJ	_	8	advmod	_	Pinyin=wánzhěng|Gloss=complete|HanViet=hoàn chỉnh
+7	地	_	SCONJ	DEV	_	6	mark:adv	_	Pinyin=dì|Gloss=earth|HanViet=địa
+8	弹	_	VERB	VV	_	0	root	_	Pinyin=dàn|Gloss=crossball|HanViet=đạn|Trad=彈
+9	几	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+10	首	_	NOUN	NNB	_	9	clf	_	Pinyin=shǒu|Gloss=head|HanViet=thủ,thú
+11	自己	_	PRON	PRD	_	12	nsubj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+12	喜欢	_	VERB	VV	_	14	acl:relcl	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+13	的	_	SCONJ	DEC	_	12	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	歌	_	NOUN	NN	_	8	obj	_	Pinyin=gē|Gloss=song (CL:首[shou3],支[zhi1])|HanViet=ca
+15	了	_	PART	UH	_	8	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+16	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l5-05-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 我相信，学习永远不会太迟，关键在于坚持。
+# translation = I believe it is never too late to learn; the key is to keep at it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	相信	_	VERB	VV	_	0	root	_	Pinyin=xiāngxìn|Gloss=to believe; to be convinced; to accept as true|HanViet=tương tín
+3	，	_	PUNCT	,	_	10	punct	_	_
+4	学习	_	VERB	VV	_	7	csubj	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+5	永远	_	ADV	RB	_	7	advmod	_	Pinyin=yǒngyuǎn|Gloss=forever|HanViet=vĩnh viễn|Trad=永遠
+6	不会	_	AUX	MD	Polarity=Neg	7	aux	_	Pinyin=búhuì|Gloss=improbable|HanViet=_ hội|Trad=不會
+7	太迟	_	ADJ	JJ	_	2	ccomp	_	Pinyin=tàichí|Gloss=太 highest + 迟 late|GlossFrom=parts|HanViet=thái trì|Trad=太遲
+8	，	_	PUNCT	,	_	10	punct	_	_
+9	关键	_	NOUN	NN	_	10	nsubj	_	Pinyin=guānjiàn|Gloss=crucial point|HanViet=quan kiện|Trad=關鍵
+10	在	_	VERB	VV	_	2	parataxis	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+11	于	_	VERB	VV	_	10	mark	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+12	坚持	_	VERB	VV	_	10	xcomp	_	Pinyin=jiānchí|Gloss=to persevere with|HanViet=kiên trì|Trad=堅持
+13	。	_	PUNCT	.	_	2	punct	_	_

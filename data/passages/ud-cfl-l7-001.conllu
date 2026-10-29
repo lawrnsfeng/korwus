@@ -1,0 +1,1470 @@
+# sent_id = ud-cfl-CFL_J_1-2_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我看见路上有一个下水道的井盖敞着。
+# source = UD Chinese-CFL CFL_J_1-2_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-7:5-5;gf0025-8:6-6;gf0025-20:8-8;gf0025-23:5-6;gf0025-37:4-4;gf0025-81:11-11;gf0025-82:8-8;gf0025-103:4-5;gf0025-104:0-4;gf0025-118:10-11
+# translation = I saw an open manhole on the road with its cover off.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	看	_	VERB	_	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+3	见	_	VERB	_	_	2	compound:vv	_	Pinyin=jiàn|Gloss=to see|HanViet=kiến|Trad=見
+4	路上	_	NOUN	_	_	5	obl	_	Pinyin=lùshàng|Gloss=on the road|HanViet=lộ thượng
+5	有	_	VERB	_	_	2	ccomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+6	一	_	NUM	_	_	10	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+7	个	_	NOUN	_	_	6	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	下水道	_	NOUN	_	_	10	nmod	_	Pinyin=xiàshuǐdào|Gloss=underground drain; sewer|HanViet=hạ thuỷ đạo
+9	的	_	PART	_	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	井盖	_	NOUN	_	_	5	obj	_	Pinyin=jǐnggài|Gloss=manhole cover (more formally, 窨井蓋/窨井盖[yin4 jing3 gai4])|HanViet=tỉnh cái|Trad=井蓋
+11	敞	_	VERB	_	_	10	acl	_	Pinyin=chǎng|Gloss=open to the view of all|HanViet=sưởng
+12	着	_	AUX	_	_	11	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+13	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_F_1-9_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 突然风雨交加，电闪雷鸣。
+# source = UD Chinese-CFL CFL_F_1-9_ori
+# license = CC BY-SA 4.0
+# translation = Suddenly there was wind and rain, thunder and lightning.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	突然	_	ADV	_	_	2	advmod	_	Pinyin=tūrán|Gloss=sudden; abrupt; unexpected|HanViet=đột nhiên
+2	风雨交加	_	ADJ	_	_	0	root	_	Pinyin=fēngyǔjiāojiā|Gloss=(idiom) wild and stormy; windy and wet|HanViet=phong vũ giao gia|Trad=風雨交加
+3	，	_	PUNCT	_	_	4	punct	_	_
+4	电闪雷鸣	_	ADJ	_	_	2	conj	_	Pinyin=diànshǎnléimíng|HanViet=điện thiểm lôi minh|GlossFrom=parts|Gloss=电闪 lightning flashes + 雷鸣 thunder rolls|Trad=電閃雷鳴
+5	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_C_1-13_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 本信这个产物没有效果。
+# source = UD Chinese-CFL CFL_C_1-13_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-6:2-2;gf0025-8:3-3;gf0025-361:0-0
+# translation = The letter had no effect.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	本	_	DET	_	_	2	det	_	Pinyin=běn|Gloss=(bound form) root; stem|HanViet=bản
+2	信	_	NOUN	_	_	6	nsubj	_	Pinyin=xìn|Gloss=letter|HanViet=tín
+3	这	_	DET	_	_	5	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+4	个	_	NOUN	_	_	3	clf	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	产物	_	NOUN	_	_	2	appos	_	Pinyin=chǎnwù|Gloss=product|HanViet=sản vật|Trad=產物
+6	没有	_	VERB	_	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+7	效果	_	NOUN	_	_	6	obj	_	Pinyin=xiàoguǒ|Gloss=result|HanViet=hiệu quả
+8	。	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = ud-cfl-CFL_H_1-13_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 丛林的天气是自由自在变化！
+# source = UD Chinese-CFL CFL_H_1-13_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-20:1-1;gf0025-35:0-5;gf0025-36:3-3;gf0025-82:1-1
+# translation = The weather in the jungle changes on a whim!
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	丛林	_	NOUN	_	_	3	nmod	_	Pinyin=cónglín|Gloss=jungle|HanViet=tùng lâm|Trad=叢林
+2	的	_	PART	_	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	天气	_	NOUN	_	_	4	dislocated	_	Pinyin=tiānqì|Gloss=weather|HanViet=thiên khí|Trad=天氣
+4	是	_	VERB	_	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+5	自由自在	_	ADV	_	_	6	advmod	_	Pinyin=zìyóuzìzài|Gloss=free and easy (idiom); carefree|HanViet=tự do tự tại
+6	变化	_	VERB	_	_	4	xcomp	_	Pinyin=biànhuà|Gloss=(intransitive) to change; to vary|HanViet=biến hoá|Trad=變化
+7	！	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ud-cfl-CFL_P_1-9_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 现在我对吃中国小吃很上瘾。
+# source = UD Chinese-CFL CFL_P_1-9_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-9:6-6;gf0025-73:2-2;gf0025-131:5-5
+# translation = Now I'm addicted to Chinese snacks.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	现在	_	NOUN	_	_	8	obl:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	我	_	PRON	_	_	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	对	_	ADP	_	_	4	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+4	吃	_	VERB	_	_	8	obl	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+5	中国	_	PROPN	_	_	6	compound	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+6	小吃	_	NOUN	_	_	4	obj	_	Pinyin=xiǎochī|Gloss=street food; snack|HanViet=tiểu cật
+7	很	_	ADV	_	_	8	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+8	上瘾	_	VERB	_	_	0	root	_	Pinyin=shàngyǐn|Gloss=to get into a habit|HanViet=thượng ẩn|Trad=上癮
+9	。	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = ud-cfl-CFL_M_1-27_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 她告诉我她已经有了新的男朋友，我感觉极度悲伤，甚至想自杀，但是朋友们和家人制止了我。
+# source = UD Chinese-CFL CFL_M_1-27_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-3:17-17;gf0025-5:0-0;gf0025-5:2-2;gf0025-5:3-3;gf0025-5:11-11;gf0025-5:26-26;gf0025-19:22-22;gf0025-20:8-8;gf0025-21:6-6;gf0025-21:25-25;gf0025-37:5-5;gf0025-41:6-6;gf0025-41:25-25;gf0025-63:4-4;gf0025-78:20-20;gf0025-82:8-8;gf0025-132:21-21;gf0025-231:16-16;gf0025-258:16-16
+# translation = She told me she already had a new boyfriend. I felt extremely sad and even thought about killing myself, but my friends and family stopped me.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	她	_	PRON	_	_	2	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	告诉	_	VERB	_	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+3	我	_	PRON	_	_	2	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	她	_	PRON	_	_	6	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+5	已经	_	ADV	_	_	6	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+6	有	_	VERB	_	_	2	ccomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+7	了	_	AUX	_	_	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	新	_	ADJ	_	_	10	amod	_	Pinyin=xīn|Gloss=new|HanViet=tân
+9	的	_	PART	_	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	男朋友	_	NOUN	_	_	6	obj	_	Pinyin=nánpéngyǒu|Gloss=boyfriend|HanViet=nam bằng hữu
+11	，	_	PUNCT	_	_	13	punct	_	_
+12	我	_	PRON	_	_	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+13	感觉	_	VERB	_	_	2	parataxis	_	Pinyin=gǎnjué|Gloss=feeling; impression; sensation|HanViet=cảm giác|Trad=感覺
+14	极度	_	ADV	_	_	15	advmod	_	Pinyin=jídù|Gloss=extremely|HanViet=cực độ|Trad=極度
+15	悲伤	_	ADJ	_	_	13	xcomp	_	Pinyin=bēishāng|Gloss=sad; sorrowful|HanViet=bi thương|Trad=悲傷
+16	，	_	PUNCT	_	_	19	punct	_	_
+17	甚至	_	ADV	_	_	19	advmod	_	Pinyin=shènzhì|Gloss=even; so much so that|HanViet=thậm chí
+18	想	_	AUX	_	_	19	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+19	自杀	_	VERB	_	_	13	parataxis	_	Pinyin=zìshā|Gloss=to kill oneself|HanViet=tự sát|Trad=自殺
+20	，	_	PUNCT	_	_	19	punct	_	_
+21	但是	_	CCONJ	_	_	25	cc	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+22	朋友们	_	NOUN	_	_	25	nsubj	_	Pinyin=péngyǒumen|HanViet=bằng hữu môn|GlossFrom=parts|Gloss=朋友 friend + 们 plural marker for pronouns, and nouns referring to individuals|Trad=朋友們
+23	和	_	CCONJ	_	_	24	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+24	家人	_	NOUN	_	_	22	conj	_	Pinyin=jiārén|Gloss=family member|HanViet=gia nhân
+25	制止	_	VERB	_	_	2	parataxis	_	Pinyin=zhìzhǐ|Gloss=to curb|HanViet=chế chỉ
+26	了	_	AUX	_	_	25	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+27	我	_	PRON	_	_	25	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+28	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_D_2-23_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 虽我的身体已经精疲力尽但神清气爽地开车回来。
+# source = UD Chinese-CFL CFL_D_2-23_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-20:2-2;gf0025-20:8-8;gf0025-63:4-4;gf0025-78:6-6;gf0025-82:2-2;gf0025-407:0-6
+# translation = Although my body was completely exhausted, I drove back feeling refreshed and clear-headed.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	虽	_	SCONJ	_	_	6	mark	_	Pinyin=suī|Gloss=although|HanViet=tuy|Trad=雖
+2	我	_	PRON	_	_	4	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	的	_	PART	_	_	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	身体	_	NOUN	_	_	6	nsubj	_	Pinyin=shēntǐ|Gloss=the body|HanViet=thân thể|Trad=身體
+5	已经	_	ADV	_	_	6	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+6	精疲力尽	_	ADJ	_	_	12	advcl	_	Pinyin=jīngpílìjìn|Gloss=spirit weary, strength exhausted (idiom); spent|HanViet=tinh bì lực tận|Trad=精疲力盡
+7	但	_	ADV	_	_	12	advmod	_	Pinyin=dàn|Gloss=but; yet; however; still|HanViet=đãn
+8	神清气爽	_	ADJ	_	_	12	advmod	_	Pinyin=shénqīngqìshuǎng|Gloss=(idiom) full of vitality|HanViet=thần thanh khí sảng|Trad=神清氣爽
+9	地	_	PART	_	_	8	mark:adv	_	Pinyin=dì|Gloss=earth|HanViet=địa
+10	开	_	VERB	_	_	12	advcl	_	Pinyin=kāi|Gloss=to open (transitive or intransitive)|HanViet=khai|Trad=開
+11	车	_	NOUN	_	_	10	obj	_	Pinyin=chē|Gloss=car|HanViet=xa|Trad=車
+12	回来	_	VERB	_	_	0	root	_	Pinyin=huílái|Gloss=to return; to come back|HanViet=hồi lai|Trad=回來
+13	。	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = ud-cfl-CFL_J_1-5_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 他看水道的井盖敞着，便蹲下，一只手使劲推动着井盖。
+# source = UD Chinese-CFL CFL_J_1-5_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-1:10-10;gf0025-5:0-0;gf0025-7:12-12;gf0025-20:3-3;gf0025-23:12-13;gf0025-59:10-10;gf0025-81:6-6;gf0025-81:17-17;gf0025-82:3-3;gf0025-98:9-10;gf0025-118:5-6;gf0025-118:16-17;gf0025-139:13-13;gf0025-367:8-8;gf0025-402:8-8
+# translation = Seeing the manhole cover was off, he squatted down and pushed hard on it with one hand.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	他	_	PRON	_	_	2	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	看	_	VERB	_	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+3	水道	_	NOUN	_	_	5	nmod	_	Pinyin=shuǐdào|Gloss=watercourse (river, canal, drain etc)|HanViet=thuỷ đạo
+4	的	_	PART	_	_	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	井盖	_	NOUN	_	_	6	nsubj	_	Pinyin=jǐnggài|Gloss=manhole cover (more formally, 窨井蓋/窨井盖[yin4 jing3 gai4])|HanViet=tỉnh cái|Trad=井蓋
+6	敞	_	VERB	_	_	2	ccomp	_	Pinyin=chǎng|Gloss=open to the view of all|HanViet=sưởng
+7	着	_	AUX	_	_	6	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+8	，	_	PUNCT	_	_	10	punct	_	_
+9	便	_	ADV	_	_	10	advmod	_	Pinyin=biàn|Gloss=plain|HanViet=tiện
+10	蹲	_	VERB	_	_	2	conj	_	Pinyin=dūn|Gloss=to crouch|HanViet=tồn
+11	下	_	NOUN	_	_	10	compound:dir	_	Pinyin=xià|Gloss=down|HanViet=hạ
+12	，	_	PUNCT	_	_	16	punct	_	_
+13	一	_	NUM	_	_	15	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+14	只	_	NOUN	_	_	13	clf	_	Pinyin=zhī|Gloss=grain that has begun to ripen|HanViet=chỉ
+15	手	_	NOUN	_	_	16	nsubj	_	Pinyin=shǒu|Gloss=hand|HanViet=thủ
+16	使劲	_	VERB	_	_	10	conj	_	Pinyin=shǐjìn|Gloss=to exert all one's strength|HanViet=sử,sứ kình,cứng,kính|Trad=使勁
+17	推动	_	VERB	_	_	16	conj	_	Pinyin=tuīdòng|Gloss=to push (e.g. for acceptance of a plan); to promote; to give impetus to|HanViet=suy động|Trad=推動
+18	着	_	AUX	_	_	17	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+19	井盖	_	NOUN	_	_	17	obj	_	Pinyin=jǐnggài|Gloss=manhole cover (more formally, 窨井蓋/窨井盖[yin4 jing3 gai4])|HanViet=tỉnh cái|Trad=井蓋
+20	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_F_2-41_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 习惯性地听你周围人的意见，只不过是成为别人的奴隶罢了。
+# source = UD Chinese-CFL CFL_F_2-41_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:3-3;gf0025-20:1-1;gf0025-20:6-6;gf0025-20:14-14;gf0025-54:13-13;gf0025-62:9-9;gf0025-78:10-10;gf0025-82:6-6;gf0025-82:14-14;gf0025-454:10-16
+# translation = Always going along with the opinions of the people around you just makes you a slave to others.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	习惯性	_	NOUN	_	_	3	obl	_	Pinyin=xíguànxìng|Gloss=customary|HanViet=tập quán tính|Trad=習慣性
+2	地	_	PART	_	_	1	mark:adv	_	Pinyin=dì|Gloss=earth|HanViet=địa
+3	听	_	VERB	_	_	0	root	_	Pinyin=tīng|Gloss=to listen to; to hear|HanViet=thính|Trad=聽
+4	你	_	PRON	_	_	5	nmod	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+5	周围	_	NOUN	_	_	6	nmod	_	Pinyin=zhōuwéi|Gloss=environs; surroundings; periphery|HanViet=chu vi,vây|Trad=周圍
+6	人	_	NOUN	_	_	8	nmod	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+7	的	_	PART	_	_	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	意见	_	NOUN	_	_	3	obj	_	Pinyin=yìjiàn|Gloss=idea|HanViet=ý kiến|Trad=意見
+9	，	_	PUNCT	_	_	12	punct	_	_
+10	只	_	ADV	_	_	12	advmod	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+11	不过	_	ADV	_	_	12	advmod	_	Pinyin=bùguò|Gloss=only|HanViet=bất quá,qua|Trad=不過
+12	是	_	VERB	_	_	3	parataxis	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+13	成为	_	VERB	_	_	12	xcomp	_	Pinyin=chéngwéi|Gloss=to become; to turn into|HanViet=thành vi|Trad=成為
+14	别人	_	PRON	_	_	16	nmod	_	Pinyin=biérén|Gloss=other people; others; other person|HanViet=biệt nhân|Trad=別人
+15	的	_	PART	_	_	14	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	奴隶	_	NOUN	_	_	13	obj	_	Pinyin=núlì|Gloss=slave|HanViet=nô lệ|Trad=奴隸
+17	罢了	_	INTJ	_	_	13	discourse:sp	_	Pinyin=bàle|Gloss=a modal particle indicating (that's all, only, nothing much)|HanViet=bãi liễu|Trad=罷了
+18	。	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ud-cfl-CFL_M_1-26_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我们相约在当初表白的地方，我再次向她表白，但是被她拒绝了。
+# source = UD Chinese-CFL CFL_M_1-26_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-5:8-8;gf0025-5:11-11;gf0025-5:16-16;gf0025-16:2-2;gf0025-20:5-5;gf0025-22:18-18;gf0025-40:18-18;gf0025-71:10-10;gf0025-78:14-14;gf0025-82:5-5;gf0025-132:0-0;gf0025-154:10-10;gf0025-157:15-15;gf0025-185:15-17;gf0025-293:9-9
+# translation = We arranged to meet at the place where I had first told her I loved her; I confessed my feelings to her again, but she turned me down.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我们	_	PRON	_	_	2	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	相约	_	VERB	_	_	0	root	_	Pinyin=xiāngyuē|Gloss=to agree (on a meeting place, date etc)|HanViet=tương ước|Trad=相約
+3	在	_	ADP	_	_	7	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	当初	_	NOUN	_	_	5	obl:tmod	_	Pinyin=dāngchū|Gloss=at that time|HanViet=đương,đang sơ|Trad=當初
+5	表白	_	VERB	_	_	7	acl	_	Pinyin=biǎobái|Gloss=to explain oneself|HanViet=biểu bạch
+6	的	_	PART	_	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	地方	_	NOUN	_	_	2	obl	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+8	，	_	PUNCT	_	_	13	punct	_	_
+9	我	_	PRON	_	_	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	再次	_	ADV	_	_	13	advmod	_	Pinyin=zàicì|Gloss=once more; once again|HanViet=tái thứ
+11	向	_	ADP	_	_	12	case	_	Pinyin=xiàng|Gloss=towards|HanViet=hướng
+12	她	_	PRON	_	_	13	obl	_	Pinyin=tā|Gloss=she|HanViet=tha
+13	表白	_	VERB	_	_	2	parataxis	_	Pinyin=biǎobái|Gloss=to explain oneself|HanViet=biểu bạch
+14	，	_	PUNCT	_	_	18	punct	_	_
+15	但是	_	CCONJ	_	_	18	cc	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+16	被	_	ADP	_	_	17	case	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+17	她	_	PRON	_	_	18	obl:agent	_	Pinyin=tā|Gloss=she|HanViet=tha
+18	拒绝	_	VERB	_	_	13	conj	_	Pinyin=jùjué|Gloss=to refuse; to decline; to reject|HanViet=cự tuyệt|Trad=拒絕
+19	了	_	AUX	_	_	18	discourse:sp	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+20	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_C_1-7_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 毫无疑问，那时我自以为是。
+# source = UD Chinese-CFL CFL_C_1-7_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:4-4
+# translation = There's no doubt that I was full of myself back then.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	毫无	_	VERB	_	_	6	advcl	_	Pinyin=háowú|Gloss=not in the least|HanViet=hào vô|Trad=毫無
+2	疑问	_	NOUN	_	_	1	obj	_	Pinyin=yíwèn|Gloss=question|HanViet=nghi vấn|Trad=疑問
+3	，	_	PUNCT	_	_	1	punct	_	_
+4	那时	_	NOUN	_	_	6	obl:tmod	_	Pinyin=nàshí|Gloss=then|HanViet=na thời|Trad=那時
+5	我	_	PRON	_	_	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	自以为是	_	VERB	_	_	0	root	_	Pinyin=zìyǐwéishì|Gloss=to believe oneself infallible (idiom)|HanViet=tự dĩ vi thị|Trad=自以為是
+7	。	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = ud-cfl-CFL_O_1-14_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 在我爬山的时候，迎来了一阵风暴并开始下雨，又冷又累。
+# source = UD Chinese-CFL CFL_O_1-14_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-7:9-9;gf0025-16:0-0;gf0025-20:3-3;gf0025-21:8-8;gf0025-23:9-10;gf0025-41:8-8;gf0025-64:17-17;gf0025-64:19-19;gf0025-82:3-3;gf0025-94:17-19;gf0025-98:6-7;gf0025-98:13-14;gf0025-193:17-19;gf0025-230:12-12;gf0025-244:0-14
+# translation = While I was climbing the mountain, a storm blew in and it started to rain; I was cold and tired.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	在	_	ADP	_	_	5	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	我	_	PRON	_	_	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	爬山	_	VERB	_	_	5	acl	_	Pinyin=páshān|Gloss=to go for a hike (esp. in the hills or mountains)|HanViet=bò sơn
+4	的	_	PART	_	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	时候	_	NOUN	_	_	7	obl:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+6	，	_	PUNCT	_	_	5	punct	_	_
+7	迎	_	VERB	_	_	0	root	_	Pinyin=yíng|Gloss=to welcome; to meet|HanViet=nghênh
+8	来	_	VERB	_	_	7	compound:vv	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+9	了	_	AUX	_	_	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	一	_	NUM	_	_	12	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+11	阵	_	NOUN	_	_	10	clf	_	Pinyin=zhèn|Gloss=disposition of troops|HanViet=trận|Trad=陣
+12	风暴	_	NOUN	_	_	7	obj	_	Pinyin=fēngbào|Gloss=storm|HanViet=phong bạo|Trad=風暴
+13	并	_	CCONJ	_	_	14	cc	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+14	开始	_	VERB	_	_	7	conj	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+15	下	_	VERB	_	_	14	compound:vv	_	Pinyin=xià|Gloss=down|HanViet=hạ
+16	雨	_	NOUN	_	_	15	compound:vo	_	Pinyin=yǔ|Gloss=rain|HanViet=vũ
+17	，	_	PUNCT	_	_	19	punct	_	_
+18	又	_	ADV	_	_	19	advmod	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+19	冷	_	ADJ	_	_	7	parataxis	_	Pinyin=lěng|Gloss=cold|HanViet=lạnh
+20	又	_	ADV	_	_	21	advmod	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+21	累	_	ADJ	_	_	19	conj	_	Pinyin=lèi|Gloss=tired|HanViet=luỵ
+22	。	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = ud-cfl-CFL_X_1-3_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 得了冠军的他张开双臂欢呼，我觉得他一定不敢相信自己眼前的这一切。
+# source = UD Chinese-CFL CFL_X_1-3_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:4-4;gf0025-5:11-11;gf0025-5:13-13;gf0025-6:21-21;gf0025-14:15-15;gf0025-20:3-3;gf0025-20:20-20;gf0025-21:1-1;gf0025-41:1-1;gf0025-54:18-18;gf0025-82:3-3;gf0025-82:20-20;gf0025-98:5-6;gf0025-133:16-16;gf0025-139:7-7;gf0025-212:0-0;gf0025-311:0-1
+# translation = Having won the championship, he spread his arms and cheered; I think he simply couldn't believe what was happening before his eyes.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	得	_	VERB	_	_	5	acl	_	Pinyin=dé|Gloss=to obtain|HanViet=đắc
+2	了	_	AUX	_	_	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	冠军	_	NOUN	_	_	1	obj	_	Pinyin=guànjūn|Gloss=champion|HanViet=quán quân|Trad=冠軍
+4	的	_	PART	_	_	1	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	他	_	PRON	_	_	10	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+6	张	_	VERB	_	_	10	advcl	_	Pinyin=zhāng|Gloss=to open up|HanViet=trương|Trad=張
+7	开	_	VERB	_	_	6	compound:vv	_	Pinyin=kāi|Gloss=to open (transitive or intransitive)|HanViet=khai|Trad=開
+8	双	_	NOUN	_	_	9	clf	_	Pinyin=shuāng|Gloss=two|HanViet=song|Trad=雙
+9	臂	_	NOUN	_	_	6	obj	_	Pinyin=bì|Gloss=arm|HanViet=tý
+10	欢呼	_	VERB	_	_	0	root	_	Pinyin=huānhū|Gloss=to cheer for|HanViet=hoan hô|Trad=歡呼
+11	，	_	PUNCT	_	_	13	punct	_	_
+12	我	_	PRON	_	_	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+13	觉得	_	VERB	_	_	10	parataxis	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+14	他	_	PRON	_	_	18	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+15	一定	_	ADV	_	_	18	advmod	_	Pinyin=yídìng|Gloss=surely; certainly; definitely|HanViet=nhất định
+16	不	_	ADV	_	_	18	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+17	敢	_	AUX	_	_	18	aux	_	Pinyin=gǎn|Gloss=to dare|HanViet=cảm
+18	相信	_	VERB	_	_	13	ccomp	_	Pinyin=xiāngxìn|Gloss=to believe; to be convinced; to accept as true|HanViet=tương tín
+19	自己	_	PRON	_	_	20	nmod	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+20	眼前	_	NOUN	_	_	23	nmod	_	Pinyin=yǎnqián|Gloss=before one's eyes|HanViet=nhãn tiền
+21	的	_	PART	_	_	20	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+22	这	_	PRON	_	_	23	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+23	一切	_	PRON	_	_	18	obj	_	Pinyin=yīqiè|Gloss=everything|HanViet=nhất thiết
+24	。	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = ud-cfl-CFL_M_1-1_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我们的生命中总是有些人出现，有些人消失，但那些消失不见的人，却总能在我的生命里掀起一丝波澜。
+# source = UD Chinese-CFL CFL_M_1-1_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-1:28-28;gf0025-2:23-23;gf0025-5:0-0;gf0025-5:25-25;gf0025-6:15-15;gf0025-7:30-30;gf0025-16:24-24;gf0025-20:1-1;gf0025-20:18-18;gf0025-20:26-26;gf0025-23:30-31;gf0025-36:5-5;gf0025-78:14-14;gf0025-82:1-1;gf0025-82:18-18;gf0025-82:26-26;gf0025-132:0-0;gf0025-145:4-4;gf0025-145:4-5;gf0025-145:22-22;gf0025-220:21-21
+# translation = In our lives, some people are always appearing and some are disappearing, but those who vanish can still stir up ripples in my life.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我们	_	PRON	_	_	3	nmod	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	的	_	PART	_	_	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	生命	_	NOUN	_	_	6	obl	_	Pinyin=shēngmìng|Gloss=life (as the characteristic of living beings)|HanViet=sinh mệnh
+4	中	_	ADP	_	_	3	case:loc	_	Pinyin=zhòng|Gloss=to hit (a target)|HanViet=trung
+5	总	_	ADV	_	_	6	advmod	_	Pinyin=zǒng|Gloss=(bound form) general; overall|HanViet=tổng|Trad=總
+6	是	_	VERB	_	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+7	有些	_	DET	_	_	8	det	_	Pinyin=yǒuxiē|Gloss=some|HanViet=hữu ta
+8	人	_	NOUN	_	_	9	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+9	出现	_	VERB	_	_	6	ccomp	_	Pinyin=chūxiàn|Gloss=to appear; to arise; to emerge; to show up|HanViet=xuất hiện|Trad=出現
+10	，	_	PUNCT	_	_	13	punct	_	_
+11	有些	_	DET	_	_	12	det	_	Pinyin=yǒuxiē|Gloss=some|HanViet=hữu ta
+12	人	_	NOUN	_	_	13	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+13	消失	_	VERB	_	_	9	conj	_	Pinyin=xiāoshī|Gloss=to disappear; to fade away|HanViet=tiêu thất
+14	，	_	PUNCT	_	_	30	punct	_	_
+15	但	_	CCONJ	_	_	30	cc	_	Pinyin=dàn|Gloss=but; yet; however; still|HanViet=đãn
+16	那些	_	DET	_	_	20	det	_	Pinyin=nàxiē|Gloss=those|HanViet=na ta
+17	消失	_	VERB	_	_	20	acl	_	Pinyin=xiāoshī|Gloss=to disappear; to fade away|HanViet=tiêu thất
+18	不见	_	VERB	_	Polarity=Neg	17	compound:vv	_	Pinyin=bújiàn|Gloss=not to see|HanViet=_ kiến|Trad=不見
+19	的	_	PART	_	_	17	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+20	人	_	NOUN	_	_	30	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+21	，	_	PUNCT	_	_	20	punct	_	_
+22	却	_	ADV	_	_	30	advmod	_	Pinyin=què|Gloss=but|HanViet=khước|Trad=卻
+23	总	_	ADV	_	_	30	advmod	_	Pinyin=zǒng|Gloss=(bound form) general; overall|HanViet=tổng|Trad=總
+24	能	_	AUX	_	_	30	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+25	在	_	ADP	_	_	28	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+26	我	_	PRON	_	_	28	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+27	的	_	PART	_	_	26	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+28	生命	_	NOUN	_	_	30	obl	_	Pinyin=shēngmìng|Gloss=life (as the characteristic of living beings)|HanViet=sinh mệnh
+29	里	_	ADP	_	_	28	case:loc	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+30	掀起	_	VERB	_	_	6	parataxis	_	Pinyin=xiānqǐ|Gloss=to lift; to raise (a lid etc)|HanViet=hiên khởi
+31	一	_	NUM	_	_	33	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+32	丝	_	NOUN	_	_	31	clf	_	Pinyin=sī|Gloss=silk|HanViet=tơ|Trad=絲
+33	波澜	_	NOUN	_	_	30	compound:vo	_	Pinyin=bōlán|Gloss=billows|HanViet=ba lan|Trad=波瀾
+34	。	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = ud-cfl-CFL_F_1-8_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 不过天气越发糟糕了。
+# source = UD Chinese-CFL CFL_F_1-8_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-22:4-4;gf0025-30:1-3;gf0025-40:4-4;gf0025-78:0-0;gf0025-525:2-2
+# translation = But the weather got worse and worse.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	不过	_	ADV	_	_	4	advmod	_	Pinyin=bùguò|Gloss=only|HanViet=bất quá,qua|Trad=不過
+2	天气	_	NOUN	_	_	4	nsubj	_	Pinyin=tiānqì|Gloss=weather|HanViet=thiên khí|Trad=天氣
+3	越发	_	ADV	_	_	4	advmod	_	Pinyin=yuèfā|Gloss=increasingly; more and more|HanViet=việt phát|Trad=越發
+4	糟糕	_	ADJ	_	_	0	root	_	Pinyin=zāogāo|Gloss=too bad|HanViet=tao cao
+5	了	_	PART	_	_	4	discourse:sp	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	。	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ud-cfl-CFL_D_2-15_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我会下去后发现朋友们已经去海滨玩。
+# source = UD Chinese-CFL CFL_D_2-15_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-1:3-3;gf0025-2:1-1;gf0025-5:0-0;gf0025-63:6-6;gf0025-132:5-5
+# translation = When I came back down, I found that my friends had already gone to the beach.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	会	_	AUX	_	_	3	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+3	下去	_	VERB	_	_	5	obl:tmod	_	Pinyin=xiàqù|Gloss=to go down|HanViet=hạ khứ,khử
+4	后	_	ADP	_	_	3	case:loc	_	Pinyin=hòu|Gloss=empress|HanViet=hậu|Trad=後
+5	发现	_	VERB	_	_	0	root	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+6	朋友们	_	NOUN	_	_	8	nsubj	_	Pinyin=péngyǒumen|HanViet=bằng hữu môn|GlossFrom=parts|Gloss=朋友 friend + 们 plural marker for pronouns, and nouns referring to individuals|Trad=朋友們
+7	已经	_	ADV	_	_	8	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+8	去	_	VERB	_	_	5	ccomp	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+9	海滨	_	NOUN	_	_	8	obj	_	Pinyin=hǎibīn|Gloss=shore|HanViet=hải tân|Trad=海濱
+10	玩	_	VERB	_	_	8	conj	_	Pinyin=wán|Gloss=to play|HanViet=ngoạn
+11	。	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ud-cfl-CFL_M_1-6_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 除了天使的外貌以外她还有温婉的性格。
+# source = UD Chinese-CFL CFL_M_1-6_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:5-5;gf0025-13:6-6;gf0025-20:2-2;gf0025-20:9-9;gf0025-37:7-7;gf0025-63:6-6;gf0025-82:2-2;gf0025-82:9-9;gf0025-142:6-6;gf0025-158:0-0;gf0025-168:0-6;gf0025-223:6-6
+# translation = Besides her angelic looks, she also had a gentle, graceful personality.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	除了	_	ADP	_	_	4	case	_	Pinyin=chúle|Gloss=apart from; besides; in addition to (used to exclude, as in 除了他，誰也沒來/除了他，谁也没来[chu2 le5 ta1 , shei2 ye3 mei2 lai2] "apart from him, nobody came", or to include, as in 除了英語，他也會法語/除了英语，他也会法语[chu2 le5 Ying1 yu3 , ta1 ye3 hui4 Fa3 yu3] "in addition to English, he also knows French")|HanViet=trừ liễu
+2	天使	_	NOUN	_	_	4	nmod	_	Pinyin=tiānshǐ|Gloss=angel|HanViet=thiên sử,sứ
+3	的	_	PART	_	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	外貌	_	NOUN	_	_	8	advcl	_	Pinyin=wàimào|Gloss=profile|HanViet=ngoại mạo
+5	以外	_	ADP	_	_	4	case:loc	_	Pinyin=yǐwài|Gloss=apart from|HanViet=dĩ ngoại
+6	她	_	PRON	_	_	8	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+7	还	_	ADV	_	_	8	advmod	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+8	有	_	VERB	_	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+9	温婉	_	ADJ	_	_	11	amod	_	Pinyin=wēnwǎn|Gloss=sweet-tempered|HanViet=ôn uyển|Trad=溫婉
+10	的	_	PART	_	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	性格	_	NOUN	_	_	8	obj	_	Pinyin=xìnggé|Gloss=nature|HanViet=tính cách
+12	。	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = ud-cfl-CFL_A_2-10_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 现在我有的都是托她的福。
+# source = UD Chinese-CFL CFL_A_2-10_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-5:7-7;gf0025-6:2-3;gf0025-10:4-4;gf0025-20:3-3;gf0025-20:8-8;gf0025-36:5-5;gf0025-37:2-2;gf0025-68:4-4;gf0025-82:3-3;gf0025-82:8-8
+# translation = Everything I have now, I owe to her.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	现在	_	NOUN	_	_	6	obl:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	我	_	PRON	_	_	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	有	_	VERB	_	_	6	nsubj	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+4	的	_	PART	_	_	3	discourse:sp	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	都	_	ADV	_	_	6	advmod	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+6	是	_	VERB	_	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+7	托	_	VERB	_	_	6	xcomp	_	Pinyin=tuō|Gloss=to hold up in one's hand; to support with one's palm|HanViet=thác|Trad=託
+8	她	_	PRON	_	_	10	nmod	_	Pinyin=tā|Gloss=she|HanViet=tha
+9	的	_	PART	_	_	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	福	_	NOUN	_	_	7	compound:vo	_	Pinyin=fú|Gloss=good fortune|HanViet=phúc
+11	。	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = ud-cfl-CFL_D_2-2_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 和往常不一样，准备这次旅行没有什么客气。
+# source = UD Chinese-CFL CFL_D_2-2_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-4:10-10;gf0025-6:6-6;gf0025-14:2-2;gf0025-17:0-0;gf0025-38:9-11;gf0025-59:7-7;gf0025-107:0-3
+# translation = Unlike usual, I didn't make any fuss about preparing for this trip.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	和	_	ADP	_	_	2	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+2	往常	_	NOUN	_	_	4	obl	_	Pinyin=wǎngcháng|Gloss=usual|HanViet=vãng thường
+3	不	_	ADV	_	_	4	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+4	一样	_	ADJ	_	_	6	advcl	_	Pinyin=yíyàng|Gloss=same|HanViet=nhất dạng|Trad=一樣
+5	，	_	PUNCT	_	_	4	punct	_	_
+6	准备	_	VERB	_	_	0	root	_	Pinyin=zhǔnbèi|Gloss=preparation|HanViet=chuẩn bị|Trad=準備
+7	这	_	DET	_	_	9	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+8	次	_	NOUN	_	_	7	clf	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+9	旅行	_	NOUN	_	_	6	obj	_	Pinyin=lǚxíng|Gloss=to travel|HanViet=lữ hành,hạnh
+10	没有	_	VERB	_	Polarity=Neg	6	dep	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+11	什么	_	DET	_	_	12	det	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+12	客气	_	ADJ	_	_	10	obj	_	Pinyin=kèqì|Gloss=polite|HanViet=khách khí|Trad=客氣
+13	。	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = ud-cfl-CFL_I_1-6_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我感觉他真的是个很乖的。
+# source = UD Chinese-CFL CFL_I_1-6_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-5:2-2;gf0025-8:5-5;gf0025-9:6-6;gf0025-20:8-8;gf0025-36:4-4;gf0025-82:8-8;gf0025-108:4-8;gf0025-123:4-8
+# translation = I felt he was a really good, sweet guy.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	感觉	_	VERB	_	_	0	root	_	Pinyin=gǎnjué|Gloss=feeling; impression; sensation|HanViet=cảm giác|Trad=感覺
+3	他	_	PRON	_	_	8	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	真的	_	ADV	_	_	8	advmod	_	Pinyin=zhēnde|Gloss=really; truly; indeed|HanViet=chân đích
+5	是	_	AUX	_	_	8	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+6	个	_	NOUN	_	_	8	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	很	_	ADV	_	_	8	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+8	乖	_	ADJ	_	_	2	ccomp	_	Pinyin=guāi|Gloss=(of a child) obedient, well-behaved|HanViet=quai
+9	的	_	PART	_	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_M_1-16_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 她来了之后，我向她表明了我的心意。
+# source = UD Chinese-CFL CFL_M_1-16_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-5:5-5;gf0025-5:7-7;gf0025-5:10-10;gf0025-20:11-11;gf0025-21:2-2;gf0025-21:9-9;gf0025-41:2-2;gf0025-41:9-9;gf0025-71:6-6;gf0025-82:11-11;gf0025-95:3-3;gf0025-154:6-6
+# translation = When she came, I told her how I felt about her.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	她	_	PRON	_	_	2	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	来	_	VERB	_	_	9	advcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+3	了	_	AUX	_	_	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	之后	_	ADP	_	_	2	case:loc	_	Pinyin=zhīhòu|Gloss=after; behind|HanViet=chi hậu|Trad=之後
+5	，	_	PUNCT	_	_	2	punct	_	_
+6	我	_	PRON	_	_	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	向	_	ADP	_	_	8	case	_	Pinyin=xiàng|Gloss=towards|HanViet=hướng
+8	她	_	PRON	_	_	9	obl	_	Pinyin=tā|Gloss=she|HanViet=tha
+9	表明	_	VERB	_	_	0	root	_	Pinyin=biǎomíng|Gloss=to make clear|HanViet=biểu minh
+10	了	_	AUX	_	_	9	aux	_	Pinyin=liǎo|Gloss=to finish|HanViet=liễu
+11	我	_	PRON	_	_	13	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+12	的	_	PART	_	_	11	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	心意	_	NOUN	_	_	9	obj	_	Pinyin=xīnyì|Gloss=intention|HanViet=tâm ý
+14	。	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = ud-cfl-CFL_F_2-31_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 但是我们仨素不相识，一见面竟成了好朋友。
+# source = UD Chinese-CFL CFL_F_2-31_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-21:9-9;gf0025-30:1-3;gf0025-41:9-9;gf0025-78:0-0;gf0025-132:1-1;gf0025-135:6-6
+# translation = But although the three of us were complete strangers, we became good friends the moment we met.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	但是	_	CCONJ	_	_	4	cc	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+2	我们	_	PRON	_	_	4	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+3	仨	_	NUM	_	_	2	appos	_	Pinyin=sā|Gloss=three (colloquial equivalent of 三個/三个)|HanViet=ta
+4	素不相识	_	ADJ	_	_	0	root	_	Pinyin=sùbùxiāngshí|Gloss=to be total strangers (idiom)|HanViet=tố bất tương thức|Trad=素不相識
+5	，	_	PUNCT	_	_	9	punct	_	_
+6	一	_	ADV	_	_	7	advmod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+7	见面	_	VERB	_	_	9	advcl	_	Pinyin=jiànmiàn|Gloss=to meet; to see each other|HanViet=kiến diện|Trad=見面
+8	竟	_	ADV	_	_	9	advmod	_	Pinyin=jìng|Gloss=unexpectedly|HanViet=cánh
+9	成	_	VERB	_	_	4	parataxis	_	Pinyin=chéng|Gloss=short name for Chengdu 成都[Cheng2 du1]|HanViet=thành
+10	了	_	AUX	_	_	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	好朋友	_	NOUN	_	_	9	obj	_	Pinyin=hǎopéngyǒu|Gloss=good friend|HanViet=hảo bằng hữu
+12	。	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ud-cfl-CFL_H_1-18_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 风雨交加，电闪雷鸣了，我们都精疲力尽。
+# source = UD Chinese-CFL CFL_H_1-18_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:5-5;gf0025-10:6-6;gf0025-21:3-3;gf0025-41:3-3;gf0025-68:6-6;gf0025-132:5-5
+# translation = There was wind and rain, thunder and lightning, and we were all exhausted.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	风雨交加	_	VERB	_	_	8	advcl	_	Pinyin=fēngyǔjiāojiā|Gloss=(idiom) wild and stormy; windy and wet|HanViet=phong vũ giao gia|Trad=風雨交加
+2	，	_	PUNCT	_	_	3	punct	_	_
+3	电闪雷鸣	_	VERB	_	_	1	conj	_	Pinyin=diànshǎnléimíng|HanViet=điện thiểm lôi minh|GlossFrom=parts|Gloss=电闪 lightning flashes + 雷鸣 thunder rolls|Trad=電閃雷鳴
+4	了	_	PART	_	_	3	discourse:sp	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	，	_	PUNCT	_	_	3	punct	_	_
+6	我们	_	PRON	_	_	8	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+7	都	_	ADV	_	_	8	advmod	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+8	精疲力尽	_	VERB	_	_	0	root	_	Pinyin=jīngpílìjìn|Gloss=spirit weary, strength exhausted (idiom); spent|HanViet=tinh bì lực tận|Trad=精疲力盡
+9	。	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = ud-cfl-CFL_F_2-35_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 这不是出乎我的意料的。
+# source = UD Chinese-CFL CFL_F_2-35_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:4-4;gf0025-6:0-0;gf0025-14:1-1;gf0025-20:5-5;gf0025-20:7-7;gf0025-36:2-2;gf0025-82:5-5;gf0025-82:7-7;gf0025-108:2-7;gf0025-123:2-7
+# translation = This came as no surprise to me.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	这	_	PRON	_	_	3	dislocated	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	不	_	ADV	_	_	3	advmod	_	Pinyin=bú|Gloss=no; not so|HanViet=bất
+3	是	_	VERB	_	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	出乎	_	VERB	_	_	3	xcomp	_	Pinyin=chūhū|Gloss=due to|HanViet=xuất hồ
+5	我	_	PRON	_	_	7	obl	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	的	_	PART	_	_	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	意料	_	VERB	_	_	4	compound:vv	_	Pinyin=yìliào|Gloss=to anticipate; to expect|HanViet=ý liệu
+8	的	_	PART	_	_	4	discourse:sp	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	。	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ud-cfl-CFL_D_1-7_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 不过，我已经约好了无可奈何去机场。
+# source = UD Chinese-CFL CFL_D_1-7_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:2-2;gf0025-21:6-6;gf0025-41:6-6;gf0025-63:3-3;gf0025-78:0-0;gf0025-97:4-5;gf0025-269:5-5
+# translation = But I had already made the arrangements, so I had no choice but to go to the airport.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	不过	_	ADV	_	_	5	advmod	_	Pinyin=bùguò|Gloss=only|HanViet=bất quá,qua|Trad=不過
+2	，	_	PUNCT	_	_	1	punct	_	_
+3	我	_	PRON	_	_	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	已经	_	ADV	_	_	5	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+5	约	_	VERB	_	_	0	root	_	Pinyin=yuē|Gloss=to make an appointment|HanViet=ước|Trad=約
+6	好	_	ADJ	_	_	5	compound:vv	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+7	了	_	PART	_	_	5	discourse:sp	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	无可奈何	_	ADJ	_	_	9	advmod	_	Pinyin=wúkěnàihé|Gloss=have no way out|HanViet=vô khả nại hà|Trad=無可奈何
+9	去	_	VERB	_	_	5	conj	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+10	机场	_	NOUN	_	_	9	obj	_	Pinyin=jīchǎng|Gloss=airport; airfield|HanViet=cơ trường|Trad=機場
+11	。	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ud-cfl-CFL_J_1-3_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我懒得去搬井盖，心想：反正我掉不下去，井盖爱谁搬谁般。
+# source = UD Chinese-CFL CFL_J_1-3_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-3:7-7;gf0025-4:17-17;gf0025-4:19-19;gf0025-5:0-0;gf0025-5:10-10;gf0025-14:12-12;gf0025-98:1-2;gf0025-149:9-9;gf0025-178:11-13
+# translation = I couldn't be bothered to move the manhole cover, thinking: I won't fall in anyway, so whoever wants to move it can move it.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	懒得	_	VERB	_	_	0	root	_	Pinyin=lǎnde|Gloss=to not feel like (doing sth); to be disinclined to|HanViet=lãn đắc|Trad=懶得
+3	去	_	VERB	_	_	2	xcomp	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+4	搬	_	VERB	_	_	3	conj	_	Pinyin=bān|Gloss=to move (i.e. relocate oneself)|HanViet=ban
+5	井盖	_	NOUN	_	_	4	obj	_	Pinyin=jǐnggài|Gloss=manhole cover (more formally, 窨井蓋/窨井盖[yin4 jing3 gai4])|HanViet=tỉnh cái|Trad=井蓋
+6	，	_	PUNCT	_	_	8	punct	_	_
+7	心	_	NOUN	_	_	8	nsubj	_	Pinyin=xīn|Gloss=heart|HanViet=tâm
+8	想	_	VERB	_	_	3	conj	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+9	：	_	PUNCT	_	_	12	punct	_	_
+10	反正	_	ADV	_	_	12	advmod	_	Pinyin=fǎnzhèng|Gloss=anyway|HanViet=phản chính,chánh
+11	我	_	PRON	_	_	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+12	掉	_	VERB	_	_	8	ccomp	_	Pinyin=diào|Gloss=to fall|HanViet=điệu
+13	不	_	ADV	_	_	14	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+14	下去	_	VERB	_	_	12	compound:dir	_	Pinyin=xiàqù|Gloss=to go down|HanViet=hạ khứ,khử
+15	，	_	PUNCT	_	_	21	punct	_	_
+16	井盖	_	NOUN	_	_	21	obj	_	Pinyin=jǐnggài|Gloss=manhole cover (more formally, 窨井蓋/窨井盖[yin4 jing3 gai4])|HanViet=tỉnh cái|Trad=井蓋
+17	爱	_	VERB	_	_	21	advcl	_	Pinyin=ài|Gloss=to love; to be fond of; to like|HanViet=ái|Trad=愛
+18	谁	_	PRON	_	_	17	nsubj	_	Pinyin=shéi|Gloss=who|HanViet=thuỳ|Trad=誰
+19	搬	_	VERB	_	_	17	xcomp	_	Pinyin=bān|Gloss=to move (i.e. relocate oneself)|HanViet=ban
+20	谁	_	PRON	_	_	21	nsubj	_	Pinyin=shéi|Gloss=who|HanViet=thuỳ|Trad=誰
+21	般	_	VERB	_	_	12	parataxis	_	Pinyin=bān|Gloss=sort|HanViet=ban
+22	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_A_2-8_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 那次的旅行很不寻常。
+# source = UD Chinese-CFL CFL_A_2-8_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-6:0-0;gf0025-9:4-4;gf0025-14:5-5;gf0025-20:2-2;gf0025-30:3-6;gf0025-59:1-1;gf0025-82:2-2
+# translation = That trip was truly out of the ordinary.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	那	_	DET	_	_	4	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	次	_	NOUN	_	_	1	clf	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+3	的	_	PART	_	_	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	旅行	_	NOUN	_	_	7	nsubj	_	Pinyin=lǚxíng|Gloss=to travel|HanViet=lữ hành,hạnh
+5	很	_	ADV	_	_	7	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+6	不	_	ADV	_	_	7	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+7	寻常	_	ADJ	_	_	0	root	_	Pinyin=xúncháng|Gloss=usual; common; ordinary|HanViet=tầm thường|Trad=尋常
+8	。	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = ud-cfl-CFL_P_1-7_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 在我的印象中，中国的饮食比较油腻，但是出乎意料的是我尝过中国菜之后发现中国菜不但不油腻，反而特别香，这与人所说不同。
+# source = UD Chinese-CFL CFL_P_1-7_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-5:16-16;gf0025-6:31-31;gf0025-14:24-24;gf0025-16:0-0;gf0025-20:2-2;gf0025-20:7-7;gf0025-20:14-14;gf0025-30:8-10;gf0025-61:28-28;gf0025-78:12-12;gf0025-80:18-18;gf0025-82:2-2;gf0025-82:7-7;gf0025-82:14-14;gf0025-95:20-20;gf0025-119:17-18;gf0025-142:9-9;gf0025-223:27-27;gf0025-244:0-4;gf0025-373:32-32
+# translation = My impression was that Chinese food is rather greasy, but to my surprise, after tasting Chinese dishes I found that they weren't greasy at all; on the contrary, they were especially tasty, which was different from what people said.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	在	_	ADP	_	_	4	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	我	_	PRON	_	_	4	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	的	_	PART	_	_	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	印象	_	NOUN	_	_	11	obl	_	Pinyin=yìnxiàng|Gloss=impression (sth that stays in one's mind)|HanViet=ấn tượng
+5	中	_	ADP	_	_	4	case:loc	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+6	，	_	PUNCT	_	_	4	punct	_	_
+7	中国	_	PROPN	_	_	9	nmod	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+8	的	_	PART	_	_	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	饮食	_	NOUN	_	_	11	nsubj	_	Pinyin=yǐnshí|Gloss=eating and drinking|HanViet=ẩm thực|Trad=飲食
+10	比较	_	ADV	_	_	11	advmod	_	Pinyin=bǐjiào|Gloss=to compare|HanViet=tỷ,bỉ giảo|Trad=比較
+11	油腻	_	ADJ	_	_	0	root	_	Pinyin=yóunì|Gloss=greasy food; oily food|HanViet=dầu nhị|Trad=油膩
+12	，	_	PUNCT	_	_	16	punct	_	_
+13	但是	_	CCONJ	_	_	16	cc	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+14	出乎意料	_	ADJ	_	_	16	nsubj	_	Pinyin=chūhūyìliào|Gloss=(idiom) unexpected|HanViet=xuất hồ ý liệu
+15	的	_	PART	_	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	是	_	VERB	_	_	11	conj	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+17	我	_	PRON	_	_	18	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+18	尝	_	VERB	_	_	22	advcl	_	Pinyin=cháng|Gloss=to taste; to try (food)|HanViet=thường|Trad=嘗
+19	过	_	AUX	_	_	18	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+20	中国菜	_	NOUN	_	_	18	obj	_	Pinyin=zhōngguócài|Gloss=Chinese cuisine|HanViet=trung quốc thái|Trad=中國菜
+21	之后	_	ADP	_	_	18	mark	_	Pinyin=zhīhòu|Gloss=after; behind|HanViet=chi hậu|Trad=之後
+22	发现	_	VERB	_	_	16	ccomp	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+23	中国菜	_	NOUN	_	_	26	nsubj	_	Pinyin=zhōngguócài|Gloss=Chinese cuisine|HanViet=trung quốc thái|Trad=中國菜
+24	不但	_	SCONJ	_	_	26	mark	_	Pinyin=bùdàn|Gloss=not only (... but also ...)|HanViet=bất đãn
+25	不	_	ADV	_	_	26	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+26	油腻	_	ADJ	_	_	30	advcl	_	Pinyin=yóunì|Gloss=greasy food; oily food|HanViet=dầu nhị|Trad=油膩
+27	，	_	PUNCT	_	_	26	punct	_	_
+28	反而	_	ADV	_	_	30	advmod	_	Pinyin=fǎnér|Gloss=on the contrary; instead|HanViet=phản nhi
+29	特别	_	ADV	_	_	30	advmod	_	Pinyin=tèbié|Gloss=unusual; special|HanViet=đặc biệt|Trad=特別
+30	香	_	ADJ	_	_	22	ccomp	_	Pinyin=xiāng|Gloss=fragrant|HanViet=hương
+31	，	_	PUNCT	_	_	37	punct	_	_
+32	这	_	PRON	_	_	37	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+33	与	_	ADP	_	_	36	case	_	Pinyin=yǔ|Gloss=(formal) and; together with (linking parallel nouns, verbs, or phrases)|HanViet=dữ|Trad=與
+34	人	_	NOUN	_	_	36	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+35	所	_	SCONJ	_	_	36	mark	_	Pinyin=suǒ|Gloss=actually|HanViet=sở
+36	说	_	VERB	_	_	37	obl	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+37	不同	_	ADJ	_	_	11	parataxis	_	Pinyin=bùtóng|Gloss=different|HanViet=bất đồng
+38	。	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = ud-cfl-CFL_M_1-14_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 有一天我鼓足勇气向她表白。
+# source = UD Chinese-CFL CFL_M_1-14_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:3-3;gf0025-5:8-8;gf0025-7:1-1;gf0025-23:1-2;gf0025-37:0-0;gf0025-60:2-2;gf0025-71:7-7;gf0025-103:0-1;gf0025-154:7-7;gf0025-181:0-2;gf0025-182:0-2
+# translation = One day I plucked up my courage and told her how I felt.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	有	_	VERB	_	_	10	advcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+2	一	_	NUM	_	_	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+3	天	_	NOUN	_	_	1	obj	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+4	我	_	PRON	_	_	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	鼓	_	VERB	_	_	10	advcl	_	Pinyin=gǔ|Gloss=drum|HanViet=cổ
+6	足	_	ADJ	_	_	5	compound:vv	_	Pinyin=zú|Gloss=(bound form) foot; leg|HanViet=túc
+7	勇气	_	NOUN	_	_	5	compound:vo	_	Pinyin=yǒngqì|Gloss=courage|HanViet=dũng khí|Trad=勇氣
+8	向	_	ADP	_	_	9	case	_	Pinyin=xiàng|Gloss=towards|HanViet=hướng
+9	她	_	PRON	_	_	10	obl	_	Pinyin=tā|Gloss=she|HanViet=tha
+10	表白	_	VERB	_	_	0	root	_	Pinyin=biǎobái|Gloss=to explain oneself|HanViet=biểu bạch
+11	。	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = ud-cfl-CFL_A_1-11_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我和朋友一直走路累很筋疲力尽。
+# source = UD Chinese-CFL CFL_A_1-11_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-9:6-6;gf0025-30:0-5;gf0025-63:3-3
+# translation = My friend and I kept walking until we were completely exhausted.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	和	_	PART	_	_	3	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+3	朋友	_	NOUN	_	_	1	conj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+4	一直	_	ADV	_	_	5	advmod	_	Pinyin=yìzhí|Gloss=straight (in a straight line)|HanViet=nhất trực
+5	走路	_	VERB	_	_	6	advcl	_	Pinyin=zǒulù|Gloss=to walk; to go on foot|HanViet=tẩu lộ
+6	累	_	ADJ	_	_	0	root	_	Pinyin=lèi|Gloss=tired|HanViet=luỵ
+7	很	_	ADV	_	_	8	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+8	筋疲力尽	_	ADJ	_	_	6	conj	_	Pinyin=jīnpílìjìn|Gloss=body weary, strength exhausted (idiom); extremely tired|HanViet=cân bì lực tận|Trad=筋疲力盡
+9	。	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = ud-cfl-CFL_P_1-1_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 在中国的见闻都让我感觉很新奇，其中让我感触最深的是：首先，中国有的地方空气不是很好。
+# source = UD Chinese-CFL CFL_P_1-1_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:6-6;gf0025-5:13-13;gf0025-6:23-23;gf0025-9:8-8;gf0025-9:15-15;gf0025-9:28-28;gf0025-10:4-4;gf0025-14:26-26;gf0025-16:0-0;gf0025-20:2-2;gf0025-20:17-17;gf0025-36:27-27;gf0025-68:4-4;gf0025-82:2-2;gf0025-82:17-17;gf0025-187:5-7;gf0025-187:12-14;gf0025-269:29-29
+# translation = Everything I've seen and heard in China feels new to me, and what has struck me most is this: first, the air in some parts of China isn't very good.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	在	_	ADP	_	_	2	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	中国	_	PROPN	_	_	4	nmod	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+3	的	_	PART	_	_	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	见闻	_	NOUN	_	_	6	nsubj	_	Pinyin=jiànwén|Gloss=what one has seen and heard|HanViet=kiến văn|Trad=見聞
+5	都	_	ADV	_	_	6	advmod	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+6	让	_	VERB	_	_	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+7	我	_	PRON	_	_	6	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	感觉	_	VERB	_	_	6	xcomp	_	Pinyin=gǎnjué|Gloss=feeling; impression; sensation|HanViet=cảm giác|Trad=感覺
+9	很	_	ADV	_	_	10	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+10	新奇	_	ADJ	_	_	8	xcomp	_	Pinyin=xīnqí|Gloss=novel; new; exotic|HanViet=tân kỳ
+11	，	_	PUNCT	_	_	19	punct	_	_
+12	其中	_	PRON	_	_	13	obl	_	Pinyin=qízhōng|Gloss=among|HanViet=kỳ trung
+13	让	_	VERB	_	_	19	nsubj	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+14	我	_	PRON	_	_	13	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+15	感触	_	VERB	_	_	13	xcomp	_	Pinyin=gǎnchù|Gloss=one's thoughts and feelings|HanViet=cảm xúc|Trad=感觸
+16	最	_	ADV	_	_	17	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+17	深	_	ADJ	_	_	15	advmod	_	Pinyin=shēn|Gloss=(lit. and fig.) deep|HanViet=thâm
+18	的	_	PART	_	_	13	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	是	_	VERB	_	_	6	parataxis	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+20	：	_	PUNCT	_	_	30	punct	_	_
+21	首先	_	ADV	_	_	30	advmod	_	Pinyin=shǒuxiān|Gloss=first of all; in the first place|HanViet=thủ,thú tiên
+22	，	_	PUNCT	_	_	21	punct	_	_
+23	中国	_	PROPN	_	_	30	dislocated	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+24	有的	_	DET	_	_	25	det	_	Pinyin=yǒude|Gloss=(there are) some (who are...)|HanViet=hữu đích
+25	地方	_	NOUN	_	_	30	dislocated	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+26	空气	_	NOUN	_	_	30	nsubj	_	Pinyin=kōngqì|Gloss=air|HanViet=không khí|Trad=空氣
+27	不	_	ADV	_	_	30	advmod	_	Pinyin=bú|Gloss=no; not so|HanViet=bất
+28	是	_	AUX	_	_	30	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+29	很	_	ADV	_	_	30	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+30	好	_	ADJ	_	_	19	ccomp	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+31	。	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = ud-cfl-CFL_Y_1-10_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 是他们让我们生活的环境幽雅清新。
+# source = UD Chinese-CFL CFL_Y_1-10_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-5:3-3;gf0025-20:5-5;gf0025-36:0-0;gf0025-82:5-5;gf0025-132:1-1;gf0025-132:3-3;gf0025-187:2-7
+# translation = It is they who keep the environment we live in pleasant and fresh.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	是	_	VERB	_	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+2	他们	_	PRON	_	_	3	nsubj	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+3	让	_	VERB	_	_	1	ccomp	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+4	我们	_	PRON	_	_	5	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	生活	_	VERB	_	_	7	acl	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+6	的	_	PART	_	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	环境	_	NOUN	_	_	3	obj	_	Pinyin=huánjìng|Gloss=environment|HanViet=hoàn cảnh|Trad=環境
+8	幽雅	_	ADJ	_	_	3	xcomp	_	Pinyin=yōuyǎ|Gloss=serene and elegant (of a place)|HanViet=u nhã
+9	清新	_	ADJ	_	_	8	conj	_	Pinyin=qīngxīn|Gloss=fresh and clean|HanViet=thanh tân
+10	。	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = ud-cfl-CFL_F_1-4_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我们早上从首尔出发的时候，天气风和日丽。
+# source = UD Chinese-CFL CFL_F_1-4_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-15:2-2;gf0025-20:5-5;gf0025-30:8-9;gf0025-72:2-2;gf0025-82:5-5;gf0025-132:0-0
+# translation = When we set off from Seoul in the morning, the weather was sunny with a gentle breeze.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我们	_	PRON	_	_	5	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	早上	_	NOUN	_	_	5	obl:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+3	从	_	ADP	_	_	4	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+4	首尔	_	PROPN	_	_	5	obl	_	Pinyin=shǒuěr|Gloss=Seoul, capital of South Korea (Chinese name adopted in 2005 to replace 漢城/汉城[Han4 cheng2])|HanViet=thủ,thú nhĩ|Trad=首爾
+5	出发	_	VERB	_	_	7	acl	_	Pinyin=chūfā|Gloss=to set off; to start (on a journey)|HanViet=xuất phát|Trad=出發
+6	的	_	PART	_	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	时候	_	NOUN	_	_	10	obl:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+8	，	_	PUNCT	_	_	7	punct	_	_
+9	天气	_	NOUN	_	_	10	nsubj	_	Pinyin=tiānqì|Gloss=weather|HanViet=thiên khí|Trad=天氣
+10	风和日丽	_	ADJ	_	_	0	root	_	Pinyin=fēnghérìlì|Gloss=moderate wind, beautiful sun (idiom); fine sunny weather, esp. in springtime|HanViet=phong hoà nhật lệ|Trad=風和日麗
+11	。	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = ud-cfl-CFL_H_2-11_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 还爬了牛背梁山，呼吸着深山里面的空气觉得整个人都清新了似的；
+# source = UD Chinese-CFL CFL_H_2-11_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-10:14-14;gf0025-13:0-0;gf0025-20:9-9;gf0025-21:2-2;gf0025-21:16-16;gf0025-41:2-2;gf0025-41:16-16;gf0025-63:0-0;gf0025-68:14-14;gf0025-81:6-6;gf0025-82:9-9;gf0025-118:5-6;gf0025-142:0-0;gf0025-209:14-16;gf0025-223:0-0
+# translation = We also climbed Niubeiliang Mountain; breathing the air deep in the mountains, I felt completely refreshed;
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	还	_	ADV	_	_	2	advmod	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+2	爬	_	VERB	_	_	0	root	_	Pinyin=pá|Gloss=to crawl|HanViet=bò
+3	了	_	AUX	_	_	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	牛背梁山	_	NOUN	_	_	2	obj	_	Pinyin=niúbèiliángshān|HanViet=ngưu bối,bội lương sơn|GlossFrom=parts|Gloss=牛 ox + 背 to carry on one's back + 梁 Liang Dynasty (502–557) + 山 mountain; hill (CL:座[zuo4])
+5	，	_	PUNCT	_	_	6	punct	_	_
+6	呼吸	_	VERB	_	_	2	conj	_	Pinyin=hūxī|Gloss=to breathe|HanViet=hô hấp
+7	着	_	AUX	_	_	6	aux	_	Pinyin=zhuó|Gloss=to wear (clothes)|HanViet=trước|Trad=著
+8	深山	_	NOUN	_	_	11	nmod	_	Pinyin=shēnshān|Gloss=deep in the mountains|HanViet=thâm sơn
+9	里面	_	ADP	_	_	8	case:loc	_	Pinyin=lǐmiàn|Gloss=inside|HanViet=lý diện|Trad=裡面
+10	的	_	PART	_	_	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	空气	_	NOUN	_	_	6	obj	_	Pinyin=kōngqì|Gloss=air|HanViet=không khí|Trad=空氣
+12	觉得	_	VERB	_	_	6	conj	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+13	整个	_	ADJ	_	_	14	amod	_	Pinyin=zhěnggè|Gloss=whole|HanViet=chỉnh cá|Trad=整個
+14	人	_	NOUN	_	_	18	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+15	都	_	ADV	_	_	18	advmod	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+16	清新	_	ADJ	_	_	18	xcomp	_	Pinyin=qīngxīn|Gloss=fresh and clean|HanViet=thanh tân
+17	了	_	AUX	_	_	18	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+18	似的	_	VERB	_	_	12	ccomp	_	Pinyin=shìde|Gloss=seems as if|HanViet=tự,tựa đích
+19	；	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_C_1-11_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我没请人家搀扶我或帮助我。
+# source = UD Chinese-CFL CFL_C_1-11_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-5:5-5;gf0025-5:8-8;gf0025-77:6-6;gf0025-132:3-3;gf0025-187:2-4;gf0025-213:3-3
+# translation = I didn't ask anyone to support me or help me.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	没	_	PART	_	Polarity=Neg	3	advmod	_	Pinyin=méi|Gloss=(negative prefix for verbs) have not; not|HanViet=một|Trad=沒
+3	请	_	VERB	_	_	0	root	_	Pinyin=qǐng|Gloss=to ask|HanViet=thỉnh|Trad=請
+4	人家	_	PRON	_	_	3	obj	_	Pinyin=rénjiā|Gloss=household|HanViet=nhân gia
+5	搀扶	_	VERB	_	_	3	xcomp	_	Pinyin=chānfú|Gloss=to lend an arm to support sb|HanViet=sam phò,phù|Trad=攙扶
+6	我	_	PRON	_	_	5	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	或	_	CCONJ	_	_	8	cc	_	Pinyin=huò|Gloss=maybe|HanViet=hoặc
+8	帮助	_	VERB	_	_	5	conj	_	Pinyin=bāngzhù|Gloss=assistance; aid|HanViet=bang trợ|Trad=幫助
+9	我	_	PRON	_	_	8	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	。	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ud-cfl-CFL_A_1-6_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 因为我人生第一次亲眼看见军队。
+# source = UD Chinese-CFL CFL_A_1-6_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-23:3-4;gf0025-59:4-4;gf0025-120:3-3;gf0025-131:3-3;gf0025-368:5-5
+# translation = Because it was the first time in my life that I had seen an army with my own eyes.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	因为	_	ADV	_	_	7	advmod	_	Pinyin=yīnwèi|Gloss=because; owing to; on account of|HanViet=nhân vị,vì|Trad=因為
+2	我	_	PRON	_	_	3	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	人生	_	NOUN	_	_	5	nmod	_	Pinyin=rénshēng|Gloss=life (one's time on earth)|HanViet=nhân sinh
+4	第一	_	NUM	_	_	5	amod	_	Pinyin=dìyī|Gloss=first|HanViet=đệ nhất
+5	次	_	NOUN	_	_	7	obl:tmod	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+6	亲眼	_	ADV	_	_	7	advmod	_	Pinyin=qīnyǎn|Gloss=with one's own eyes|HanViet=thân nhãn|Trad=親眼
+7	看	_	VERB	_	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+8	见	_	VERB	_	_	7	compound:vv	_	Pinyin=jiàn|Gloss=to see|HanViet=kiến|Trad=見
+9	军队	_	NOUN	_	_	7	obj	_	Pinyin=jūnduì|Gloss=armed forces; troops|HanViet=quân đội|Trad=軍隊
+10	。	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = ud-cfl-CFL_D_2-18_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 有点儿恼火了。
+# source = UD Chinese-CFL CFL_D_2-18_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-22:2-2;gf0025-40:2-2;gf0025-61:0-0
+# translation = I got a little annoyed.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	有点儿	_	ADV	_	_	2	advmod	_	Pinyin=yǒudiǎnr|Gloss=slightly|HanViet=hữu điểm nhi|Trad=有點兒
+2	恼火	_	ADJ	_	_	0	root	_	Pinyin=nǎohuǒ|Gloss=annoyed; riled; vexed|HanViet=não hoả|Trad=惱火
+3	了	_	PART	_	_	2	discourse:sp	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_K_1-3_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 但是在生活中我们会遇到一些事情回永远存在我们的脑海里，也会永远印象我们，这些事情会让我们变成今天的。我们。
+# source = UD Chinese-CFL CFL_K_1-3_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-1:16-16;gf0025-2:5-5;gf0025-2:19-19;gf0025-2:26-26;gf0025-5:4-4;gf0025-5:13-13;gf0025-5:22-22;gf0025-5:28-28;gf0025-5:33-33;gf0025-6:24-24;gf0025-13:18-18;gf0025-16:1-1;gf0025-20:14-14;gf0025-20:31-31;gf0025-78:0-0;gf0025-82:14-14;gf0025-82:31-31;gf0025-132:4-4;gf0025-132:13-13;gf0025-132:22-22;gf0025-132:28-28;gf0025-132:33-33;gf0025-176:6-7;gf0025-187:27-29;gf0025-244:1-3
+# translation = But in life we come across some things that stay in our minds forever and influence us forever; these things make us who we are today.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	但是	_	ADV	_	_	7	advmod	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+2	在	_	ADP	_	_	3	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	生活	_	NOUN	_	_	7	obl	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+4	中	_	ADP	_	_	3	case:loc	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+5	我们	_	PRON	_	_	7	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+6	会	_	AUX	_	_	7	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+7	遇	_	VERB	_	_	0	root	_	Pinyin=yù|Gloss=(bound form) to encounter; to happen upon; to meet unplanned|HanViet=ngộ
+8	到	_	VERB	_	_	7	compound:vv	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+9	一些	_	DET	_	_	10	det	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+10	事情	_	NOUN	_	_	7	obj	_	Pinyin=shìqíng|Gloss=affair; matter; thing; business|HanViet=sự tình
+11	回	_	VERB	_	_	13	dep	_	Pinyin=huí|Gloss=Hui ethnic group (Chinese Muslims)|HanViet=hồi
+12	永远	_	ADV	_	_	13	advmod	_	Pinyin=yǒngyuǎn|Gloss=forever|HanViet=vĩnh viễn|Trad=永遠
+13	存在	_	VERB	_	_	7	xcomp	_	Pinyin=cúnzài|Gloss=to exist|HanViet=tồn tại
+14	我们	_	PRON	_	_	16	nmod	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+15	的	_	PART	_	_	14	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	脑海	_	NOUN	_	_	13	advcl	_	Pinyin=nǎohǎi|Gloss=the mind|HanViet=não hải|Trad=腦海
+17	里	_	ADP	_	_	16	case:loc	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+18	，	_	PUNCT	_	_	22	punct	_	_
+19	也	_	ADV	_	_	21	advmod	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+20	会	_	AUX	_	_	21	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+21	永远	_	ADV	_	_	22	advmod	_	Pinyin=yǒngyuǎn|Gloss=forever|HanViet=vĩnh viễn|Trad=永遠
+22	印象	_	VERB	_	_	13	conj	_	Pinyin=yìnxiàng|Gloss=impression (sth that stays in one's mind)|HanViet=ấn tượng
+23	我们	_	PRON	_	_	22	obj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+24	，	_	PUNCT	_	_	28	punct	_	_
+25	这些	_	DET	_	_	26	det	_	Pinyin=zhèxiē|Gloss=these|HanViet=giá ta|Trad=這些
+26	事情	_	NOUN	_	_	28	nsubj	_	Pinyin=shìqíng|Gloss=affair; matter; thing; business|HanViet=sự tình
+27	会	_	AUX	_	_	28	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+28	让	_	VERB	_	_	7	parataxis	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+29	我们	_	PRON	_	_	28	obj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+30	变成	_	VERB	_	_	28	xcomp	_	Pinyin=biànchéng|Gloss=to change into|HanViet=biến thành|Trad=變成
+31	今天	_	NOUN	_	_	34	nmod	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+32	的	_	PART	_	_	31	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+33	。	_	PUNCT	_	_	31	punct	_	_
+34	我们	_	PRON	_	_	30	obj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+35	。	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = ud-cfl-CFL_I_1-8_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 然后他给我表白了，我们成为情侣了。
+# source = UD Chinese-CFL CFL_I_1-8_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-5:3-3;gf0025-5:7-7;gf0025-21:5-5;gf0025-22:10-10;gf0025-40:10-10;gf0025-41:5-5;gf0025-74:2-2;gf0025-132:7-7
+# translation = Then he told me he liked me, and we became a couple.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	然后	_	ADV	_	_	5	advmod	_	Pinyin=ránhòu|Gloss=then; after that; afterwards|HanViet=nhiên hậu|Trad=然後
+2	他	_	PRON	_	_	5	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+3	给	_	ADP	_	_	4	case	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+4	我	_	PRON	_	_	5	iobj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	表白	_	VERB	_	_	0	root	_	Pinyin=biǎobái|Gloss=to explain oneself|HanViet=biểu bạch
+6	了	_	PART	_	_	5	discourse:sp	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	，	_	PUNCT	_	_	9	punct	_	_
+8	我们	_	PRON	_	_	9	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+9	成为	_	VERB	_	_	5	parataxis	_	Pinyin=chéngwéi|Gloss=to become; to turn into|HanViet=thành vi|Trad=成為
+10	情侣	_	NOUN	_	_	9	obj	_	Pinyin=qínglǚ|Gloss=sweethearts|HanViet=tình lữ|Trad=情侶
+11	了	_	PART	_	_	9	discourse:sp	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	。	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ud-cfl-CFL_Z_1-19_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 因此骑自行车的人似乎与日俱增。
+# source = UD Chinese-CFL CFL_Z_1-19_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-20:3-3;gf0025-82:3-3;gf0025-160:0-0;gf0025-201:0-0;gf0025-222:5-5
+# translation = As a result, the number of people riding bicycles seems to be growing day by day.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	因此	_	SCONJ	_	_	7	mark	_	Pinyin=yīncǐ|Gloss=thus; consequently; as a result|HanViet=nhân thử
+2	骑	_	VERB	_	_	5	acl	_	Pinyin=qí|Gloss=to sit astride|HanViet=kỵ|Trad=騎
+3	自行车	_	NOUN	_	_	2	obj	_	Pinyin=zìxíngchē|Gloss=bicycle; bike|HanViet=tự hành,hạnh xa|Trad=自行車
+4	的	_	PART	_	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	人	_	NOUN	_	_	7	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+6	似乎	_	ADV	_	_	7	advmod	_	Pinyin=sìhū|Gloss=it seems; seemingly; as if|HanViet=tự,tựa hồ
+7	与日俱增	_	VERB	_	_	0	root	_	Pinyin=yǔrìjùzēng|Gloss=to increase steadily|HanViet=dữ nhật câu tăng|Trad=與日俱增
+8	。	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = ud-cfl-CFL_M_1-2_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 在我的脑海里挥之不去的一件事，是那次失恋。
+# source = UD Chinese-CFL CFL_M_1-2_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-1:4-4;gf0025-5:1-1;gf0025-6:12-12;gf0025-7:7-7;gf0025-16:0-0;gf0025-20:2-2;gf0025-20:6-6;gf0025-23:7-8;gf0025-36:11-11;gf0025-58:8-8;gf0025-59:13-13;gf0025-82:2-2;gf0025-82:6-6
+# translation = The one thing I can't get out of my head is that breakup.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	在	_	ADP	_	_	4	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	我	_	PRON	_	_	4	nmod	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	的	_	PART	_	_	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	脑海	_	NOUN	_	_	10	obl	_	Pinyin=nǎohǎi|Gloss=the mind|HanViet=não hải|Trad=腦海
+5	里	_	ADP	_	_	4	case:loc	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+6	挥之不去	_	VERB	_	_	10	acl	_	Pinyin=huīzhībùqù|Gloss=impossible to get rid of|HanViet=huy chi bất khứ,khử|Trad=揮之不去
+7	的	_	PART	_	_	6	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	一	_	NUM	_	_	10	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+9	件	_	NOUN	_	_	8	clf	_	Pinyin=jiàn|Gloss=item|HanViet=kiện
+10	事	_	NOUN	_	_	15	nsubj	_	Pinyin=shì|Gloss=matter|HanViet=sự
+11	，	_	PUNCT	_	_	10	punct	_	_
+12	是	_	AUX	_	_	15	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+13	那	_	DET	_	_	15	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+14	次	_	NOUN	_	_	13	clf	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+15	失恋	_	NOUN	_	_	0	root	_	Pinyin=shīliàn|Gloss=to lose one's love|HanViet=thất luyến|Trad=失戀
+16	。	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = ud-cfl-CFL_O_1-16_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 在我离开日本之前，我又去探望那个澳大利亚的朋友和他喜欢的女孩。
+# source = UD Chinese-CFL CFL_O_1-16_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:1-1;gf0025-5:6-6;gf0025-5:16-16;gf0025-6:10-10;gf0025-8:11-11;gf0025-16:0-0;gf0025-19:15-15;gf0025-20:13-13;gf0025-20:18-18;gf0025-64:7-7;gf0025-82:13-13;gf0025-82:18-18;gf0025-95:4-4;gf0025-136:2-2
+# translation = Before I left Japan, I went to visit my Australian friend and the girl he liked once more.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	在	_	ADP	_	_	3	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	我	_	PRON	_	_	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	离开	_	VERB	_	_	9	obl:tmod	_	Pinyin=líkāi|Gloss=to depart; to leave|HanViet=ly khai|Trad=離開
+4	日本	_	PROPN	_	_	3	obj	_	Pinyin=rìběn|Gloss=Japan|HanViet=nhật bản
+5	之前	_	ADP	_	_	3	case:loc	_	Pinyin=zhīqián|Gloss=before|HanViet=chi tiền
+6	，	_	PUNCT	_	_	3	punct	_	_
+7	我	_	PRON	_	_	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	又	_	ADV	_	_	9	advmod	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+9	去	_	VERB	_	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+10	探望	_	VERB	_	_	9	conj	_	Pinyin=tànwàng|Gloss=to visit|HanViet=thám vọng
+11	那	_	DET	_	_	12	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+12	个	_	NOUN	_	_	15	nmod	_	Pinyin=ge|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+13	澳大利亚	_	PROPN	_	_	15	nmod	_	Pinyin=àodàlìyà|Gloss=Australia|HanViet=úc đại lợi á|Trad=澳大利亞
+14	的	_	PART	_	_	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	朋友	_	NOUN	_	_	10	obj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+16	和	_	CCONJ	_	_	20	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+17	他	_	PRON	_	_	18	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+18	喜欢	_	VERB	_	_	20	acl	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+19	的	_	PART	_	_	18	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+20	女孩	_	NOUN	_	_	15	conj	_	Pinyin=nǚhái|Gloss=girl; lass|HanViet=_ hài
+21	。	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = ud-cfl-CFL_Z_1-3_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 这养的情景就让我耳目一新。
+# source = UD Chinese-CFL CFL_Z_1-3_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:5-5;gf0025-20:1-1;gf0025-65:3-3;gf0025-68:3-3;gf0025-82:1-1;gf0025-143:3-3;gf0025-187:4-6;gf0025-295:3-3
+# translation = A sight like that was refreshingly new to me.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	这养	_	DET	_	_	3	det	_	Pinyin=zhèyǎng|HanViet=giá dưỡng|GlossFrom=parts|Gloss=这 (pronoun) this; these + 养 to raise (animals)|Trad=這養
+2	的	_	PART	_	_	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	情景	_	NOUN	_	_	5	nsubj	_	Pinyin=qíngjǐng|Gloss=scene; spectacle|HanViet=tình cảnh
+4	就	_	ADV	_	_	5	advmod	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+5	让	_	VERB	_	_	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+6	我	_	PRON	_	_	5	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	耳目一新	_	VERB	_	_	5	xcomp	_	Pinyin=ěrmùyīxīn|Gloss=a pleasant change|HanViet=nhĩ mục nhất tân
+8	。	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ud-cfl-CFL_H_1-9_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = （侍奉）菲律宾的丛林里有很多野蛮人，他们的生活相比之下城市的人太贫穷。
+# source = UD Chinese-CFL CFL_H_1-9_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-1:6-6;gf0025-5:11-11;gf0025-9:19-19;gf0025-20:4-4;gf0025-20:12-12;gf0025-20:17-17;gf0025-37:7-7;gf0025-82:4-4;gf0025-82:12-12;gf0025-82:17-17;gf0025-132:11-11
+# translation = (Service) There are many tribal people living in the jungles of the Philippines, and compared with city people, their lives are very poor.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	（	_	PUNCT	_	_	2	punct	_	_
+2	侍奉	_	VERB	_	_	8	dep	_	Pinyin=shìfèng|Gloss=to wait upon|HanViet=thị phụng
+3	）	_	PUNCT	_	_	2	punct	_	_
+4	菲律宾	_	PROPN	_	_	6	nmod	_	Pinyin=fēilǜbīn|Gloss=the Philippines|HanViet=phi luật tân|Trad=菲律賓
+5	的	_	PART	_	_	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	丛林	_	NOUN	_	_	8	obl	_	Pinyin=cónglín|Gloss=jungle|HanViet=tùng lâm|Trad=叢林
+7	里	_	ADP	_	_	6	case:loc	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+8	有	_	VERB	_	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+9	很多	_	DET	_	_	10	advmod	_	Pinyin=hěnduō|HanViet=ngận đa|GlossFrom=parts|Gloss=很 very; quite + 多 many; much; more; a lot of
+10	野蛮人	_	NOUN	_	_	8	obj	_	Pinyin=yěmánrén|Gloss=barbarian|HanViet=dã man nhân|Trad=野蠻人
+11	，	_	PUNCT	_	_	21	punct	_	_
+12	他们	_	PRON	_	_	14	nmod	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+13	的	_	PART	_	_	12	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+14	生活	_	NOUN	_	_	21	nsubj	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+15	相比	_	VERB	_	_	21	advcl	_	Pinyin=xiāngbǐ|Gloss=to compare|HanViet=tương tỷ,bỉ
+16	之下	_	ADP	_	_	19	case:loc	_	Pinyin=zhīxià|Gloss=under|HanViet=chi hạ
+17	城市	_	NOUN	_	_	19	nmod	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+18	的	_	PART	_	_	17	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+19	人	_	NOUN	_	_	15	obl	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+20	太	_	ADV	_	_	21	advmod	_	Pinyin=tài|Gloss=highest|HanViet=thái
+21	贫穷	_	ADJ	_	_	8	parataxis	_	Pinyin=pínqióng|Gloss=poor|HanViet=bần cùng|Trad=貧窮
+22	。	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = ud-cfl-CFL_G_1-12_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 爬下来是最难的，看到下面你就头晕了，也如果你走错肯定掉下来，中国女朋友搀我下去，觉得人情味儿！
+# source = UD Chinese-CFL CFL_G_1-12_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:10-10;gf0025-5:17-17;gf0025-5:27-27;gf0025-9:3-3;gf0025-13:15-15;gf0025-20:5-5;gf0025-21:13-13;gf0025-30:0-4;gf0025-35:0-31;gf0025-36:2-2;gf0025-41:13-13;gf0025-65:11-11;gf0025-68:11-11;gf0025-78:16-16;gf0025-82:5-5;gf0025-97:18-19;gf0025-132:31-31;gf0025-143:11-11;gf0025-176:7-8;gf0025-177:0-1;gf0025-177:21-22;gf0025-295:11-11
+# translation = Climbing down was the hardest part; looking down made you dizzy, and if you put a foot wrong you would definitely fall. My Chinese friend helped me down, and I felt the warmth of human kindness!
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	爬	_	VERB	_	_	5	nsubj	_	Pinyin=pá|Gloss=to crawl|HanViet=bò
+2	下来	_	VERB	_	_	1	compound:dir	_	Pinyin=xiàlái|Gloss=to come down|HanViet=hạ lai|Trad=下來
+3	是	_	AUX	_	_	5	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	最	_	ADV	_	_	5	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+5	难	_	ADJ	_	_	0	root	_	Pinyin=nán|Gloss=difficult (to...)|HanViet=nan|Trad=難
+6	的	_	PART	_	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	，	_	PUNCT	_	_	13	punct	_	_
+8	看	_	VERB	_	_	13	acl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+9	到	_	VERB	_	_	8	compound:vv	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+10	下面	_	NOUN	_	_	8	obj	_	Pinyin=xiàmiàn|Gloss=below|HanViet=hạ diện
+11	你	_	PRON	_	_	13	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+12	就	_	ADV	_	_	13	advmod	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+13	头晕	_	VERB	_	_	5	parataxis	_	Pinyin=tóuyūn|Gloss=dizzy|HanViet=đầu vựng|Trad=頭暈
+14	了	_	AUX	_	_	13	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+15	，	_	PUNCT	_	_	22	punct	_	_
+16	也	_	ADV	_	_	22	advmod	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+17	如果	_	SCONJ	_	_	19	mark	_	Pinyin=rúguǒ|Gloss=if; in case; in the event that|HanViet=như quả
+18	你	_	PRON	_	_	19	nsubj	_	Pinyin=nǐ|Gloss=you (informal, as opposed to courteous 您[nin2])|HanViet=nễ
+19	走	_	VERB	_	_	22	advcl	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+20	错	_	ADJ	_	_	19	advmod	_	Pinyin=cuò|Gloss=mistake|HanViet=thác|Trad=錯
+21	肯定	_	ADV	_	_	22	advmod	_	Pinyin=kěndìng|Gloss=to be certain; to be positive|HanViet=khẳng định
+22	掉	_	VERB	_	_	5	parataxis	_	Pinyin=diào|Gloss=to fall|HanViet=điệu
+23	下来	_	VERB	_	_	22	compound:vv	_	Pinyin=xiàlái|Gloss=to come down|HanViet=hạ lai|Trad=下來
+24	，	_	PUNCT	_	_	27	punct	_	_
+25	中国	_	PROPN	_	_	26	nmod	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+26	女朋友	_	NOUN	_	_	27	nsubj	_	Pinyin=nǚpéngyǒu|Gloss=girlfriend|HanViet=_ bằng hữu
+27	搀	_	VERB	_	_	5	parataxis	_	Pinyin=chān|Gloss=to take by the arm and assist|HanViet=sam|Trad=攙
+28	我	_	PRON	_	_	27	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+29	下去	_	VERB	_	_	27	compound:dir	_	Pinyin=xiàqù|Gloss=to go down|HanViet=hạ khứ,khử
+30	，	_	PUNCT	_	_	31	punct	_	_
+31	觉得	_	VERB	_	_	27	conj	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+32	人情味儿	_	NOUN	_	_	31	obj	_	Pinyin=rénqíngwèir|Gloss=erhua variant of 人情味[ren2 qing2 wei4]|HanViet=nhân tình vị nhi|Trad=人情味兒
+33	！	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ud-cfl-CFL_B_1-19_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 虽舍不得离开这么好的地方，但在家的父母等我，无可奈何。
+# source = UD Chinese-CFL CFL_B_1-19_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:16-16;gf0025-8:12-12;gf0025-14:2-2;gf0025-16:11-11;gf0025-20:7-7;gf0025-20:13-13;gf0025-78:10-10;gf0025-82:7-7;gf0025-82:13-13;gf0025-136:4-4;gf0025-178:1-3;gf0025-212:3-3;gf0025-269:6-6;gf0025-407:0-10
+# translation = Although I hated to leave such a wonderful place, my parents were waiting for me at home, so there was nothing I could do.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	虽	_	SCONJ	_	_	2	mark	_	Pinyin=suī|Gloss=although|HanViet=tuy|Trad=雖
+2	舍	_	VERB	_	_	16	advcl	_	Pinyin=shě|Gloss=to give up; to abandon|HanViet=xả
+3	不	_	ADV	_	_	4	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+4	得	_	VERB	_	_	2	compound:vv	_	Pinyin=dé|Gloss=to obtain|HanViet=đắc
+5	离开	_	VERB	_	_	2	xcomp	_	Pinyin=líkāi|Gloss=to depart; to leave|HanViet=ly khai|Trad=離開
+6	这么	_	ADV	_	_	7	advmod	_	Pinyin=zhème|Gloss=so much|HanViet=giá ma|Trad=這麼
+7	好	_	ADJ	_	_	9	amod	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+8	的	_	PART	_	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	地方	_	NOUN	_	_	5	obj	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+10	，	_	PUNCT	_	_	2	punct	_	_
+11	但	_	ADV	_	_	16	advmod	_	Pinyin=dàn|Gloss=but; yet; however; still|HanViet=đãn
+12	在	_	ADP	_	_	13	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+13	家	_	NOUN	_	_	15	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+14	的	_	PART	_	_	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	父母	_	NOUN	_	_	16	nsubj	_	Pinyin=fùmǔ|Gloss=father and mother; parents|HanViet=phụ mẫu
+16	等	_	VERB	_	_	0	root	_	Pinyin=děng|Gloss=to wait for; to await|HanViet=đẳng
+17	我	_	PRON	_	_	16	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+18	，	_	PUNCT	_	_	19	punct	_	_
+19	无可奈何	_	ADJ	_	_	16	parataxis	_	Pinyin=wúkěnàihé|Gloss=have no way out|HanViet=vô khả nại hà|Trad=無可奈何
+20	。	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = ud-cfl-CFL_O_1-8_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我的一个很好的日本朋友扩展了他家的企业，而现在，居住在一个宽敞明亮的公寓里面，上一次我见过到他，他才14岁。
+# source = UD Chinese-CFL CFL_O_1-8_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-1:28-28;gf0025-5:0-0;gf0025-5:11-11;gf0025-5:31-31;gf0025-5:35-35;gf0025-5:37-37;gf0025-7:2-2;gf0025-7:21-21;gf0025-7:29-29;gf0025-8:3-3;gf0025-8:12-12;gf0025-8:22-22;gf0025-9:4-4;gf0025-16:20-20;gf0025-20:1-1;gf0025-20:6-6;gf0025-20:13-13;gf0025-20:24-24;gf0025-21:10-10;gf0025-23:2-3;gf0025-23:21-22;gf0025-23:29-30;gf0025-41:10-10;gf0025-59:30-30;gf0025-68:38-38;gf0025-80:33-33;gf0025-82:1-1;gf0025-82:6-6;gf0025-82:13-13;gf0025-82:24-24;gf0025-119:32-33;gf0025-144:38-38;gf0025-204:39-39;gf0025-231:16-16;gf0025-244:20-28;gf0025-269:5-5;gf0025-370:38-38;gf0025-378:16-16;gf0025-476:16-16
+# translation = A very good Japanese friend of mine has expanded his family's business and now lives in a spacious, bright apartment; the last time I had seen him, he was only 14.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	9	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	的	_	PART	_	_	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	一	_	NUM	_	_	9	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+4	个	_	NOUN	_	_	3	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	很	_	ADV	_	_	6	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+6	好	_	ADJ	_	_	9	amod	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+7	的	_	PART	_	_	6	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	日本	_	PROPN	_	_	9	nmod	_	Pinyin=rìběn|Gloss=Japan|HanViet=nhật bản
+9	朋友	_	NOUN	_	_	10	nsubj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+10	扩展	_	VERB	_	_	0	root	_	Pinyin=kuòzhǎn|Gloss=to extend|HanViet=khuếch triển|Trad=擴展
+11	了	_	AUX	_	_	10	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	他	_	PRON	_	_	13	nmod	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+13	家	_	NOUN	_	_	15	nmod	_	Pinyin=jiā|Gloss=home|HanViet=gia
+14	的	_	PART	_	_	13	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+15	企业	_	NOUN	_	_	10	obj	_	Pinyin=qǐyè|Gloss=company; firm; enterprise; corporation|HanViet=xí nghiệp|Trad=企業
+16	，	_	PUNCT	_	_	20	punct	_	_
+17	而	_	CCONJ	_	_	20	cc	_	Pinyin=ér|Gloss=and|HanViet=nhi
+18	现在	_	NOUN	_	_	20	obl:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+19	，	_	PUNCT	_	_	18	punct	_	_
+20	居住	_	VERB	_	_	10	conj	_	Pinyin=jūzhù|Gloss=to reside|HanViet=cư trú,trụ
+21	在	_	ADP	_	_	26	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+22	一	_	NUM	_	_	26	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+23	个	_	NOUN	_	_	22	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+24	宽敞明亮	_	ADJ	_	_	26	amod	_	Pinyin=kuānchǎngmíngliàng|HanViet=khoan sưởng minh lượng|GlossFrom=parts|Gloss=宽敞 spacious + 明亮 bright|Trad=寬敞明亮
+25	的	_	PART	_	_	24	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+26	公寓	_	NOUN	_	_	20	obl	_	Pinyin=gōngyù|Gloss=apartment building; block of flats (may be a public housing block or a condominium etc) (CL:套[tao4])|HanViet=công ngụ
+27	里面	_	NOUN	_	_	26	case:loc	_	Pinyin=lǐmiàn|Gloss=inside|HanViet=lý diện|Trad=裡面
+28	，	_	PUNCT	_	_	33	punct	_	_
+29	上	_	NOUN	_	_	31	nmod	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+30	一	_	NUM	_	_	31	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+31	次	_	NOUN	_	_	33	obl:tmod	_	Pinyin=cì|Gloss=next in sequence|HanViet=thứ
+32	我	_	PRON	_	_	33	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+33	见	_	VERB	_	_	10	parataxis	_	Pinyin=jiàn|Gloss=to see|HanViet=kiến|Trad=見
+34	过	_	AUX	_	_	33	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+35	到	_	VERB	_	_	33	compound:vv	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+36	他	_	PRON	_	_	33	obj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+37	，	_	PUNCT	_	_	41	punct	_	_
+38	他	_	PRON	_	_	41	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+39	才	_	ADV	_	_	41	advmod	_	Pinyin=cái|Gloss=ability; talent|HanViet=tài
+40	14	_	NUM	_	_	41	nummod	_	Pinyin=14
+41	岁	_	NOUN	_	_	33	parataxis	_	Pinyin=suì|Gloss=years old|HanViet=tuế|Trad=歲
+42	。	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = ud-cfl-CFL_D_1-31_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我发现了塞翁失马的意思是什么。
+# source = UD Chinese-CFL CFL_D_1-31_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-4:7-7;gf0025-5:0-0;gf0025-20:4-4;gf0025-21:2-2;gf0025-36:6-6;gf0025-41:2-2;gf0025-82:4-4
+# translation = I discovered what "a blessing in disguise" really means.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我	_	PRON	_	_	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	发现	_	VERB	_	_	0	root	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+3	了	_	AUX	_	_	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	塞翁失马	_	VERB	_	_	6	nmod	_	Pinyin=sàiwēngshīmǎ|Gloss=lit. the old man lost his horse, but it all turned out for the best (idiom)|HanViet=tái ông thất mã|Trad=塞翁失馬
+5	的	_	PART	_	_	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	意思	_	NOUN	_	_	8	nsubj	_	Pinyin=yìsi|Gloss=idea|HanViet=ý tư,tứ
+7	是	_	AUX	_	_	8	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+8	什么	_	PRON	_	_	2	ccomp	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+9	。	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ud-cfl-CFL_A_1-8_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 我们还去了洞窟。
+# source = UD Chinese-CFL CFL_A_1-8_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-13:1-1;gf0025-21:3-3;gf0025-41:3-3;gf0025-63:1-1;gf0025-132:0-0;gf0025-142:1-1;gf0025-223:1-1
+# translation = We also went into a tunnel.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	我们	_	PRON	_	_	3	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	还	_	ADV	_	_	3	advmod	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+3	去	_	VERB	_	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+4	了	_	AUX	_	_	3	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	洞窟	_	NOUN	_	_	3	obj	_	Pinyin=dòngkū|Gloss=a cave|HanViet=động quật
+6	。	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ud-cfl-CFL_M_1-9_ori
+# tree_source = ud-cfl
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 7
+# text = 直到有一天，我决定向她表白。
+# source = UD Chinese-CFL CFL_M_1-9_ori
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:5-5;gf0025-5:8-8;gf0025-7:2-2;gf0025-23:2-3;gf0025-37:1-1;gf0025-60:3-3;gf0025-71:7-7;gf0025-103:1-2;gf0025-154:7-7;gf0025-181:0-3;gf0025-181:1-3;gf0025-182:0-3;gf0025-182:1-3
+# translation = Until one day, I decided to tell her how I felt.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	直到	_	VERB	_	_	7	advcl	_	Pinyin=zhídào|Gloss=until|HanViet=trực đáo
+2	有	_	VERB	_	_	1	obl:tmod	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+3	一	_	NUM	_	_	4	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+4	天	_	NOUN	_	_	2	obj	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+5	，	_	PUNCT	_	_	1	punct	_	_
+6	我	_	PRON	_	_	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	决定	_	VERB	_	_	0	root	_	Pinyin=juédìng|Gloss=to decide; to determine; to make up one's mind|HanViet=quyết định|Trad=決定
+8	向	_	ADP	_	_	9	case	_	Pinyin=xiàng|Gloss=towards|HanViet=hướng
+9	她	_	PRON	_	_	10	obl	_	Pinyin=tā|Gloss=she|HanViet=tha
+10	表白	_	VERB	_	_	7	ccomp	_	Pinyin=biǎobái|Gloss=to explain oneself|HanViet=biểu bạch
+11	。	_	PUNCT	_	_	7	punct	_	_

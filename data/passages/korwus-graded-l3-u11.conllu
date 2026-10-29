@@ -1,0 +1,268 @@
+# sent_id = korwus-graded-l3-u11-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 我一直想去一个有很多马的地方，但是总没有机会。
+# translation = I had always wanted to go to a place with lots of horses, but I never had the chance.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	4	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	一直	_	ADV	RB	_	4	advmod	_	Pinyin=yìzhí|Gloss=straight (in a straight line)|HanViet=nhất trực
+3	想	_	AUX	MD	_	4	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+4	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+5	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+6	个	_	NOUN	NNB	_	5	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+7	有	_	VERB	VV	_	11	acl:relcl	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+8	很多	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+9	马	_	NOUN	NN	_	7	obj	_	Pinyin=mǎ|Gloss=horse|HanViet=mã|Trad=馬
+10	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+11	地方	_	NOUN	NN	_	4	obj	_	Pinyin=dìfāng|Gloss=region|HanViet=địa phương
+12	，	_	PUNCT	,	_	15	punct	_	_
+13	但是	_	SCONJ	RB	_	15	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+14	总	_	ADV	RB	_	15	advmod	_	Pinyin=zǒng|Gloss=(bound form) general; overall|HanViet=tổng|Trad=總
+15	没有	_	VERB	VV	Polarity=Neg	4	xcomp	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+16	机会	_	NOUN	NN	_	15	obj	_	Pinyin=jīhuì|Gloss=opportunity|HanViet=cơ hội|Trad=機會
+17	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u11-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 今年夏天，我终于和朋友一起出发了。
+# translation = This summer, I finally set off with a friend.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	今年	_	NOUN	NN	_	2	nmod	_	Pinyin=jīnnián|Gloss=this year|HanViet=kim niên
+2	夏天	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=xiàtiān|Gloss=summer|HanViet=hạ thiên
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	终于	_	ADV	RB	_	9	advmod	_	Pinyin=zhōngyú|Gloss=at last|HanViet=chung ư|Trad=終於
+6	和	_	ADP	IN	_	7	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+7	朋友	_	NOUN	NN	_	9	obl	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+8	一起	_	NOUN	NN	_	9	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+9	出发	_	VERB	VV	_	0	root	_	Pinyin=chūfā|Gloss=to set off; to start (on a journey)|HanViet=xuất phát|Trad=出發
+10	了	_	PART	UH	_	9	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u11-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我们坐了十个小时的火车。
+# translation = We rode the train for ten hours.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	2	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	坐	_	VERB	VV	_	0	root	_	Pinyin=zuò|Gloss=to sit|HanViet=toạ
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	十	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=shí|Gloss=ten|HanViet=thập
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	小时	_	NOUN	NN	_	8	nmod	_	Pinyin=xiǎoshí|Gloss=hour|HanViet=tiểu thời|Trad=小時
+7	的	_	PART	DEC	Case=Gen	6	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	火车	_	NOUN	NN	_	2	obj	_	Pinyin=huǒchē|Gloss=train|HanViet=hoả xa|Trad=火車
+9	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u11-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 火车经过了很多城市和河。
+# translation = The train passed many cities and rivers.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	火车	_	NOUN	NN	_	2	nsubj	_	Pinyin=huǒchē|Gloss=train|HanViet=hoả xa|Trad=火車
+2	经过	_	VERB	VV	_	0	root	_	Pinyin=jīngguò|Gloss=to pass|HanViet=kinh quá,qua|Trad=經過
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	很多	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+5	城市	_	NOUN	NN	_	2	obj	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+6	和	_	CCONJ	CC	_	7	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+7	河	_	NOUN	NN	_	5	conj	_	Pinyin=hé|Gloss=river (CL:條/条[tiao2],道[dao4])|HanViet=hà
+8	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u11-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 下午，天气突然变了，外面下雨了。
+# translation = In the afternoon the weather suddenly changed, and it started raining outside.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	下午	_	NOUN	NN	_	5	nmod:tmod	_	Pinyin=xiàwǔ|Gloss=afternoon|HanViet=hạ ngọ
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	天气	_	NOUN	NN	_	5	nsubj	_	Pinyin=tiānqì|Gloss=weather|HanViet=thiên khí|Trad=天氣
+4	突然	_	ADV	RB	_	5	advmod	_	Pinyin=tūrán|Gloss=sudden; abrupt; unexpected|HanViet=đột nhiên
+5	变	_	VERB	VV	_	0	root	_	Pinyin=biàn|Gloss=to change|HanViet=biến|Trad=變
+6	了	_	PART	UH	_	5	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	，	_	PUNCT	,	_	9	punct	_	_
+8	外面	_	NOUN	NN	_	9	nsubj	_	Pinyin=wàimiàn|Gloss=outside (also pr. [wai4 mian5] for this sense)|HanViet=ngoại diện
+9	下雨	_	VERB	VV	_	5	parataxis	_	Pinyin=xiàyǔ|Gloss=to rain|HanViet=hạ vũ
+10	了	_	PART	UH	_	9	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u11-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 朋友以前来过这里，下了火车，他带我找了一家比较便宜的酒店。
+# translation = My friend had been there before, so after we got off the train he took me to a fairly cheap hotel.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	朋友	_	NOUN	NN	_	7	nsubj	_	Pinyin=péngyǒu|Gloss=friend|HanViet=bằng hữu
+2	以前	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+3	来	_	VERB	VV	_	7	advcl	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+4	过	_	AUX	AS	Aspect=Perf	3	aux	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+5	这里	_	PRON	PRD	_	3	obj	_	Pinyin=zhèlǐ|Gloss=here|HanViet=giá lý|Trad=這裡
+6	，	_	PUNCT	,	_	3	punct	_	_
+7	下	_	VERB	VV	_	0	root	_	Pinyin=xià|Gloss=down|HanViet=hạ
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	火车	_	NOUN	NN	_	7	obj	_	Pinyin=huǒchē|Gloss=train|HanViet=hoả xa|Trad=火車
+10	，	_	PUNCT	,	_	14	punct	_	_
+11	他	_	PRON	PRP	Person=3	14	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+12	带	_	VERB	VV	_	14	advcl	_	Pinyin=dài|Gloss=band|HanViet=đới|Trad=帶
+13	我	_	PRON	PRP	Person=1	12	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+14	找	_	VERB	VV	_	7	parataxis	_	Pinyin=zhǎo|Gloss=to try to find|HanViet=trảo
+15	了	_	AUX	AS	Aspect=Perf	14	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+16	一	_	NUM	CD	NumType=Card	21	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+17	家	_	NOUN	NNB	_	16	clf	_	Pinyin=jiā|Gloss=home|HanViet=gia
+18	比较	_	ADV	RB	_	19	advmod	_	Pinyin=bǐjiào|Gloss=to compare|HanViet=tỷ,bỉ giảo|Trad=比較
+19	便宜	_	ADJ	JJ	_	21	amod	_	Pinyin=piányi|Gloss=cheap; inexpensive|HanViet=tiện nghi
+20	的	_	SCONJ	DEC	_	19	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+21	酒店	_	NOUN	NN	_	14	obj	_	Pinyin=jiǔdiàn|Gloss=wine shop|HanViet=tửu điếm
+22	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u11-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 那里的环境非常好，房间也比较大。
+# translation = The surroundings were very nice, and the room was fairly big too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那里	_	PRON	PRD	_	3	det	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	环境	_	NOUN	NN	_	5	nsubj	_	Pinyin=huánjìng|Gloss=environment|HanViet=hoàn cảnh|Trad=環境
+4	非常	_	ADV	RB	_	5	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+5	好	_	ADJ	JJ	_	0	root	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+6	，	_	PUNCT	,	_	10	punct	_	_
+7	房间	_	NOUN	NN	_	10	nsubj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+8	也	_	SCONJ	RB	_	10	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+9	比较	_	ADV	RB	_	10	advmod	_	Pinyin=bǐjiào|Gloss=to compare|HanViet=tỷ,bỉ giảo|Trad=比較
+10	大	_	ADJ	JJ	_	5	parataxis	_	Pinyin=dà|Gloss=big; large; great|HanViet=đại
+11	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u11-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 白天我们在河旁边看那里的马，一直到晚上才回来。
+# translation = During the day we watched the horses by the river and didn't come back until evening.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	白天	_	NOUN	NN	_	15	nmod:tmod	_	Pinyin=báitiān|Gloss=daytime|HanViet=bạch thiên
+2	我们	_	PRON	PRP	Number=Plur|Person=1	15	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+3	在	_	VERB	VV	_	6	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	河	_	NOUN	NN	_	3	obj	_	Pinyin=hé|Gloss=river (CL:條/条[tiao2],道[dao4])|HanViet=hà
+5	旁边	_	NOUN	NN	_	3	obj	_	Pinyin=pángbiān|Gloss=side; adjacent place|HanViet=bàng biên|Trad=旁邊
+6	看	_	VERB	VV	_	15	advcl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+7	那里	_	PRON	PRD	_	9	nmod	_	Pinyin=nàlǐ|Gloss=there; that place|HanViet=na lý|Trad=那裡
+8	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	马	_	PROPN	NNP	_	6	obj	_	Pinyin=mǎ|Gloss=horse|HanViet=mã|Trad=馬
+10	，	_	PUNCT	,	_	6	punct	_	_
+11	一直	_	ADV	RB	_	15	advmod	_	Pinyin=yìzhí|Gloss=straight (in a straight line)|HanViet=nhất trực
+12	到	_	ADP	IN	_	13	case	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+13	晚上	_	NOUN	NN	_	15	obl	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+14	才	_	SCONJ	RB	_	15	mark	_	Pinyin=cái|Gloss=ability; talent|HanViet=tài
+15	回来	_	VERB	VV	_	0	root	_	Pinyin=huílái|Gloss=to return; to come back|HanViet=hồi lai|Trad=回來
+16	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = korwus-graded-l3-u11-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 回来以后，我们在房间里看电视节目，或者喝啤酒。
+# translation = Once we were back, we watched TV shows in our room or drank beer.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	回来	_	VERB	VV	_	8	advcl	_	Pinyin=huílái|Gloss=to return; to come back|HanViet=hồi lai|Trad=回來
+2	以后	_	ADP	IN	_	1	mark	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+3	，	_	PUNCT	,	_	1	punct	_	_
+4	我们	_	PRON	PRP	Number=Plur|Person=1	8	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	在	_	VERB	VV	_	8	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+6	房间	_	NOUN	NN	_	5	obj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+7	里	_	NOUN	NN	_	6	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+8	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+9	电视	_	NOUN	NN	_	10	nmod	_	Pinyin=diànshì|Gloss=television; TV|HanViet=điện thị|Trad=電視
+10	节目	_	NOUN	NN	_	8	obj	_	Pinyin=jiémù|Gloss=(TV or radio) program; show|HanViet=tiết mục|Trad=節目
+11	，	_	PUNCT	,	_	13	punct	_	_
+12	或者	_	CCONJ	CC	_	13	cc	_	Pinyin=huòzhě|Gloss=or|HanViet=hoặc giả
+13	喝	_	VERB	VV	_	8	conj	_	Pinyin=hē|Gloss=to drink|HanViet=húp
+14	啤酒	_	NOUN	NN	_	13	obj	_	Pinyin=píjiǔ|Gloss=beer (loanword)|HanViet=bia tửu
+15	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u11-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我给妈妈写了一封信，把这些事都告诉了她。
+# translation = I wrote Mom a letter and told her all about it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	14	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	给	_	VERB	VV	_	4	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+3	妈妈	_	NOUN	NN	_	2	obj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+4	写	_	VERB	VV	_	14	advcl	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+5	了	_	AUX	AS	Aspect=Perf	4	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	一	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+7	封	_	NOUN	NNB	_	6	clf	_	Pinyin=fēng|Gloss=to confer|HanViet=phong
+8	信	_	NOUN	NN	_	4	obj	_	Pinyin=xìn|Gloss=letter|HanViet=tín
+9	，	_	PUNCT	,	_	4	punct	_	_
+10	把	_	ADP	BB	_	12	case	_	Pinyin=bǎ|Gloss=to hold; to grasp|HanViet=bả
+11	这些	_	DET	DT	_	12	det	_	Pinyin=zhèxiē|Gloss=these|HanViet=giá ta|Trad=這些
+12	事	_	NOUN	NN	_	14	obl:patient	_	Pinyin=shì|Gloss=matter|HanViet=sự
+13	都	_	SCONJ	RB	_	14	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+14	告诉	_	VERB	VV	_	0	root	_	Pinyin=gàosù|Gloss=to press charges; to file a complaint|HanViet=cáo tố|Trad=告訴
+15	了	_	AUX	AS	Aspect=Perf	14	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+16	她	_	PRON	PRP	Person=3	14	obj	_	Pinyin=tā|Gloss=she|HanViet=tha
+17	。	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = korwus-graded-l3-u11-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 这是我最开心的一个夏天。
+# translation = It was the happiest summer I've had.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	PRON	PRD	_	9	nsubj	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	是	_	AUX	VC	_	9	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	我	_	PRON	PRP	Person=1	5	obl	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	最	_	ADV	RB	_	5	advmod	_	Pinyin=zuì|Gloss=(before an adjective or verb) to the highest degree; (the) most ...; -est|HanViet=tối
+5	开心	_	ADJ	JJ	_	9	amod	_	Pinyin=kāixīn|Gloss=to feel happy|HanViet=khai tâm|Trad=開心
+6	的	_	SCONJ	DEC	_	5	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+7	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+8	个	_	NOUN	NNB	_	7	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+9	夏天	_	NOUN	NN	_	0	root	_	Pinyin=xiàtiān|Gloss=summer|HanViet=hạ thiên
+10	。	_	PUNCT	.	_	9	punct	_	_

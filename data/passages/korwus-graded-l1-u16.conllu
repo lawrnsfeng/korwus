@@ -1,0 +1,152 @@
+# sent_id = korwus-graded-l1-u16-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 今天上午下了雪，天气冷了。
+# translation = It snowed this morning, and the weather turned cold.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	今天	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+2	上午	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=shàngwǔ|Gloss=morning|HanViet=thượng ngọ
+3	下	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=xià|Gloss=down|HanViet=hạ
+4	了	_	AUX	AS	Aspect=Perf	3	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	雪	_	NOUN	NN	_	3	obj	_	Pinyin=xuě|Gloss=snow|HanViet=tuyết
+6	，	_	PUNCT	,	_	3	punct	_	_
+7	天气	_	NOUN	NN	_	8	nsubj	_	Pinyin=tiānqì|Gloss=weather|HanViet=thiên khí|Trad=天氣
+8	冷	_	ADJ	JJ	_	0	root	_	Pinyin=lěng|Gloss=cold|HanViet=lạnh
+9	了	_	PART	UH	_	8	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l1-u16-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 学校不上课，我上午在房间里休息。
+# translation = There were no classes at school, so I rested in my room all morning.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	学校	_	NOUN	NN	_	3	nsubj	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+2	不	_	ADV	RB	Polarity=Neg	3	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+3	上课	_	VERB	VV	_	0	root	_	Pinyin=shàngkè|Gloss=to go to class|HanViet=thượng khoá|Trad=上課
+4	，	_	PUNCT	,	_	10	punct	_	_
+5	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	上午	_	NOUN	NN	_	10	nmod:tmod	_	Pinyin=shàngwǔ|Gloss=morning|HanViet=thượng ngọ
+7	在	_	VERB	VV	_	10	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+8	房间	_	NOUN	NN	_	7	obj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+9	里	_	NOUN	NN	_	8	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+10	休息	_	VERB	VV	_	3	parataxis	_	Pinyin=xiūxī|Gloss=rest|HanViet=hưu tức
+11	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u16-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 中午我去了超市。
+# translation = At noon I went to the supermarket.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	中午	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=zhōngwǔ|Gloss=noon|HanViet=trung ngọ
+2	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	去	_	VERB	VV	_	0	root	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+4	了	_	AUX	AS	Aspect=Perf	3	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	超市	_	NOUN	NN	_	3	obj	_	Pinyin=chāoshì|Gloss=supermarket (abbr. for 超級市場/超级市场[chao1 ji2 shi4 chang3])|HanViet=siêu thị
+6	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u16-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 超市在学校那边，开车要二十分钟。
+# translation = The supermarket is over by the school, a twenty-minute drive away.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	超市	_	NOUN	NN	_	7	nsubj	_	Pinyin=chāoshì|Gloss=supermarket (abbr. for 超級市場/超级市场[chao1 ji2 shi4 chang3])|HanViet=siêu thị
+2	在	_	VERB	VV	_	7	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	学校	_	NOUN	NN	_	4	nmod	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+4	那边	_	NOUN	NN	_	2	obj	_	Pinyin=nàbiān|Gloss=over there|HanViet=na biên|Trad=那邊
+5	，	_	PUNCT	,	_	2	punct	_	_
+6	开车	_	VERB	VV	_	7	csubj	_	Pinyin=kāichē|Gloss=to drive a car (or train etc)|HanViet=khai xa|Trad=開車
+7	要	_	VERB	VV	_	0	root	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+8	二十	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=èrshí|Gloss=twenty; 20|HanViet=nhị thập
+9	分钟	_	NOUN	NNB	_	7	obj	_	Pinyin=fēnzhōng|Gloss=minute|HanViet=phân chung|Trad=分鐘
+10	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l1-u16-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我买了两个杯子，一百块。
+# translation = I bought two cups for a hundred yuan.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	买	_	VERB	VV	_	0	root	_	Pinyin=mǎi|Gloss=to buy|HanViet=mãi|Trad=買
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	两	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	杯子	_	NOUN	NN	_	2	obj	_	Pinyin=bēizi|Gloss=cup|HanViet=bôi tử
+7	，	_	PUNCT	,	_	9	punct	_	_
+8	一百	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yìbǎi|Gloss=一 one + 百 hundred|GlossFrom=parts|HanViet=nhất bách
+9	块	_	NOUN	NNB	_	6	appos	_	Pinyin=kuài|Gloss=lump; chunk; piece|HanViet=khối|Trad=塊
+10	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l1-u16-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 晚上我在一个饭店吃了饺子，饺子好吃，也便宜。
+# translation = In the evening I had dumplings at a restaurant; they were tasty and cheap.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	在	_	VERB	VV	_	7	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	一	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	饭店	_	NOUN	NN	_	3	obj	_	Pinyin=fàndiàn|Gloss=restaurant|HanViet=phạn điếm|Trad=飯店
+7	吃	_	VERB	VV	_	0	root	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	饺子	_	NOUN	NN	_	7	obj	_	Pinyin=jiǎozi|Gloss=dumpling|HanViet=cảo tử|Trad=餃子
+10	，	_	PUNCT	,	_	12	punct	_	_
+11	饺子	_	NOUN	NN	_	12	nsubj	_	Pinyin=jiǎozi|Gloss=dumpling|HanViet=cảo tử|Trad=餃子
+12	好吃	_	ADJ	JJ	_	7	parataxis	_	Pinyin=hǎochī|Gloss=tasty; delicious|HanViet=hảo cật
+13	，	_	PUNCT	,	_	15	punct	_	_
+14	也	_	CCONJ	CC	_	15	cc	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+15	便宜	_	ADJ	JJ	_	12	conj	_	Pinyin=piányi|Gloss=cheap; inexpensive|HanViet=tiện nghi
+16	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l1-u16-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我要了二十个饺子，只吃了一半。
+# translation = I ordered twenty dumplings but only ate half.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	要	_	AUX	MD	_	9	aux	_	Pinyin=yào|Gloss=to want; to need; to ask for|HanViet=yếu
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	二十	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=èrshí|Gloss=twenty; 20|HanViet=nhị thập
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	饺子	_	NOUN	NN	_	2	obj	_	Pinyin=jiǎozi|Gloss=dumpling|HanViet=cảo tử|Trad=餃子
+7	，	_	PUNCT	,	_	2	punct	_	_
+8	只	_	ADV	RB	_	9	advmod	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+9	吃	_	VERB	VV	_	0	root	_	Pinyin=chī|Gloss=to eat; to consume|HanViet=cật
+10	了	_	AUX	AS	Aspect=Perf	9	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+11	一半	_	NUM	CD	NumType=Card	9	obj	_	Pinyin=yíbàn|Gloss=half|HanViet=nhất bán
+12	。	_	PUNCT	.	_	9	punct	_	_

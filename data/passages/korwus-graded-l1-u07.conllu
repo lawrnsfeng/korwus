@@ -1,0 +1,155 @@
+# sent_id = korwus-graded-l1-u07-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 我家有一只狗，它五岁了。
+# translation = My family has a dog; it's five years old.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	compound	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	家	_	PART	SFN	_	3	nsubj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+3	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+4	一	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+5	只	_	NOUN	NNB	_	4	clf	_	Pinyin=zhī|Gloss=grain that has begun to ripen|HanViet=chỉ
+6	狗	_	NOUN	NN	_	3	obj	_	Pinyin=gǒu|Gloss=dog|HanViet=cẩu
+7	，	_	PUNCT	,	_	10	punct	_	_
+8	它	_	PRON	PRP	Person=3	10	nsubj	_	Pinyin=tā|Gloss=it|HanViet=tha
+9	五	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=wǔ|Gloss=five|HanViet=ngũ
+10	岁	_	NOUN	NNB	_	3	parataxis	_	Pinyin=suì|Gloss=years old|HanViet=tuế|Trad=歲
+11	了	_	PART	UH	_	10	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+12	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u07-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我非常爱它，它也很爱我。
+# translation = I love it very much, and it loves me too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	非常	_	ADV	RB	_	3	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+3	爱	_	VERB	VV	_	0	root	_	Pinyin=ài|Gloss=to love; to be fond of; to like|HanViet=ái|Trad=愛
+4	它	_	PRON	PRP	Person=3	3	obj	_	Pinyin=tā|Gloss=it|HanViet=tha
+5	，	_	PUNCT	,	_	9	punct	_	_
+6	它	_	PRON	PRP	Person=3	9	nsubj	_	Pinyin=tā|Gloss=it|HanViet=tha
+7	也	_	SCONJ	RB	_	9	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+8	很	_	ADV	RB	_	9	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+9	爱	_	VERB	VV	_	3	parataxis	_	Pinyin=ài|Gloss=to love; to be fond of; to like|HanViet=ái|Trad=愛
+10	我	_	PRON	PRP	Person=1	9	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+11	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u07-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 它喜欢在我的房间里。
+# translation = It likes being in my room.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	它	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=it|HanViet=tha
+2	喜欢	_	VERB	VV	_	0	root	_	Pinyin=xǐhuān|Gloss=to like; to be fond of|HanViet=hỷ hoan|Trad=喜歡
+3	在	_	VERB	VV	_	2	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	我	_	PRON	PRP	Person=1	6	det	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	房间	_	NOUN	NN	_	2	obj	_	Pinyin=fángjiān|Gloss=room|HanViet=phòng gian|Trad=房間
+7	里	_	NOUN	NN	_	6	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+8	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l1-u07-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我写东西的时候，它看我写。
+# translation = When I write, it watches me write.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	写	_	VERB	VV	_	5	acl:relcl	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+3	东西	_	NOUN	NN	_	2	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+4	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	时候	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	它	_	PRON	PRP	Person=3	8	nsubj	_	Pinyin=tā|Gloss=it|HanViet=tha
+8	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+9	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	写	_	VERB	VV	_	8	ccomp	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+11	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l1-u07-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 现在我在大学学习，我好想它。
+# translation = Now I'm studying at college, and I really miss it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	5	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	我	_	PRON	PRP	Person=1	5	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	在	_	VERB	VV	_	5	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	大学	_	NOUN	NN	_	3	obj	_	Pinyin=dàxué|Gloss=the Great Learning, one of the Four Books 四書/四书[Si4 shu1] in Confucianism|HanViet=đại học|Trad=大學
+5	学习	_	VERB	VV	_	0	root	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+6	，	_	PUNCT	,	_	9	punct	_	_
+7	我	_	PRON	PRP	Person=1	9	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+8	好	_	ADV	RB	_	9	advmod	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+9	想	_	VERB	VV	_	5	parataxis	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+10	它	_	PRON	PRP	Person=3	9	obj	_	Pinyin=tā|Gloss=it|HanViet=tha
+11	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l1-u07-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 在电话里，我能听它叫。
+# translation = On the phone, I can hear it bark.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	在	_	ADP	IN	_	2	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+2	电话	_	NOUN	NN	_	7	obl	_	Pinyin=diànhuà|Gloss=telephone|HanViet=điện thoại|Trad=電話
+3	里	_	ADP	IN	_	2	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+4	，	_	PUNCT	,	_	2	punct	_	_
+5	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	能	_	AUX	MD	_	7	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+7	听	_	VERB	VV	_	0	root	_	Pinyin=tīng|Gloss=to listen to; to hear|HanViet=thính|Trad=聽
+8	它	_	PRON	PRP	Person=3	9	nsubj	_	Pinyin=tā|Gloss=it|HanViet=tha
+9	叫	_	VERB	VV	_	7	ccomp	_	Pinyin=jiào|Gloss=to shout|HanViet=khiếu
+10	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l1-u07-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 明天我要坐火车去看它，我觉得它也想我。
+# translation = Tomorrow I'm taking the train to see it, and I think it misses me too.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	明天	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=míngtiān|Gloss=tomorrow|HanViet=minh thiên
+2	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	要坐	_	VERB	VV	_	6	advcl	_	Pinyin=yàozuò|Gloss=要 (bound form) to demand; to coerce + 坐 to sit|GlossFrom=parts|HanViet=yếu toạ
+4	火车	_	NOUN	NN	_	3	obj	_	Pinyin=huǒchē|Gloss=train|HanViet=hoả xa|Trad=火車
+5	去	_	SCONJ	RB	_	6	mark	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+6	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+7	它	_	PRON	PRP	Person=3	6	obj	_	Pinyin=tā|Gloss=it|HanViet=tha
+8	，	_	PUNCT	,	_	10	punct	_	_
+9	我	_	PRON	PRP	Person=1	10	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	觉得	_	VERB	VV	_	6	parataxis	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+11	它	_	PRON	PRP	Person=3	14	nsubj	_	Pinyin=tā|Gloss=it|HanViet=tha
+12	也	_	SCONJ	RB	_	14	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+13	想	_	AUX	MD	_	14	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+14	我	_	PRON	PRP	Person=1	10	ccomp	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+15	。	_	PUNCT	.	_	6	punct	_	_

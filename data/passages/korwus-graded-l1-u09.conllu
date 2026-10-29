@@ -1,0 +1,111 @@
+# sent_id = korwus-graded-l1-u09-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# newpar
+# text = 星期六早上下雨了。
+# translation = It rained on Saturday morning.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	星期	_	NOUN	NN	_	3	nmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+2	六	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+3	早上	_	NOUN	NN	_	4	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+4	下雨	_	VERB	VV	_	0	root	_	Pinyin=xiàyǔ|Gloss=to rain|HanViet=hạ vũ
+5	了	_	PART	UH	_	4	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+6	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l1-u09-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 儿子想知道今天我们能去哪儿。
+# translation = My son wanted to know where we could go today.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	儿子	_	NOUN	NN	_	3	nsubj	_	Pinyin=érzi|Gloss=son|HanViet=nhi tử|Trad=兒子
+2	想	_	AUX	MD	_	3	aux	_	Pinyin=xiǎng|Gloss=to think (about)|HanViet=tưởng
+3	知道	_	VERB	VV	_	0	root	_	Pinyin=zhīdào|Gloss=to know; to become aware of|HanViet=tri đạo
+4	今天	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+5	我们	_	PRON	PRP	Number=Plur|Person=1	7	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+6	能	_	AUX	MD	_	7	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+7	去	_	VERB	VV	_	3	ccomp	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+8	哪儿	_	PRON	WP	_	7	obj	_	Pinyin=nǎr|Gloss=where?|HanViet=nả,na nhi|Trad=哪兒
+9	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l1-u09-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 我说下雨了，我们可以读一些书。
+# translation = I said it was raining, so we could read some books.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	下雨	_	VERB	VV	_	2	xcomp	_	Pinyin=xiàyǔ|Gloss=to rain|HanViet=hạ vũ
+4	了	_	PART	UH	_	3	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+5	，	_	PUNCT	,	_	8	punct	_	_
+6	我们	_	PRON	PRP	Number=Plur|Person=1	8	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+7	可以	_	AUX	MD	_	8	aux	_	Pinyin=kěyǐ|Gloss=can|HanViet=khả dĩ
+8	读	_	VERB	VV	_	2	parataxis	_	Pinyin=dú|Gloss=to read out; to read aloud|HanViet=đọc,độc|Trad=讀
+9	一些	_	ADJ	JJ	_	10	amod	_	Pinyin=yīxiē|Gloss=some; a few; a little; (following an adjective) slightly ...er|HanViet=nhất ta
+10	书	_	NOUN	NN	_	8	obj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+11	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l1-u09-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 他读了两本书，还在电脑上看了一个电影。
+# translation = He read two books and also watched a movie on the computer.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	他	_	PRON	PRP	Person=3	12	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+2	读	_	VERB	VV	_	12	advcl	_	Pinyin=dú|Gloss=to read out; to read aloud|HanViet=đọc,độc|Trad=讀
+3	了	_	AUX	AS	Aspect=Perf	2	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+4	两	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+5	本	_	NOUN	NNB	_	4	clf	_	Pinyin=běn|Gloss=(bound form) root; stem|HanViet=bản
+6	书	_	NOUN	NN	_	2	obj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+7	，	_	PUNCT	,	_	2	punct	_	_
+8	还	_	SCONJ	RB	_	12	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+9	在	_	ADP	IN	_	10	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+10	电脑	_	NOUN	NN	_	12	obl	_	Pinyin=diànnǎo|Gloss=computer|HanViet=điện não|Trad=電腦
+11	上	_	ADP	IN	_	10	case	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+12	看	_	VERB	VV	_	0	root	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+13	了	_	AUX	AS	Aspect=Perf	12	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+14	一	_	NUM	CD	NumType=Card	16	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+15	个	_	NOUN	NNB	_	14	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+16	电影	_	NOUN	NN	_	12	obj	_	Pinyin=diànyǐng|Gloss=movie; film|HanViet=điện ảnh|Trad=電影
+17	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l1-u09-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 1
+# text = 晚上六点，儿子看见不下雨了，非常高兴。
+# translation = At six in the evening, my son saw that it had stopped raining and was very happy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	3	nmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	六	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+3	点	_	NOUN	NNB	_	12	nmod:tmod	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	儿子	_	NOUN	NN	_	12	nsubj	_	Pinyin=érzi|Gloss=son|HanViet=nhi tử|Trad=兒子
+6	看见	_	VERB	VV	_	12	advcl	_	Pinyin=kànjiàn|Gloss=to see; to catch sight of|HanViet=khán kiến|Trad=看見
+7	不	_	ADV	RB	Polarity=Neg	6	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+8	下雨	_	VERB	VV	_	6	xcomp	_	Pinyin=xiàyǔ|Gloss=to rain|HanViet=hạ vũ
+9	了	_	PART	UH	_	6	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	，	_	PUNCT	,	_	6	punct	_	_
+11	非常	_	ADV	RB	_	12	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+12	高兴	_	ADJ	JJ	_	0	root	_	Pinyin=gāoxìng|Gloss=happy|HanViet=cao hứng|Trad=高興
+13	。	_	PUNCT	.	_	12	punct	_	_

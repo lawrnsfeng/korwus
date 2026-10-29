@@ -1,0 +1,70 @@
+# sent_id = sample-5-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 4
+# text = 学习一门外语需要耐心。
+# grammar_points = gf0025-7:1-1;gf0025-23:1-2;gf0025-134:4-4
+1	学习	_	VERB	VV	_	6	csubj	_	Pinyin=xuéxí|Gloss=to learn; to study|HanViet=học tập|Trad=學習
+2	一	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+3	门	_	NOUN	NNB	_	2	clf	_	Pinyin=mén|Gloss=gate; door; doorway; gateway; opening (CL:扇[shan4])|HanViet=môn|Trad=門
+4	外语	_	NOUN	NN	_	1	obj	_	Pinyin=wàiyǔ|Gloss=foreign language|HanViet=ngoại ngữ|Trad=外語
+5	需要	_	AUX	MD	_	6	aux	_	Pinyin=xūyào|Gloss=to need; to want; to demand; to require|HanViet=nhu yếu
+6	耐心	_	NOUN	NN	_	0	root	_	Pinyin=nàixīn|Gloss=to be patient|HanViet=nại tâm
+7	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = sample-5-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 6
+# text = 刚开始的时候，我总是担心自己说错，因此很少开口。
+# grammar_points = gf0025-5:5-5;gf0025-54:8-8;gf0025-63:0-0;gf0025-145:6-6;gf0025-160:11-12;gf0025-361:12-12;gf0025-375:11-11
+1	刚	_	ADV	RB	_	2	advmod	_	Pinyin=gāng|Gloss=(literary) hard; firm; strong|HanViet=cương|Trad=剛
+2	开始	_	VERB	VV	_	4	acl:relcl	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	时候	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+5	，	_	PUNCT	,	_	4	punct	_	_
+6	我	_	PRON	PRP	Person=1	15	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	总是	_	ADV	RB	_	8	advmod	_	Pinyin=zǒngshì|Gloss=always|HanViet=tổng thị|Trad=總是
+8	担心	_	VERB	VV	_	15	advcl	_	Pinyin=dānxīn|Gloss=anxious|HanViet=đảm,đam tâm|Trad=擔心
+9	自己	_	PRON	PRD	_	10	nsubj	_	Pinyin=zìjǐ|Gloss=oneself; (attributive) one's own|HanViet=tự kỷ
+10	说错	_	VERB	VV	_	8	ccomp	_	Pinyin=shuōcuò|HanViet=thuyết thác|Trad=說錯|GlossFrom=parts|Gloss=说 to persuade + 错 mistake
+11	，	_	PUNCT	,	_	8	punct	_	_
+12	因	_	ADP	IN	_	13	case	_	Pinyin=yīn|Gloss=cause|HanViet=nhân
+13	此	_	PRON	PRD	_	15	obl	_	Pinyin=cǐ|Gloss=this; these|HanViet=thử
+14	很少	_	ADV	RB	_	15	advmod	_	Pinyin=hěnshǎo|HanViet=ngận thiểu|GlossFrom=parts|Gloss=很 very; quite + 少 few
+15	开口	_	VERB	VV	_	0	root	_	Pinyin=kāikǒu|Gloss=to open one's mouth|HanViet=khai khẩu|Trad=開口
+16	。	_	PUNCT	.	_	15	punct	_	_
+
+# sent_id = sample-5-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-26
+# tree_confidence = 0.71
+# hsk = 6
+# text = 后来我发现，只要敢于犯错，进步就会比想象中快得多。
+# grammar_points = gf0025-2:11-11;gf0025-5:1-1;gf0025-18:12-12;gf0025-38:12-16;gf0025-106:12-16;gf0025-115:4-10;gf0025-133:5-5;gf0025-188:12-16
+1	后来	_	NOUN	NN	_	3	nmod:tmod	_	Pinyin=hòulái|Gloss=afterwards; later|HanViet=hậu lai|Trad=後來
+2	我	_	PRON	PRP	Person=1	3	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	发现	_	VERB	VV	_	0	root	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+4	，	_	PUNCT	,	_	17	punct	_	_
+5	只要	_	ADP	IN	_	6	case	_	Pinyin=zhǐyào|Gloss=so long as; provided; if|HanViet=chỉ yếu
+6	敢	_	VERB	VV	_	17	xcomp	_	Pinyin=gǎn|Gloss=to dare|HanViet=cảm
+7	于	_	VERB	VV	_	6	mark	_	Pinyin=yú|Gloss=to go|HanViet=ư|Trad=於
+8	犯错	_	VERB	VV	_	6	xcomp	_	Pinyin=fàncuò|Gloss=to err|HanViet=phạm thác|Trad=犯錯
+9	，	_	PUNCT	,	_	6	punct	_	_
+10	进步	_	VERB	VV	_	17	csubj	_	Pinyin=jìnbù|Gloss=progress; improvement|HanViet=tiến bộ|Trad=進步
+11	就	_	SCONJ	RB	_	17	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+12	会	_	AUX	MD	_	17	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+13	比	_	ADP	IN	_	14	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+14	想象	_	NOUN	NN	_	17	nmod	_	Pinyin=xiǎngxiàng|Gloss=to imagine; to envision|HanViet=tưởng tượng
+15	中	_	ADP	IN	_	14	case	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+16	快	_	ADJ	JJ	_	17	amod	_	Pinyin=kuài|Gloss=rapid|HanViet=khoái
+17	得多	_	ADJ	JJ	_	3	ccomp	_	Pinyin=déduō|HanViet=đắc đa|GlossFrom=parts|Gloss=得 to obtain + 多 many; much; more; a lot of
+18	。	_	PUNCT	.	_	3	punct	_	_

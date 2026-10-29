@@ -1,0 +1,285 @@
+# sent_id = korwus-graded-l3-u26-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 上个星期六，我们搬家了。
+# translation = Last Saturday, we moved.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	上	_	DET	DT	_	3	det	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	星期	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+4	六	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	我们	_	PRON	PRP	Number=Plur|Person=1	7	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+7	搬家	_	VERB	VV	_	0	root	_	Pinyin=bānjiā|Gloss=to move house; to relocate|HanViet=ban gia
+8	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u26-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 新房子在五楼，没有电梯，我们只能走楼梯。
+# translation = The new place is on the fifth floor with no elevator, so we had to take the stairs.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	新	_	PART	PFA	_	2	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+2	房子	_	NOUN	NN	_	7	nsubj	_	Pinyin=fángzi|Gloss=house|HanViet=phòng tử
+3	在	_	VERB	VV	_	7	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+4	五	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=wǔ|Gloss=five|HanViet=ngũ
+5	楼	_	NOUN	NN	_	3	obj	_	Pinyin=lóu|Gloss=house with more than 1 story|HanViet=lâu|Trad=樓
+6	，	_	PUNCT	,	_	3	punct	_	_
+7	没有	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+8	电梯	_	NOUN	NN	_	7	obj	_	Pinyin=diàntī|Gloss=elevator|HanViet=điện thê|Trad=電梯
+9	，	_	PUNCT	,	_	12	punct	_	_
+10	我们	_	PRON	PRP	Number=Plur|Person=1	12	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+11	只能	_	AUX	MD	_	12	aux	_	Pinyin=zhǐnéng|Gloss=can only|HanViet=chỉ năng
+12	走	_	VERB	VV	_	7	parataxis	_	Pinyin=zǒu|Gloss=to walk|HanViet=tẩu
+13	楼梯	_	NOUN	NN	_	12	obj	_	Pinyin=lóutī|Gloss=stair|HanViet=lâu thê|Trad=樓梯
+14	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u26-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 东西很多，我们夫妻两个忙了一天，都非常累。
+# translation = We had a lot of stuff, and my husband and I were busy all day; we were both exhausted.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	东西	_	NOUN	NN	_	2	nmod	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+2	很多	_	NUM	CD	NumType=Card	0	root	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+3	，	_	PUNCT	,	_	15	punct	_	_
+4	我们	_	PRON	PRP	Number=Plur|Person=1	5	nmod	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	夫妻	_	NOUN	NN	_	15	nsubj	_	Pinyin=fūqī|Gloss=husband and wife; married couple|HanViet=phu thê
+6	两	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+7	个	_	NOUN	NNB	_	5	acl	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+8	忙	_	ADJ	JJ	_	15	advcl	_	Pinyin=máng|Gloss=busy|HanViet=mang
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	一	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+11	天	_	NOUN	NNB	_	8	obl	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+12	，	_	PUNCT	,	_	8	punct	_	_
+13	都	_	SCONJ	RB	_	15	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+14	非常	_	ADV	RB	_	15	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+15	累	_	ADJ	JJ	_	2	parataxis	_	Pinyin=lèi|Gloss=tired|HanViet=luỵ
+16	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u26-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 晚上用的碗、勺子和牙刷都在箱子里，可是我们不知道在哪个箱子。
+# translation = The bowls, spoons and toothbrushes we needed for the evening were all in boxes, but we didn't know which ones.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	晚上	_	NOUN	NN	_	2	nmod:tmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+2	用	_	VERB	VV	_	4	acl:relcl	_	Pinyin=yòng|Gloss=to use; to make use of; to employ|HanViet=dụng
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	碗	_	NOUN	NN	_	10	nsubj	_	Pinyin=wǎn|Gloss=bowl|HanViet=oản
+5	、	_	PUNCT	EC	_	6	punct	_	_
+6	勺子	_	NOUN	NN	_	4	conj	_	Pinyin=sháozi|Gloss=spoon; ladle|HanViet=thược tử
+7	和	_	CCONJ	CC	_	8	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+8	牙刷	_	NOUN	NN	_	4	conj	_	Pinyin=yáshuā|Gloss=toothbrush|HanViet=nha xoát,loát
+9	都	_	SCONJ	RB	_	10	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+10	在	_	VERB	VV	_	17	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+11	箱子	_	NOUN	NN	_	10	obj	_	Pinyin=xiāngzi|Gloss=suitcase|HanViet=rương tử
+12	里	_	ADP	IN	_	11	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+13	，	_	PUNCT	,	_	10	punct	_	_
+14	可是	_	SCONJ	RB	_	17	mark	_	Pinyin=kěshì|Gloss=but; however|HanViet=khả thị
+15	我们	_	PRON	PRP	Number=Plur|Person=1	17	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+16	不	_	ADV	RB	Polarity=Neg	17	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+17	知道	_	VERB	VV	_	0	root	_	Pinyin=zhīdào|Gloss=to know; to become aware of|HanViet=tri đạo
+18	在	_	VERB	VV	_	17	xcomp	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+19	哪个	_	DET	DT	_	20	det	_	Pinyin=nǎge|Gloss=which|HanViet=nả,na cá|Trad=哪個
+20	箱子	_	NOUN	NN	_	18	obj	_	Pinyin=xiāngzi|Gloss=suitcase|HanViet=rương tử
+21	。	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = korwus-graded-l3-u26-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 最后我们去附近的宾馆住了一晚。
+# translation = In the end we went to a hotel nearby and stayed the night.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	最后	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=zuìhòu|Gloss=final; last; ultimate|HanViet=tối hậu|Trad=最後
+2	我们	_	PRON	PRP	Number=Plur|Person=1	7	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+3	去	_	VERB	VV	_	7	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+4	附近	_	NOUN	NN	_	6	nmod	_	Pinyin=fùjìn|Gloss=nearby; neighboring|HanViet=phụ cận
+5	的	_	PART	DEC	Case=Gen	4	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+6	宾馆	_	NOUN	NN	_	3	obj	_	Pinyin=bīnguǎn|Gloss=guesthouse|HanViet=tân quán|Trad=賓館
+7	住	_	VERB	VV	_	0	root	_	Pinyin=zhù|Gloss=to live; to reside; to stay|HanViet=trú,trụ
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+10	晚	_	NOUN	NNB	_	7	obj	_	Pinyin=wǎn|Gloss=evening|HanViet=vãn
+11	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u26-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 第二天，我们开始收东西。
+# translation = The next day, we started putting things away.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	第二	_	NUM	CD	NumType=Ord	2	nummod	_	Pinyin=dìèr|Gloss=second|HanViet=đệ nhị
+2	天	_	NOUN	NNB	_	5	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+3	，	_	PUNCT	,	_	2	punct	_	_
+4	我们	_	PRON	PRP	Number=Plur|Person=1	5	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+5	开始	_	VERB	VV	_	0	root	_	Pinyin=kāishǐ|Gloss=to begin; to start|HanViet=khai thuỷ|Trad=開始
+6	收	_	VERB	VV	_	5	xcomp	_	Pinyin=shōu|Gloss=to receive|HanViet=thu
+7	东西	_	NOUN	NN	_	6	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+8	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u26-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我在一个箱子里看见了儿子小时候的课本和笔记本，上面还写着他每一年的身高。
+# translation = In one box I found my son's textbooks and notebooks from when he was little, with his height written in them for every year.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	20	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	在	_	VERB	VV	_	7	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+3	一	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+4	个	_	NOUN	NNB	_	3	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	箱子	_	NOUN	NN	_	2	obj	_	Pinyin=xiāngzi|Gloss=suitcase|HanViet=rương tử
+6	里	_	ADP	IN	_	5	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+7	看见	_	VERB	VV	_	20	advcl	_	Pinyin=kànjiàn|Gloss=to see; to catch sight of|HanViet=khán kiến|Trad=看見
+8	了	_	AUX	AS	Aspect=Perf	7	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+9	儿子	_	NOUN	NN	_	13	nmod	_	Pinyin=érzi|Gloss=son|HanViet=nhi tử|Trad=兒子
+10	小	_	PART	PFA	_	11	case	_	Pinyin=xiǎo|Gloss=small|HanViet=tiểu
+11	时候	_	NOUN	NN	_	13	nmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+12	的	_	PART	DEC	Case=Gen	11	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	课本	_	NOUN	NN	_	7	obj	_	Pinyin=kèběn|Gloss=textbook|HanViet=khoá bản|Trad=課本
+14	和	_	CCONJ	CC	_	16	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+15	笔记	_	NOUN	NN	_	16	compound	_	Pinyin=bǐjì|Gloss=to take down (in writing)|HanViet=bút ký|Trad=筆記
+16	本	_	PART	SFN	_	13	conj	_	Pinyin=běn|Gloss=(bound form) root; stem|HanViet=bản
+17	，	_	PUNCT	,	_	7	punct	_	_
+18	上面	_	NOUN	NN	_	20	obl	_	Pinyin=shàngmiàn|Gloss=on top of|HanViet=thượng diện
+19	还	_	SCONJ	RB	_	20	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+20	写	_	VERB	VV	_	0	root	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+21	着	_	AUX	AS	Aspect=Prog	20	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+22	他	_	PRON	PRP	Person=3	27	nmod	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+23	每	_	DET	DT	_	25	det	_	Pinyin=měi|Gloss=each|HanViet=mỗi
+24	一	_	NUM	CD	NumType=Card	25	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+25	年	_	NOUN	NNB	_	27	nmod	_	Pinyin=nián|Gloss=year|HanViet=niên
+26	的	_	PART	DEC	Case=Gen	25	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+27	身高	_	NOUN	NN	_	20	obj	_	Pinyin=shēngāo|Gloss=(a person's) height|HanViet=thân cao
+28	。	_	PUNCT	.	_	20	punct	_	_
+
+# sent_id = korwus-graded-l3-u26-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 那时候他个子还矮，现在他比爸爸妈妈都高了。
+# translation = Back then he was still short, and now he is taller than both his mom and dad.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那	_	DET	DT	_	2	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	时候	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+3	他	_	PRON	PRP	Person=3	4	det	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	个子	_	NOUN	NN	_	6	nsubj	_	Pinyin=gèzi|Gloss=stature; height; size (of a person or object)|HanViet=cá tử|Trad=個子
+5	还	_	SCONJ	RB	_	6	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+6	矮	_	ADJ	JJ	_	0	root	_	Pinyin=ǎi|Gloss=(of a person) short|HanViet=ải
+7	，	_	PUNCT	,	_	14	punct	_	_
+8	现在	_	NOUN	NN	_	14	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+9	他	_	PRON	PRP	Person=3	14	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+10	比	_	ADP	IN	_	12	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+11	爸爸	_	NOUN	NN	_	12	nmod	_	Pinyin=bàbà|Gloss=(coll.) father; dad|HanViet=ba ba
+12	妈妈	_	NOUN	NN	_	14	nmod	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+13	都	_	SCONJ	RB	_	14	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+14	高	_	ADJ	JJ	_	6	parataxis	_	Pinyin=gāo|Gloss=high|HanViet=cao
+15	了	_	PART	UH	_	14	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+16	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u26-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我们一边收东西，一边和儿子聊以前的事。
+# translation = While we put things away, we chatted with our son about the old days.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我们	_	PRON	PRP	Number=Plur|Person=1	9	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+2	一边	_	ADV	RB	_	3	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+3	收	_	VERB	VV	_	9	advcl	_	Pinyin=shōu|Gloss=to receive|HanViet=thu
+4	东西	_	NOUN	NN	_	3	obj	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	一边	_	ADV	RB	_	9	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+7	和	_	ADP	IN	_	8	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+8	儿子	_	NOUN	NN	_	9	obl	_	Pinyin=érzi|Gloss=son|HanViet=nhi tử|Trad=兒子
+9	聊	_	VERB	VV	_	12	acl:relcl	_	Pinyin=liáo|Gloss=(coll.) to chat|HanViet=liêu
+10	以前	_	NOUN	NN	_	9	obj	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+11	的	_	SCONJ	DEC	_	9	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+12	事	_	NOUN	NN	_	0	root	_	Pinyin=shì|Gloss=matter|HanViet=sự
+13	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u26-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 下午，妈妈给我们打电话，问我们新房子好不好。
+# translation = In the afternoon, my mom called and asked whether the new place was nice.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	下午	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=xiàwǔ|Gloss=afternoon|HanViet=hạ ngọ
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	妈妈	_	NOUN	NN	_	9	nsubj	_	Pinyin=māmā|Gloss=mama|HanViet=má má|Trad=媽媽
+4	给	_	VERB	VV	_	9	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+5	我们	_	PRON	PRP	Number=Plur|Person=1	4	obj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+6	打	_	VERB	VV	_	4	ccomp	_	Pinyin=dǎ|Gloss=to hit; to strike|HanViet=đả
+7	电话	_	NOUN	NN	_	6	obj	_	Pinyin=diànhuà|Gloss=telephone|HanViet=điện thoại|Trad=電話
+8	，	_	PUNCT	,	_	4	punct	_	_
+9	问	_	VERB	VV	_	0	root	_	Pinyin=wèn|Gloss=to ask; to inquire|HanViet=vấn|Trad=問
+10	我们	_	PRON	PRP	Number=Plur|Person=1	14	nsubj	_	Pinyin=wǒmen|Gloss=we; us; ourselves|HanViet=ngã môn|Trad=我們
+11	新	_	PART	PFA	_	12	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+12	房子	_	NOUN	NN	_	14	nsubj	_	Pinyin=fángzi|Gloss=house|HanViet=phòng tử
+13	好	_	ADV	RB	_	14	advmod	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+14	不好	_	ADJ	JJ	_	9	ccomp	_	Pinyin=bùhǎo|Gloss=no good|HanViet=bất hảo
+15	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = korwus-graded-l3-u26-11
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我说：“新房子不错，您放心吧！”
+# translation = I said, "The new place is nice, don't worry!"
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+3	：	_	PUNCT	:	_	11	punct	_	_
+4	“	_	PUNCT	``	_	7	punct	_	_
+5	新	_	PART	PFA	_	6	case	_	Pinyin=xīn|Gloss=new|HanViet=tân
+6	房子	_	NOUN	NN	_	7	nsubj	_	Pinyin=fángzi|Gloss=house|HanViet=phòng tử
+7	不错	_	ADJ	JJ	_	2	ccomp	_	Pinyin=bùcuò|Gloss=correct|HanViet=bất thác|Trad=不錯
+8	，	_	PUNCT	,	_	7	punct	_	_
+9	您	_	PRON	PRP	Person=2	11	nsubj	_	Pinyin=nín|Gloss=you (courteous, as opposed to informal 你[ni3])|HanViet=nâm
+10	放心	_	VERB	VV	_	11	advcl	_	Pinyin=fàngxīn|Gloss=to feel relieved|HanViet=phóng tâm
+11	吧	_	VERB	VV	_	2	ccomp	_	Pinyin=ba|Gloss=(modal particle indicating suggestion or surmise)|HanViet=ba
+12	！	_	PUNCT	.	_	11	punct	_	_
+13	”	_	PUNCT	''	_	11	punct	_	_

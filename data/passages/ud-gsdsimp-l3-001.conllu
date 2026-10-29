@@ -1,0 +1,205 @@
+# sent_id = ud-gsdsimp-train-s209
+# tree_source = ud-gsdsimp
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 3
+# text = 他们的关系在德瑞克选择重回妻子身边后画下句点。
+# source = UD Chinese-GSDSimp train-s209
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-1:9-9;gf0025-5:0-0;gf0025-16:3-3;gf0025-20:1-1;gf0025-82:1-1;gf0025-132:0-0;gf0025-132:7-7
+# translation = Their relationship came to an end after Derek chose to go back to his wife.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	他们	_	PRON	PRP	Number=Plur|Person=3	3	det	_	Pinyin=tāmen|Gloss=they; them|HanViet=tha môn|Trad=他們
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	关系	_	NOUN	NN	_	11	nsubj	_	Pinyin=guānxì|Gloss=relation; relationship; connection|HanViet=quan hệ|Trad=關係
+4	在	_	ADP	IN	_	6	case	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	德瑞克	_	PROPN	NNP	_	6	nsubj	_	Pinyin=déruìkè|HanViet=đức thuỵ khắc|GlossFrom=parts|Gloss=德 Germany + 瑞 lucky + 克 (Tw) abbr. for 克羅埃西亞/克罗埃西亚[Ke4 luo2 ai1 xi1 ya4], Croatia
+6	选择	_	VERB	VV	_	11	ccomp	_	Pinyin=xuǎnzé|Gloss=to select; to pick|HanViet=tuyển trạch|Trad=選擇
+7	重回	_	VERB	VV	_	6	xcomp	_	Pinyin=chónghuí|Gloss=to return|HanViet=trọng hồi
+8	妻子	_	NOUN	NN	_	9	nmod	_	Pinyin=qīzǐ|Gloss=wife and children|HanViet=thê tử,tý
+9	身边	_	NOUN	NN	_	7	obj	_	Pinyin=shēnbiān|Gloss=at one's side|HanViet=thân biên|Trad=身邊
+10	后	_	ADP	IN	_	6	mark	_	Pinyin=hòu|Gloss=empress|HanViet=hậu|Trad=後
+11	画下	_	VERB	VV	_	0	root	_	Pinyin=huàxià|HanViet=hoạ,hoạch hạ|GlossFrom=parts|Gloss=画 to draw; to paint + 下 down|Trad=畫下
+12	句点	_	NOUN	NN	_	11	obj	_	Pinyin=jùdiǎn|Gloss=period (punctuation)|HanViet=câu,cú điểm|Trad=句點
+13	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = ud-gsdsimp-train-s1463
+# tree_source = ud-gsdsimp
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 3
+# text = 永宁里北边为效忠里、新昌里，东边为仁和里，南边为文贤里。
+# source = UD Chinese-GSDSimp train-s1463
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-1:2-2;gf0025-1:10-10;gf0025-1:15-15
+# translation = North of Yongning Village are Xiaozhong Village and Xinchang Village, to the east is Renhe Village, and to the south is Wenxian Village.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	永宁	_	PROPN	NNP	_	2	compound	_	Pinyin=yǒngníng|HanViet=vĩnh ninh|GlossFrom=parts|Gloss=永 forever + 宁 peaceful|Trad=永寧
+2	里	_	PART	SFN	_	3	nmod	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+3	北边	_	NOUN	NN	_	6	nsubj	_	Pinyin=běibiān|Gloss=north|HanViet=bắc biên|Trad=北邊
+4	为	_	AUX	VC	_	6	cop	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+5	效忠	_	PROPN	NNP	_	6	compound	_	Pinyin=xiàozhōng|Gloss=to vow loyalty and devotion to|HanViet=hiệu trung
+6	里	_	PART	SFN	_	0	root	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+7	、	_	PUNCT	EC	_	9	punct	_	_
+8	新昌	_	PROPN	NNP	_	9	compound	_	Pinyin=xīnchāng|HanViet=tân xương|GlossFrom=parts|Gloss=新 new + 昌 (bound form) prosperous; flourishing
+9	里	_	PART	SFN	_	6	conj	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+10	，	_	PUNCT	,	_	14	punct	_	_
+11	东边	_	NOUN	NN	_	14	nsubj	_	Pinyin=dōngbiān|Gloss=east|HanViet=đông biên|Trad=東邊
+12	为	_	AUX	VC	_	14	cop	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+13	仁和	_	PROPN	NNP	_	14	compound	_	Pinyin=rénhé|HanViet=nhân hoà|GlossFrom=parts|Gloss=仁 humane + 和 (joining two nouns) and; together with; with (Taiwan pr. [han4])
+14	里	_	PART	SFN	_	6	parataxis	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+15	，	_	PUNCT	,	_	19	punct	_	_
+16	南边	_	NOUN	NN	_	19	nsubj	_	Pinyin=nánbiān|Gloss=south|HanViet=nam biên|Trad=南邊
+17	为	_	AUX	VC	_	19	cop	_	Pinyin=wèi|Gloss=because of|HanViet=vị,vì|Trad=為
+18	文贤	_	PROPN	NNP	_	19	compound	_	Pinyin=wénxián|HanViet=văn hiền|GlossFrom=parts|Gloss=文 language + 贤 worthy or virtuous person|Trad=文賢
+19	里	_	PART	SFN	_	6	parataxis	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+20	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = ud-gsdsimp-dev-s156
+# tree_source = ud-gsdsimp
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 3
+# text = 她是三个孩子中最小的，还有两个哥哥。
+# source = UD Chinese-GSDSimp dev-s156
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-7:2-2;gf0025-7:11-11;gf0025-8:3-3;gf0025-8:12-12;gf0025-20:7-7;gf0025-23:2-3;gf0025-23:11-12;gf0025-36:1-1;gf0025-37:10-10;gf0025-82:7-7;gf0025-103:10-11;gf0025-132:4-4
+# translation = She was the youngest of three children and had two older brothers.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	她	_	PRON	PRP	Person=3	11	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	是	_	AUX	VC	_	7	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	三	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=sān|Gloss=three|HanViet=tam
+4	个	_	NOUN	NNB	_	3	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	孩子	_	NOUN	NN	_	7	obl	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+6	中	_	ADP	IN	_	5	case	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+7	最小	_	ADJ	JJ	_	11	advcl	_	Pinyin=zuìxiǎo|HanViet=tối tiểu|GlossFrom=parts|Gloss=最 (before an adjective or verb) to the highest degree; (the) most ...; -est + 小 small
+8	的	_	PART	UH	_	7	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	，	_	PUNCT	,	_	7	punct	_	_
+10	还	_	SCONJ	RB	_	11	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+11	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+12	两	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+13	个	_	NOUN	NNB	_	14	nmod	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+14	哥哥	_	NOUN	NN	_	11	obj	_	Pinyin=gēgē|Gloss=older brother|HanViet=ca ca
+15	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = ud-gsdsimp-train-s3357
+# tree_source = ud-gsdsimp
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 3
+# text = 波因是六个孩子中的第二个。
+# source = UD Chinese-GSDSimp train-s3357
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-7:2-2;gf0025-8:3-3;gf0025-8:8-8;gf0025-20:6-6;gf0025-23:2-3;gf0025-23:7-8;gf0025-36:1-1;gf0025-82:6-6;gf0025-120:7-7;gf0025-131:7-7;gf0025-132:4-4
+# translation = Boyne was the second of six children.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	波因	_	PROPN	NNP	_	9	nsubj	_	Pinyin=bōyīn|HanViet=ba nhân|GlossFrom=parts|Gloss=波 (bound form) Poland (abbr. for 波蘭/波兰[Bo1 lan2]) + 因 cause
+2	是	_	AUX	VC	_	9	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	六	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=liù|Gloss=six|HanViet=lục
+4	个	_	NOUN	NNB	_	3	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	孩子	_	NOUN	NN	_	9	nmod	_	Pinyin=háizi|Gloss=child|HanViet=hài tử
+6	中	_	ADP	IN	_	5	case	_	Pinyin=zhōng|Gloss=(bound form) China; Chinese|HanViet=trung
+7	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	第二	_	NUM	CD	NumType=Ord	9	nummod	_	Pinyin=dìèr|Gloss=second|HanViet=đệ nhị
+9	个	_	NOUN	NNB	_	0	root	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	。	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = ud-gsdsimp-train-s157
+# tree_source = ud-gsdsimp
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 3
+# text = 严鸿逵，清朝初年浙江湖州人，字赓臣，师从吕留良。
+# source = UD Chinese-GSDSimp train-s157
+# license = CC BY-SA 4.0
+# translation = Yan Hongkui, courtesy name Gengchen, was from Huzhou, Zhejiang, in the early Qing dynasty, and studied under Lü Liuliang.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	严	_	PROPN	NNP	_	13	nsubj	_	Pinyin=yán|Gloss=tight (closely sealed)|HanViet=nghiêm|Trad=嚴
+2	鸿逵	_	PROPN	NNP	_	1	flat:name	_	Pinyin=hóngkuí|HanViet=hồng quỳ|GlossFrom=parts|Gloss=鸿 eastern bean goose + 逵 crossroads|Trad=鴻逵
+3	，	_	PUNCT	,	_	8	punct	_	_
+4	清朝	_	PROPN	NNP	_	8	nmod	_	Pinyin=qīngcháo|Gloss=Qing dynasty (1644-1911)|HanViet=thanh triều
+5	初年	_	NOUN	NN	_	8	nmod	_	Pinyin=chūnián|Gloss=early years|HanViet=sơ niên
+6	浙江	_	PROPN	NNP	_	8	nmod	_	Pinyin=zhèjiāng|HanViet=chiết giang|GlossFrom=parts|Gloss=浙 short name for Zhejiang 浙江[Zhe4 jiang1] + 江 (bound form) Yangtze River
+7	湖州	_	PROPN	NNP	_	8	nmod	_	Pinyin=húzhōu|HanViet=hồ châu|GlossFrom=parts|Gloss=湖 lake + 州 prefecture
+8	人	_	PART	SFN	_	1	appos	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+9	，	_	PUNCT	,	_	10	punct	_	_
+10	字	_	NOUN	NN	_	1	appos	_	Pinyin=zì|Gloss=letter|HanViet=tự
+11	赓臣	_	PROPN	NNP	_	10	appos	_	Pinyin=gēngchén|HanViet=canh thần|GlossFrom=parts|Gloss=赓 (literary) to continue; to carry on + 臣 state official or subject in dynastic China|Trad=賡臣
+12	，	_	PUNCT	,	_	1	punct	_	_
+13	师从	_	VERB	VV	_	0	root	_	Pinyin=shīcóng|Gloss=to study under (a teacher)|HanViet=sư tòng,tùng|Trad=師從
+14	吕	_	PROPN	NNP	_	13	obj	_	Pinyin=lǚ|Gloss=pitchpipe, pitch standard, one of the twelve semitones in the traditional tone system|HanViet=_|Trad=呂
+15	留良	_	PROPN	NNP	_	14	flat:name	_	Pinyin=liúliáng|HanViet=lưu lương|GlossFrom=parts|Gloss=留 to leave (a message etc) + 良 good
+16	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = ud-gsdsimp-train-s3909
+# tree_source = ud-gsdsimp
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 3
+# text = 她和佩芮两人是多年的好友，过去都还不红时在一起在洛杉矶努力了很久。
+# source = UD Chinese-GSDSimp train-s3909
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-5:0-0;gf0025-7:3-3;gf0025-19:1-1;gf0025-20:8-8;gf0025-21:21-21;gf0025-23:3-4;gf0025-23:6-7;gf0025-36:5-5;gf0025-41:21-21;gf0025-60:7-7;gf0025-82:8-8;gf0025-209:12-21
+# translation = She and Perry have been good friends for many years; in the past, before either of them was famous, they struggled together in Los Angeles for a long time.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	她	_	PRON	PRP	Person=3	21	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	和	_	CCONJ	CC	_	3	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+3	佩芮	_	PROPN	NNP	_	1	conj	_	Pinyin=pèiruì|HanViet=bội nhuế|GlossFrom=parts|Gloss=佩 to respect + 芮 small
+4	两	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=liǎng|Gloss=two|HanViet=lưỡng,lượng,lạng|Trad=兩
+5	人	_	NOUN	NN	_	1	appos	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+6	是	_	AUX	VC	_	10	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+7	多	_	NUM	CD	NumType=Card	8	nummod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+8	年	_	NOUN	NNB	_	10	nmod	_	Pinyin=nián|Gloss=year|HanViet=niên
+9	的	_	PART	DEC	Case=Gen	8	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	好友	_	NOUN	NN	_	21	advcl	_	Pinyin=hǎoyǒu|Gloss=close friend|HanViet=hảo hữu
+11	，	_	PUNCT	,	_	10	punct	_	_
+12	过去	_	NOUN	NN	_	15	nmod:tmod	_	Pinyin=guòqù|Gloss=(in the) past; former; previous|HanViet=quá,qua khứ,khử|Trad=過去
+13	都	_	SCONJ	RB	_	15	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+14	还	_	SCONJ	RB	_	15	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+15	不红	_	ADJ	JJ	_	21	advcl	_	Pinyin=bùhóng|HanViet=bất hồng|GlossFrom=parts|Gloss=不 no; not so + 红 red|Trad=不紅
+16	时	_	ADP	IN	_	15	mark	_	Pinyin=shí|Gloss=o'clock|HanViet=thời|Trad=時
+17	在	_	VERB	VV	_	21	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+18	一起	_	NOUN	NN	_	17	obj	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+19	在	_	VERB	VV	_	21	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+20	洛杉矶	_	PROPN	NNP	_	19	obj	_	Pinyin=luòshānjī|Gloss=Los Angeles, California|HanViet=lạc sam ky|Trad=洛杉磯
+21	努力	_	VERB	VV	_	0	root	_	Pinyin=nǔlì|Gloss=to make an effort; to try hard; to strive|HanViet=nỗ lực
+22	了	_	AUX	AS	Aspect=Perf	21	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+23	很久	_	ADJ	JJ	_	21	xcomp	_	Pinyin=hěnjiǔ|HanViet=ngận cửu|GlossFrom=parts|Gloss=很 very; quite + 久 (of a period of time) long
+24	。	_	PUNCT	.	_	21	punct	_	_
+
+# sent_id = ud-gsdsimp-train-s991
+# tree_source = ud-gsdsimp
+# tree_kind = gold
+# tree_model = gold
+# tree_run = 2026-10-22
+# tree_confidence = 1.00
+# hsk = 3
+# text = 春日井市是名古屋市以北的一个城市。
+# source = UD Chinese-GSDSimp train-s991
+# license = CC BY-SA 4.0
+# grammar_points = gf0025-7:7-7;gf0025-8:8-8;gf0025-20:6-6;gf0025-23:7-8;gf0025-36:2-2;gf0025-82:6-6
+# translation = Kasugai is a city north of Nagoya.
+# translation_by = machine:claude-opus-5-5 2026-10-27
+1	春日井	_	PROPN	NNP	_	2	compound	_	Pinyin=chūnrìjǐng|HanViet=xuân nhật tỉnh|GlossFrom=parts|Gloss=春日 springtime + 井 Jing, one of the 28 constellations of Chinese astronomy
+2	市	_	PART	SFN	_	10	nsubj	_	Pinyin=shì|Gloss=market|HanViet=thị
+3	是	_	AUX	VC	_	10	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	名古屋	_	PROPN	NNP	_	5	compound	_	Pinyin=mínggǔwū|Gloss=Nagoya, city in Japan|HanViet=danh cổ ốc
+5	市	_	PART	SFN	_	10	nmod	_	Pinyin=shì|Gloss=market|HanViet=thị
+6	以北	_	NOUN	NN	_	5	acl	_	Pinyin=yǐběi|Gloss=to the north of (suffix)|HanViet=dĩ bắc
+7	的	_	PART	DEC	Case=Gen	5	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+8	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+9	个	_	NOUN	NNB	_	8	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+10	城市	_	NOUN	NN	_	0	root	_	Pinyin=chéngshì|Gloss=city; town|HanViet=thành thị
+11	。	_	PUNCT	.	_	10	punct	_	_

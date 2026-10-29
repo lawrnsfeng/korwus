@@ -1,0 +1,301 @@
+# sent_id = korwus-graded-l5-02-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# newpar
+# text = 中国是茶的故乡，人们喝茶的历史已经有几千年了。
+# translation = China is the homeland of tea, and people have been drinking tea for several thousand years.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	中国	_	PROPN	NNP	_	5	nsubj	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+2	是	_	AUX	VC	_	5	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+3	茶	_	NOUN	NN	_	5	nmod	_	Pinyin=chá|Gloss=tea|HanViet=trà
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	故乡	_	NOUN	NN	_	0	root	_	Pinyin=gùxiāng|Gloss=home|HanViet=cố hương|Trad=故鄉
+6	，	_	PUNCT	,	_	12	punct	_	_
+7	人们	_	NOUN	NN	Number=Plur	8	nsubj	_	Pinyin=rénmen|Gloss=people|HanViet=nhân môn|Trad=人們
+8	喝茶	_	VERB	VV	_	10	acl:relcl	_	Pinyin=hēchá|Gloss=to drink tea|HanViet=húp trà
+9	的	_	SCONJ	DEC	_	8	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	历史	_	NOUN	NN	_	12	nsubj	_	Pinyin=lìshǐ|Gloss=history|HanViet=lịch sử|Trad=歷史
+11	已经	_	ADV	RB	_	12	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+12	有	_	VERB	VV	_	5	parataxis	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+13	几千	_	NUM	CD	NumType=Card	14	nummod	_	Pinyin=jǐqiān|Gloss=several thousand|HanViet=kỷ thiên|Trad=幾千
+14	年	_	NOUN	NNB	_	12	obj	_	Pinyin=nián|Gloss=year|HanViet=niên
+15	了	_	PART	UH	_	12	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+16	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l5-02-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 据说，最早的时候，茶并不是一种饮料，而是被当作药物使用的。
+# translation = It is said that in the earliest times, tea was not a beverage but was used as a medicine.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	据说	_	VERB	VV	_	0	root	_	Pinyin=jùshuō|Gloss=it is said that; reportedly|HanViet=cứ thuyết|Trad=據說
+2	，	_	PUNCT	,	_	14	punct	_	_
+3	最早	_	ADJ	JJ	_	5	amod	_	Pinyin=zuìzǎo|Gloss=最 (before an adjective or verb) to the highest degree; (the) most ...; -est + 早 early|GlossFrom=parts|HanViet=tối tảo
+4	的	_	SCONJ	DEC	_	3	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	时候	_	NOUN	NN	_	14	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	茶	_	NOUN	NN	_	14	nsubj	_	Pinyin=chá|Gloss=tea|HanViet=trà
+8	并	_	SCONJ	RB	_	12	mark	_	Pinyin=bìng|Gloss=and|HanViet=tịnh,tính|Trad=並
+9	不是	_	AUX	VC	Polarity=Neg	12	cop	_	Pinyin=búshì|Gloss=no|HanViet=_ thị
+10	一	_	NUM	CD	NumType=Card	12	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+11	种	_	NOUN	NNB	_	10	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+12	饮料	_	NOUN	NN	_	14	advcl	_	Pinyin=yǐnliào|Gloss=drink|HanViet=ẩm liệu|Trad=飲料
+13	，	_	PUNCT	,	_	12	punct	_	_
+14	而是	_	VERB	VC	_	1	ccomp	_	Pinyin=érshì|Gloss=rather|HanViet=nhi thị
+15	被	_	AUX	BB	Voice=Pass	18	aux:pass	_	Pinyin=bèi|Gloss=quilt|HanViet=bị
+16	当作	_	VERB	VV	_	14	xcomp	_	Pinyin=dàngzuò|Gloss=to treat as|HanViet=đáng tác|Trad=當作
+17	药物	_	NOUN	NN	_	18	nsubj	_	Pinyin=yàowù|Gloss=medicaments|HanViet=dược vật|Trad=藥物
+18	使用	_	VERB	VV	_	16	ccomp	_	Pinyin=shǐyòng|Gloss=to use|HanViet=sử,sứ dụng
+19	的	_	PART	UH	_	14	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+20	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l5-02-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 后来，人们逐渐发现茶不仅能治病，还能让人精神更好，于是喝茶的习惯慢慢传播开来。
+# translation = Later, people gradually discovered that tea could not only treat illness but also make people more alert, so the habit of drinking tea slowly spread.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	后来	_	NOUN	NN	_	5	nmod:tmod	_	Pinyin=hòulái|Gloss=afterwards; later|HanViet=hậu lai|Trad=後來
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	人们	_	NOUN	NN	Number=Plur	5	nsubj	_	Pinyin=rénmen|Gloss=people|HanViet=nhân môn|Trad=人們
+4	逐渐	_	ADV	RB	_	5	advmod	_	Pinyin=zhújiàn|Gloss=gradually|HanViet=trục tiệm|Trad=逐漸
+5	发现	_	VERB	VV	_	0	root	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+6	茶	_	NOUN	NN	_	9	nsubj	_	Pinyin=chá|Gloss=tea|HanViet=trà
+7	不仅	_	ADP	IN	_	9	case	_	Pinyin=bùjǐn|Gloss=not just; not limited to|HanViet=bất cận|Trad=不僅
+8	能	_	AUX	MD	_	9	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+9	治病	_	VERB	VV	_	5	ccomp	_	Pinyin=zhìbìng|Gloss=to treat an illness|HanViet=trị bệnh
+10	，	_	PUNCT	,	_	9	punct	_	_
+11	还	_	SCONJ	RB	_	13	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+12	能	_	AUX	MD	_	13	aux	_	Pinyin=néng|Gloss=can|HanViet=năng
+13	让	_	VERB	VV	Voice=Cau	23	advcl	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+14	人	_	NOUN	NN	_	16	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+15	精神	_	NOUN	NN	_	16	nsubj	_	Pinyin=jīngshén|Gloss=spirit|HanViet=tinh thần
+16	更好	_	ADJ	JJ	_	13	ccomp	_	Pinyin=gènghǎo|Gloss=更 to change or replace + 好 good|GlossFrom=parts|HanViet=càng,cánh hảo
+17	，	_	PUNCT	,	_	13	punct	_	_
+18	于是	_	SCONJ	RB	_	23	mark	_	Pinyin=yúshì|Gloss=thereupon; as a result; consequently; thus; hence|HanViet=ư thị|Trad=於是
+19	喝茶	_	VERB	VV	_	21	acl:relcl	_	Pinyin=hēchá|Gloss=to drink tea|HanViet=húp trà
+20	的	_	SCONJ	DEC	_	19	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+21	习惯	_	NOUN	NN	_	23	nsubj	_	Pinyin=xíguàn|Gloss=habit|HanViet=tập quán|Trad=習慣
+22	慢慢	_	ADV	RB	_	23	advmod	_	Pinyin=mànmàn|Gloss=slowly; gradually|HanViet=mạn mạn
+23	传播	_	VERB	VV	_	5	parataxis	_	Pinyin=chuánbō|Gloss=to disseminate; to propagate; to spread|HanViet=truyền bá|Trad=傳播
+24	开来	_	VERB	VV	_	23	mark	_	Pinyin=kāilái|Gloss=开 to open (transitive or intransitive) + 来 to come|GlossFrom=parts|HanViet=khai lai|Trad=開來
+25	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l5-02-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# newpar
+# text = 到了唐朝，喝茶已经成为社会上普遍的风俗。
+# translation = By the Tang dynasty, drinking tea had become a widespread custom in society.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	到	_	VERB	VV	_	7	advcl	_	Pinyin=dào|Gloss=to reach; to arrive|HanViet=đáo
+2	了	_	AUX	AS	Aspect=Perf	1	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+3	唐朝	_	PROPN	NNP	_	1	obj	_	Pinyin=tángcháo|Gloss=Tang dynasty (618-907)|HanViet=đường triều
+4	，	_	PUNCT	,	_	1	punct	_	_
+5	喝茶	_	VERB	VV	_	7	csubj	_	Pinyin=hēchá|Gloss=to drink tea|HanViet=húp trà
+6	已经	_	ADV	RB	_	7	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+7	成	_	VERB	VV	_	0	root	_	Pinyin=chéng|Gloss=short name for Chengdu 成都[Cheng2 du1]|HanViet=thành
+8	为	_	VERB	VC	_	7	mark	_	Pinyin=wéi|Gloss=as (in the capacity of)|HanViet=vị,vì|Trad=為
+9	社会	_	NOUN	NN	_	13	nmod	_	Pinyin=shèhuì|Gloss=society|HanViet=xã hội|Trad=社會
+10	上	_	ADP	IN	_	9	case	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+11	普遍	_	ADJ	JJ	_	13	amod	_	Pinyin=pǔbiàn|Gloss=universal|HanViet=phổ biến
+12	的	_	SCONJ	DEC	_	11	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	风俗	_	NOUN	NN	_	7	obj	_	Pinyin=fēngsú|Gloss=social custom|HanViet=phong tục|Trad=風俗
+14	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l5-02-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 5
+# text = 有一位学者专门写了一本关于茶的书，详细介绍了种茶、制茶和煮茶的方法。
+# translation = One scholar wrote a whole book about tea, describing in detail how to grow, process and brew it.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	有	_	VERB	VV	_	0	root	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+2	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+3	位	_	NOUN	NNB	_	4	nmod	_	Pinyin=wèi|Gloss=position|HanViet=vị
+4	学者	_	NOUN	NN	_	6	nsubj	_	Pinyin=xuézhě|Gloss=scholar|HanViet=học giả|Trad=學者
+5	专门	_	ADV	RB	_	6	advmod	_	Pinyin=zhuānmén|Gloss=specialized; dedicated (to a particular field or purpose)|HanViet=chuyên môn|Trad=專門
+6	写	_	VERB	VV	_	1	ccomp	_	Pinyin=xiě|Gloss=to write|HanViet=tả|Trad=寫
+7	了	_	AUX	AS	Aspect=Perf	6	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	一	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+9	本	_	NOUN	NNB	_	8	clf	_	Pinyin=běn|Gloss=(bound form) root; stem|HanViet=bản
+10	关于	_	ADP	IN	_	13	case	_	Pinyin=guānyú|Gloss=pertaining to|HanViet=quan ư|Trad=關於
+11	茶	_	NOUN	NN	_	13	nmod	_	Pinyin=chá|Gloss=tea|HanViet=trà
+12	的	_	PART	DEC	Case=Gen	11	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+13	书	_	NOUN	NN	_	6	obj	_	Pinyin=shū|Gloss=book|HanViet=thư|Trad=書
+14	，	_	PUNCT	,	_	13	punct	_	_
+15	详细	_	ADV	RB	_	16	advmod	_	Pinyin=xiángxì|Gloss=detailed|HanViet=tường tế|Trad=詳細
+16	介绍	_	VERB	VV	_	1	ccomp	_	Pinyin=jièshào|Gloss=to introduce (sb to sb)|HanViet=giới thiệu|Trad=介紹
+17	了	_	AUX	AS	Aspect=Perf	16	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+18	种茶	_	NOUN	NN	_	24	nmod	_	Pinyin=zhǒngchá|Gloss=种 seed + 茶 tea|GlossFrom=parts|HanViet=chủng trà|Trad=種茶
+19	、	_	PUNCT	EC	_	20	punct	_	_
+20	制茶	_	NOUN	NN	_	18	conj	_	Pinyin=zhìchá|Gloss=制 system + 茶 tea|GlossFrom=parts|HanViet=chế trà|Trad=製茶
+21	和	_	CCONJ	CC	_	22	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+22	煮茶	_	VERB	VV	_	18	conj	_	Pinyin=zhǔchá|Gloss=煮 to cook + 茶 tea|GlossFrom=parts|HanViet=chử trà
+23	的	_	SCONJ	DEC	_	22	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+24	方法	_	NOUN	NN	_	16	obj	_	Pinyin=fāngfǎ|Gloss=method; way; technique; procedure|HanViet=phương pháp
+25	。	_	PUNCT	.	_	1	punct	_	_
+
+# sent_id = korwus-graded-l5-02-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 这本书对后代产生了深远的影响。
+# translation = This book had a profound influence on later generations.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	这	_	DET	DT	_	2	det	_	Pinyin=zhè|Gloss=(pronoun) this; these|HanViet=giá|Trad=這
+2	本书	_	NOUN	NN	_	5	nsubj	_	Pinyin=běnshū|Gloss=本 (bound form) root; stem + 书 book|GlossFrom=parts|HanViet=bản thư|Trad=本書
+3	对	_	ADP	IN	_	4	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+4	后代	_	NOUN	NN	_	5	obl	_	Pinyin=hòudài|Gloss=descendant; progeny|HanViet=hậu đại|Trad=後代
+5	产生	_	VERB	VV	_	0	root	_	Pinyin=chǎnshēng|Gloss=to arise; to come into being; to come about|HanViet=sản sinh|Trad=產生
+6	了	_	AUX	AS	Aspect=Perf	5	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	深远	_	ADJ	JJ	_	9	amod	_	Pinyin=shēnyuǎn|Gloss=far-reaching|HanViet=thâm viễn|Trad=深遠
+8	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	影响	_	NOUN	NN	_	5	obj	_	Pinyin=yǐngxiǎng|Gloss=influence|HanViet=ảnh hưởng|Trad=影響
+10	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l5-02-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# text = 宋朝的时候，人们还流行一种比赛，看谁泡出来的茶颜色最好看。
+# translation = In the Song dynasty, a kind of contest was also popular, to see whose brewed tea had the most beautiful color.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	宋朝	_	PROPN	NNP	_	3	nmod	_	Pinyin=sòngcháo|Gloss=Song Dynasty (960-1279)|HanViet=tống triều
+2	的	_	PART	DEC	Case=Gen	1	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+3	时候	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=shíhòu|Gloss=time|HanViet=thời hậu|Trad=時候
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	人们	_	NOUN	NN	Number=Plur	7	nsubj	_	Pinyin=rénmen|Gloss=people|HanViet=nhân môn|Trad=人們
+6	还	_	SCONJ	RB	_	7	mark	_	Pinyin=hái|Gloss=still|HanViet=hoàn|Trad=還
+7	流行	_	VERB	VV	_	0	root	_	Pinyin=liúxíng|Gloss=(of a contagious disease etc) to spread; to propagate|HanViet=lưu hành,hạnh
+8	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+9	种	_	NOUN	NNB	_	8	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+10	比赛	_	NOUN	NN	_	7	obj	_	Pinyin=bǐsài|Gloss=competition (sports etc)|HanViet=tỷ,bỉ tái|Trad=比賽
+11	，	_	PUNCT	,	_	19	punct	_	_
+12	看	_	VERB	VV	_	17	acl:relcl	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+13	谁泡	_	VERB	VV	_	17	acl:relcl	_	Pinyin=shuípào|Gloss=谁 who + 泡 puffed; swollen; spongy|GlossFrom=parts|HanViet=thuỳ phao,bào|Trad=誰泡
+14	出来	_	VERB	VV	_	13	mark	_	Pinyin=chūlái|Gloss=to come out|HanViet=xuất lai|Trad=出來
+15	的	_	SCONJ	DEC	_	13	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	茶	_	NOUN	NN	_	17	nmod	_	Pinyin=chá|Gloss=tea|HanViet=trà
+17	颜色	_	NOUN	NN	_	19	nsubj	_	Pinyin=yánsè|Gloss=color|HanViet=nhan sắc|Trad=顏色
+18	最好	_	ADV	RB	_	19	advmod	_	Pinyin=zuìhǎo|Gloss=best|HanViet=tối hảo
+19	看	_	VERB	VV	_	7	parataxis	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+20	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l5-02-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 6
+# newpar
+# text = 随着贸易的发展，中国的茶叶通过陆地和海洋运往世界各地。
+# translation = With the development of trade, Chinese tea was shipped to every part of the world by land and by sea.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	随	_	VERB	VV	_	14	advcl	_	Pinyin=suí|Gloss=to follow|HanViet=tuỳ|Trad=隨
+2	着	_	AUX	AS	Aspect=Prog	1	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+3	贸易	_	NOUN	NN	_	5	nmod	_	Pinyin=màoyì|Gloss=(commercial) trade|HanViet=mậu dịch,dị|Trad=貿易
+4	的	_	PART	DEC	Case=Gen	3	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+5	发展	_	NOUN	NN	_	1	obj	_	Pinyin=fāzhǎn|Gloss=development|HanViet=phát triển|Trad=發展
+6	，	_	PUNCT	,	_	1	punct	_	_
+7	中国	_	PROPN	NNP	_	9	nmod	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+8	的	_	PART	DEC	Case=Gen	7	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+9	茶叶	_	NOUN	NN	_	14	nsubj	_	Pinyin=cháyè|Gloss=tea|HanViet=trà diệp|Trad=茶葉
+10	通过	_	ADP	IN	_	11	case	_	Pinyin=tōngguò|Gloss=to pass through; to get through|HanViet=thông quá,qua|Trad=通過
+11	陆地	_	NOUN	NN	_	14	obl	_	Pinyin=lùdì|Gloss=dry land (as opposed to the sea)|HanViet=lục địa|Trad=陸地
+12	和	_	CCONJ	CC	_	13	cc	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+13	海洋	_	NOUN	NN	_	11	conj	_	Pinyin=hǎiyáng|Gloss=ocean|HanViet=hải dương
+14	运往	_	VERB	VV	_	0	root	_	Pinyin=yùnwǎng|Gloss=运 to move + 往 to go (in a direction)|GlossFrom=parts|HanViet=vận vãng|Trad=運往
+15	世界	_	NOUN	NN	_	16	nmod	_	Pinyin=shìjiè|Gloss=world|HanViet=thế giới
+16	各地	_	NOUN	NN	_	14	obj	_	Pinyin=gèdì|Gloss=in all parts of (a country)|HanViet=các địa
+17	。	_	PUNCT	.	_	14	punct	_	_
+
+# sent_id = korwus-graded-l5-02-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 4
+# text = 今天，茶已经是全球最受欢迎的饮料之一。
+# translation = Today, tea is one of the most popular beverages on the planet.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	今天	_	NOUN	NN	_	12	nmod:tmod	_	Pinyin=jīntiān|Gloss=today|HanViet=kim thiên
+2	，	_	PUNCT	,	_	1	punct	_	_
+3	茶	_	NOUN	NN	_	12	nsubj	_	Pinyin=chá|Gloss=tea|HanViet=trà
+4	已经	_	ADV	RB	_	12	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+5	是	_	AUX	VC	_	12	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+6	全球	_	NOUN	NN	_	7	obl	_	Pinyin=quánqiú|Gloss=the whole world|HanViet=toàn cầu
+7	最受	_	VERB	VV	_	10	acl:relcl	_	Pinyin=zuìshòu|Gloss=最 (before an adjective or verb) to the highest degree; (the) most ...; -est + 受 to receive|GlossFrom=parts|HanViet=tối thọ
+8	欢迎	_	VERB	VV	_	7	xcomp	_	Pinyin=huānyíng|Gloss=to welcome|HanViet=hoan nghênh|Trad=歡迎
+9	的	_	SCONJ	DEC	_	7	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	饮料	_	NOUN	NN	_	12	nmod	_	Pinyin=yǐnliào|Gloss=drink|HanViet=ẩm liệu|Trad=飲料
+11	之	_	PART	DEC	Case=Gen	10	case	_	Pinyin=zhī|Gloss=(possessive particle, literary equivalent of 的[de5])|HanViet=chi
+12	一	_	NUM	CD	NumType=Card	0	root	_	Pinyin=yī|Gloss=one|HanViet=nhất
+13	。	_	PUNCT	.	_	12	punct	_	_
+
+# sent_id = korwus-graded-l5-02-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 7
+# text = 对很多中国人来说，一杯热茶不只是解渴的东西，更代表着一种安静、从容的生活态度。
+# translation = For many Chinese people, a cup of hot tea is not just something to quench thirst; it also stands for a quiet, unhurried attitude toward life.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	对	_	ADP	IN	_	4	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+2	很多	_	NUM	CD	NumType=Card	4	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+3	中国	_	PROPN	NNP	_	4	compound	_	Pinyin=zhōngguó|Gloss=China|HanViet=trung quốc|Trad=中國
+4	人	_	PART	SFN	_	6	obl	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+5	来	_	SCONJ	RB	_	6	mark	_	Pinyin=lái|Gloss=to come|HanViet=lai|Trad=來
+6	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+7	，	_	PUNCT	,	_	19	punct	_	_
+8	一	_	NUM	CD	NumType=Card	10	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+9	杯	_	NOUN	NNB	_	8	clf	_	Pinyin=bēi|Gloss=cup|HanViet=bôi
+10	热茶	_	NOUN	NN	_	19	nsubj	_	Pinyin=rèchá|Gloss=hot tea|HanViet=nhiệt trà|Trad=熱茶
+11	不	_	ADV	RB	Polarity=Neg	16	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+12	只	_	ADV	RB	_	16	advmod	_	Pinyin=zhǐ|Gloss=only; merely; just|HanViet=chỉ
+13	是	_	AUX	VC	_	16	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+14	解渴	_	VERB	VV	_	16	acl:relcl	_	Pinyin=jiěkě|Gloss=to quench|HanViet=giải khát
+15	的	_	SCONJ	DEC	_	14	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+16	东西	_	NOUN	NN	_	19	advcl	_	Pinyin=dōngxī|Gloss=east and west|HanViet=đông tây|Trad=東西
+17	，	_	PUNCT	,	_	16	punct	_	_
+18	更	_	ADV	RB	_	19	advmod	_	Pinyin=gèng|Gloss=more|HanViet=càng,cánh
+19	代表	_	VERB	VV	_	6	ccomp	_	Pinyin=dàibiǎo|Gloss=representative|HanViet=đại biểu
+20	着	_	AUX	AS	Aspect=Prog	19	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+21	一	_	NUM	CD	NumType=Card	28	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+22	种	_	NOUN	NNB	_	21	clf	_	Pinyin=zhǒng|Gloss=seed|HanViet=chủng|Trad=種
+23	安静	_	ADJ	JJ	_	28	amod	_	Pinyin=ānjìng|Gloss=quiet|HanViet=an tĩnh|Trad=安靜
+24	、	_	PUNCT	EC	_	25	punct	_	_
+25	从容	_	ADJ	JJ	_	23	conj	_	Pinyin=cóngróng|Gloss=to go easy|HanViet=tòng,tùng dung|Trad=從容
+26	的	_	SCONJ	DEC	_	23	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+27	生活	_	NOUN	NN	_	28	nmod	_	Pinyin=shēnghuó|Gloss=to live|HanViet=sinh hoạt
+28	态度	_	NOUN	NN	_	19	obj	_	Pinyin=tàidù|Gloss=manner|HanViet=thái độ|Trad=態度
+29	。	_	PUNCT	.	_	6	punct	_	_

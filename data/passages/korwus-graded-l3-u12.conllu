@@ -1,0 +1,257 @@
+# sent_id = korwus-graded-l3-u12-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 上个星期，奶奶感冒了。
+# translation = Last week Grandma caught a cold.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	上	_	DET	DT	_	3	det	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	星期	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	奶奶	_	NOUN	NN	_	6	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+6	感冒	_	VERB	VV	_	0	root	_	Pinyin=gǎnmào|Gloss=to catch cold|HanViet=cảm mạo
+7	了	_	PART	UH	_	6	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u12-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 她说话的声音变了，身体也比以前差了。
+# translation = Her voice changed, and her health was worse than before.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	2	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	说话	_	VERB	VV	_	4	acl:relcl	_	Pinyin=shuōhuà|Gloss=to speak|HanViet=thuyết thoại|Trad=說話
+3	的	_	SCONJ	DEC	_	2	mark:rel	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	声音	_	NOUN	NN	_	5	nsubj	_	Pinyin=shēngyīn|Gloss=sound; voice|HanViet=thanh âm|Trad=聲音
+5	变	_	VERB	VV	_	0	root	_	Pinyin=biàn|Gloss=to change|HanViet=biến|Trad=變
+6	了	_	PART	UH	_	5	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	，	_	PUNCT	,	_	12	punct	_	_
+8	身体	_	NOUN	NN	_	12	nsubj	_	Pinyin=shēntǐ|Gloss=the body|HanViet=thân thể|Trad=身體
+9	也	_	SCONJ	RB	_	12	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+10	比	_	ADP	IN	_	11	case	_	Pinyin=bǐ|Gloss=Belgium|HanViet=tỷ,bỉ
+11	以前	_	NOUN	NN	_	12	nmod	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+12	差	_	ADJ	JJ	_	5	parataxis	_	Pinyin=chà|Gloss=different|HanViet=sai
+13	了	_	PART	UH	_	12	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+14	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u12-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我马上去她家照顾她。
+# translation = I went to her home right away to look after her.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	6	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	马	_	PROPN	NNP	_	1	flat:name	_	Pinyin=mǎ|Gloss=horse|HanViet=mã|Trad=馬
+3	上去	_	VERB	VV	_	6	advcl	_	Pinyin=shàngqù|Gloss=to go up|HanViet=thượng khứ,khử
+4	她	_	PRON	PRP	Person=3	5	compound	_	Pinyin=tā|Gloss=she|HanViet=tha
+5	家	_	PART	SFN	_	3	obj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+6	照顾	_	VERB	VV	_	0	root	_	Pinyin=zhàogù|Gloss=to take care of|HanViet=chiếu cố|Trad=照顧
+7	她	_	PRON	PRP	Person=3	6	obj	_	Pinyin=tā|Gloss=she|HanViet=tha
+8	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u12-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我先和她一起去医院检查，医生说只要多休息、多喝水，过几天就会好。
+# translation = First I went with her to the hospital for a checkup, and the doctor said that as long as she rested and drank plenty of water, she would be well in a few days.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	先	_	SCONJ	RB	_	8	mark	_	Pinyin=xiān|Gloss=beforehand; first; earlier|HanViet=tiên
+3	和	_	ADP	IN	_	4	case	_	Pinyin=hé|Gloss=(joining two nouns) and; together with; with (Taiwan pr. [han4])|HanViet=hoà
+4	她	_	PRON	PRP	Person=3	8	obl	_	Pinyin=tā|Gloss=she|HanViet=tha
+5	一起	_	NOUN	NN	_	6	obl	_	Pinyin=yìqǐ|Gloss=(in) the same place|HanViet=nhất khởi
+6	去	_	VERB	VV	_	8	advcl	_	Pinyin=qù|Gloss=to go|HanViet=khứ,khử
+7	医院	_	NOUN	NN	_	6	obj	_	Pinyin=yīyuàn|Gloss=hospital|HanViet=y viện|Trad=醫院
+8	检查	_	VERB	VV	_	0	root	_	Pinyin=jiǎnchá|Gloss=inspection|HanViet=kiểm tra|Trad=檢查
+9	，	_	PUNCT	,	_	25	punct	_	_
+10	医生	_	NOUN	NN	_	11	nsubj	_	Pinyin=yīshēng|Gloss=doctor; medical practitioner|HanViet=y sinh|Trad=醫生
+11	说	_	VERB	VV	_	25	advcl	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+12	只要	_	ADP	IN	_	14	case	_	Pinyin=zhǐyào|Gloss=so long as; provided; if|HanViet=chỉ yếu
+13	多	_	ADV	RB	_	14	advmod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+14	休息	_	VERB	VV	_	25	xcomp	_	Pinyin=xiūxī|Gloss=rest|HanViet=hưu tức
+15	、	_	PUNCT	EC	_	17	punct	_	_
+16	多	_	ADV	RB	_	17	advmod	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+17	喝	_	VERB	VV	_	14	conj	_	Pinyin=hē|Gloss=to drink|HanViet=húp
+18	水	_	NOUN	NN	_	17	obj	_	Pinyin=shuǐ|Gloss=Shui ethnic group|HanViet=thuỷ
+19	，	_	PUNCT	,	_	14	punct	_	_
+20	过	_	VERB	VV	_	25	advcl	_	Pinyin=guò|Gloss=to cross|HanViet=quá,qua|Trad=過
+21	几	_	NUM	CD	NumType=Card	22	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+22	天	_	NOUN	NNB	_	20	obj	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+23	就	_	SCONJ	RB	_	25	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+24	会	_	AUX	MD	_	25	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+25	好	_	ADJ	JJ	_	8	ccomp	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+26	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u12-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 然后我给她做饭，还给她读报纸。
+# translation = Then I cooked for her and read the newspaper to her.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	然后	_	ADV	RB	_	8	advmod	_	Pinyin=ránhòu|Gloss=then; after that; afterwards|HanViet=nhiên hậu|Trad=然後
+2	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	给	_	VERB	VV	_	8	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+4	她	_	PRON	PRP	Person=3	3	obj	_	Pinyin=tā|Gloss=she|HanViet=tha
+5	做饭	_	VERB	VV	_	3	ccomp	_	Pinyin=zuòfàn|Gloss=to prepare a meal|HanViet=tố phạn|Trad=做飯
+6	，	_	PUNCT	,	_	5	punct	_	_
+7	还	_	SCONJ	RB	_	8	mark	_	Pinyin=huán|Gloss=to pay back|HanViet=hoàn|Trad=還
+8	给	_	VERB	VV	_	0	root	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+9	她	_	PRON	PRP	Person=3	10	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+10	读	_	VERB	VV	_	8	ccomp	_	Pinyin=dú|Gloss=to read out; to read aloud|HanViet=đọc,độc|Trad=讀
+11	报纸	_	NOUN	NN	_	10	obj	_	Pinyin=bàozhǐ|Gloss=newspaper|HanViet=báo chỉ|Trad=報紙
+12	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u12-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 奶奶已经是个老人了，但是她笑起来还是很可爱。
+# translation = Grandma is already an old woman, but she still looks adorable when she smiles.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	奶奶	_	NOUN	NN	_	5	nsubj	_	Pinyin=nǎinǎi|Gloss=(informal) grandma (paternal grandmother)|HanViet=nãi nãi
+2	已经	_	ADV	RB	_	5	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+3	是	_	AUX	VC	_	5	cop	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+4	个	_	NOUN	NNB	_	5	nmod	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+5	老人	_	NOUN	NN	_	0	root	_	Pinyin=lǎorén|Gloss=old man or woman|HanViet=lão nhân
+6	了	_	PART	UH	_	5	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	，	_	PUNCT	,	_	14	punct	_	_
+8	但是	_	SCONJ	RB	_	14	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+9	她	_	PRON	PRP	Person=3	14	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+10	笑	_	VERB	VV	_	14	advcl	_	Pinyin=xiào|Gloss=to laugh; to smile|HanViet=tiếu
+11	起来	_	VERB	VV	_	10	mark	_	Pinyin=qǐlái|Gloss=to stand up; to get up|HanViet=khởi lai|Trad=起來
+12	还是	_	SCONJ	RB	_	14	mark	_	Pinyin=háishì|Gloss=still (as before)|HanViet=hoàn thị|Trad=還是
+13	很	_	ADV	RB	_	14	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+14	可爱	_	ADJ	JJ	_	5	parataxis	_	Pinyin=kěài|Gloss=adorable|HanViet=khả ái|Trad=可愛
+15	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u12-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 她常说，人老了，身体会有很多变化。
+# translation = She often says that when people get old, their bodies go through many changes.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	她	_	PRON	PRP	Person=3	3	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+2	常	_	ADV	RB	_	3	advmod	_	Pinyin=cháng|Gloss=always|HanViet=thường
+3	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+4	，	_	PUNCT	,	_	11	punct	_	_
+5	人	_	NOUN	NN	_	6	nsubj	_	Pinyin=rén|Gloss=person; people|HanViet=nhân
+6	老	_	ADJ	JJ	_	3	ccomp	_	Pinyin=lǎo|Gloss=prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity|HanViet=lão
+7	了	_	PART	UH	_	6	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	，	_	PUNCT	,	_	6	punct	_	_
+9	身体	_	NOUN	NN	_	11	nsubj	_	Pinyin=shēntǐ|Gloss=the body|HanViet=thân thể|Trad=身體
+10	会	_	AUX	MD	_	11	aux	_	Pinyin=huì|Gloss=can; to have the skill; to know how to|HanViet=hội|Trad=會
+11	有	_	VERB	VV	_	3	ccomp	_	Pinyin=yǒu|Gloss=to have; there is|HanViet=hữu
+12	很多	_	NUM	CD	NumType=Card	13	nummod	_	Pinyin=hěnduō|Gloss=很 very; quite + 多 many; much; more; a lot of|GlossFrom=parts|HanViet=ngận đa
+13	变化	_	NOUN	NN	_	11	obj	_	Pinyin=biànhuà|Gloss=(intransitive) to change; to vary|HanViet=biến hoá|Trad=變化
+14	。	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = korwus-graded-l3-u12-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 那几天，我一边认真照顾她，一边听她讲以前的事。
+# translation = Those few days, I looked after her carefully while listening to her tell stories from the old days.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那	_	DET	DT	_	3	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	几	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=jǐ|Gloss=how many; how much|HanViet=kỷ|Trad=幾
+3	天	_	NOUN	NNB	_	9	nmod:tmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+4	，	_	PUNCT	,	_	3	punct	_	_
+5	我	_	PRON	PRP	Person=1	13	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+6	一	_	NUM	CD	NumType=Card	7	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+7	边	_	NOUN	NN	_	9	obl	_	Pinyin=biān|Gloss=side|HanViet=biên|Trad=邊
+8	认真	_	ADV	RB	_	9	advmod	_	Pinyin=rènzhēn|Gloss=conscientious|HanViet=nhận chân|Trad=認真
+9	照顾	_	VERB	VV	_	13	advcl	_	Pinyin=zhàogù|Gloss=to take care of|HanViet=chiếu cố|Trad=照顧
+10	她	_	PRON	PRP	Person=3	9	obj	_	Pinyin=tā|Gloss=she|HanViet=tha
+11	，	_	PUNCT	,	_	9	punct	_	_
+12	一边	_	ADV	RB	_	13	advmod	_	Pinyin=yībiān|Gloss=one side|HanViet=nhất biên|Trad=一邊
+13	听	_	VERB	VV	_	0	root	_	Pinyin=tīng|Gloss=to listen to; to hear|HanViet=thính|Trad=聽
+14	她	_	PRON	PRP	Person=3	15	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+15	讲	_	VERB	VV	_	13	ccomp	_	Pinyin=jiǎng|Gloss=to speak|HanViet=giảng|Trad=講
+16	以前	_	NOUN	NN	_	18	nmod	_	Pinyin=yǐqián|Gloss=before|HanViet=dĩ tiền
+17	的	_	PART	DEC	Case=Gen	16	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+18	事	_	NOUN	NN	_	15	obj	_	Pinyin=shì|Gloss=matter|HanViet=sự
+19	。	_	PUNCT	.	_	13	punct	_	_
+
+# sent_id = korwus-graded-l3-u12-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 现在她的感冒已经好了。
+# translation = Now her cold is gone.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	6	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	她	_	PRON	PRP	Person=3	4	det	_	Pinyin=tā|Gloss=she|HanViet=tha
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	感冒	_	NOUN	NN	_	6	nsubj	_	Pinyin=gǎnmào|Gloss=to catch cold|HanViet=cảm mạo
+5	已经	_	ADV	RB	_	6	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+6	好	_	ADJ	JJ	_	0	root	_	Pinyin=hǎo|Gloss=good|HanViet=hảo
+7	了	_	PART	UH	_	6	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+8	。	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = korwus-graded-l3-u12-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 昨天她给我发了一张照片，照片里她在公园里走路，看起来很健康。
+# translation = Yesterday she sent me a photo of herself walking in the park, looking very healthy.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	昨天	_	NOUN	NN	_	5	nmod:tmod	_	Pinyin=zuótiān|Gloss=yesterday|HanViet=tạc thiên
+2	她	_	PRON	PRP	Person=3	5	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+3	给	_	VERB	VV	_	5	advcl	_	Pinyin=gěi|Gloss=to|HanViet=cấp|Trad=給
+4	我	_	PRON	PRP	Person=1	3	obj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	发	_	VERB	VV	_	0	root	_	Pinyin=fā|Gloss=to send out|HanViet=phát|Trad=發
+6	了	_	AUX	AS	Aspect=Perf	5	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+7	一	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+8	张	_	NOUN	NNB	_	7	clf	_	Pinyin=zhāng|Gloss=to open up|HanViet=trương|Trad=張
+9	照片	_	NOUN	NN	_	5	obj	_	Pinyin=zhàopiān|Gloss=photograph|HanViet=chiếu phiến
+10	，	_	PUNCT	,	_	19	punct	_	_
+11	照片	_	NOUN	NN	_	17	obl	_	Pinyin=zhàopiān|Gloss=photograph|HanViet=chiếu phiến
+12	里	_	ADP	IN	_	11	case	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+13	她	_	PRON	PRP	Person=3	17	nsubj	_	Pinyin=tā|Gloss=she|HanViet=tha
+14	在	_	VERB	VV	_	17	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+15	公园	_	NOUN	NN	_	14	obj	_	Pinyin=gōngyuán|Gloss=park (for public recreation)|HanViet=công viên|Trad=公園
+16	里	_	NOUN	NN	_	15	acl	_	Pinyin=lǐ|Gloss=lining|HanViet=lý|Trad=裡
+17	走路	_	VERB	VV	_	19	advcl	_	Pinyin=zǒulù|Gloss=to walk; to go on foot|HanViet=tẩu lộ
+18	，	_	PUNCT	,	_	17	punct	_	_
+19	看	_	VERB	VV	_	5	parataxis	_	Pinyin=kàn|Gloss=to see; to look at|HanViet=khán
+20	起来	_	VERB	VV	_	19	mark	_	Pinyin=qǐlái|Gloss=to stand up; to get up|HanViet=khởi lai|Trad=起來
+21	很	_	ADV	RB	_	22	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+22	健康	_	ADJ	JJ	_	19	xcomp	_	Pinyin=jiànkāng|Gloss=health|HanViet=kiện khang
+23	。	_	PUNCT	.	_	5	punct	_	_

@@ -1,0 +1,242 @@
+# sent_id = korwus-graded-l3-u07-1
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# newpar
+# text = 我家就在学校附近，但是我常常迟到。
+# translation = My home is right near the school, but I'm often late.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	compound	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	家	_	PART	SFN	_	4	nsubj	_	Pinyin=jiā|Gloss=home|HanViet=gia
+3	就	_	SCONJ	RB	_	4	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+4	在	_	VERB	VV	_	0	root	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	学校	_	NOUN	NN	_	6	nmod	_	Pinyin=xuéxiào|Gloss=school|HanViet=học hiệu|Trad=學校
+6	附近	_	NOUN	NN	_	4	obj	_	Pinyin=fùjìn|Gloss=nearby; neighboring|HanViet=phụ cận
+7	，	_	PUNCT	,	_	4	punct	_	_
+8	但是	_	SCONJ	RB	_	11	mark	_	Pinyin=dànshì|Gloss=but; however|HanViet=đãn thị
+9	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+10	常常	_	ADV	RB	_	11	advmod	_	Pinyin=chángcháng|Gloss=frequently; often|HanViet=thường thường
+11	迟到	_	VERB	VV	_	4	parataxis	_	Pinyin=chídào|Gloss=to arrive late|HanViet=trì đáo|Trad=遲到
+12	。	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = korwus-graded-l3-u07-2
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 我习惯晚上十二点才睡觉，所以早上起床非常难。
+# translation = I'm used to going to bed at midnight, so getting up in the morning is really hard.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	习惯	_	VERB	VV	_	7	advcl	_	Pinyin=xíguàn|Gloss=habit|HanViet=tập quán|Trad=習慣
+3	晚上	_	NOUN	NN	_	5	nmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+4	十二	_	NUM	CD	NumType=Card	5	nummod	_	Pinyin=shíèr|Gloss=twelve|HanViet=thập nhị
+5	点	_	NOUN	NNB	_	2	obj	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+6	才	_	SCONJ	RB	_	7	mark	_	Pinyin=cái|Gloss=ability; talent|HanViet=tài
+7	睡觉	_	VERB	VV	_	0	root	_	Pinyin=shuìjiào|Gloss=to go to bed|HanViet=thuỵ giáo|Trad=睡覺
+8	，	_	PUNCT	,	_	13	punct	_	_
+9	所以	_	SCONJ	RB	_	13	mark	_	Pinyin=suǒyǐ|Gloss=therefore|HanViet=sở dĩ
+10	早上	_	NOUN	NN	_	13	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+11	起床	_	VERB	VV	_	13	csubj	_	Pinyin=qǐchuáng|Gloss=to get out of bed; to get up|HanViet=khởi sàng
+12	非常	_	ADV	RB	_	13	advmod	_	Pinyin=fēicháng|Gloss=very; really|HanViet=phi thường
+13	难	_	ADJ	JJ	_	7	parataxis	_	Pinyin=nán|Gloss=difficult (to...)|HanViet=nan|Trad=難
+14	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u07-3
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 上个星期一，我又迟到了二十分钟。
+# translation = Last Monday I was twenty minutes late again.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	上	_	DET	DT	_	3	det	_	Pinyin=shàng|Gloss=(bound form) up; upper; above; previous|HanViet=thượng
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	星期	_	NOUN	NN	_	8	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+4	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yī|Gloss=one|HanViet=nhất
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	我	_	PRON	PRP	Person=1	8	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	又	_	SCONJ	RB	_	8	mark	_	Pinyin=yòu|Gloss=(once) again|HanViet=hựu
+8	迟到	_	VERB	VV	_	0	root	_	Pinyin=chídào|Gloss=to arrive late|HanViet=trì đáo|Trad=遲到
+9	了	_	AUX	AS	Aspect=Perf	8	aux	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	二十	_	NUM	CD	NumType=Card	11	nummod	_	Pinyin=èrshí|Gloss=twenty; 20|HanViet=nhị thập
+11	分钟	_	NOUN	NNB	_	8	obj	_	Pinyin=fēnzhōng|Gloss=minute|HanViet=phân chung|Trad=分鐘
+12	。	_	PUNCT	.	_	8	punct	_	_
+
+# sent_id = korwus-graded-l3-u07-4
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 老师让我在教室门口站着。
+# translation = The teacher made me stand at the classroom door.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	老师	_	NOUN	NN	_	2	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+2	让	_	VERB	VV	Voice=Cau	0	root	_	Pinyin=ràng|Gloss=to yield|HanViet=nhượng|Trad=讓
+3	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+4	在	_	VERB	VV	_	7	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+5	教室	_	NOUN	NN	_	6	nmod	_	Pinyin=jiàoshì|Gloss=classroom|HanViet=giáo thất
+6	门口	_	NOUN	NN	_	4	obj	_	Pinyin=ménkǒu|Gloss=doorway|HanViet=môn khẩu|Trad=門口
+7	站	_	VERB	VV	_	2	ccomp	_	Pinyin=zhàn|Gloss=station|HanViet=trạm
+8	着	_	AUX	AS	Aspect=Prog	7	aux	_	Pinyin=zhe|Gloss=aspect particle indicating action in progress or ongoing state|HanViet=trước|Trad=著
+9	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u07-5
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 那天的课是关于中文句子的，我站在门口，什么都没有听懂。
+# translation = That day's lesson was about Chinese sentences, and standing at the door, I didn't understand a thing.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	那	_	DET	DT	_	2	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+2	天	_	NOUN	NNB	_	4	nmod	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+3	的	_	PART	DEC	Case=Gen	2	case	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+4	课	_	NOUN	NN	_	5	nsubj	_	Pinyin=kè|Gloss=subject|HanViet=khoá|Trad=課
+5	是	_	VERB	VC	_	0	root	_	Pinyin=shì|Gloss=to be (followed by substantives only)|HanViet=thị
+6	关于	_	ADP	IN	_	8	case	_	Pinyin=guānyú|Gloss=pertaining to|HanViet=quan ư|Trad=關於
+7	中文	_	NOUN	NN	_	8	nmod	_	Pinyin=zhōngwén|Gloss=Chinese language|HanViet=trung văn
+8	句子	_	NOUN	NN	_	5	obl	_	Pinyin=jùzi|Gloss=sentence|HanViet=câu,cú tử
+9	的	_	PART	UH	_	5	discourse	_	Pinyin=de|Gloss=of; ~'s (possessive particle)|HanViet=đích
+10	，	_	PUNCT	,	_	18	punct	_	_
+11	我	_	PRON	PRP	Person=1	12	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+12	站	_	VERB	VV	_	18	advcl	_	Pinyin=zhàn|Gloss=station|HanViet=trạm
+13	在	_	VERB	VV	_	12	mark	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+14	门口	_	NOUN	NN	_	12	obj	_	Pinyin=ménkǒu|Gloss=doorway|HanViet=môn khẩu|Trad=門口
+15	，	_	PUNCT	,	_	12	punct	_	_
+16	什么	_	PRON	WP	_	18	nsubj	_	Pinyin=shénme|Gloss=what?|HanViet=thậm ma|Trad=什麼
+17	都	_	SCONJ	RB	_	18	mark	_	Pinyin=dōu|Gloss=all; both; entirely|HanViet=đô
+18	没有	_	VERB	VV	Polarity=Neg	5	parataxis	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+19	听	_	VERB	VV	_	18	xcomp	_	Pinyin=tīng|Gloss=to listen to; to hear|HanViet=thính|Trad=聽
+20	懂	_	VERB	VV	_	18	xcomp	_	Pinyin=dǒng|Gloss=to understand|HanViet=đổng
+21	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u07-6
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 后来老师跟我说，睡得太晚对身体不好，早上在路上跑也不安全。
+# translation = Later the teacher told me that going to bed too late is bad for my health, and running on the road in the morning isn't safe either.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	后来	_	NOUN	NN	_	5	nmod:tmod	_	Pinyin=hòulái|Gloss=afterwards; later|HanViet=hậu lai|Trad=後來
+2	老师	_	NOUN	NN	_	5	nsubj	_	Pinyin=lǎoshī|Gloss=teacher|HanViet=lão sư|Trad=老師
+3	跟	_	ADP	IN	_	4	case	_	Pinyin=gēn|Gloss=heel|HanViet=cân
+4	我	_	PRON	PRP	Person=1	5	obl	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+5	说	_	VERB	VV	_	0	root	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+6	，	_	PUNCT	,	_	20	punct	_	_
+7	睡	_	VERB	VV	_	20	advcl	_	Pinyin=shuì|Gloss=to sleep|HanViet=thuỵ
+8	得	_	PART	DEV	_	7	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+9	太晚	_	ADJ	JJ	_	7	xcomp	_	Pinyin=tàiwǎn|Gloss=太 highest + 晚 evening|GlossFrom=parts|HanViet=thái vãn
+10	对	_	ADP	IN	_	11	case	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+11	身体	_	NOUN	NN	_	12	nmod	_	Pinyin=shēntǐ|Gloss=the body|HanViet=thân thể|Trad=身體
+12	不好	_	ADJ	JJ	_	7	xcomp	_	Pinyin=bùhǎo|Gloss=no good|HanViet=bất hảo
+13	，	_	PUNCT	,	_	7	punct	_	_
+14	早上	_	NOUN	NN	_	17	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+15	在	_	VERB	VV	_	17	advcl	_	Pinyin=zài|Gloss=to exist; to be alive|HanViet=tại
+16	路上	_	NOUN	NN	_	15	obj	_	Pinyin=lùshàng|Gloss=on the road|HanViet=lộ thượng
+17	跑	_	VERB	VV	_	20	csubj	_	Pinyin=pǎo|Gloss=to run|HanViet=bào
+18	也	_	SCONJ	RB	_	20	mark	_	Pinyin=yě|Gloss=also; too; as well; (not ...) either|HanViet=dã
+19	不	_	ADV	RB	Polarity=Neg	20	advmod	_	Pinyin=bù|Gloss=no; not so|HanViet=bất
+20	安全	_	ADJ	JJ	_	5	xcomp	_	Pinyin=ānquán|Gloss=safe; secure|HanViet=an toàn
+21	。	_	PUNCT	.	_	5	punct	_	_
+
+# sent_id = korwus-graded-l3-u07-7
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 2
+# text = 我觉得他说得很对。
+# translation = I thought he was right.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	我	_	PRON	PRP	Person=1	2	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+2	觉得	_	VERB	VV	_	0	root	_	Pinyin=juéde|Gloss=to think that ...; to feel that ...|HanViet=giác đắc|Trad=覺得
+3	他	_	PRON	PRP	Person=3	4	nsubj	_	Pinyin=tā|Gloss=(third-person singular) (since the early 20th century, usu. male) he; him; his|HanViet=tha
+4	说	_	VERB	VV	_	2	ccomp	_	Pinyin=shuō|Gloss=to speak; to talk; to say|HanViet=thuyết|Trad=說
+5	得	_	PART	DEV	_	4	compound:ext	_	Pinyin=de|Gloss=structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc|HanViet=đắc
+6	很	_	ADV	RB	_	7	advmod	_	Pinyin=hěn|Gloss=very; quite|HanViet=ngận
+7	对	_	ADJ	JJ	_	4	xcomp	_	Pinyin=duì|Gloss=right; correct|HanViet=đối|Trad=對
+8	。	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = korwus-graded-l3-u07-8
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 从那天以后，我晚上十点就睡觉。
+# translation = From that day on, I went to bed at ten.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	从	_	ADP	IN	_	3	case	_	Pinyin=cóng|Gloss=from; through; via|HanViet=tòng,tùng|Trad=從
+2	那	_	DET	DT	_	3	det	_	Pinyin=nà|Gloss=(specifier) that; the; those (colloquial pr. [nei4])|HanViet=na
+3	天	_	NOUN	NNB	_	11	obl	_	Pinyin=tiān|Gloss=day|HanViet=thiên
+4	以后	_	ADP	IN	_	3	case	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	我	_	PRON	PRP	Person=1	11	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	晚上	_	NOUN	NN	_	9	nmod	_	Pinyin=wǎnshàng|Gloss=evening|HanViet=vãn thượng
+8	十	_	NUM	CD	NumType=Card	9	nummod	_	Pinyin=shí|Gloss=ten|HanViet=thập
+9	点	_	NOUN	NNB	_	11	nmod:tmod	_	Pinyin=diǎn|Gloss=to touch briefly; to tap|HanViet=điểm|Trad=點
+10	就	_	SCONJ	RB	_	11	mark	_	Pinyin=jiù|Gloss=(after a suppositional clause) in that case; then|HanViet=tựu
+11	睡觉	_	VERB	VV	_	0	root	_	Pinyin=shuìjiào|Gloss=to go to bed|HanViet=thuỵ giáo|Trad=睡覺
+12	。	_	PUNCT	.	_	11	punct	_	_
+
+# sent_id = korwus-graded-l3-u07-9
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 一个星期以后，我发现早上起床容易多了。
+# translation = A week later, I found that getting up in the morning was much easier.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	一	_	NUM	CD	NumType=Card	3	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+2	个	_	NOUN	NNB	_	1	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+3	星期	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=xīngqī|Gloss=week|HanViet=tinh kỳ
+4	以后	_	ADP	IN	_	3	case	_	Pinyin=yǐhòu|Gloss=after|HanViet=dĩ hậu|Trad=以後
+5	，	_	PUNCT	,	_	3	punct	_	_
+6	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+7	发现	_	VERB	VV	_	0	root	_	Pinyin=fāxiàn|Gloss=to notice; to become aware of|HanViet=phát hiện|Trad=發現
+8	早上	_	NOUN	NN	_	9	nmod:tmod	_	Pinyin=zǎoshàng|Gloss=early morning|HanViet=tảo thượng
+9	起床	_	VERB	VV	_	11	advcl	_	Pinyin=qǐchuáng|Gloss=to get out of bed; to get up|HanViet=khởi sàng
+10	容易	_	ADV	RB	_	11	advmod	_	Pinyin=róngyì|Gloss=easy; straightforward|HanViet=dung dịch,dị
+11	多	_	ADJ	JJ	_	7	xcomp	_	Pinyin=duō|Gloss=many; much; more; a lot of|HanViet=đa
+12	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+13	。	_	PUNCT	.	_	7	punct	_	_
+
+# sent_id = korwus-graded-l3-u07-10
+# tree_source = stanza-gsdsimp
+# tree_kind = machine
+# tree_model = stanza 1.15.0
+# tree_run = 2026-10-28
+# tree_confidence = 0.73
+# hsk = 3
+# text = 现在我已经一个月没有迟到了。
+# translation = Now I haven't been late for a whole month.
+# translation_by = machine:claude-opus-5-5 2026-10-28
+1	现在	_	NOUN	NN	_	7	nmod:tmod	_	Pinyin=xiànzài|Gloss=now; at present; currently|HanViet=hiện tại|Trad=現在
+2	我	_	PRON	PRP	Person=1	7	nsubj	_	Pinyin=wǒ|Gloss=I; me; my|HanViet=ngã
+3	已经	_	ADV	RB	_	7	advmod	_	Pinyin=yǐjīng|Gloss=already|HanViet=dĩ kinh|Trad=已經
+4	一	_	NUM	CD	NumType=Card	6	nummod	_	Pinyin=yí|Gloss=one|HanViet=nhất
+5	个	_	NOUN	NNB	_	4	clf	_	Pinyin=gè|Gloss=(classifier used before a noun that has no specific classifier)|HanViet=cá|Trad=個
+6	月	_	NOUN	NN	_	7	obl	_	Pinyin=yuè|Gloss=moon|HanViet=nguyệt
+7	没有	_	VERB	VV	Polarity=Neg	0	root	_	Pinyin=méiyǒu|Gloss=haven't|HanViet=một hữu|Trad=沒有
+8	迟到	_	VERB	VV	_	7	xcomp	_	Pinyin=chídào|Gloss=to arrive late|HanViet=trì đáo|Trad=遲到
+9	了	_	PART	UH	_	7	discourse	_	Pinyin=le|Gloss=(completed action marker)|HanViet=liễu
+10	。	_	PUNCT	.	_	7	punct	_	_
