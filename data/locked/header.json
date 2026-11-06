@@ -1,0 +1,13 @@
+{
+  "v": 2,
+  "kdf": "pbkdf2-sha256",
+  "cipher": "aes-256-gcm",
+  "slots": [
+    {
+      "label": "owner",
+      "salt": "57152b1d0e221db7aa02a4b6ddc93f0c",
+      "iterations": 600000,
+      "wrapped": "0bfa0ab254e8a48ccae367630687f7b8c2a40148f6f895ff1f33efd4b4c0ea97dd9c56d22ab04d49796f9b7011760df5db0e39adbd49e0a34c09df5b"
+    }
+  ]
+}
